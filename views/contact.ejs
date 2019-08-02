@@ -1,0 +1,66 @@
+<% include partials/header %>
+
+    <div class="flex-container">
+    <div class="container">        
+        <div class="panel panel-primary" id="contact_panel">
+            <div class="panel-heading">
+                <h3 class="panel-title">Contact:</h3>
+            </div>
+            <div class="panel-body">
+                <table class="table table-striped table-bordered dt-responsive" id ="contacttbl">
+                    <tr>
+                        <th><em>Scientific questions:</em></th>
+                        <td><strong>veconom[at]biol.uoa.gr</strong></td>
+                    </tr>
+                    <tr>
+                        <th><em>Database administration:</em></th>
+                        <td><strong>katnastou[at]biol.uoa.gr</strong></td>
+                    </tr>
+                    <tr>
+                        <th><em>Data submission:</em></th>
+                        <td><strong>gnasi[at]biol.uoa.gr</strong></td>
+                    </tr>
+                </table>
+            </div>
+            </div>
+            
+            <div class="panel panel-primary" id="submit_panel">
+            <div class="panel-heading">
+                <h3 class="panel-title">Submit Data:</h3>
+            </div>
+            <div class="panel-body">
+                 <div class="contact">
+                    <%= msg %>
+                    <form method="POST" action="send">
+                      <p>
+                        <label>Your Name</label>
+                        <input type="text" name="name">
+                      </p>
+                      <p>
+                        <label>Your Email Address</label>
+                        <input type="email" name="email">
+                      </p>
+                      <p class="full">
+                        <label>Your Message</label>
+                        <textarea name="message" rows="5"></textarea>
+                      </p>
+                      <p class="full" data-loading-text="<i class='fa fa-spinner fa-spin '></i> Your email is being sent">
+                        <button type="submit">Send e-mail</button>
+                      </p>
+                    </form>
+            </div>
+            </div>
+        </div>
+        <div class="panel panel-info" id="publication_panel">
+            <div class="panel-heading">
+                <h3 class="panel-title">For more information:</h3>
+            </div>
+            <div class="panel-body">
+                <p>Nastou, K.C., Nasi, G.I., Tsiolaki, P.L., Litou, Z.I., Iconomidou, V.A.</p>
+                <p><strong><a href="#" target="_blank">AmyCo: the Amyloidoses Collection</a></strong></p>
+                <p>bioRxiv 479279; doi: <a href="https://doi.org/10.1101/479279">https://doi.org/10.1101/479279</a> </p>
+            </div>
+    </div>
+</div>
+
+<% include partials/footer %>

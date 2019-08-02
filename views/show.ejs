@@ -1,0 +1,547 @@
+<% include partials/header %>
+<script>
+    $(document).ready(function() {
+        $('#example').DataTable();
+        var dataTable2 = $('#example2').DataTable();
+        dataTable2.responsive.recalc();
+    } );
+    
+    var mim ="";
+    var icd = "";
+    var pubmed = "";
+    var mesh = "";
+    </script>
+<body>
+    <div class="flex-container">
+    <div class="container">
+      <div class="col-md-12 col-lg-12 col-sm-12">
+            <div class="panel panel-primary">
+                  <div class="panel-body">
+                    <div class="btn-group-justified btn-block">
+                      <!--Files have to be in folder public in order for them to be downloadable-->
+                      <a href="/assets/<%= dis_id %>.txt" target="_blank" download="amyco_text" class="button btn btn-info" role="button" id="text_download">Download Text</a>
+                      <a href="/assets/<%= dis_id %>.json" target="_blank" download="amyco_json" class="button btn btn-info" role="button" id="json_download">Download Json</a>
+                      <a href="/assets/<%= dis_id %>.xml" target="_blank" download="amyco_xml" class="button btn btn-info" role="button" id="fasta_download">Download XML</a>
+                    </div>
+                  </div>
+            </div>
+        </div>
+        <div class="col-md-6 col-lg-6 col-sm-6">
+            <div class="panel panel-primary">
+                <div class="panel-heading">Basic Information</div>
+                <div class="panel-body" >
+                    <table id="example" class="table table-striped table-bordered dt-responsive" style="width:100%">
+                    <tr>
+                        <th>Disease Name:</th>
+                        <td><%= dis_name %></td>
+                      </tr>
+                      <% if (dis_type=="Amyloidosis") {%>
+				     <tr>
+                        <th>ISA Name:</th>
+                        <td>
+                          <% if (isa_name!="") {%>
+                          <%= isa_name %>
+                        <% } else { %>
+                          <em>No assigned nomenclature</em>
+                        <% } %>
+                        </td>
+                      </tr>
+                      <% } %>
+					  <tr>
+						  <th>Alternative Names:</th>
+						  <% if(alt_names!=""){ %>
+						  <td>
+							<ul>
+						  <% for (var j=0;j<alt_names.length;j++){%>
+							  <li><%= alt_names[j] %></li>
+						  <% } %>
+						  </ul>
+						  </td>
+						  <% } else {%>
+							 <td><em>No information available</em></td>
+						  <% } %>
+						</tr>
+
+                      <tr>
+                        <th>MeSH Description:</th>
+                        <td>
+                          <% if (dis_descr!="") {%>
+                          <%= dis_descr %>
+                        <% } else { %>
+                          <em>No information available</em>
+                        <% } %>
+                        </td>
+                      </tr>
+                      <tr>
+                        <th>Type:</th>
+                        <td>
+                        <% if (dis_type!="") {%>
+							<% if (dis_type=="Amyloidosis") {%>
+								<%= dis_type %>
+							<% } else if (dis_type=="Clinical conditions associated with amyloidosis") {%>
+								Clinical condition associated with amyloidosis	
+							<% } else if (dis_type=="Clinical conditions related to amyloid deposition") {%>
+								Clinical condition related to amyloid deposition
+							<% } %>
+                        <% } else { %>
+                          <em>No information available</em>
+                        <% } %>
+                        </td>
+                      </tr>
+                      <tr>
+                        <th>ICD-10 Classification</th>
+                        <td>
+                          <% if (dis_assoc!="") {%>
+                            <%= dis_assoc %>
+                          <% } else { %>
+                            <em>No information available</em>
+                          <% } %>
+                        </td>
+                      </tr>
+                      <tr>
+                        <th>Tissue:</th>
+                        <td>
+                          <% if (dis_tissue!="") {%>
+                            <%= dis_tissue %>
+                          <% } else { %>
+                            <em>No information available</em>
+                          <% } %>
+                        </td>
+                      </tr>
+					  <% if(mappings_amyloid!=""){ %>
+					  <tr>
+						  <th>Associated Amyloidosis:</th>
+						  
+						  <td>
+							
+						  <% for (var f=0;f<mappings_amyloid.length;f++){%>
+							  <a href="/amyco/<%= mappings_amyloid[f] %>"><%= dis_map_name[f] %><br>
+						  <% } %>
+						  
+						  </td>
+						</tr>
+						  <% }%>
+						
+                      <tr>
+                        <th>Precursor Proteins:</th>
+                        <td>
+                          <% var q =0; for (var p=0;p<primary_names.length;p++){ %>
+                          
+                            <button data-modal="modal<%=p%>" class="button btn btn-primary" id="majorbtn"><%= acs[p] %>: <%= primary_names[p] %></button> 
+                                <div id="modal<%=p%>" class="modal">
+                                    <div class="modal-content">
+                                      <div class="modal-header">
+                                        <span class="close">&times;</span>
+                                        <h4>Protein Information</h4>
+                                      </div>
+                                      <div class="modal-body">
+                                          <div class="table-responsive">
+                                            <table id="example2" class="table table-striped table-bordered dt-responsive" style="width:100%">
+                                                <tr>
+                                                  <th>Primary Name:</th>
+                                                  <% if(primary_names!=""){ %>
+                                                  <td>
+                                                      <%= primary_names[p] %>
+                                                  </td>
+                                                  <% } else {%>
+                                                     <td><em>No information available</em></td>
+                                                  <% } %>
+                                                </tr>
+                                                <tr>
+                                                  <th>Gene Name:</th>
+                                                  <% if(genenames!=""){ %>
+                                                  <td>
+                                                      <%= genenames[p] %>
+                                                  </td>
+                                                  <% } else {%>
+                                                     <td><em>No information available</em></td>
+                                                  <% } %>
+                                                </tr>
+                                                <tr>
+                                                  <th>Alternative Protein Names:</th>
+                                                  <% if(protein_names!=""){ %>
+                                                  <td>
+                                                      <%= protein_names[p] %>
+                                                  </td>
+                                                  <% } else {%>
+                                                     <td><em>No information available</em></td>
+                                                  <% } %>
+                                                </tr>
+                                                <tr>
+                                                  <th>ISA Nomenclature:</th>
+                                                  <% if(sipe_names!=""){ %>
+                                                  <td>
+                                                      <%= sipe_names[p] %>
+                                                  </td>
+                                                  <% } else {%>
+                                                     <td><em>No information available</em></td>
+                                                  <% } %>
+                                                </tr>
+                                                <tr>
+                                                  <th>Protein Length:</th>
+                                                  <td>
+                                                      <%= lengths[p] %>
+                                                  </td>
+                                                </tr>
+                                                <tr>
+                                                  <th>Precursor Protein Sequence:</th>
+                                                  <td>
+                                                      <%= seqs[p] %>
+                                                  </td>
+                                                </tr>
+                                                <tr>
+                                                  <th>UniProt AC:</th>
+                                                  <td>
+                                                      <%= acs[p] %>
+                                                  </td>
+                                                </tr>
+                                                <tr>
+                                                  <th>UniProt ID:</th>
+                                                  <td>
+                                                      <%= uniprot_ids[p] %>
+                                                  </td>
+                                                </tr>
+                                                <tr>
+                                                  <th>AmyPro:</th>
+                                                  <% if(amypro_ids!=""){ %>
+                                                  <td>
+                                                      <a href='http://www.amypro.net/#/entries/<%= amypro_ids[p] %>' target='_blank'><%= amypro_ids[p] %></a>
+                                                  </td>
+                                                  <% } else {%>
+                                                     <td><em>No information available</em></td>
+                                                  <% } %>
+                                                </tr>
+                                            </table> 
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            <% } %>
+                        </td>
+                        
+                      </tr>
+                      <tr>
+                        <th>Co-deposited Proteins:</th>
+                        <td>
+                          <% if (colprimary_names.length!=0){%>
+                            <% for (q=p;q<p+colprimary_names.length;q++){ %>
+                            <% console.log(p); %>
+                              <button data-modal="modal<%=q%>" class="button btn btn-primary" id="otherbtn"><%= colacs[q-p] %>: <%= colprimary_names[q-p] %></button> 
+                                  <div id="modal<%=q%>" class="modal">
+                                      <div class="modal-content">
+                                        <div class="modal-header">
+                                          <span class="close">&times;</span>
+                                          <h4>Protein Information</h4>
+                                        </div>
+                                        <div class="modal-body">
+                                            <div class="table-responsive">
+                                              <table id="example2" class="table table-striped table-bordered dt-responsive" style="width:100%">
+                                                  <tr>
+                                                    <th>Primary Name:</th>
+                                                    <% if(colprimary_names!=""){ %>
+                                                    <td>
+                                                        <%= colprimary_names[q-p] %>
+                                                    </td>
+                                                    <% } else {%>
+                                                       <td><em>No information available</em></td>
+                                                    <% } %>
+                                                  </tr>
+                                                  <tr>
+                                                    <th>Gene Name:</th>
+                                                    <% if(colgenenames!=""){ %>
+                                                    <td>
+                                                        <%= colgenenames[q-p] %>
+                                                    </td>
+                                                    <% } else {%>
+                                                       <td><em>No information available</em></td>
+                                                    <% } %>
+                                                  </tr>
+                                                  <tr>
+                                                    <th>Association Source:</th>
+                                                    <% if(assoc_source!=""){ %>
+                                                    <td>
+                                                      <a href='https://www.ncbi.nlm.nih.gov/pubmed/<%= assoc_source[q-p] %>' target='_blank'><%= assoc_source[q-p] %></a>
+                                                    </td>
+                                                    <% } else {%>
+                                                       <td><em>No information available</em></td>
+                                                    <% } %>
+                                                  </tr>
+                                                  <tr>
+                                                    <th>Protein Names:</th>
+                                                    <% if(colprotein_names!=""){ %>
+                                                    <td>
+                                                        <%= colprotein_names[q-p] %>
+                                                    </td>
+                                                    <% } else {%>
+                                                       <td><em>No information available</em></td>
+                                                    <% } %>
+                                                  </tr>
+                                                  <tr>
+                                                    <th>Protein Length:</th>
+                                                    <td>
+                                                        <%= collengths[q-p] %>
+                                                    </td>
+                                                  </tr>
+                                                  <tr>
+                                                    <th>Protein Sequence:</th>
+                                                    <td>
+                                                        <%= colseqs[q-p] %>
+                                                    </td>
+                                                  </tr>
+                                                  <tr>
+                                                    <th>UniProt AC:</th>
+                                                    <td>
+                                                        <%= colacs[q-p] %>
+                                                    </td>
+                                                  </tr>
+                                                  <tr>
+                                                    <th>UniProt ID:</th>
+                                                    <td>
+                                                        <%= coluniprot_ids[q-p] %>
+                                                    </td>
+                                                  </tr>
+                                              </table> 
+                                              </div>
+                                          </div>
+                                      </div>
+                                  </div>
+                              <% } %>
+                            <% } else { %>
+                              <em>No information available</em>
+                            <% } %>
+                          </td>
+
+                      </tr>
+                    </table>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-6 col-lg-6 col-sm-6">
+            <div class="panel panel-primary">
+                <%if (node_ids.length>0) {%>
+                  <div class="panel-heading">Interaction Network</div>
+                  <div id="cy" class="panel-body">
+                  </div>
+                  <div class="panel-footer"><em>Right click on Protein Nodes to go to UniProt.</em><br>
+                  Red Colored Edges indicate a connection between the disease and a precursor protein, 
+                  while Blue Colored Edges indicate a connection with co-deposited proteins</div>
+                <% } else { %>
+                  <div class="panel-heading">Interaction Network</div>
+                  <!--<div id="cy" class="panel-body">-->
+                  <!--</div>-->
+                  <div class="panel-footer">No Interaction Network available for this disease</div>                
+                <% } %>
+            </div>
+        </div>
+        <div class="col-md-12 col-lg-12 col-sm-12">
+            <div class="panel panel-primary">
+                <div class="panel-heading">Cross-References</div>
+                <div class="panel-body" >
+                    <table id="example4" class="table table-striped table-bordered dt-responsive">
+                        <!--Check if it needs AC or Database ID-->
+                      <tr>
+                        <th>MeSH:</th>
+                        <td id="mesh"> </td>
+                      </tr>
+                      <tr>
+                        <th>ICD:</th>
+                        <td id="icd"> </td>
+                      </tr>
+                      <tr>
+                        <th>OMIM:</th>
+                        <td id="mim"> </td>
+                      </tr>
+                      <tr>
+                        <th>PubMed:</th>
+                        <td id="pubmed"> </td>
+                      </tr>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+   
+<!--Code for Cytoscape Network-->
+<script>
+  var nodes_input =[]; // outside for loop, I want to assign only once
+  var targets_input =[];
+  var sources_input =[];
+  var types_input =[];
+  var m=0;
+  var j=0;
+</script>
+
+<% for(m=0;m<node_ids.length;m++){ %>            
+  <script>
+    nodes_input.push('<%=node_ids[m]%>');
+    //console.log(<%=node_ids[m]%>);
+  </script>
+<% } %>
+
+<% for(j=0;j<targets.length;j++){ %>            
+  <script>
+    targets_input.push('<%=targets[j]%>'); 
+    sources_input.push('<%=sources[j]%>'); 
+    types_input.push('<%=intTypes[j]%>');
+  </script>
+<% } %>
+
+<script>
+  cy = cytoscape({
+    container: document.getElementById('cy'),
+    //style: 'node { background-color: green; }',
+    
+  style: cytoscape.stylesheet()
+    .selector('node')
+      .style({
+        shape: 'hexagon',
+        'background-color': 'data(myColor)',
+        label: 'data(id)'
+      })
+    .selector('edge')
+      .css({
+        'width': 2,
+        'line-color': 'data(myColor)'
+      }),
+    // style: [
+    //     {
+    //         selector: 'node',
+    //         style: {
+    //             shape: 'hexagon',
+    //             'background-color': 'red',
+    //             label: 'data(id)'
+    //         }
+            
+    //     }],
+    layout: {
+      name: 'grid'
+    }
+  });
+    // for(var k=0; k< nodes_input.length;k++){
+    //   console.log(nodes_input[k]);
+    //   cy.add({ data: { id: nodes_input[k]}});
+    // }
+    for(var k=0; k< targets_input.length;k++){
+      console.log(targets_input[k]);
+      cy.add({ data: { id: targets_input[k], myColor: '#C0E234'}});
+    }
+    for(var k=0; k< sources_input.length;k++){
+      console.log(sources_input[k]);
+      cy.add({ data: { id: sources_input[k], myColor: '#035530'}});
+    }
+cy.layout({
+    name: 'circle'
+}).run();
+
+</script> 
+
+
+<script>
+    for(var l=0; l< types_input.length;l++){
+      if (types_input[l] == "mc"){
+        cy.add({
+        data: {
+            intType: types_input[l],
+            source: sources_input[l],
+            target: targets_input[l],
+            myColor: 'red'
+            }
+        });
+      } else {
+        cy.add({
+        data: {
+            intType: types_input[l],
+            source: sources_input[l],
+            target: targets_input[l],
+            myColor: 'blue'
+            }
+        });
+      }
+    }
+ </script> 
+
+<script>
+//do things on left mouse click
+cy.on('tap', 'node', function(evt){
+  var node = evt.target;
+  //color blue edges connected to selected node
+  evt.target.connectedEdges().animate({
+    style: { lineColor: 'blue' }
+  });
+  //console.log( 'tapped ' + node.id() );
+});
+//do things on rigth mouse click
+cy.on('cxttap', 'node', function(evt){
+  var node = evt.target;
+  //console.log( 'tapped ' + node.id() );
+  //go to uniprot page of interactor
+  window.open(
+    'https://www.uniprot.org/uniprot/'+node.id(),
+    '_blank' // <- This is what makes it open in a new window.
+  );
+});
+
+</script>
+<!--Create cross references-->
+<% for (var i=0; i<weblink.length; i++){%>
+  <% if ( abbreviation[i] == 'ICD') {%>
+    <script>
+      icd =icd.concat("<a href='<%= weblink[i] %><%= crossref_id[i] %>' target='_blank'><%= crossref_id[i] %></a> ");
+    </script>
+  <% } %>
+  <% if ( abbreviation[i] == 'MeSH') {%>
+    <script>
+      mesh =mesh.concat("<a href='<%= weblink[i] %><%= crossref_id[i] %>' target='_blank'><%= crossref_id[i] %></a> ");
+    </script>
+  <% } %>
+  <% if ( abbreviation[i] == 'PubMed') {%>
+    <script>
+      pubmed =pubmed.concat("<a href='<%= weblink[i] %><%= crossref_id[i] %>' target='_blank'><%= crossref_id[i] %></a> ");
+    </script>
+  <% } %>
+  <% if ( abbreviation[i] == 'OMIM') {%>
+    <script>
+      mim =mim.concat("<a href='<%= weblink[i] %><%= crossref_id[i] %>' target='_blank'><%= crossref_id[i] %></a> ");
+    </script>
+  <% } %>
+<% } %>
+<script>
+window.onload = function(){
+    //var str = "test";
+    if(icd != "") {document.getElementById("icd").innerHTML = icd;}
+    if(icd == "") {document.getElementById("icd").innerHTML = "<em>No cross-references</em>";}
+    if(mesh != "") {document.getElementById("mesh").innerHTML = mesh;}
+    if(mesh == "") {document.getElementById("mesh").innerHTML = "<em>No cross-references</em>";}
+    if(pubmed != "") {document.getElementById("pubmed").innerHTML = pubmed;}
+    if(pubmed == "") {document.getElementById("pubmed").innerHTML = "<em>No cross-references</em>";}
+    if(mim != "") {document.getElementById("mim").innerHTML = mim;}
+    if(mim == "") {document.getElementById("mim").innerHTML = "<em>No cross-references</em>";}
+}
+</script>
+
+<script>
+ var modalBtns = [...document.querySelectorAll(".button")];
+modalBtns.forEach(function(btn){
+  btn.onclick = function() {
+    var modal = btn.getAttribute('data-modal');
+    document.getElementById(modal).style.display = "block";
+  }
+});
+
+var closeBtns = [...document.querySelectorAll(".close")];
+closeBtns.forEach(function(btn){
+  btn.onclick = function() {
+    var modal = btn.closest('.modal');
+    modal.style.display = "none";
+  }
+});
+
+window.onclick = function(event) {
+  if (event.target.className === "modal") {
+    event.target.style.display = "none";
+  }
+}
+</script>
+
+<% include partials/footer %>

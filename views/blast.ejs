@@ -1,0 +1,40 @@
+<% include partials/header %>
+
+<body>
+    <div class="flex-container">
+    <div class="container">
+        <div class="panel panel-primary">
+            <div class="panel-heading">
+                <h3 class="panel-title">Blast Search</h3>
+            </div>
+            <div class="panel-body">
+                <form action="/amyco/blast" method="POST" > <!--post may need to go to other dir-->
+                        <div class="form-group">
+                            <label>Paste your sequence in FASTA format in the field provided</label>
+                            <textarea class="form-control" name="fasta" rows="8"></textarea>
+                        </div>
+                        <div class="form-group form-inline">
+                            <button id="blast_button" class="btn btn-lg btn-default btn-block btn-primary" data-loading-text="<i class='fa fa-spinner fa-spin '></i> Your query has been submitted">Submit!</button>
+                            <button id="blast_button" class="btn btn-lg btn-default btn-block btn-warning" type="reset">Clear</button> 
+                        </div>
+                    </form>
+                    <hr>
+                    <p><strong>Note</strong>: To perform a search for more than 10 proteins against AmyCo please send your request to <em>katnastou [at] biol.uoa.gr</em></p>
+                    <hr>
+                    <a href="/amyco/browse">Go Back to the Browse Page</a>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+$('#blast_button').on('click', function() {
+    var $this = $(this);
+  $this.button('loading');
+//     setTimeout(function() {
+//       $this.button('reset');
+//   }, 30000);
+});
+</script>
+</body>
+
+<% include partials/footer %>

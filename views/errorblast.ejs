@@ -1,0 +1,20 @@
+<% include partials/header %>
+
+<body>
+    <div class="flex-container">
+    <div class="container">
+        <div class="panel panel-danger">
+            <div class="panel-heading">
+                <h3 class="panel-title">Error</h3>
+            </div>
+            <div class="panel-body">
+                <p>There is an error with your query.</p>
+                <p><strong><%= errormsg %></strong></p>
+                <p><a href="/amyco/blast">Go Back to the Blast Search Page</a></p>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+
+<% include partials/footer %>

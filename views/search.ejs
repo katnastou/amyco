@@ -1,0 +1,63 @@
+<% include partials/header %>
+
+<body>
+    <div class="flex-container">
+    <div class="container">
+        <div class="panel panel-primary">
+            <div class="panel-heading">
+                <h3 class="panel-title">Search</h3>
+            </div>
+            <div class="panel-body" id="search-panel">
+                 <div id="search_form">
+                    <form action="/amyco/search" method="POST" > <!--post may need to go to other dir-->
+                        <div class="form-group">
+                            <label>Disease</label>
+                            <input class="form-control" type="text" placeholder="Disease Name or Alternative Disease Name (e.g. Alzheimer disease)" name="disease">
+                        </div>
+                        <div class="form-group">
+                            <label>Protein</label>
+                            <input class="form-control" type="text" placeholder="Protein Name or Alternative Protein Name (e.g. Tau)" name="protein">
+                        </div>
+                        <div class="form-group">
+                            <label>Type</label><br>
+                            <div class="checkbox">
+                              <label>
+                               <input type="checkbox" name="amyloidosis">
+                               <span class="cr"><i class="cr-icon glyphicon glyphicon-ok"></i></span>
+                               Amyloidosis
+                               </label>
+                            </div>
+                            <div class="checkbox">
+                              <label>
+                               <input type="checkbox" name="occurence">
+                               <span class="cr"><i class="cr-icon glyphicon glyphicon-ok"></i></span>
+                               Clinical conditions associated with amyloidosis
+                               </label>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label>Gene</label>
+                            <input class="form-control" type="text" placeholder="Gene Name (e.g. APP)" name="gene">
+                        </div>
+                        <div class="form-group">
+                            <label>Protein Accession</label>
+                            <input class="form-control" type="text" placeholder="UniProt AC or UniProt ID (e.g. P05067)" name="ac">
+                        </div>
+                        <div class="form-group">
+                            <label>Combine searches with: 
+                                <input type="radio" name="combine" value="and" checked="checked" name="and"> AND
+                                <input type="radio" name="combine" value="or" name="or"> OR
+                            </label>
+                        </div>
+                        <div class="form-group">
+                            <button id="submit_button" class="btn btn-lg btn-default btn-block btn-primary">Submit!</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+
+<% include partials/footer %>

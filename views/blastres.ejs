@@ -1,0 +1,183 @@
+<% include partials/header %>
+<body>
+    <% var iter_length =0; var hsp_length=0; %>
+    <div class="flex-container">
+    <div class="container">
+        <div class="panel panel-primary">
+            <div class="panel-heading">
+                <h3 class="panel-title">Blast Search Results</h3>
+            </div>
+            <div class="panel-body" >
+                <% var outputiterations = outputBlast.BlastOutput["BlastOutput_iterations"][0].Iteration; %> 
+                <% for (var i=0; i<outputiterations.length; i++){ %>
+                    <% var outputiterations2 = outputBlast.BlastOutput["BlastOutput_iterations"][0].Iteration[i]['Iteration_hits']; %>
+                    <% for (var j=0; j<outputiterations2.length; j++){ %> 
+                        <% var outputiterations3 = outputiterations2[j].Hit; %>
+                        <% iter_length = outputiterations3.length %>
+                        <% for (var k=0; k<iter_length; k++){ %> 
+                            <% var outputiterations4 = outputiterations3[k]; %>
+                            <% var hit_def = outputiterations4["Hit_def"][0]; %>
+                            <% var hit_num = outputiterations4["Hit_num"][0]; %>
+                            <% var hit_len = outputiterations4["Hit_len"][0]; %>
+                            <div class="panel panel-primary" id="blast-panel">
+                                <div class="table-responsive">
+                                    <table class="table table-bordered table-striped" width="99%" cellspacing="0">
+                                        <thead>
+                                            <tr>
+                                              <th>Align with</th>
+                                              <th>Hit Number</th>
+                                              <th>Length</th>
+                                              <th>Score</th>
+                                              <th>E-value</th>
+                                              <th>Query Align Range</th>
+                                              <th>Hit Align Range</th>
+                                              <th>Identities</th>
+                                              <th>Positives</th>
+                                              <th>Gaps</th>
+                                              <th>Align Length</th>
+                                              <th>Show/Hide Alignment</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                                <% var outputiterations5 = outputiterations4.Hit_hsps[0].Hsp; %>
+                                                <% hsp_length = outputiterations5.length; %>
+                                                <% for (var l=0; l<hsp_length; l++){ %>
+                                                    <% var hsp_score = outputiterations5[l]["Hsp_score"][0]; %>
+                                                    <% var hsp_evalue = outputiterations5[l]["Hsp_evalue"][0]; %>
+                                                    <% var hsp_query_from = outputiterations5[l]["Hsp_query-from"][0]; %>
+                                                    <% var hsp_query_to = outputiterations5[l]["Hsp_query-to"][0]; %>
+                                                    <% var hsp_hit_from = outputiterations5[l]["Hsp_hit-from"][0]; %>
+                                                    <% var hsp_hit_to = outputiterations5[l]["Hsp_hit-to"][0]; %>
+                                                    <% var hsp_identity = outputiterations5[l]["Hsp_identity"][0]; %>
+                                                    <% var hsp_positive = outputiterations5[l]["Hsp_positive"][0]; %>
+                                                    <% var hsp_gaps = outputiterations5[l]["Hsp_gaps"][0]; %>
+                                                    <% var hsp_align_len = outputiterations5[l]["Hsp_align-len"][0]; %>
+                                                    
+                                                    <% var hsp_qseq = outputiterations5[l]["Hsp_qseq"][0]; %>
+                                                    <% var hsp_hseq = outputiterations5[l]["Hsp_hseq"][0]; %>
+                                                    <% var hsp_midline = outputiterations5[l]["Hsp_midline"][0]; %>
+                                                    <% //var regex = /(\d+)\|.+\|.+/; %>
+                                                    <% //var result = hit_def.match(regex); %> <!--Show the correct page-->
+                                                    <!--<% //var idNumber = result[1]; %> <!--Insert to Permemdb maybe with href="< % idNumber % >"-->
+                                                    <tr>
+                                                        <td><%= hit_def %></a></td> 
+                                                        <td><%= hit_num %></td>
+                                                        <td><%= hit_len %></td>
+                                                        
+                                                        <td><%= hsp_score %></td>
+                                                        <td><%= hsp_evalue %></td>
+                                                        <td><%= hsp_query_from %>-<%= hsp_query_to %></td>
+                                                        <td><%= hsp_hit_from %>-<%= hsp_hit_to %></td>
+                                                        <td><%= hsp_identity %></td>
+                                                        <td><%= hsp_positive %></td>
+                                                        <td><%= hsp_gaps %></td>
+                                                        <td><%= hsp_align_len %></td>
+                                                        
+                                                        <td>
+                                                            <button id="res_button<%= k %><%= l %>" type="button" class="btn btn-info">Show/Hide</button>
+                                                        </td>
+                                                    </tr>
+                                                  
+                                   <!--<div  style="display:none; font-family:Courier" > -->
+                                        <!--<table class="table table-bordered table-striped" width="99%" cellspacing="0">-->
+                                            <tr id="results_table<%= k %><%= l %>" style="display:none; font-family:Courier">
+                                                <td colspan="12">
+                                                    <div>
+                                                        <% for (var m=0; m<hsp_qseq.length; m+=60) {%>
+                                                            <% var start=m; %>
+															<% var hsp_qstart= Number(hsp_query_from)+start; %>
+															<% var hsp_hstart= Number(hsp_hit_from)+start; %>
+                                                            <% if ((m+60) < hsp_qseq.length){%>
+                                                                <% var end=m+60; %>
+																<% var hsp_qend= Number(hsp_query_from)+end; %>
+																<% var hsp_hend= Number(hsp_hit_from)+end; %>
+																<% if(hsp_qstart <10){ %>
+                                                                    <p>hsp_qseq:&nbsp;<%= hsp_qstart %>&nbsp;&nbsp;&nbsp;&nbsp;<%=hsp_qseq.substring(start,end) %>&nbsp;<%= hsp_qend %></p>
+                                                                <% } else if(hsp_qstart <100){ %>
+                                                                    <p>hsp_qseq:&nbsp;<%= hsp_qstart %>&nbsp;&nbsp;&nbsp;<%=hsp_qseq.substring(start,end) %>&nbsp;<%= hsp_qend %></p>
+                                                                <% } else if(hsp_qstart <1000){ %>
+                                                                    <p>hsp_qseq:&nbsp;<%= hsp_qstart %>&nbsp;&nbsp;<%=hsp_qseq.substring(start,end) %>&nbsp;<%= hsp_qend %></p>
+                                                                <% } else { %>
+                                                                    <p>hsp_qseq:&nbsp;<%= hsp_qstart %>&nbsp;<%=hsp_qseq.substring(start,end) %>&nbsp;<%= hsp_qend %></p>
+                                                                <% } %>
+                                                                <% if(hsp_hstart <10){ %>
+                                                                    <p>hsp_hseq:&nbsp;<%= hsp_hstart %>&nbsp;&nbsp;&nbsp;&nbsp;<%=hsp_hseq.substring(start,end) %>&nbsp;<%= hsp_hend %></p>
+                                                                <% } else if(hsp_hstart <100){ %>
+                                                                    <p>hsp_hseq:&nbsp;<%= hsp_hstart %>&nbsp;&nbsp;&nbsp;<%=hsp_hseq.substring(start,end) %>&nbsp;<%= hsp_hend %></p>
+                                                                 <% } else if(hsp_hstart <1000){ %>
+                                                                    <p>hsp_hseq:&nbsp;<%= hsp_hstart %>&nbsp;&nbsp;<%=hsp_hseq.substring(start,end) %>&nbsp;<%= hsp_hend %></p>
+                                                                <% } else { %>
+                                                                    <p>hsp_hseq:&nbsp;<%= hsp_hstart %>&nbsp;<%=hsp_hseq.substring(start,end) %>&nbsp;<%= hsp_hend %></p>
+                                                                <% } %>
+                                                                
+                                                                <p>hsp_midl:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<%- hsp_midline.substring(start,end).replace(/ /g, "&nbsp;"); %></p>
+                                                                <br>
+                                                            <% } else { %>
+																<% var end=hsp_qseq.length; %>
+																<% var hsp_qend= Number(hsp_query_from)+end-1; %>
+																<% var hsp_hend= Number(hsp_hit_from)+end-1; %>
+																<% if(hsp_qstart <10){ %>
+                                                                    <p>hsp_qseq:&nbsp;<%= hsp_qstart %>&nbsp;&nbsp;&nbsp;&nbsp;<%=hsp_qseq.substring(start,end) %>&nbsp;<%= hsp_qend %></p>
+                                                                <% } else if(hsp_qstart <100){ %>
+                                                                    <p>hsp_qseq:&nbsp;<%= hsp_qstart %>&nbsp;&nbsp;&nbsp;<%=hsp_qseq.substring(start,end) %>&nbsp;<%= hsp_qend %></p>
+                                                                <% } else if(hsp_qstart <1000){ %>
+                                                                    <p>hsp_qseq:&nbsp;<%= hsp_qstart %>&nbsp;&nbsp;<%=hsp_qseq.substring(start,end) %>&nbsp;<%= hsp_qend %></p>
+                                                                <% } else { %>
+                                                                    <p>hsp_qseq:&nbsp;<%= hsp_qstart %>&nbsp;<%=hsp_qseq.substring(start,end) %>&nbsp;<%= hsp_qend %></p>
+                                                                <% } %>
+                                                                <% if(hsp_hstart <10){ %>
+                                                                    <p>hsp_hseq:&nbsp;<%= hsp_hstart %>&nbsp;&nbsp;&nbsp;&nbsp;<%=hsp_hseq.substring(start,end) %>&nbsp;<%= hsp_hend %></p>
+                                                                 <% } else if(hsp_hstart <100){ %>
+                                                                    <p>hsp_hseq:&nbsp;<%= hsp_hstart %>&nbsp;&nbsp;&nbsp;<%=hsp_hseq.substring(start,end) %>&nbsp;<%= hsp_hend %></p>
+                                                                <% } else if(hsp_hstart <1000){ %>
+                                                                    <p>hsp_hseq:&nbsp;<%= hsp_hstart %>&nbsp;&nbsp;<%=hsp_hseq.substring(start,end) %>&nbsp;<%= hsp_hend %></p>
+                                                                <% } else { %>
+                                                                    <p>hsp_hseq:&nbsp;<%= hsp_hstart %>&nbsp;<%=hsp_hseq.substring(start,end) %>&nbsp;<%= hsp_hend %></p>
+                                                                <% } %>
+                                                                <p>hsp_midl:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<%- hsp_midline.substring(start,end).replace(/ /g, "&nbsp;"); %></p>
+                                                                <br>
+                                                            <% } %>
+                                                        <% } %>
+                                                        
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                        <!--</table>-->
+                                    <!--</div>-->
+                                    
+                                   <% } %>
+                                        </tbody>
+                                   </table>  
+                                                  
+                               </div>
+                               
+                           </div>
+                           
+                       <% } %>
+                   <% } %>
+                <% } %>                       
+            </div>
+        </div>
+    </div>
+</div>
+<% var outputiterations = outputBlast.BlastOutput["BlastOutput_iterations"][0].Iteration; %> 
+    <% for (var i=0; i<outputiterations.length; i++){ %>
+        <% var outputiterations2 = outputBlast.BlastOutput["BlastOutput_iterations"][0].Iteration[i]['Iteration_hits']; %>
+        <% for (var j=0; j<outputiterations2.length; j++){ %> 
+            <% var outputiterations3 = outputiterations2[j].Hit; %>
+            <% for (var k=0; k<outputiterations3.length; k++){ %> 
+                <% var outputiterations4 = outputiterations3[k]; %>
+                <% var outputiterations5 = outputiterations4.Hit_hsps[0].Hsp; %>
+                <% for (var l=0; l<outputiterations5.length; l++){ %>
+                    <script>
+                            $("#res_button<%=k%><%=l%>").click(function(){
+                                $("#results_table<%=k%><%=l%>").toggle();
+                             }); 
+                    </script>
+                <% } %>        
+           <% } %>             
+        <% } %>
+    <% } %>
+</body>
+
+<% include partials/footer %>

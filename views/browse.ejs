@@ -1,0 +1,128 @@
+<% include partials/header %>
+
+<body>
+    <div class="flex-container">
+    <div class="container">
+          <div class="card mb-3">
+            <div class="card-header">
+              <div class="panel panel-default">
+              <div class="panel-heading">
+                <i class="fa fa-table"></i> Browse Database
+                </div>
+              <div class="panel-body">
+                
+                <p id ="browse_panel">You are viewing the entire database. 
+                If you want to inspect a specific category 
+                of diseases select one from the dropdown menu below</p>
+                <div class="col-md-6 col-lg-6 col-sm-6">
+                  <form action="/amyco/browse" method="POST" >
+                   <div class="form-group">
+                    <label for="sel1" class="label_form">Select based on Disease Type:</label>
+                      <select class="form-control" id="sel1" name="selectpicker1" onchange="showDiv(this)" style="width:70%; margin:auto">
+                        <option value="Amyloidosis" >Amyloidosis</option>
+                        <option value="Clinical conditions associated with amyloidosis" >Clinical conditions associated with amyloidosis</option>
+					  </select>
+                      <button type="submit" class="btn btn-success">Show selected entries</button>
+                    </div>
+                  </form>
+                </div>
+                <div class="col-md-6 col-lg-6 col-sm-6" id="hidden_div1" style="display: block;">
+                  <form action="/amyco/browse" method="POST" >
+                   <div class="form-group">
+                    <label for="sel2" class="label_form">Select based on ICD-10 Classification:</label>
+                      <select class="form-control" id="sel2" name="selectpicker2" style="width:70%; margin:auto">
+					    <option value="Amyloidosis" >Amyloidosis</option>
+                        <option value="Endocrine, Nutritional and Metabolic Diseases" >Endocrine, Nutritional and Metabolic Diseases</option>
+                        <option value="Diseases of the Circulatory System" >Diseases of the Circulatory System</option>
+						<option value="Diseases of the Nervous System" >Diseases of the Nervous System</option>
+						<option value="Neoplasms" >Neoplasms</option>
+						<option value="Certain Infectious and Parasitic Diseases" >Certain Infectious and Parasitic Diseases</option>
+						<option value="Diseases of the Eye and Adnexa" >Diseases of the Eye and Adnexa</option>
+                      </select>
+                      <button type="submit" class="btn btn-success">Show selected entries</button>
+                    </div>
+                  </form>
+                </div>
+				<div class="col-md-6 col-lg-6 col-sm-6" id="hidden_div2" style="display: none;">
+                  <form action="/amyco/browse" method="POST" >
+                   <div class="form-group">
+                    <label for="sel3" class="label_form">Select based on ICD-10 Classification:</label>
+                      <select class="form-control" id="sel3" name="selectpicker3" style="width:70%; margin:auto">
+						<option value="Endocrine, Nutritional and Metabolic Diseases" >Endocrine, Nutritional and Metabolic Diseases</option>
+                        <option value="Diseases of the Respiratory System" >Diseases of the Respiratory System</option>
+						<option value="Diseases of the Musculoskeletal System and Connective Tissue" >Diseases of the Musculoskeletal System and Connective Tissue</option>
+						<option value="Neoplasms" >Neoplasms</option>
+						<option value="Diseases of the Skin and Subcutaneous Tissue" >Diseases of the Skin and Subcutaneous Tissue</option>
+						<option value="Diseases of the Digestive System" >Diseases of the Digestive System</option>
+						<option value="Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism" >Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism</option>
+						<option value="Chromosomal Abnormalities" >Chromosomal Abnormalities</option>
+						<option value="Other" >Other</option>
+                      </select>
+                      <button type="submit" class="btn btn-success">Show selected entries</button>
+                    </div>
+                  </form>
+                </div>
+               </div>
+              </div>
+            </div>
+            <div class="card-body">
+              <div class="table-responsive">
+                <table class="table table-bordered" id="dataTable" width="99%" cellspacing="0">
+                  <thead>
+                    <tr>
+                      <th>ID</th>
+                      <th>Disease Name</th>
+                      <!--<th>Amyloidogenic Proteins</th>-->
+                      <th>Disease Type</th>
+                      <th>ICD-10 Classification</th>
+                      <th>Tissue</th>
+                      
+                      <th></th>
+                    </tr>
+                  </thead>
+                  <tfoot>
+                    <tr>
+                      <th>ID</th>
+                      <th>Disease Name</th>
+                      <!--<th>Amyloidogenic Proteins</th>-->
+                      <th>Disease Type</th>
+                      <th>ICD-10 Classification</th>
+                      <th>Tissue</th>
+                      
+                      <th></th>
+                    </tr>
+                  </tfoot>
+                  <tbody>
+                    <% for(var i=0; i<results.length; i++){ %>
+                        <tr>
+                          <td><%= results[i].dis_id %></td>
+                          <td><%= results[i].dis_name %></td>
+                          <!--<td><//%= //results[i].genenames %></td>-->
+                          <td><%= results[i].dis_type %></td>
+                          <td><%= results[i].dis_assoc %></td>
+                          <td><%= results[i].dis_tissue %></td>
+                          
+                          <td><a class="btn btn-info" href="/amyco/<%= results[i].dis_id %>" target="_blank">Show</a></td> <!-- <span class="glyphicon glyphicon-eye-open"></span> -->
+                        </tr>
+                    <% } %>
+                  </tbody>
+                </table>
+              </div>
+            </div>
+        </div>
+</div>
+<script>
+function showDiv(elem){
+   if(elem.value == 'Amyloidosis'){
+      document.getElementById('hidden_div1').style.display = "block";
+	  document.getElementById('hidden_div2').style.display = "none";
+	}
+   if(elem.value == 'Clinical conditions associated with amyloidosis'){
+      document.getElementById('hidden_div2').style.display = "block";
+	  document.getElementById('hidden_div1').style.display = "none";
+	}
+}
+</script>
+</body>
+
+<% include partials/footer %>

@@ -1,0 +1,274 @@
+<% include partials/header %>
+
+<div class="flex-container">
+<div class="container">
+  <div class="panel panel-primary">
+    <div class="panel-body" >
+        <div class="col-md-12 col-lg-12 col-sm-12">
+             <div class="panel panel-primary">
+                  <div class="panel-body">
+                    <div class="btn-group-justified btn-block">
+                      <!--Files have to be in folder public in order for them to be downloadable-->
+                      <a href="/manual/Supplementary_Data.pdf" target="_blank" download="amyco_manual.pdf" class="button btn btn-info" role="button" id="text_download">Press here to download Manual as a PDF file</a>
+                    </div>
+                  </div>
+            </div>
+		<div class="panel panel-info">
+            <div class="panel-body" style="text-align:center; display: inline-block; vertical-align: middle;">
+            <span style="text-align:center; display: inline-block; vertical-align: middle;">
+				<strong>Welcome to AmyCo, a freely available, literature-curated 
+				collection of amyloidoses and other pathological conditions 
+				associated with the deposition of amyloid fibrils.
+				</strong>
+			<h3 style="padding-right: 10px;">Manual Contents</h3>
+			<ul style="padding-right: 50px;" id="no-number-list">
+				<li><a href="#home">Home</a></li>
+				<li><a href="#search">Search</a></li>
+				<li><a href="#browse">Browse</a></li>
+				<li><a href="#disease">Disease Entry</a></li>
+				<li><a href="#blast">BLAST Search</a></li>
+				<li><a href="#download">Download</a></li>
+				<li><a href="#contact">Contact</a></li>
+				<li><a href="#tech">Database Technologies</a></li>
+			</ul>
+			</span>
+
+            </div>
+          </div>
+          <div class="panel panel-info">
+            <div class="panel-heading">
+              <h3 class="panel-title" id="home">Home Page</h3>
+            </div>
+            <div class="panel-body">
+            In order to visit AmyCo, the user should enter the following address: 
+            <a href="http://bioinformatics.biol.uoa.gr/amyco/" target="_blank">http://bioinformatics.biol.uoa.gr/amyco/</a>.  
+            The page contains a short description of the repository and the AmyCo statistics.  
+            <img src="/manual/manual1.png" alt="Home Page Screenshot" class="manualimg">
+            <em>*Logo background: A photomicrograph of Congo Red stained IAPP, taken in polarized light by Dr. P.L. Tsiolaki.</em>
+            </div>
+          </div>
+          <div class="panel panel-info">
+            <div class="panel-heading">
+              <h3 class="panel-title" id="search">Search Page</h3>
+            </div>
+            <div class="panel-body">
+				The search tab allows the navigation of the database.  A form with multiple options appears.             
+				<img src="/manual/manual2.png" alt="Search Page Screenshot" class="manualimg">
+            The search options are:
+            <ul>
+              <li>by Disease Name (The user may use a Name or an Alternative Disease Name, including the ISA name when available - e.g.  Alzheimer Disease or Alzheimer Syndrome))</li>
+              <li>by Protein Name associated with a disease (Proteins can be either a major (precursor) or a minor (co-deposited) component)</li>
+              <li>by Disease Type. AmyCo Disease entries are classified in two categories:</li>
+                <ul>
+                  <li><strong>Amyloidosis</strong>, when amyloid deposition is the main disease cause (e.g. AL amyloidosis) or amyloid deposits are present in tissues and organs, (e.g. Alzheimer disease)</li>
+                  <li><strong>Clinical conditions associated with amyloidosis</strong>, when amyloidosis is a clinical feature of a disease or a syndrome (e.g. amyloid deposition in Waldenström’s macroglobulinemia)</li>
+                </ul>
+              <li>by Gene Name (e.g. APP)</li>
+              <li>by Protein Components based on a UniProt Accession or a UniProt Identifier (e.g. P05067, <em>**Two human UniProt ACs (P0DOX7, P0DOX8) corresponding to amyloidogenic light chains and four human UniProt ACs (P0DOX2, P0DOX4, P0DOX5, P0DOX6) corresponding to amyloidogenic heavy chains, available in AmyCo, are universal protein representatives annotated by the UniProtKB database in March 15th 2017**</em>)</li>
+            </ul>
+            <hr>
+            The search, based on disease name, protein name and gene name does not require specific words. 
+            For example if a user enters the word “apo” in the <strong>disease search field</strong>. 
+            
+            <img src="/manual/manual3.png" alt="Search Page Screenshot 2" class="manualimg">
+			The result is all 
+            diseases containing the word “apo” in the <strong>disease search field</strong>. 
+            <img src="/manual/manual4.png" alt="Search Page Screenshot 3" class="manualimg">
+            <hr>
+            All searches can be combined with logical operators (AND/OR), in order to make the search result as specific as possible.
+            <br>
+            For example if we proceed to the following combined search:
+            
+            <img src="/manual/manual5.png" alt="Search Page Screenshot 4" class="manualimg">
+			We will get only the disease, which is classified as dementia and is associated with synuclein.             
+			<img src="/manual/manual6.png" alt="Search Page Screenshot 5" class="manualimg">
+            </div>
+          </div>
+          <div class="panel panel-info">
+            <div class="panel-heading">
+              <h3 class="panel-title" id="browse">Browse</h3>
+            </div>
+            <div class="panel-body">
+            The <strong>browse tab</strong> allows the browsing of the database. User can apply filters and browse the database 
+			by selecting the disease Type or/and the ICD-10 Classification. 
+            <img src="/manual/manual7.png" alt="Browse Page Screenshot" class="manualimg">
+            <hr>
+            At first all entries appear. Each page shows 10 entries by default but this can 
+            be altered from the dropdown menu at the top left corner of the table to 25, 50 or all entries. 
+            Moreover, users can perform non-specific searches using the search option at the top right corner of the data table.
+            <img src="/manual/manual8.png" alt="Browse Page Screenshot 2" class="manualimg">
+			Filters and browsing can be applied according to the classification below. 
+			<table class="table table-bordered" id="submit_panel" width="70%" cellspacing="0">
+                  <thead  >
+                    <tr>
+                      <th></th>
+                      <th style="text-align:center!important">Disease Type</th>
+                      <th style="text-align:center!important">ICD-10 Classification</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                        <tr>
+                          <td>1</td>
+                          <td>Amyloidosis</td>
+                          <td>
+						  <ul>
+						  <li>Amyloidosis</li>
+							<li>Endocrine, Nutritional and Metabolic Diseases</li>
+							<li>Diseases of the Circulatory System</li>
+							<li>Chromosomal Abnormalities</li>
+							<li>Diseases of the Nervous System</li>
+							<li>Neoplasms</li>
+							<li>Certain Infectious and Parasitic Diseases</li>
+							<li>Diseases of the Eye and Adnexa</li>
+						  </ul>
+						  </td>
+                        </tr>
+                        <tr>
+                          <td>2</td>
+                          <td>Clinical conditions associated with amyloidosis</td>
+                          <td>
+						  <ul>
+							<li>Endocrine, Nutritional and Metabolic Diseases</li>
+							<li>Diseases of the Respiratory System</li>
+							<li>Diseases of the Musculoskeletal System and Connective Tissue</li>
+							<li>Diseases of the Digestive  System</li>
+							<li>Neoplasms</li>
+							<li>Diseases of the Skin and Subcutaneous Tissue</li>
+							<li>Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism</li>
+							<li>Other</li>
+						  </ul>
+						  </td>
+                        </tr>
+                  </tbody>
+                </table>
+            <hr>
+            For example if the user selects <strong>Amyloidosis</strong> as the disease type and <strong>Neoplasms</strong> for the ICD-10 classification and presses <em>Show Selected Entries</em>.
+            <img src="/manual/manual9.png" alt="Browse Page Screenshot 3" class="manualimg">
+			The selected diseases are :             
+			<img src="/manual/manual10.png" alt="Browse Page Screenshot 4" class="manualimg">
+            Through browsing the database or after a search is submitted, a list of diseases appears, 
+            as the one shown above. This list contains the Disease Name, the ICD-10 Classification,
+            the disease type and the tissue(s) in which deposits are located. When the user presses the Show button they are redirected to the Entry page.
+            </div>
+          </div>
+          <div class="panel panel-info">
+            <div class="panel-heading">
+              <h3 class="panel-title" id="disease">Entry</h3>
+            </div>
+            <div class="panel-body">
+              
+             The Entry page contains information about the disease. 
+             CytoscapeJS is integrated to visualize the relationship between
+             the disease and proteins found on amyloid deposits.
+            <img src="/manual/manual11.png" alt="Entry Page Screenshot" class="manualimg">
+            More specifically:
+            <ul>
+              <li>
+              At the top of the page the user can find three buttons. 
+              <em>Download Text</em>, <em>Download Json</em> and <em>Download XML</em>. 
+              By pressing these buttons the user can download all page information in text, Json or XML format respectively.
+              <img src="/manual/manual11a.png" alt="Entry Page Screenshot" class="manualimg">
+              <li>The disease information available is:
+              <ul>
+                <li>Disease Name (MeSH name, when the disease is a MeSH entry)</li>
+				<li>ISA Name (International Society of Amyloidosis name, when available)</li>
+				<li>Alternative Names</li>
+                <li>Disease Description (a short description from MeSH)</li>
+                <li>Disease Type (see <a href="#search">here</a>)</li>
+                <li>Disease Association (from ICD10, when available)</li>
+                <li>Tissue(s) where amyloid deposits are located (Tissues corresponding to "Clinical conditions associated with amyloidosis" were manually collected from the scientific literature)</li>
+                <li>Precursor Proteins of Amyloid Deposits</li>
+                <li>Co-deposited Proteins of Amyloid Deposits</li>
+              </ul>
+              <img src="/manual/manual11c.png" alt="Entry Page Screenshot" class="manualimg"  style="width:50%">
+              <li>The panel at the bottom of the page contains references to other databases. The databases are:
+              <ul>
+                <li>MeSH</li>
+                <li>ICD</li>
+                <li>OMIM</li>
+                <li>PubMed</li>
+              </ul>
+              </li>
+              <img src="/manual/manual11d.png" alt="Entry Page Screenshot" class="manualimg">
+              <li>
+              When the user presses on the buttons of precursor or co-deposited proteins a new page opens with information about the proteins. These information include:
+              <ul>
+                <li>Primary Name</li>
+                <li>Gene Name</li>
+                <li>Other Protein Names </li>
+                <li>Protein Sequence</li>
+                <li>Protein Length</li>
+                <li>Uniprot AC</li>
+                <li>Uniprot ID</li>
+              </ul>
+              For "precursor proteins" the protein sequence refers to the precursor protein sequence and an external link to AmyPro is given when available. For co-deposited proteins the peer reviewed publication (<em>Association Source</em>) of disease is also provided.
+              <img src="/manual/manual12.png" alt="Entry Page Screenshot" class="manualimg">
+              </li>
+              <li>A CytoscapeJS viewer is integrated in the page for the visualization of bipartite graphs, showing the association between <strong>each disease</strong> with <strong>precursor and co-deposited protein components</strong>.
+			  The diseases are colored green and the proteins yellow.
+              Red Colored Edges indicate a connection between the disease and a Precursor Protein, while Blue Colored Edges indicate a connection with  Co-deposited Protein Components.
+              Each protein node is also a hyperlink to UniProt.
+              </li>
+              <img src="/manual/manual11e.png" alt="Entry Page Screenshot" class="manualimg" style="width:50%">
+			  If your browser prevents you from opening pop-up windows, please select <em>Allow pop-ups for this site</em>
+			  <img src="/manual/manual11f.png" alt="Entry Page Screenshot" class="manualimg">
+			  If during scrolling through the page you accidentally lose the network view, please reload the page to see it again.
+            </div>
+          </div>
+          <div class="panel panel-info">
+            <div class="panel-heading">
+              <h3 class="panel-title" id="blast">BLAST search</h3>
+            </div>
+            <div class="panel-body">
+            With the BLAST search tool, the user may submit a sequence and search the database for finding homologues. 
+            The input for the BLAST application is the sequence in standard <a href="https://en.wikipedia.org/wiki/FASTA_format" target="_blank">FASTA</a> format.
+            <img src="/manual/manual13.png" alt="BLAST Page Screenshot" class="manualimg">
+            The result page of the BLAST search shows a list of the Blast hits with significant alignment 
+            on the query sequence the user has submitted. The list is in a table format including the 
+            target protein, the Length of the target sequence and the Query and Target 
+            align range. The BLAST results can be compared through the Score and E-value and the Identities and Positives.
+            The result page of the above BLAST search is:
+            <img src="/manual/manual13a.png" alt="BLAST Page Screenshot" class="manualimg">
+            Furthermore, the user can have a more detailed view of each alignment through the Show button at the end of each line:
+            <img src="/manual/manual13b.png" alt="BLAST Page Screenshot" class="manualimg">
+            </div>
+          </div>
+          <div class="panel panel-info">
+            <div class="panel-heading">
+              <h3 class="panel-title" id="download">Download Page</h3>
+            </div>
+            <div class="panel-body">
+            User can download all database files in Text, JSON or XML format. 
+            <img src="/manual/manual14.png" alt="Download Page Screenshot" class="manualimg" style="width:33%">
+            </div>
+          </div>
+          <div class="panel panel-info">
+            <div class="panel-heading">
+              <h3 class="panel-title" id="contact">Contact Page</h3>
+            </div>
+            <div class="panel-body">
+            Users can contact us for more information at the emails specified at the contact page. 
+            <img src="/manual/manual15.png" alt="Contact Page Screenshot" class="manualimg" style="width:50%">
+            Users are encouraged to submit data by using the form below.  Data will be reviewed and later will be added to the database by the authors. 
+            <img src="/manual/manual15a.png" alt="Contact Page Screenshot" class="manualimg" style="width:75%">
+            Related publications to the current work are also presented.
+            </div>
+          </div>
+          <div class="panel panel-info">
+            <div class="panel-heading">
+              <h3 class="panel-title" id="tech">Technologies</h3>
+            </div>
+            <div class="panel-body">
+            <em>AmyCo</em> is based on modern technologies. User should have Javascript enabled on the web browser. 
+            <img src="/manual/manual16.png" alt="Technologies" class="manualimg" style="width:50%">
+			<br>
+			AmyCo follows the General Data Protection Regulation <a href="https://eur-lex.europa.eu/eli/reg/2016/679/oj">(EU) 2016/679</a> ("GDPR") regulation. See the <a href="/amyco/privacy">Privacy</a> page for more information.
+            </div>
+          </div>
+      </div>
+    
+  </div>
+</div>
+</div>
+</div>
+<% include partials/footer %>

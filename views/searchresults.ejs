@@ -1,0 +1,59 @@
+<% include partials/header %>
+
+<body>
+    <div class="flex-container">
+    <div class="container">
+          <div class="card mb-3">
+            <div class="card-header">
+              <div class="panel panel-default">
+              <div class="panel-heading">
+                <i class="fa fa-table"></i> Results
+                </div>
+              </div>
+              </div>
+            <div class="card-body">
+              <div class="table-responsive">
+                <table class="table table-bordered" id="dataTable" width="99%" cellspacing="0">
+                  <thead>
+                    <tr>
+                      <th>ID</th>
+                      <th>Disease Name</th>
+                      <th>Disease Type</th>
+                      <th>ICD-10 Classification</th>
+                      <th>Tissue</th>
+                      <th>Associated Proteins</th>
+                      <th></th>
+                    </tr>
+                  </thead>
+                  <tfoot>
+                    <tr>
+                      <th>ID</th>
+                      <th>Disease Name</th>
+                      <th>Disease Type</th>
+                      <th>ICD-10 Classification</th>
+                      <th>Tissue</th>
+                      <th>Associated Proteins</th>
+                      <th></th>
+                    </tr>
+                  </tfoot>
+                  <tbody>
+                    <% for(var i=0; i<results.length; i++){ %>
+                        <tr>
+                          <td><%= results[i].dis_id %></td>
+                          <td><%= results[i].dis_name %></td>
+                          <td><%= results[i].dis_type %></td>
+                          <td><%= results[i].dis_assoc %></td>
+                          <td><%= results[i].dis_tissue %></td>
+                          <td><%= results[i].prnames %></td>
+                          <td><a class="btn btn-info" href="/amyco/<%= results[i].dis_id %>" target="_blank">Show</a></td>
+                        </tr>
+                    <% } %>
+                  </tbody>
+                </table>
+              </div>
+            </div>
+        </div>
+</div>
+</body>
+
+<% include partials/footer %>
