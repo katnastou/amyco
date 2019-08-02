@@ -1,0 +1,29 @@
+{
+  "name": "permemdb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "blastjs": "^1.5.3",
+    "body-parser": "^1.18.2",
+    "browserify": "^14.5.0",
+    "child-process": "^1.0.2",
+    "crypto": "^1.0.1",
+    "cytoscape": "^3.2.5",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "faker": "^4.1.0",
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "mathjs": "^3.16.5",
+    "mysql": "^2.15.0",
+    "nodemailer": "^4.4.1",
+    "sif.js": "^1.0.1"
+  }
+}
