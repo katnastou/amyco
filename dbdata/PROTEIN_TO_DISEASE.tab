@@ -1,0 +1,284 @@
+1	1	8	Other Component	1702930	
+2	1	11	Other Component	11202179	
+3	1	65	Other Component	2029618	
+4	1	70	Other Component	7753801	
+5	1	86	Major Component		AP00010
+6	1	94	Other Component	17049675	
+7	1	95	Other Component	1692625	
+8	1	112	Other Component	15897157	
+9	1	139	Other Component	18422760	
+10	2	65	Other Component	11757076	
+11	2	70	Other Component	23337872	
+12	2	113	Major Component		AP00013
+13	2	139	Other Component	12637985	
+14	3	123	Major Component		
+15	4	3	Other Component	16037493	
+16	4	119	Other Component	12838532	
+17	4	122	Major Component		AP00015
+18	4	124	Other Component	10764738	
+19	4	129	Other Component	12838532	
+20	4	130	Other Component	12838532	
+21	4	132	Other Component	12838532	
+22	4	145	Other Component	11907799	
+23	5	10	Other Component	14751767	
+24	5	65	Other Component	2029618	
+25	5	70	Other Component	1891063	
+26	5	71	Other Component	14751767	
+27	5	72	Other Component	14751767	
+28	5	73	Other Component	14751767	
+29	5	79	Major Component		AP00008
+30	5	132	Other Component	12557018	
+31	6	79	Major Component		AP00008
+32	7	79	Major Component		AP00008
+33	7	86	Other Component	1349451	
+34	7	130	Other Component	17278997	
+62	8	65	Other Component	7615568	
+63	8	70	Other Component	118839	
+64	8	75	Other Component	6409474	
+77	8	118	Other Component	1914228	
+79	8	139	Other Component	1914228	
+80	9	11	Major Component		AP00022
+81	9	70	Other Component	2436360	
+82	10	3	Other Component	16972883	
+83	10	5	Other Component	16972883	
+84	10	8	Other Component	16972883	
+85	10	11	Other Component	7751849	
+86	10	65	Other Component	7751849	
+87	10	70	Other Component	7751849	
+88	10	112	Other Component	7751849	
+89	10	115	Other Component	16972883	
+90	10	120	Other Component	16972883	
+91	10	121	Other Component	16972883	
+92	10	139	Other Component	16972883	
+93	10	144	Major Component		AP00107
+94	11	3	Other Component	16972883	
+95	11	5	Other Component	16972883	
+96	11	8	Other Component	16972883	
+97	11	11	Other Component	16972883	
+98	11	65	Other Component	16972883	
+99	11	70	Other Component	16972883	
+100	11	86	Other Component	11895040	
+101	11	112	Other Component	16972883	
+102	11	115	Other Component	16972883	
+103	11	120	Other Component	16972883	
+104	11	121	Other Component	16972883	
+105	11	139	Other Component	16972883	
+106	11	144	Major Component		AP00108
+107	12	8	Other Component	2274275	
+108	12	11	Other Component	8085435	
+109	12	65	Other Component	8737927	
+110	12	70	Other Component	2965774	
+111	12	86	Major Component		AP00010
+112	13	11	Other Component	2408196	
+113	13	65	Other Component	1625800	
+114	13	71	Other Component	11300721	
+115	13	72	Other Component	11300721	
+116	13	73	Other Component	11300721	
+117	13	86	Major Component		AP00010
+118	14	6	Major Component		AP00084
+119	43	65	Other Component	10502582	
+120	15	13	Major Component		AP00001
+121	16	15	Major Component		AP00023
+122	16	64	Other Component	24446896	
+123	16	65	Other Component	24446896	
+124	16	70	Other Component	19683329	
+125	16	92	Other Component	24446896	
+126	17	7	Other Component	28953655	
+127	17	64	Major Component		AP00003
+128	17	70	Other Component	19324996	
+129	17	76	Other Component	10854214	
+130	17	77	Other Component	28953655	
+131	17	117	Other Component	28953655	
+132	17	126	Other Component	28953655	
+133	17	134	Other Component	28953655	
+134	17	135	Other Component	28953655	
+135	17	136	Other Component	28953655	
+136	17	138	Other Component	28953655	
+137	17	143	Other Component	28953655	
+138	18	7	Other Component	10072044	
+139	18	10	Other Component	17453628	
+140	18	11	Other Component	10072044	
+141	18	65	Other Component	10072044	
+142	18	70	Other Component	2162627	
+143	18	74	Other Component	17453628	
+144	18	91	Major Component		AP00014
+145	18	131	Other Component	12071640	
+146	19	69	Major Component		AP00048
+147	20	127	Major Component		AP00016
+148	21	14	Major Component		AP00002
+149	21	65	Other Component	26304852	
+150	21	70	Other Component	56421	
+151	21	85	Other Component	26304852	
+152	21	92	Other Component	26304852	
+153	21	93	Other Component	26304852	
+154	22	65	Other Component	29270531	
+155	22	66	Major Component		AP00127
+156	22	70	Other Component	29270531	
+157	22	92	Other Component	29270531	
+158	22	126	Other Component	29270531	
+181	23	65	Other Component	20876678	
+182	23	70	Other Component	20876678	
+184	23	100	Major Component		
+185	23	101	Major Component		
+186	23	102	Major Component		
+242	24	65	Other Component	25796445	
+243	24	70	Other Component	25796445	
+254	24	100	Major Component		
+255	24	101	Major Component		
+256	24	102	Major Component		
+268	25	65	Other Component	27297947	
+269	25	67	Major Component		AP00020
+270	25	70	Other Component	27297947	
+271	25	92	Other Component	27297947	
+272	26	64	Other Component	26790392	
+273	26	65	Other Component	26790392	
+274	26	68	Major Component		AP00142
+275	26	70	Other Component	26790392	
+276	26	92	Other Component	26790392	
+277	27	4	Major Component		AP00115
+278	27	65	Other Component	24415538	
+279	27	70	Other Component	24415538	
+280	28	65	Other Component	27262366	
+281	28	70	Other Component	27262366	
+282	28	92	Major Component		AP00143
+283	29	65	Other Component	8080036	
+284	29	70	Other Component	118839	
+285	29	98	Major Component		AP00005
+286	29	99	Major Component		
+287	29	139	Other Component	3052949	
+288	29	140	Other Component	22070546	
+289	30	76	Major Component		AP00006
+290	31	76	Major Component		AP00006
+292	33	9	Other Component	16076607	
+293	33	65	Other Component	9350687	
+294	33	70	Other Component	16076607	
+295	33	128	Major Component		AP00017
+296	34	86	Major Component		AP00010
+297	34	122	Major Component		AP00015
+298	35	2	Major Component		AP00021
+299	36	79	Major Component		AP00008
+300	37	12	Major Component		AP00081
+301	38	65	Other Component	10502582	
+302	38	112	Other Component	10502582	
+303	38	142	Major Component		AP00095
+304	39	79	Major Component		AP00008
+305	40	140	Major Component		AP00018
+306	41	98	Major Component		AP00005
+307	41	99	Major Component		
+335	42	63	Major Component		
+336	42	65	Other Component	9740234	
+337	42	70	Other Component	7025878	
+339	42	81	Major Component		
+351	42	114	Major Component		
+352	42	118	Major Component		
+353	42	125	Major Component		AP00139
+354	42	126	Major Component		
+355	42	133	Major Component		
+357	43	78	Major Component		AP00007
+358	44	142	Major Component		AP00095
+395	45	98	Major Component		AP00005
+396	45	99	Major Component		
+437	46	98	Major Component		AP00005
+438	46	99	Major Component		
+470	47	63	Major Component		
+472	47	81	Major Component		
+484	47	114	Major Component		
+485	47	125	Major Component		AP00139
+486	47	126	Major Component		
+487	47	133	Major Component		
+516	48	63	Major Component		
+518	48	81	Major Component		
+530	48	114	Major Component		
+531	48	125	Major Component		AP00139
+532	48	126	Major Component		
+533	48	133	Major Component		
+535	49	98	Major Component		AP00005
+536	49	99	Major Component		
+537	50	98	Major Component		AP00005
+538	50	99	Major Component		
+539	51	98	Major Component		AP00005
+540	51	99	Major Component		
+541	52	98	Major Component		AP00005
+542	52	99	Major Component		
+543	53	98	Major Component		AP00005
+544	53	99	Major Component		
+545	54	98	Major Component		AP00005
+546	54	99	Major Component		
+574	55	63	Major Component		
+576	55	81	Major Component		
+588	55	114	Major Component		
+589	55	125	Major Component		AP00139
+590	55	126	Major Component		
+591	55	133	Major Component		
+593	56	98	Major Component		AP00005
+594	56	99	Major Component		
+622	57	63	Major Component		
+624	57	81	Major Component		
+636	57	114	Major Component		
+637	57	126	Major Component		
+638	57	133	Major Component		
+667	58	63	Major Component		
+669	58	81	Major Component		
+681	58	114	Major Component		
+682	58	126	Major Component		
+683	58	133	Major Component		
+685	59	98	Major Component		AP00005
+686	59	99	Major Component		
+687	60	98	Major Component		AP00005
+688	60	99	Major Component		
+725	61	98	Major Component		AP00005
+726	61	99	Major Component		
+731	62	98	Major Component		AP00005
+732	62	99	Major Component		
+733	63	64	Other Component	24446896	
+734	63	65	Other Component	24446896	
+735	63	70	Other Component	24446896	
+736	63	92	Other Component	24446896	
+737	32	98	Major Component		AP00005
+738	32	99	Major Component		
+739	1	141	Other Component	18467692	
+740	43	112	Other Component	10502582	NULL
+741	45	128	Major Component		AP00017
+742	8	147	Major Component		
+743	24	147	Major Component		
+744	42	147	Major Component		
+745	45	147	Major Component		
+746	46	147	Major Component		
+747	47	147	Major Component		
+748	48	147	Major Component		
+749	55	147	Major Component		
+750	57	147	Major Component		
+751	58	147	Major Component		
+752	61	147	Major Component		
+753	8	148	Major Component		
+754	24	148	Major Component		
+755	42	148	Major Component		
+756	45	148	Major Component		
+757	46	148	Major Component		
+758	47	148	Major Component		
+759	48	148	Major Component		
+760	55	148	Major Component		
+761	57	148	Major Component		
+762	58	148	Major Component		
+763	61	148	Major Component		
+764	23	146	Major Component		
+765	24	146	Major Component		
+766	51	76	Major Component		
+767	1	9	Other Component	7686641	
+768	1	149	Other Component	1370967	
+769	64	98	Major Component		AP00005
+770	64	99	Major Component		
+771	65	98	Major Component		AP00005
+772	65	99	Major Component		
+773	66	98	Major Component		AP00005
+774	66	99	Major Component		
+775	67	79	Major Component		
+776	67	70	Other Component	24224623	
+777	68	98	Major Component		AP00005
+778	68	99	Major Component		
+779	69	76	Major Component		
+780	69	147	Major Component		
+781	69	148	Major Component		
+782	70	98	Major Component		AP00005
+783	70	99	Major Component		
+784	71	150	Major Component		

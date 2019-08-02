@@ -1,0 +1,658 @@
+1	1	Acute Confusional Senile Dementia
+2	1	Alzheimer Dementia
+3	1	Alzheimer Disease, Early Onset
+4	1	Alzheimer Disease, Late Onset
+5	1	Alzheimer Sclerosis
+6	1	Alzheimer Syndrome
+7	1	Alzheimer Type Senile Dementia
+8	1	Alzheimer's Disease
+9	1	Alzheimer's Disease, Focal Onset
+10	1	Alzheimer-Type Dementia (ATD)
+11	1	Dementia, Alzheimer Type
+12	1	Dementia, Presenile
+13	1	Dementia, Primary Senile Degenerative
+14	1	Dementia, Senile
+15	1	Early Onset Alzheimer Disease
+16	1	Familial Alzheimer Disease (FAD)
+17	1	Focal Onset Alzheimer's Disease
+18	1	Late Onset Alzheimer Disease
+19	1	Presenile Alzheimer Dementia
+20	1	Primary Senile Degenerative Dementia
+21	1	Senile Dementia, Acute Confusional
+22	1	Senile Dementia, Alzheimer Type 
+23	2	Diabetes Mellitus, Adult-Onset
+24	2	Diabetes Mellitus, Ketosis-Resistant
+25	2	Diabetes Mellitus, Maturity-Onset
+26	2	Diabetes Mellitus, Non Insulin Dependent
+27	2	Diabetes Mellitus, Non-Insulin-Dependent
+28	2	Diabetes Mellitus, Noninsulin Dependent
+29	2	Diabetes Mellitus, Noninsulin-Dependent
+30	2	Diabetes Mellitus, Slow-Onset
+31	2	Diabetes Mellitus, Stable
+32	2	Diabetes Mellitus, Type II
+33	2	MODY
+34	2	Maturity-Onset Diabetes
+35	2	Maturity-Onset Diabetes Mellitus
+36	2	NIDDM
+37	2	Noninsulin-Dependent Diabetes Mellitus
+38	2	Type 2 Diabetes
+39	2	Type 2 Diabetes Mellitus 
+40	3	Akinetic-Rigid Variant of Huntington Disease
+41	3	Chorea, Chronic Progressive Hereditary (Huntington)
+42	3	Chronic Progressive Hereditary Chorea (Huntington)
+43	3	Huntington Chorea
+44	3	Huntington Chronic Progressive Hereditary Chorea
+45	3	Huntington Disease, Akinetic-Rigid Variant
+46	3	Huntington Disease, Juvenile
+47	3	Huntington Disease, Juvenile-Onset
+48	3	Huntington Disease, Late Onset
+49	3	Huntington's Chorea
+50	3	Huntington's Disease
+51	3	Juvenile Huntington Disease
+52	3	Juvenile-Onset Huntington Disease
+53	3	Late-Onset Huntington Disease
+54	3	Progressive Chorea, Chronic Hereditary (Huntington)
+55	3	Progressive Chorea, Hereditary, Chronic (Huntington) 
+56	4	Idiopathic Parkinson Disease
+57	4	Idiopathic Parkinson's Disease
+58	4	Lewy Body Parkinson Disease
+59	4	Lewy Body Parkinson's Disease
+60	4	Paralysis Agitans
+61	4	Parkinson Disease, Idiopathic
+62	4	Parkinson's Disease
+63	4	Parkinson's Disease, Idiopathic
+64	4	Parkinson's Disease, Lewy Body
+65	4	Primary Parkinsonism 
+66	5	CJD (Creutzfeldt-Jakob Disease)
+67	5	Creutzfeldt Jacob Disease
+68	5	Creutzfeldt-Jakob Disease, Familial
+69	5	Creutzfeldt-Jakob Disease, New Variant
+70	5	Creutzfeldt-Jakob Disease, Variant
+71	5	Familial Creutzfeldt-Jakob Disease
+72	5	Jakob-Creutzfeldt Disease
+73	5	Jakob-Creutzfeldt Syndrome
+74	5	New Variant Creutzfeldt-Jakob Disease
+75	5	Spongiform Encephalopathy, Subacute
+76	5	V-CJD (Variant-Creutzfeldt-Jakob Disease)
+77	5	Variant Creutzfeldt-Jakob Disease 
+78	6	Encephalopathy, Kuru
+79	6	Kuru Encephalopathy 
+80	7	Encephalopathy, Subacute Spongiform, Gerstmann-Straussler Type
+81	7	Gerstmann-Straussler Disease
+82	7	Gerstmann-Straussler Inherited Spongiform Encephalopathy
+83	7	Gerstmann-Straussler Syndrome
+84	7	Gerstmann-Straussler-Scheinker Syndrome
+85	7	Inherited Spongiform Encephalopathy, Gerstmann-Straussler 
+87	8	Amyloidosis, Immunoglobulin Light-chain
+88	8	Amyloidosis, Primary
+89	8	Primary Amyloidosis
+90	8	Primary Systemic Amyloidosis
+91	8	Light-chain amyloidosis
+92	8	Light Chain Associated Amyloidosis
+93	8	Immunoglobulin light chain (AL) amyloidosis
+94	8	Light chain (AL) amyloidosis
+95	9	Amyloidosis VI
+96	9	Amyloidosis, Cerebroarterial, Icelandic Type
+97	9	Autosomal Dominant Cerebrovascular Amyloidosis
+98	9	Cerebral Amyloid Angiopathy, Cst3-Related
+99	9	Cerebral Amyloid Angiopathy, Genetic
+100	9	Cerebral Amyloid Angiopathy, Hereditary
+101	9	Cerebral Hemorrhage, Hereditary, With Amyloidosis
+102	9	Familial Cerebral Amyloid Angiopathy
+103	9	HCHWA-I
+104	9	Hereditary Cerebral Amyloid Angiopathy
+105	9	Hereditary Cerebral Amyloid Angiopathy, Icelandic Type
+106	9	Hereditary Cerebral Hemorrhage With Amyloidosis
+107	9	Icelandic Type Amyloidosis
+108	9	Icelandic Type Hereditary Cerebral Amyloid Angiopathy
+110	9	HCCAA-I
+111	10	Cerebral Amyloid Angiopathy, Itm2b-Related, 1
+112	10	Cerebral amyloid angiopathy, British type
+113	10	Presenile dementia with spastic ataxia
+114	10	Familial dementia, British type
+115	10	Dementia Familial British
+116	10	Bri Amyloidosis
+117	10	Familial British Dementia (FBD)
+119	11	Dementia, familial Danish
+120	11	Cerebral Amyloid Angiopathy, Itm2b-Related, 2
+121	11	Familial Danish dementia
+122	11	Heredopathia ophthalmootoencephalica
+123	11	Familial dementia, Danish type
+124	11	Familial Danish Dementia (FDD)
+125	11	HOOE 
+126	12	Amyloidosis, Hereditary, With Cerebral Hemorrhage, Dutch Variant
+127	12	Cerebral Amyloid Angiopathy, App-Related
+128	12	Cerebral Amyloid Angiopathy, App-Related, Arctic Variant
+129	12	Cerebral Amyloid Angiopathy, App-Related, Dutch Variant
+130	12	Cerebral Amyloid Angiopathy, App-Related, Flemish Variant
+131	12	Cerebral Amyloid Angiopathy, App-Related, Iowa Variant
+132	12	Cerebral Amyloid Angiopathy, App-Related, Italian Variant
+133	12	Cerebral hemorrhage with amyloidosis, hereditary, Dutch type
+134	12	Dutch Type Hereditary Cerebral Amyloid Angiopathy
+135	12	HCHWAD
+136	12	Hereditary Cerebral Amyloid Angiopathy, Dutch Type
+137	12	Amyloidosis, Cerebroarterial, App-Related
+138	12	ABeta amyloidosis, Dutch type
+139	12	ABetaE22Q amyloidosis
+140	12	HCHWA, Dutch type
+141	12	HCHWA-D 
+142	13	47,XX,+21
+143	13	47,XY,+21
+144	13	Down Syndrome, Partial Trisomy 21
+145	13	Down's Syndrome
+146	13	Mongolism
+147	13	Partial Trisomy 21 Down Syndrome
+148	13	Trisomy 21
+149	13	Trisomy 21, Meiotic Nondisjunction
+150	13	Trisomy 21, Mitotic Nondisjunction
+151	13	Trisomy G
+152	13	DS
+153	14	ALS (Amyotrophic Lateral Sclerosis)
+154	14	Amyotrophic Lateral Sclerosis With Dementia
+155	14	Amyotrophic Lateral Sclerosis, Guam Form
+156	14	Amyotrophic Lateral Sclerosis, Parkinsonism-Dementia Complex of Guam
+157	14	Amyotrophic Lateral Sclerosis-Parkinsonism-Dementia Complex 1
+158	14	Charcot Disease
+159	14	Dementia With Amyotrophic Lateral Sclerosis
+160	14	Gehrig's Disease
+161	14	Guam Disease
+162	14	Guam Form of Amyotrophic Lateral Sclerosis
+163	14	Lou Gehrig Disease
+164	14	Lou Gehrig's Disease
+165	14	Lou-Gehrigs Disease
+166	14	Motor Neuron Disease, Amyotrophic Lateral Sclerosis 
+167	15	Adenoma, Prolactin-Secreting, Pituitary
+168	15	Lactotroph Adenoma
+169	15	Macroprolactinoma
+170	15	Microprolactinoma
+171	15	PRL-Secreting Pituitary Adenoma
+172	15	Pituitary Adenoma, Prolactin-Secreting
+173	15	Prolactin-Producing Pituitary Adenoma
+174	15	Prolactin-Secreting Pituitary Adenoma
+175	15	Prolactinoma, Familial 
+176	15	Pitutary prolactinoma
+177	16	Injection-localized amyloidosis
+178	16	Localized A-Ins amyloidosis
+179	16	Ains-derived amyloidosis
+180	16	Insulin-derived amyloidosis
+181	16	LIDA
+182	17	Apolipoprotein A-I amyloidosis
+183	17	Familial amyloid nephropathy due to apolipoprotein A-I variant
+184	17	Familial renal amyloidosis due to apolipoprotein A-I variant
+185	17	Hereditary amyloid nephropathy due to apolipoprotein A-I variant
+186	17	Hereditary renal amyloidosis due to apolipoprotein A-I variant
+187	17	Amyloid Polyneuropathy, Iowa Type
+188	17	Familial Amyloid Polyneuropathy, Type III
+189	17	Type III Familial Amyloid Polyneuropathy
+190	17	Iowa Type Amyloid Polyneuropathy
+191	17	Non-neuropathic apolipoprotein A-I amyloidosis
+192	17	Apolipoprotein AI-derived amyloidosis
+194	17	Hereditary apoliporpotein AI-induced amyloidosis
+195	17	Hereditary apoliporpotein AI-associated amyloidosis
+196	18	Amyloid cranial neuropathy with lattice corneal dystrophy
+197	18	Amyloidosis 5
+198	18	Amyloidosis V
+199	18	Amyloidosis due to mutant gelsolin
+200	18	Amyloidosis, Finnish Type
+201	18	Amyloidosis, Meretoja Type
+202	18	Cerebral Amyloid Angiopathy, Gsn-Related
+203	18	Corneal Dystrophy, Lattice Type II
+204	18	Familial Amyloid Polyneuropathy Type IV
+205	18	Familial Amyloidosis, Finnish Type
+206	18	Finnish type amyloidosis
+207	18	Gelsolin-Related Amyloidosis
+208	18	Kymenlaakso Syndrome
+209	18	Lattice Corneal Dystrophy Type II
+210	18	Lattice Corneal Dystrophy, Gelsolin Type
+211	18	Lattice Corneal Dystrophy, Type II
+212	18	Lattice corneal dystrophy associated with familial systemic amyloidosis
+213	18	Lattice dystrophy of the cornea with hereditary generalized amyloidosis
+214	18	Meretoja type amyloidosis
+215	18	Meretoja's syndrome
+216	18	Meretoja syndrome
+217	18	Gelsolin amyloidosis
+218	18	Hereditary amyloidosis, Finnish type
+219	18	Meretoja Type
+220	18	Meretoja's disease
+221	18	Hereditary Gelsolin Amyloidosis (HGA)
+223	19	Fibrinogen A a-associated amyloidosis
+224	19	Hereditary amyloid nephropathy due to fibrinogen A alpha-chain variant
+225	19	Fibrinogen A alpha-chain amyloidosis
+226	19	Familial amyloid nephropathy due to fibrinogen A alpha-chain variant
+227	19	Hereditary renal amyloidosis due to fibrinogen A alpha-chain variant
+229	20	Familial amyloid nephropathy due to lysozyme variant
+230	20	Familial renal amyloidosis due to lysozyme variant
+231	20	Hereditary amyloid nephropathy due to lysozyme variant
+232	20	Hereditary renal amyloidosis due to lysozyme variant
+233	20	Lysozyme amyloidosis
+234	20	Hereditary Lysozyme Amyloidosis
+236	21	Medullary thyroid cancer (MTC)
+237	21	Thyroid carcinoma, medullary
+238	21	Medullary Carcinoma of the Thyroid (MCT) 
+239	22	Apolipoprotein A-II amyloidosis
+240	22	Familial amyloid nephropathy due to apolipoprotein A-II variant
+241	22	Familial renal amyloidosis due to apolipoprotein A-II variant
+242	22	Hereditary amyloid nephropathy due to apolipoprotein A-II variant
+243	22	Hereditary renal amyloidosis due to apolipoprotein A-II variant
+245	22	Hereditary apolipoprotein AII amyloidosis
+246	22	Apolipoprotein AII-induced amyloidosis
+247	23	Heavy chain amyloidosis
+248	23	Immunoglobulin heavy chain amyloidosis 
+249	24	Heavy/light-chain amyloidosis
+250	24	Heavy- and light-chain amyloidosis 
+251	25	Apolipoprotein-CII amyloidosis
+253	26	Apolipoprotein-CIII amyloidosis
+255	27	Lect2 amyloidosis
+256	27	Leukocyte chemotactic factor 2 amyloidosis
+258	28	Apolipoprotein A-IV amyloidosis
+259	28	Apolipoprotein A-IV induced amyloidosis
+261	29	Inflammatory amyloidosis
+262	29	Reactive amyloidosis
+263	29	Secondary amyloidosis 
+265	30	ATTRwt-related amyloidosis
+266	30	SSA
+267	30	Senile systemic amyloidosis
+268	30	wild-type ATTR (ATTRwt) amyloidosis
+269	31	Familial Transthyretin Cardiac Amyloidosis
+270	31	Hereditary Amyloidosis, Transthyretin-Related
+271	31	Transthyretin Amyloidosis
+288	33	Dialysis-related amyloidosis
+289	33	Dialysis-related arthropathy
+290	33	Wild type ABeta2-microglobulinic amyloidosis
+291	33	Hemodialysis-related amyloidosis
+292	33	ABeta2M amyloidosis
+293	34	Cortical Lewy Body Disease
+294	34	Dementia, Lewy Body
+295	34	Diffuse Lewy Body Disease
+296	34	Lewy Body Dementia
+297	34	Lewy Body Disease, Cortical
+298	34	Lewy Body Disease, Diffuse
+299	34	Lewy Body Type Senile Dementia
+301	35	Pindborg tumor
+302	35	CEOT
+303	36	Protease Sensitive Prionopathy
+304	36	VPSPr
+305	37	IAA
+306	38	Biber-Haab-Dimmer Dystrophy
+307	38	Corneal Dystrophy, Lattice Type I
+308	38	Corneal dystrophy, lattice type 1
+309	38	Lattice Corneal Dystrophy Type I
+310	38	Lattice Corneal Dystrophy, Type I
+311	38	Classic lattice corneal dystrophy
+312	38	LCD1
+313	38	LCDI 
+315	39	Familial Fatal Insomnia
+316	39	Insomnia Familial Fatal
+317	39	Fatal Familial Disease 
+318	40	Aortic medial amyloidosis
+320	40	Senile aortic amyloidosis 
+321	41	Benign Paroxysmal Peritonitis
+322	41	Familial Mediterranean Fever, Autosomal Recessive
+323	41	Familial Paroxysmal Polyserositis
+324	41	Mediterranean Fever, Familial
+325	41	Periodic Disease
+326	41	Periodic Disease, Wolff's
+327	41	Periodic Peritonitis
+328	41	Polyserositis, Familial Paroxysmal
+329	41	Polyserositis, Recurrent
+330	41	Recurrent Polyserositis
+331	41	Wolff Periodic Disease
+332	41	Wolff's Periodic Disease 
+333	41	FMF
+334	42	Primary Localized Cutaneous Amyloidosis
+335	42	 Familial primart localized cutaneous amyloidosis
+336	43	Amyloid corneal dystrophy, Japanese type
+337	43	Amyloidosis, corneal
+338	43	Corneal Dystrophy, Lattice Type III
+339	43	Corneal amyloidosis
+340	43	Corneal dystrophy, Lattice type 3
+342	43	Lattice Corneal Dystrophy, Type III
+343	43	Lattice corneal dystrophy type3
+344	43	Primary familial amyloidosis of the cornea 
+345	44	Avellino corneal dystrophy
+346	44	Combined Granular-Lattice Corneal Dystrophy
+347	44	Combined granular-lattice corneal dystrophies
+348	44	Corneal Dystrophy, Avellino Type
+349	44	Granular Corneal Dystrophy, Type II
+350	44	Granular and lattice corneal dystrophies
+351	44	Granular corneal dystrophy type 2
+352	44	Granular-lattice (Avellino) corneal dystrophy 
+353	45	Familial Waldenstrom's Macroglobulinaemia
+354	45	Lymphoma, Lymphocytic, Plasmacytoid
+355	45	Lymphoma, Lymphoplasmacytoid
+356	45	Macroglobulinemia
+357	45	Primary Macroglobulinemia
+358	45	Waldenstrom's Macroglobulinaemia
+359	45	Waldenstrom's Macroglobulinemia 
+360	46	Diffuse Mixed Small and Large Cell Lymphoma
+361	46	Diffuse Mixed-Cell Lymphoma
+362	46	Diffuse Small Cleaved-Cell Lymphoma
+363	46	Diffuse Undifferentiated Lymphoma
+364	46	Lymphatic Sarcoma
+365	46	Lymphoma, Atypical Diffuse Small Lymphoid
+366	46	Lymphoma, Diffuse
+367	46	Lymphoma, Diffuse, Mixed Lymphocytic-Histiocytic
+368	46	Lymphoma, High-Grade
+369	46	Lymphoma, Intermediate-Grade
+370	46	Lymphoma, Low-Grade
+371	46	Lymphoma, Mixed
+372	46	Lymphoma, Mixed Cell, Diffuse
+373	46	Lymphoma, Mixed Lymphocytic-Histiocytic
+374	46	Lymphoma, Mixed Small and Large Cell, Diffuse
+375	46	Lymphoma, Mixed-Cell
+376	46	Lymphoma, Mixed-Cell, Diffuse
+377	46	Lymphoma, Non-Hodgkin's
+378	46	Lymphoma, Non-Hodgkin, Familial
+379	46	Lymphoma, Non-Hodgkins
+380	46	Lymphoma, Nonhodgkin's
+381	46	Lymphoma, Nonhodgkins
+382	46	Lymphoma, Pleomorphic
+383	46	Lymphoma, Small Cleaved Cell, Diffuse
+384	46	Lymphoma, Small Cleaved-Cell, Diffuse
+385	46	Lymphoma, Small Non-Cleaved-Cell
+386	46	Lymphoma, Small Noncleaved-Cell
+387	46	Lymphoma, Small and Large Cleaved-Cell, Diffuse
+388	46	Lymphoma, Undifferentiated
+389	46	Lymphoma, Undifferentiated, Diffuse
+390	46	Lymphosarcoma
+391	46	Mixed Small and Large Cell Lymphoma, Diffuse
+392	46	Mixed-Cell Lymphoma
+393	46	Mixed-Cell Lymphoma, Diff 
+395	47	Carcinoma, Basal Cell, Pigmented
+396	47	Epithelioma, Basal Cell
+397	47	Rodent Ulcer
+398	47	Ulcer, Rodent 
+399	48	 Keratosis Seborrheica
+400	48	Seborrheic keratosis 
+401	49	Muckle-Wells Syndrome
+402	49	Muckle Wells Syndrome
+403	49	Syndrome, Muckle-Wells
+404	49	Urticaria, Deafness and Amyloidosis
+405	49	UDA Syndrome
+406	49	Syndrome, UDA
+407	49	Syndromes, UDA
+408	49	UDA Syndromes
+409	49	Urticaria-Deafness-Amyloidosis Syndrome
+410	49	Syndrome, Urticaria-Deafness-Amyloidosis
+411	49	Syndromes, Urticaria-Deafness-Amyloidosis
+412	49	Urticaria Deafness Amyloidosis Syndrome
+413	49	Urticaria-Deafness-Amyloidosis Syndromes 
+414	50	CRMO
+415	50	Chronic multifocal osteomyelitis
+416	50	Multifocal osteomyelitis, chronic
+417	50	Osteomyelitis, Chronic Multifocal
+418	52	Colitis, Granulomatous
+419	52	Crohn's Disease
+420	52	Crohn's Enteritis
+421	52	Enteritis, Granulomatous
+422	52	Enteritis, Regional
+423	52	Ileitis, Regional
+424	52	Ileitis, Terminal
+425	52	Ileocolitis
+426	52	Inflammatory Bowel Disease 1
+427	52	Regional Enteritis
+428	52	Colitis Gravis
+429	52	Idiopathic Proctocolitis
+430	52	Inflammatory Bowel Disease, Ulcerative Colitis Type
+431	52	Ulcerative Colitis
+432	53	Adenocarcinoma Of Kidney
+433	53	Adenocarcinoma, Renal
+434	53	Adenocarcinoma, Renal Cell
+435	53	Carcinoma, Hypernephroid
+436	53	Chromophil Renal Cell Carcinoma
+437	53	Chromophobe Renal Cell Carcinoma
+438	53	Clear Cell Renal Carcinoma
+439	53	Clear Cell Renal Cell Carcinoma
+440	53	Collecting Duct Carcinoma
+441	53	Collecting Duct Carcinoma (Kidney)
+442	53	Collecting Duct Carcinoma of the Kidney
+443	53	Grawitz Tumor
+444	53	Hypernephroma
+445	53	Nephroid Carcinoma
+446	53	Papillary Renal Cell Carcinoma
+447	53	Renal Cell Cancer
+448	53	Renal Cell Carcinoma
+449	53	Renal Cell Carcinoma, Papillary
+450	53	Renal Collecting Duct Carcinoma
+451	53	Sarcomatoid Renal Cell Carcinoma
+452	54	Ankylosing Spondylarthritis
+453	54	Ankylosing Spondylitis
+454	54	Ankylosing Spondyloarthritis
+455	54	Bechterew Disease
+456	54	Bechterew's Disease
+457	54	Marie-Struempell Disease
+458	54	Rheumatoid Spondylitis
+459	54	Spondylarthritis Ankylopoietica
+460	54	Spondylitis Ankylopoietica
+461	54	Spondyloarthritis Ankylopoietica
+462	55	MEA 2a
+463	55	MEA II
+464	55	MEA IIa
+465	55	MEN 2
+466	55	MEN 2a
+467	55	MEN II
+468	55	MEN IIa
+469	55	MEN-2A Syndrome
+470	55	MEN2a
+471	55	Multiple Endocrine Neoplasia Type 2
+472	55	Multiple Endocrine Neoplasia, Type IIa
+473	55	Multiple Endocrine Neoplasms Type 2a
+474	55	Neoplasia, Multiple Endocrine Type 2a
+475	55	Neoplasms, Multiple Endocrine Type 2a
+476	55	Pheochromocytoma And Amyloid-Producing Medullary Thyroid Carcinoma
+477	55	Sipple Syndrome
+478	57	Bowen Disease
+479	59	Agammaglobulinemia
+480	59	Agammaglobulinemia, BTK
+481	59	Agammaglobulinemia, Bruton tyrosine kinase
+482	59	Agammaglobulinemia, X-Linked
+483	59	Agammaglobulinemia, X-Linked, Type I
+484	59	Bruton's Agammaglobulinemia
+485	59	Bruton-Type Agammaglobulinemia
+486	59	Bruton-type (congenital X-linked) agammaglobulinemia
+487	59	Congenital Agammaglobulinemia
+488	59	Immunodeficiency 1
+489	59	X-linked agammaglobulinemia
+490	62	Cystic Fibrosis of Pancreas
+491	62	Fibrocystic Disease of Pancreas
+492	62	Mucoviscidosis
+493	62	Pancreatic Cystic Fibrosis
+494	62	Pulmonary Cystic Fibrosis
+496	43	Familial subepithelial corneal amyloidosis
+497	59	Hypogammaglobulinemia 
+498	60	Angiofollicular Lymph Hyperplasia
+499	60	Angiofollicular Lymph Node Hyperplasia
+500	60	Angiofollicular Lymphoid Hyperplasia
+501	60	Castleman's Disease
+502	60	Castleman's Tumor
+503	60	Castlemans Disease
+504	60	Giant Lymph Node Hyperplasia
+505	60	Hyperplasia, Giant Lymph Node
+506	60	Lymph Node Hyperplasia, Giant
+507	17	Amyloidosis VIII
+508	17	Ostertag Type Amyloidosis
+509	17	German Type Amyloidosis
+510	17	Amyloidosis, Familial renal
+511	17	Amyloidosis, Familial visceral
+512	17	Amyloidosis, Systemic Non-neuropathic
+513	18	Familial Amyloid Polyneuropathy, Type IV
+514	18	Familial Amyloid Neuropathy, Finnish Type
+515	18	Finnish Type Familial Amyloid Neuropathy
+516	18	Type IV Familial Amyloid Polyneuropathy
+517	19	Amyloidosis VIII
+518	19	Ostertag Type Amyloidosis
+519	19	German Type Amyloidosis
+520	19	Amyloidosis, Familial renal
+521	19	Amyloidosis, Familial visceral
+522	19	Amyloidosis, Systemic Non-neuropathic
+523	20	Amyloidosis VIII
+524	20	Ostertag Type Amyloidosis
+525	20	German Type Amyloidosis
+526	20	Amyloidosis, Familial renal
+527	20	Amyloidosis, Familial visceral
+528	20	Amyloidosis, Systemic Non-neuropathic
+529	27	Leukocyte chemotactic factor 2-associated amyloidosis
+530	27	Leukocyte cell-derived chemotaxin-2 amyloidosis
+531	1	Presenile and Senile Dementia
+532	42	FPLCA
+533	33	Amyloidosis VIII
+534	33	Ostertag Type Amyloidosis
+535	33	German Type Amyloidosis
+536	33	Amyloidosis, Familial renal
+537	33	Amyloidosis, Familial visceral
+538	33	Amyloidosis, Systemic Non-neuropathic
+539	33	beta2-microglobulin-related amyloidosis
+540	33	beta2-microglobulin amyloidosis
+541	33	Beta-2-microglobulin amyloidosis
+542	33	Dialysis-Related Beta-2m Amyloidosis
+543	31	Familial amyloid polyneuropathy type I (Portuguese-Swedish-Japanese Type)
+544	31	TTR amyloid neuropathy
+545	31	Transthyretin amyloid polyneuropathy
+546	31	Familial amyloid polyneuropathy (FAP)
+547	31	Familial Oculoleptomeningeal Amyloidosis
+548	31	FOLMA
+549	31	Leptomeningeal Amyloidosis
+550	31	ATTR cardiomyopathy
+551	31	TTR-related amyloid cardiomyopathy
+552	31	TTR-related cardiac amyloidosis
+553	31	Transthyretin amyloid cardiopathy
+554	31	Transthyretin-related familial amyloid cardiomyopathy
+555	31	Familial Transthyretin Cardiac Amyloidosis
+556	31	Amyloid polyneuropathy, familial
+557	31	Appalachian Type Familial Amyloid Polyneuropathy
+558	31	Familial Amyloid Neuropathy, Andrade Type
+559	31	Amyloid Neuropathy Type 1
+560	31	Amyloid Polyneuropathy, Swiss Type
+561	31	Amyloid Polyneuropathy, British Type
+562	31	British Type Amyloid Polyneuropathy
+563	31	Familial Amyloid Neuropathy, Portuguese Type
+564	31	Familial Amyloid Polyneuropathy, Appalachian Type
+565	31	Familial Amyloid Polyneuropathy, Jewish Type
+566	31	Familial Amyloid Polyneuropathy, Jewish Type I
+567	31	Familial Amyloid Polyneuropathy, Type II
+568	31	Familial Portuguese Polyneuritic Amyloidosis
+569	31	Jewish Type Familial Amyloid Polyneuropathy
+570	31	Polyneuritic Amyloidosis, Portuguese
+571	31	Portuguese Polyneuritic Amyloidosis
+572	31	Portuguese Type Familial Amyloid Neuropathy
+573	31	Swiss Type Amyloid Polyneuropathy
+574	31	Type I Familial Amyloid Polyneuropathy
+575	31	Type II Familial Amyloid Polyneuropathy
+576	31	Wohlwill-Andrade Syndrome
+577	31	Wohlwill-Corino Andrade Syndrome
+578	31	Transthyretin amyloid neuropathy
+579	2	Type 2 diabetes mellitus
+580	2	Non-insulin-dependent diabetes mellitus
+581	9	Hereditary Cystatin C Amyloid Angiopathy
+582	12	Hereditary Cerebral Hemorrhage with Amyloidosis, Dutch type
+583	4	Parkinson Disease, Late-Onset
+584	14	Amyotrophic lateral sclerosis 1, Familial
+585	14	FALS
+586	14	Amyotrophic lateral sclerosis 1, Autosomal dominant
+587	21	Medullary Thyroid Carcinoma
+588	21	Thyroid carcinoma, Familial medullary
+589	21	Familial medullary thyroid carcinoma
+590	21	FMTC
+591	21	MTC1
+592	11	Cerebellar ataxia, cataract, deafness, and dementia or psychosis
+593	7	Subacute spongiform encephalopathy, Gerstmann-Straussler type
+594	38	LCD
+595	38	CDL1
+596	43	CDGDL
+597	44	ACD
+598	44	CGD2
+599	55	PTC Syndrome
+600	41	Benign recurrent polyserositis
+601	49	CINCA
+602	49	CINCA Syndrome
+603	49	Chronic Infantile Neurologic, Cutaneous, and Articular Syndrome
+604	49	Chronic Infantile Neurological, Cutaneous, and Articular Syndrome
+605	49	Chronic Neurologic Cutaneous and Articular Syndrome
+606	49	Chronic Neurologic, Cutaneous, and Articular Syndrome
+607	49	Chronic, Infantile, Neurological, Cutaneous, Articular Syndrome
+608	49	Cold Urticaria, Familial
+609	49	Cold-Induced Autoinflammatory Syndrome, Familial
+610	49	Cryopyrinopathy
+611	49	FCAS1
+612	49	Familial Cold Autoinflammatory Syndrome
+613	49	Familial Cold Autoinflammatory Syndrome 1
+614	49	Familial Cold Urticaria
+615	49	Familial Cold-Induced Autoinflammatory Syndrome
+616	49	IOMID
+617	49	IOMID Syndrome
+618	49	Infantile Onset Multisystem Inflammatory Disease
+619	49	Multisystem Inflammatory Disease, Neonatal-Onset
+620	49	NOMID
+621	49	Neonatal Onset Multisystem Inflammatory Disease
+622	49	Prieur-Griscelli Syndrome
+623	50	Chronic osteomyelitis
+624	51	Reumatoid Arthritis
+625	51	RA
+626	47	Basal Cell Carcinoma
+627	47	BCC
+628	52	Bowel Diseases, Inflammatory
+629	31	Hereditary transthyretin-related amyloidosis
+630	42	Primary cutaneous amyloidosis
+631	46	Non-Hodgkin Lymphoma
+632	49	CAPS
+633	64	Adamantiades-Behcet DiseaseComplex; BD
+634	64	Behcet Disease
+635	64	Behcet Triple Symptom Complex
+636	64	Behcet's Syndrome
+637	64	Old Silk Route Disease
+638	64	Triple Symptom Complex
+639	64	Triple-Symptom Complex
+640	65	Autosomal Dominant Familial Periodic Fever
+641	65	Familial Hibernian fever
+642	65	Hibernian Familial Fever
+643	65	Hibernian fever, familial
+644	65	TNF Receptor-associated Periodic Syndrome
+645	65	TNF receptor-associated periodic syndrome
+646	65	Tumor necrosis factor receptor-associated periodic syndrome
+647	65	TRAPS
+648	65	TRAPS syndrome
+649	65	Tumor necrosis factor receptor 1 associated periodic syndrome
+650	65	TNF receptor 1-associated periodic syndrome
+651	65	FPF
+652	65	FHF
+653	66	Polyarteritis Nodosa, Childhood-Onset
+654	66	PAN
+655	66	ADA2 Deficiency
+656	66	Essential Polyarteritis
+657	66	Necrotizing Arteritis
+658	66	Periarteritis Nodosa
+659	66	Adenosine Deaminase 2 Deficiency
+660	66	DADA2
+661	66	Vasculitis due to DADA2
+662	66	Vasculitis due to ADA2 deficiency
+663	66	Deficiency of Adenosine Deaminase 2
+664	67	Prion protein systemic amyloidosis
+665	67	Chronic diarrhea with HSAN
+666	67	Chronic diarrhea with hereditary sensory and autonomic neuropathy
+667	67	Prion Disease Associated with Diarrhea and Autonomic Neuropathy
+668	68	Hyper IgD Syndrome
+669	68	Hyper-IgD Syndrome
+670	68	Hyperimmunoglobulinemia D
+671	68	Hyperimmunoglobulinemia D And Periodic Fever Syndrome
+672	68	Mevalonic Aciduria
+673	68	Mevalonicaciduria
+674	68	Periodic Fever, Dutch Type
+675	68	HIDS
+676	68	Hyperimmunoglobulinemia D syndrome
+677	68	Hyperimmunoglobinemia D with recurrent fever
+678	68	MEVA
+679	69	Sicca Syndrome
+680	69	Sjogren Syndrome
+681	69	SS
+682	70	Libman-Sacks Disease
+683	70	Lupus Erythematosus Disseminatus
+684	70	Systemic Lupus Erythematosus
+685	70	SLE
+686	71	LGMD2B
+687	71	LGMD3
+688	71	Muscular Dystrophy, Limb-Girdle, Type 2B
+689	71	Muscular dystrophy, limb-girdle, type 3
+690	71	Limb-girdle muscular dystrophy due to dysferlin deficiency
+691	71	Autosomal recessive limb-girdle muscular dystrophy type 2B
+692	24	Immunoglobulin Heavy and Light Chain Amyloidosis
+693	64	BD
