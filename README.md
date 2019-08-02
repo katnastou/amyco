@@ -1,0 +1,2 @@
+# amyco
+The Amyloidoses Collection
