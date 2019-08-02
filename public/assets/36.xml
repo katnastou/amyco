@@ -1,0 +1,32 @@
+<?xml version='1.0'?>
+<disease>
+    <name>Variably Protease-Sensitive Prionopathy</name>
+    <descriptions></descriptions>
+    <type>Amyloidosis</type>
+    <association>Certain Infectious and Parasitic Diseases</association>
+    <tissue>Central Nervous System (CNS)</tissue>
+    <proteins>
+        <name>Major prion protein</name>
+        <ac>P04156</ac>
+        <id>PRIO_HUMAN</id>
+        <seq>MANLGCWMLVLFVATWSDLGLCKKRPKPGGWNTGGSRYPGQGSPGGNRYPPQGGGGWGQPHGGGWGQPHGGGWGQPHGGGWGQPHGGGWGQGGGTHSQWNKPSKPKTNMKHMAGAAAAGAVVGGLGGYMLGSAMSRPIIHFGSDYEDRYYRENMHRYPNQVYYRPMDEYSNQNNFVHDCVNITIKQHTVTTTTKGENFTETDVKMMERVVEQMCITQYERESQAYYQRGSSMVLFSSPPVILLISFLIFLIVG</seq>
+        <length>253</length>
+        <genename>PRNP</genename>
+        <type>Precursor Protein</type>
+    </proteins>
+    <alternative_names>Protease Sensitive Prionopathy</alternative_names>
+    <alternative_names>VPSPr</alternative_names>
+    <crossreferences>
+        <abbreviation>ICD</abbreviation>
+        <link>http://apps.who.int/classifications/icd10/browse/2016/en#/A81</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/18571782</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/21584652</link>
+    </crossreferences>
+    <isa_name></isa_name>
+</disease>

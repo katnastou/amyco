@@ -1,0 +1,59 @@
+ID: 53
+
+Disease Name: Carcinoma, Renal Cell
+
+Description: A heterogeneous group of sporadic or hereditary carcinoma derived from cells of the kidneys. There are several subtypes including the clear cells, the papillary, the chromophobe, the collecting duct, the spindle cells (sarcomatoid), or mixed cell-type carcinoma.
+
+Disease Type: Clinical conditions associated with amyloidosis
+
+ICD-10 Classification: Neoplasms
+
+Tissue: Kidney
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/C64
+
+https://meshb.nlm.nih.gov/record/ui?ui=D002292
+
+https://www.ncbi.nlm.nih.gov/pubmed/5953729
+
+https://www.ncbi.nlm.nih.gov/pubmed/7060030
+
+https://www.ncbi.nlm.nih.gov/pubmed/28509249
+
+Alternative Names:
+Adenocarcinoma Of Kidney
+Adenocarcinoma, Renal
+Adenocarcinoma, Renal Cell
+Carcinoma, Hypernephroid
+Chromophil Renal Cell Carcinoma
+Chromophobe Renal Cell Carcinoma
+Clear Cell Renal Carcinoma
+Clear Cell Renal Cell Carcinoma
+Collecting Duct Carcinoma
+Collecting Duct Carcinoma (Kidney)
+Collecting Duct Carcinoma of the Kidney
+Grawitz Tumor
+Hypernephroma
+Nephroid Carcinoma
+Papillary Renal Cell Carcinoma
+Renal Cell Cancer
+Renal Cell Carcinoma
+Renal Cell Carcinoma, Papillary
+Renal Collecting Duct Carcinoma
+Sarcomatoid Renal Cell Carcinoma
+
+Precursor Proteins:
+P0DJI8 | Serum amyloid A-1 protein
+P0DJI9 | Serum amyloid A-2 protein
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	http://83.212.109.111:8084/amyco/29
+
+//

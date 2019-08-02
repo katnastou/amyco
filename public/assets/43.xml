@@ -1,0 +1,68 @@
+<?xml version='1.0'?>
+<disease>
+    <name>Corneal dystrophy, gelatinous drop-like</name>
+    <descriptions>A hereditary autosomal recessive corneal dystrophy characterized by severe corneal amyloidosis leading to blindness. Clinical manifestations, which appear in the first decade of life, include blurred vision, photophobia, and foreign-body sensation. By the third decade, raised, yellowish-gray, gelatinous masses severely impair visual acuity, and corneal transplantation is required for most patients. Mutations in the TACSTD2 gene have been identified.</descriptions>
+    <type>Amyloidosis</type>
+    <association>Diseases of the Eye and Adnexa</association>
+    <tissue>Eye</tissue>
+    <proteins>
+        <name>Lactotransferrin</name>
+        <ac>P02788</ac>
+        <id>TRFL_HUMAN</id>
+        <seq>MKLVFLVLLFLGALGLCLAGRRRSVQWCAVSQPEATKCFQWQRNMRKVRGPPVSCIKRDSPIQCIQAIAENRADAVTLDGGFIYEAGLAPYKLRPVAAEVYGTERQPRTHYYAVAVVKKGGSFQLNELQGLKSCHTGLRRTAGWNVPIGTLRPFLNWTGPPEPIEAAVARFFSASCVPGADKGQFPNLCRLCAGTGENKCAFSSQEPYFSYSGAFKCLRDGAGDVAFIRESTVFEDLSDEAERDEYELLCPDNTRKPVDKFKDCHLARVPSHAVVARSVNGKEDAIWNLLRQAQEKFGKDKSPKFQLFGSPSGQKDLLFKDSAIGFSRVPPRIDSGLYLGSGYFTAIQNLRKSEEEVAARRARVVWCAVGEQELRKCNQWSGLSEGSVTCSSASTTEDCIALVLKGEADAMSLDGGYVYTAGKCGLVPVLAENYKSQQSSDPDPNCVDRPVEGYLAVAVVRRSDTSLTWNSVKGKKSCHTAVDRTAGWNIPMGLLFNQTGSCKFDEYFSQSCAPGSDPRSNLCALCIGDEQGENKCVPNSNERYYGYTGAFRCLAENAGDVAFVKDVTVLQNTDGNNNEAWAKDLKLADFALLCLDGKRKPVTEARSCHLAMAPNHAVVSRMDKVERLKQVLLHQQAKFGRNGSDCPDKFCLFQSETKNLLFNDNTECLARLHGKTTYEKYLGPQYVAGITNLKKCSTSPLLEACEFLRK</seq>
+        <length>710</length>
+        <genename>LTF</genename>
+        <type>Precursor Protein</type>
+    </proteins>
+    <proteins>
+        <name>Apolipoprotein E</name>
+        <id>APOE_HUMAN</id>
+        <ac>P02649</ac>
+        <seq>MKVLWAALLVTFLAGCQAKVEQAVETEPEPELRQQTEWQSGQRWELALGRFWDYLRWVQTLSEQVQEELLSSQVTQELRALMDETMKELKAYKSELEEQLTPVAEETRARLSKELQAAQARLGADMEDVCGRLVQYRGEVQAMLGQSTEELRVRLASHLRKLRKRLLRDADDLQKRLAVYQAGAREGAERGLSAIRERLGPLVEQGRVRAATVGSLAGQPLQERAQAWGERLRARMEEMGSRTRDRLDEVKEQVAEVRAKLEEQAQQIRLQAEAFQARLKSWFEPLVEDMQRQWAGLVEKVQAAVGTSAAPVPSDNH</seq>
+        <length>317</length>
+        <genename>APOE</genename>
+        <type>Co-deposited Protein</type>
+        <association_source>10502582</association_source>
+    </proteins>
+    <proteins>
+        <name>Clusterin</name>
+        <id>CLUS_HUMAN</id>
+        <ac>P10909</ac>
+        <seq>MMKTLLLFVGLLLTWESGQVLGDQTVSDNELQEMSNQGSKYVNKEIQNAVNGVKQIKTLIEKTNEERKTLLSNLEEAKKKKEDALNETRESETKLKELPGVCNETMMALWEECKPCLKQTCMKFYARVCRSGSGLVGRQLEEFLNQSSPFYFWMNGDRIDSLLENDRQQTHMLDVMQDHFSRASSIIDELFQDRFFTREPQDTYHYLPFSLPHRRPHFFFPKSRIVRSLMPFSPYEPLNFHAMFQPFLEMIHEAQQAMDIHFHSPAFQHPPTEFIREGDDDRTVCREIRHNSTGCLRMKDQCDKCREILSVDCSTNNPSQAKLRRELDESLQVAERLTRKYNELLKSYQWKMLNTSSLLEQLNEQFNWVSRLANLTQGEDQYYLRVTTVASHTSDSDVPSGVTEVVVKLFDSDPITVTVPVEVSRKNPKFMETVAEKALQEYRKKHREE</seq>
+        <length>449</length>
+        <genename>CLU</genename>
+        <type>Co-deposited Protein</type>
+        <association_source>10502582</association_source>
+    </proteins>
+    <alternative_names>Amyloid corneal dystrophy, Japanese type</alternative_names>
+    <alternative_names>Amyloidosis, corneal</alternative_names>
+    <alternative_names>Corneal Dystrophy, Lattice Type III</alternative_names>
+    <alternative_names>Corneal amyloidosis</alternative_names>
+    <alternative_names>Corneal dystrophy, Lattice type 3</alternative_names>
+    <alternative_names>Lattice Corneal Dystrophy, Type III</alternative_names>
+    <alternative_names>Lattice corneal dystrophy type3</alternative_names>
+    <alternative_names>Primary familial amyloidosis of the cornea </alternative_names>
+    <alternative_names>Familial subepithelial corneal amyloidosis</alternative_names>
+    <alternative_names>CDGDL</alternative_names>
+    <crossreferences>
+        <abbreviation>ICD</abbreviation>
+        <link>http://apps.who.int/classifications/icd10/browse/2016/en#/H18</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>MeSH</abbreviation>
+        <link>https://meshb.nlm.nih.gov/record/ui?ui=C535480</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>OMIM</abbreviation>
+        <link>https://www.omim.org/entry/204870</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/9418728</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/27913443</link>
+    </crossreferences>
+    <isa_name></isa_name>
+</disease>

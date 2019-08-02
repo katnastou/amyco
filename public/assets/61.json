@@ -1,0 +1,71 @@
+{
+    "name": "Bronchiectasis ",
+    "descriptions": "Persistent abnormal dilatation of the bronchi.",
+    "type": "Clinical conditions associated with amyloidosis",
+    "association": "Diseases of the Respiratory System",
+    "tissue": "Larynx, Lung, Kidney, Gastrointestinal Tract",
+    "proteins": [
+        {
+            "name": "Serum amyloid A-1 protein",
+            "ac": "P0DJI8",
+            "id": "SAA1_HUMAN",
+            "seq": "MKLLTGLVFCSLVLGVSSRSFFSFLGEAFDGARDMWRAYSDMREANYIGSDKYFHARGNYDAAKRGPGGVWAAEAISDARENIQRFFGHGAEDSLADQAANEWGRSGKDPNHFRPAGLPEKY",
+            "length": 122,
+            "genename": "SAA1",
+            "type": "Precursor Protein"
+        },
+        {
+            "name": "Serum amyloid A-2 protein",
+            "ac": "P0DJI9",
+            "id": "SAA2_HUMAN",
+            "seq": "MKLLTGLVFCSLVLSVSSRSFFSFLGEAFDGARDMWRAYSDMREANYIGSDKYFHARGNYDAAKRGPGGAWAAEVISNARENIQRLTGRGAEDSLADQAANKWGRSGRDPNHFRPAGLPEKY",
+            "length": 122,
+            "genename": "SAA2",
+            "type": "Precursor Protein"
+        },
+        {
+            "name": "Immunoglobulin kappa light chain",
+            "ac": "P0DOX7",
+            "id": "IGK_HUMAN",
+            "seq": "DIQMTQSPSTLSASVGDRVTITCRASQSINTWLAWYQQKPGKAPKLLMYKASSLESGVPSRFIGSGSGTEFTLTISSLQPDDFATYYCQQYNSDSKMFGQGTKVEVKGTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC",
+            "length": 214,
+            "genename": "IGK",
+            "type": "Precursor Protein"
+        },
+        {
+            "name": "Immunoglobulin lambda-1 light chain",
+            "ac": "P0DOX8",
+            "id": "IGL1_HUMAN",
+            "seq": "QSALTQPPSASGSLGQSVTISCTGTSSDVGGYNYVSWYQQHAGKAPKVIIYEVNKRPSGVPDRFSGSKSGNTASLTVSGLQAEDEADYYCSSYEGSDNFVFGTGTKVTVLGQPKANPTVTLFPPSSEELQANKATLVCLISDFYPGAVTVAWKADGSPVKAGVETTKPSKQSNNKYAASSYLSLTPEQWKSHRSYSCQVTHEGSTVEKTVAPTECS",
+            "length": 216,
+            "genename": "IGL1",
+            "type": "Precursor Protein"
+        }
+    ],
+    "alternative_names": [
+        null
+    ],
+    "crossreferences": [
+        {
+            "abbreviation": "ICD",
+            "link": "http://apps.who.int/classifications/icd10/browse/2016/en#/J47"
+        },
+        {
+            "abbreviation": "MeSH",
+            "link": "https://meshb.nlm.nih.gov/record/ui?ui=D001987"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/27764008"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/8753122"
+        }
+    ],
+    "mappings_amyloid": [
+        "http://83.212.109.111:8084/amyco/8",
+        "http://83.212.109.111:8084/amyco/29"
+    ],
+    "isa_name": ""
+}

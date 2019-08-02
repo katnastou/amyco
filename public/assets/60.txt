@@ -1,0 +1,48 @@
+ID: 60
+
+Disease Name: Castleman Disease
+
+Description: Large benign, hyperplastic lymph nodes. The more common hyaline vascular subtype is characterized by small hyaline vascular follicles and interfollicular capillary proliferations. Plasma cells are often present and represent another subtype with the plasma cells containing IgM and immunoglobulin A.
+
+Disease Type: Clinical conditions associated with amyloidosis
+
+ICD-10 Classification: Neoplasms
+
+Tissue: Liver, Lymph Node, Spleen, Kidney, Thyroid Gland, Heart
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/D47
+
+https://meshb.nlm.nih.gov/record/ui?ui=D005871
+
+https://www.ncbi.nlm.nih.gov/pubmed/8213634
+
+https://www.ncbi.nlm.nih.gov/pubmed/6437933
+
+https://www.ncbi.nlm.nih.gov/pubmed/24348320
+
+Alternative Names:
+Angiofollicular Lymph Hyperplasia
+Angiofollicular Lymph Node Hyperplasia
+Angiofollicular Lymphoid Hyperplasia
+Castleman's Disease
+Castleman's Tumor
+Castlemans Disease
+Giant Lymph Node Hyperplasia
+Hyperplasia, Giant Lymph Node
+Lymph Node Hyperplasia, Giant
+
+Precursor Proteins:
+P0DJI8 | Serum amyloid A-1 protein
+P0DJI9 | Serum amyloid A-2 protein
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	http://83.212.109.111:8084/amyco/29
+
+//

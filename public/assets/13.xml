@@ -1,0 +1,108 @@
+<?xml version='1.0'?>
+<disease>
+    <name>Down Syndrome</name>
+    <descriptions>A chromosome disorder associated either with an extra chromosome 21 or an effective trisomy for chromosome 21. Clinical manifestations include hypotonia, short stature, brachycephaly, upslanting palpebral fissures, epicanthus, Brushfield spots on the iris, protruding tongue, small ears, short, broad hands, fifth finger clinodactyly, Simian crease, and moderate to severe intellectual disability. Cardiac and gastrointestinal malformations, a marked increase in the incidence of leukemia, and the early onset of Alzheimer disease are also associated with this condition. Pathologic features include the development of neurofibrillary tangles in neurons and the deposition of amyloid beta-protein, similar to the pathology of Alzheimer disease.</descriptions>
+    <type>Clinical conditions associated with amyloidosis</type>
+    <association>Chromosomal Abnormalities</association>
+    <tissue>Central Nervous System (CNS)</tissue>
+    <proteins>
+        <name>Amyloid-beta A4 protein</name>
+        <ac>P05067</ac>
+        <id>A4_HUMAN</id>
+        <seq>MLPGLALLLLAAWTARALEVPTDGNAGLLAEPQIAMFCGRLNMHMNVQNGKWDSDPSGTKTCIDTKEGILQYCQEVYPELQITNVVEANQPVTIQNWCKRGRKQCKTHPHFVIPYRCLVGEFVSDALLVPDKCKFLHQERMDVCETHLHWHTVAKETCSEKSTNLHDYGMLLPCGIDKFRGVEFVCCPLAEESDNVDSADAEEDDSDVWWGGADTDYADGSEDKVVEVAEEEEVAEVEEEEADDDEDDEDGDEVEEEAEEPYEEATERTTSIATTTTTTTESVEEVVREVCSEQAETGPCRAMISRWYFDVTEGKCAPFFYGGCGGNRNNFDTEEYCMAVCGSAMSQSLLKTTQEPLARDPVKLPTTAASTPDAVDKYLETPGDENEHAHFQKAKERLEAKHRERMSQVMREWEEAERQAKNLPKADKKAVIQHFQEKVESLEQEAANERQQLVETHMARVEAMLNDRRRLALENYITALQAVPPRPRHVFNMLKKYVRAEQKDRQHTLKHFEHVRMVDPKKAAQIRSQVMTHLRVIYERMNQSLSLLYNVPAVAEEIQDEVDELLQKEQNYSDDVLANMISEPRISYGNDALMPSLTETKTTVELLPVNGEFSLDDLQPWHSFGADSVPANTENEVEPVDARPAADRGLTTRPGSGLTNIKTEEISEVKMDAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVVIATVIVITLVMLKKKQYTSIHHGVVEVDAAVTPEERHLSKMQQNGYENPTYKFFEQMQN</seq>
+        <length>770</length>
+        <genename>APP</genename>
+        <type>Precursor Protein</type>
+    </proteins>
+    <proteins>
+        <name>Cystatin-C</name>
+        <id>CYTC_HUMAN</id>
+        <ac>P01034</ac>
+        <seq>MAGPLRAPLLLLAILAVALAVSPAAGSSPGKPPRLVGGPMDASVEEEGVRRALDFAVGEYNKASNDMYHSRALQVVRARKQIVAGVNYFLDVELGRTTCTKTQPNLDNCPFHDQPHLKRKAFCSFQIYAVPWQGTMTLSKSTCQDA</seq>
+        <length>146</length>
+        <genename>CST3</genename>
+        <type>Co-deposited Protein</type>
+        <association_source>2408196</association_source>
+    </proteins>
+    <proteins>
+        <name>Apolipoprotein E</name>
+        <id>APOE_HUMAN</id>
+        <ac>P02649</ac>
+        <seq>MKVLWAALLVTFLAGCQAKVEQAVETEPEPELRQQTEWQSGQRWELALGRFWDYLRWVQTLSEQVQEELLSSQVTQELRALMDETMKELKAYKSELEEQLTPVAEETRARLSKELQAAQARLGADMEDVCGRLVQYRGEVQAMLGQSTEELRVRLASHLRKLRKRLLRDADDLQKRLAVYQAGAREGAERGLSAIRERLGPLVEQGRVRAATVGSLAGQPLQERAQAWGERLRARMEEMGSRTRDRLDEVKEQVAEVRAKLEEQAQQIRLQAEAFQARLKSWFEPLVEDMQRQWAGLVEKVQAAVGTSAAPVPSDNH</seq>
+        <length>317</length>
+        <genename>APOE</genename>
+        <type>Co-deposited Protein</type>
+        <association_source>1625800</association_source>
+    </proteins>
+    <proteins>
+        <name>Complement C1q subcomponent subunit A</name>
+        <id>C1QA_HUMAN</id>
+        <ac>P02745</ac>
+        <seq>MEGPRGWLVLCVLAISLASMVTEDLCRAPDGKKGEAGRPGRRGRPGLKGEQGEPGAPGIRTGIQGLKGDQGEPGPSGNPGKVGYPGPSGPLGARGIPGIKGTKGSPGNIKDQPRPAFSAIRRNPPMGGNVVIFDTVITNQEEPYQNHSGRFVCTVPGYYYFTFQVLSQWEICLSIVSSSRGQVRRSLGFCDTTNKGLFQVVSGGMVLQLQQGDQVWVEKDPKKGHIYQGSEADSVFSGFLIFPSA</seq>
+        <length>245</length>
+        <genename>C1QA</genename>
+        <type>Co-deposited Protein</type>
+        <association_source>11300721</association_source>
+    </proteins>
+    <proteins>
+        <name>Complement C1q subcomponent subunit B</name>
+        <id>C1QB_HUMAN</id>
+        <ac>P02746</ac>
+        <seq>MMMKIPWGSIPVLMLLLLLGLIDISQAQLSCTGPPAIPGIPGIPGTPGPDGQPGTPGIKGEKGLPGLAGDHGEFGEKGDPGIPGNPGKVGPKGPMGPKGGPGAPGAPGPKGESGDYKATQKIAFSATRTINVPLRRDQTIRFDHVITNMNNNYEPRSGKFTCKVPGLYYFTYHASSRGNLCVNLMRGRERAQKVVTFCDYAYNTFQVTTGGMVLKLEQGENVFLQATDKNSLLGMEGANSIFSGFLLFPDMEA</seq>
+        <length>253</length>
+        <genename>C1QB</genename>
+        <type>Co-deposited Protein</type>
+        <association_source>11300721</association_source>
+    </proteins>
+    <proteins>
+        <name>Complement C1q subcomponent subunit C</name>
+        <id>C1QC_HUMAN</id>
+        <ac>P02747</ac>
+        <seq>MDVGPSSLPHLGLKLLLLLLLLPLRGQANTGCYGIPGMPGLPGAPGKDGYDGLPGPKGEPGIPAIPGIRGPKGQKGEPGLPGHPGKNGPMGPPGMPGVPGPMGIPGEPGEEGRYKQKFQSVFTVTRQTHQPPAPNSLIRFNAVLTNPQGDYDTSTGKFTCKVPGLYYFVYHASHTANLCVLLYRSGVKVVTFCGHTSKTNQVNSGGVLLRLQVGEEVWLAVNDYYDMVGIQGSDSVFSGFLLFPD</seq>
+        <length>245</length>
+        <genename>C1QC</genename>
+        <type>Co-deposited Protein</type>
+        <association_source>11300721</association_source>
+    </proteins>
+    <alternative_names>47,XX,+21</alternative_names>
+    <alternative_names>47,XY,+21</alternative_names>
+    <alternative_names>Down Syndrome, Partial Trisomy 21</alternative_names>
+    <alternative_names>Down's Syndrome</alternative_names>
+    <alternative_names>Mongolism</alternative_names>
+    <alternative_names>Partial Trisomy 21 Down Syndrome</alternative_names>
+    <alternative_names>Trisomy 21</alternative_names>
+    <alternative_names>Trisomy 21, Meiotic Nondisjunction</alternative_names>
+    <alternative_names>Trisomy 21, Mitotic Nondisjunction</alternative_names>
+    <alternative_names>Trisomy G</alternative_names>
+    <alternative_names>DS</alternative_names>
+    <crossreferences>
+        <abbreviation>ICD</abbreviation>
+        <link>http://apps.who.int/classifications/icd10/browse/2016/en#/Q90</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>MeSH</abbreviation>
+        <link>https://meshb.nlm.nih.gov/record/ui?ui=D004314</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>OMIM</abbreviation>
+        <link>https://www.omim.org/entry/190685</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/2522541</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/3159021</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/11300721</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/26362596</link>
+    </crossreferences>
+    <mappings_amyloid>http://83.212.109.111:8084/amyco/1</mappings_amyloid>
+    <isa_name></isa_name>
+</disease>

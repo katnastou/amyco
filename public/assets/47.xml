@@ -1,0 +1,112 @@
+<?xml version='1.0'?>
+<disease>
+    <name>Carcinoma, Basal Cell</name>
+    <descriptions>A malignant skin neoplasm that seldom metastasizes but has potentialities for local invasion and destruction. Clinically it is divided into types: nodular, cicatricial, morphaic, and erythematoid (pagetoid). They develop on hair-bearing skin, most commonly on sun-exposed areas. Approximately 85% are found on the head and neck area and the remaining 15% on the trunk and limbs.</descriptions>
+    <type>Clinical conditions associated with amyloidosis</type>
+    <association>Neoplasms</association>
+    <tissue>Skin</tissue>
+    <proteins>
+        <name>Keratin, type I cytoskeletal 14</name>
+        <ac>P02533</ac>
+        <id>K1C14_HUMAN</id>
+        <seq>MTTCSRQFTSSSSMKGSCGIGGGIGGGSSRISSVLAGGSCRAPSTYGGGLSVSSSRFSSGGACGLGGGYGGGFSSSSSSFGSGFGGGYGGGLGAGLGGGFGGGFAGGDGLLVGSEKVTMQNLNDRLASYLDKVRALEEANADLEVKIRDWYQRQRPAEIKDYSPYFKTIEDLRNKILTATVDNANVLLQIDNARLAADDFRTKYETELNLRMSVEADINGLRRVLDELTLARADLEMQIESLKEELAYLKKNHEEEMNALRGQVGGDVNVEMDAAPGVDLSRILNEMRDQYEKMAEKNRKDAEEWFFTKTEELNREVATNSELVQSGKSEISELRRTMQNLEIELQSQLSMKASLENSLEETKGRYCMQLAQIQEMIGSVEEQLAQLRCEMEQQNQEYKILLDVKTRLEQEIATYRRLLEGEDAHLSSSQFSSGSQSSRDVTSSSRQIRTKVMDVHDGKVVSTHEQVLRTKN</seq>
+        <length>472</length>
+        <genename>KRT14</genename>
+        <type>Precursor Protein</type>
+    </proteins>
+    <proteins>
+        <name>Keratin, type II cytoskeletal 1</name>
+        <ac>P04264</ac>
+        <id>K2C1_HUMAN</id>
+        <seq>MSRQFSSRSGYRSGGGFSSGSAGIINYQRRTTSSSTRRSGGGGGRFSSCGGGGGSFGAGGGFGSRSLVNLGGSKSISISVARGGGRGSGFGGGYGGGGFGGGGFGGGGFGGGGIGGGGFGGFGSGGGGFGGGGFGGGGYGGGYGPVCPPGGIQEVTINQSLLQPLNVEIDPEIQKVKSREREQIKSLNNQFASFIDKVRFLEQQNQVLQTKWELLQQVDTSTRTHNLEPYFESFINNLRRRVDQLKSDQSRLDSELKNMQDMVEDYRNKYEDEINKRTNAENEFVTIKKDVDGAYMTKVDLQAKLDNLQQEIDFLTALYQAELSQMQTQISETNVILSMDNNRSLDLDSIIAEVKAQYEDIAQKSKAEAESLYQSKYEELQITAGRHGDSVRNSKIEISELNRVIQRLRSEIDNVKKQISNLQQSISDAEQRGENALKDAKNKLNDLEDALQQAKEDLARLLRDYQELMNTKLALDLEIATYRTLLEGEESRMSGECAPNVSVSVSTSHTTISGGGSRGGGGGGYGSGGSSYGSGGGSYGSGGGGGGGRGSYGSGGSSYGSGGGSYGSGGGGGGHGSYGSGSSSGGYRGGSGGGGGGSSGGRGSGGGSSGGSIGGRGSSSGGVKSSGGSSSVKFVSTTYSGVTR</seq>
+        <length>644</length>
+        <genename>KRT1</genename>
+        <type>Precursor Protein</type>
+    </proteins>
+    <proteins>
+        <name>Keratin, type II cytoskeletal 5</name>
+        <ac>P13647</ac>
+        <id>K2C5_HUMAN</id>
+        <seq>MSRQSSVSFRSGGSRSFSTASAITPSVSRTSFTSVSRSGGGGGGGFGRVSLAGACGVGGYGSRSLYNLGGSKRISISTSGGSFRNRFGAGAGGGYGFGGGAGSGFGFGGGAGGGFGLGGGAGFGGGFGGPGFPVCPPGGIQEVTVNQSLLTPLNLQIDPSIQRVRTEEREQIKTLNNKFASFIDKVRFLEQQNKVLDTKWTLLQEQGTKTVRQNLEPLFEQYINNLRRQLDSIVGERGRLDSELRNMQDLVEDFKNKYEDEINKRTTAENEFVMLKKDVDAAYMNKVELEAKVDALMDEINFMKMFFDAELSQMQTHVSDTSVVLSMDNNRNLDLDSIIAEVKAQYEEIANRSRTEAESWYQTKYEELQQTAGRHGDDLRNTKHEISEMNRMIQRLRAEIDNVKKQCANLQNAIADAEQRGELALKDARNKLAELEEALQKAKQDMARLLREYQELMNTKLALDVEIATYRKLLEGEECRLSGEGVGPVNISVVTSSVSSGYGSGSGYGGGLGGGLGGGLGGGLAGGSSGSYYSSSSGGVGLGGGLSVGGSGFSASSGRGLGVGFGSGGGSSSSVKFVSTTSSSRKSFKS</seq>
+        <length>590</length>
+        <genename>KRT5</genename>
+        <type>Precursor Protein</type>
+    </proteins>
+    <proteins>
+        <name>Galectin-7</name>
+        <ac>P47929</ac>
+        <id>LEG7_HUMAN</id>
+        <seq>MSNVPHKSSLPEGIRPGTVLRIRGLVPPNASRFHVNLLCGEEQGSDAALHFNPRLDTSEVVFNSKEQGSWGREERGPGVPFQRGQPFEVLIIASDDGFKAVVGDAQYHHFRHRLPLARVRLVEVGGDVQLDSVRIF</seq>
+        <length>136</length>
+        <genename>LGALS7</genename>
+        <type>Precursor Protein</type>
+    </proteins>
+    <proteins>
+        <name>Actin, cytoplasmic 1</name>
+        <ac>P60709</ac>
+        <id>ACTB_HUMAN</id>
+        <seq>MDDDIAALVVDNGSGMCKAGFAGDDAPRAVFPSIVGRPRHQGVMVGMGQKDSYVGDEAQSKRGILTLKYPIEHGIVTNWDDMEKIWHHTFYNELRVAPEEHPVLLTEAPLNPKANREKMTQIMFETFNTPAMYVAIQAVLSLYASGRTTGIVMDSGDGVTHTVPIYEGYALPHAILRLDLAGRDLTDYLMKILTERGYSFTTTAEREIVRDIKEKLCYVALDFEQEMATAASSSSLEKSYELPDGQVITIGNERFRCPEALFQPSFLGMESCGIHETTFNSIMKCDVDIRKDLYANTVLSGGTTMYPGIADRMQKEITALAPSTMKIKIIAPPERKYSVWIGGSILASLSTFQQMWISKQEYDESGPSIVHRKCF</seq>
+        <length>375</length>
+        <genename>ACTB</genename>
+        <type>Precursor Protein</type>
+    </proteins>
+    <proteins>
+        <name>Actin, cytoplasmic 2 </name>
+        <ac>P63261</ac>
+        <id>ACTG_HUMAN</id>
+        <seq>MEEEIAALVIDNGSGMCKAGFAGDDAPRAVFPSIVGRPRHQGVMVGMGQKDSYVGDEAQSKRGILTLKYPIEHGIVTNWDDMEKIWHHTFYNELRVAPEEHPVLLTEAPLNPKANREKMTQIMFETFNTPAMYVAIQAVLSLYASGRTTGIVMDSGDGVTHTVPIYEGYALPHAILRLDLAGRDLTDYLMKILTERGYSFTTTAEREIVRDIKEKLCYVALDFEQEMATAASSSSLEKSYELPDGQVITIGNERFRCPEALFQPSFLGMESCGIHETTFNSIMKCDVDIRKDLYANTVLSGGTTMYPGIADRMQKEITALAPSTMKIKIIAPPERKYSVWIGGSILASLSTFQQMWISKQEYDESGPSIVHRKCF</seq>
+        <length>375</length>
+        <genename>ACTG1</genename>
+        <type>Precursor Protein</type>
+    </proteins>
+    <proteins>
+        <name>Immunoglobulin kappa light chain</name>
+        <ac>P0DOX7</ac>
+        <id>IGK_HUMAN</id>
+        <seq>DIQMTQSPSTLSASVGDRVTITCRASQSINTWLAWYQQKPGKAPKLLMYKASSLESGVPSRFIGSGSGTEFTLTISSLQPDDFATYYCQQYNSDSKMFGQGTKVEVKGTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC</seq>
+        <length>214</length>
+        <genename>IGK</genename>
+        <type>Precursor Protein</type>
+    </proteins>
+    <proteins>
+        <name>Immunoglobulin lambda-1 light chain</name>
+        <ac>P0DOX8</ac>
+        <id>IGL1_HUMAN</id>
+        <seq>QSALTQPPSASGSLGQSVTISCTGTSSDVGGYNYVSWYQQHAGKAPKVIIYEVNKRPSGVPDRFSGSKSGNTASLTVSGLQAEDEADYYCSSYEGSDNFVFGTGTKVTVLGQPKANPTVTLFPPSSEELQANKATLVCLISDFYPGAVTVAWKADGSPVKAGVETTKPSKQSNNKYAASSYLSLTPEQWKSHRSYSCQVTHEGSTVEKTVAPTECS</seq>
+        <length>216</length>
+        <genename>IGL1</genename>
+        <type>Precursor Protein</type>
+    </proteins>
+    <alternative_names>Carcinoma, Basal Cell, Pigmented</alternative_names>
+    <alternative_names>Epithelioma, Basal Cell</alternative_names>
+    <alternative_names>Rodent Ulcer</alternative_names>
+    <alternative_names>Ulcer, Rodent </alternative_names>
+    <alternative_names>Basal Cell Carcinoma</alternative_names>
+    <alternative_names>BCC</alternative_names>
+    <crossreferences>
+        <abbreviation>ICD</abbreviation>
+        <link>http://apps.who.int/classifications/icd10/browse/2016/en#/C44</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>MeSH</abbreviation>
+        <link>https://meshb.nlm.nih.gov/record/ui?ui=D002280</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>OMIM</abbreviation>
+        <link>https://www.omim.org/entry/604451</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/4127464</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/385032</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/16076610</link>
+    </crossreferences>
+    <mappings_amyloid>http://83.212.109.111:8084/amyco/42</mappings_amyloid>
+    <isa_name></isa_name>
+</disease>

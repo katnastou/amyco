@@ -1,0 +1,69 @@
+<?xml version='1.0'?>
+<disease>
+    <name>Gerstmann-Straussler-Scheinker Disease</name>
+    <descriptions>An autosomal dominant familial prion disease with a wide spectrum of clinical presentations including ataxia, spastic paraparesis, extrapyramidal signs, and dementia. Clinical onset is in the third to sixth decade of life and the mean duration of illness prior to death is five years. Several kindreds with variable clinical and pathologic features have been described. Pathologic features include cerebral prion protein amyloidosis, and spongiform or neurofibrillary degeneration.</descriptions>
+    <type>Amyloidosis</type>
+    <association>Certain Infectious and Parasitic Diseases</association>
+    <tissue>Central Nervous System (CNS)</tissue>
+    <proteins>
+        <name>Major prion protein</name>
+        <ac>P04156</ac>
+        <id>PRIO_HUMAN</id>
+        <seq>MANLGCWMLVLFVATWSDLGLCKKRPKPGGWNTGGSRYPGQGSPGGNRYPPQGGGGWGQPHGGGWGQPHGGGWGQPHGGGWGQPHGGGWGQGGGTHSQWNKPSKPKTNMKHMAGAAAAGAVVGGLGGYMLGSAMSRPIIHFGSDYEDRYYRENMHRYPNQVYYRPMDEYSNQNNFVHDCVNITIKQHTVTTTTKGENFTETDVKMMERVVEQMCITQYERESQAYYQRGSSMVLFSSPPVILLISFLIFLIVG</seq>
+        <length>253</length>
+        <genename>PRNP</genename>
+        <type>Precursor Protein</type>
+    </proteins>
+    <proteins>
+        <name>Amyloid-beta A4 protein</name>
+        <id>A4_HUMAN</id>
+        <ac>P05067</ac>
+        <seq>MLPGLALLLLAAWTARALEVPTDGNAGLLAEPQIAMFCGRLNMHMNVQNGKWDSDPSGTKTCIDTKEGILQYCQEVYPELQITNVVEANQPVTIQNWCKRGRKQCKTHPHFVIPYRCLVGEFVSDALLVPDKCKFLHQERMDVCETHLHWHTVAKETCSEKSTNLHDYGMLLPCGIDKFRGVEFVCCPLAEESDNVDSADAEEDDSDVWWGGADTDYADGSEDKVVEVAEEEEVAEVEEEEADDDEDDEDGDEVEEEAEEPYEEATERTTSIATTTTTTTESVEEVVREVCSEQAETGPCRAMISRWYFDVTEGKCAPFFYGGCGGNRNNFDTEEYCMAVCGSAMSQSLLKTTQEPLARDPVKLPTTAASTPDAVDKYLETPGDENEHAHFQKAKERLEAKHRERMSQVMREWEEAERQAKNLPKADKKAVIQHFQEKVESLEQEAANERQQLVETHMARVEAMLNDRRRLALENYITALQAVPPRPRHVFNMLKKYVRAEQKDRQHTLKHFEHVRMVDPKKAAQIRSQVMTHLRVIYERMNQSLSLLYNVPAVAEEIQDEVDELLQKEQNYSDDVLANMISEPRISYGNDALMPSLTETKTTVELLPVNGEFSLDDLQPWHSFGADSVPANTENEVEPVDARPAADRGLTTRPGSGLTNIKTEEISEVKMDAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVVIATVIVITLVMLKKKQYTSIHHGVVEVDAAVTPEERHLSKMQQNGYENPTYKFFEQMQN</seq>
+        <length>770</length>
+        <genename>APP</genename>
+        <type>Co-deposited Protein</type>
+        <association_source>1349451</association_source>
+    </proteins>
+    <proteins>
+        <name>14-3-3 protein epsilon</name>
+        <id>1433E_HUMAN</id>
+        <ac>P62258</ac>
+        <seq>MDDREDLVYQAKLAEQAERYDEMVESMKKVAGMDVELTVEERNLLSVAYKNVIGARRASWRIISSIEQKEENKGGEDKLKMIREYRQMVETELKLICCDILDVLDKHLIPAANTGESKVFYYKMKGDYHRYLAEFATGNDRKEAAENSLVAYKAASDIAMTELPPTHPIRLGLALNFSVFYYEILNSPDRACRLAKAAFDDAIAELDTLSEESYKDSTLIMQLLRDNLTLWTSDMQGDGEEQNKEALQDVEDENQ</seq>
+        <length>255</length>
+        <genename>YWHAE</genename>
+        <type>Co-deposited Protein</type>
+        <association_source>17278997</association_source>
+    </proteins>
+    <alternative_names>Encephalopathy, Subacute Spongiform, Gerstmann-Straussler Type</alternative_names>
+    <alternative_names>Gerstmann-Straussler Disease</alternative_names>
+    <alternative_names>Gerstmann-Straussler Inherited Spongiform Encephalopathy</alternative_names>
+    <alternative_names>Gerstmann-Straussler Syndrome</alternative_names>
+    <alternative_names>Gerstmann-Straussler-Scheinker Syndrome</alternative_names>
+    <alternative_names>Inherited Spongiform Encephalopathy, Gerstmann-Straussler </alternative_names>
+    <alternative_names>Subacute spongiform encephalopathy, Gerstmann-Straussler type</alternative_names>
+    <crossreferences>
+        <abbreviation>ICD</abbreviation>
+        <link>http://apps.who.int/classifications/icd10/browse/2016/en#/A81</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>MeSH</abbreviation>
+        <link>https://meshb.nlm.nih.gov/record/ui?ui=D016098</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>OMIM</abbreviation>
+        <link>https://www.omim.org/entry/137440</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/7445983</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/1672107</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/17278997</link>
+    </crossreferences>
+    <isa_name></isa_name>
+</disease>

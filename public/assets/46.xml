@@ -1,0 +1,118 @@
+<?xml version='1.0'?>
+<disease>
+    <name>Lymphoma, Non-Hodgkin</name>
+    <descriptions>Any of a group of malignant tumors of lymphoid tissue that differ from Hodgkin disease, being more heterogeneous with respect to malignant cell lineage, clinical course, prognosis, and therapy. The only common feature among these tumors is the absence of giant Reed-Sternberg cells, a characteristic of Hodgkin's disease.</descriptions>
+    <type>Clinical conditions associated with amyloidosis</type>
+    <association>Neoplasms</association>
+    <tissue>Heart, Kidney, Liver, Bone Marrow, Lymph Node, Spleen</tissue>
+    <proteins>
+        <name>Serum amyloid A-1 protein</name>
+        <ac>P0DJI8</ac>
+        <id>SAA1_HUMAN</id>
+        <seq>MKLLTGLVFCSLVLGVSSRSFFSFLGEAFDGARDMWRAYSDMREANYIGSDKYFHARGNYDAAKRGPGGVWAAEAISDARENIQRFFGHGAEDSLADQAANEWGRSGKDPNHFRPAGLPEKY</seq>
+        <length>122</length>
+        <genename>SAA1</genename>
+        <type>Precursor Protein</type>
+    </proteins>
+    <proteins>
+        <name>Serum amyloid A-2 protein</name>
+        <ac>P0DJI9</ac>
+        <id>SAA2_HUMAN</id>
+        <seq>MKLLTGLVFCSLVLSVSSRSFFSFLGEAFDGARDMWRAYSDMREANYIGSDKYFHARGNYDAAKRGPGGAWAAEVISNARENIQRLTGRGAEDSLADQAANKWGRSGRDPNHFRPAGLPEKY</seq>
+        <length>122</length>
+        <genename>SAA2</genename>
+        <type>Precursor Protein</type>
+    </proteins>
+    <proteins>
+        <name>Immunoglobulin kappa light chain</name>
+        <ac>P0DOX7</ac>
+        <id>IGK_HUMAN</id>
+        <seq>DIQMTQSPSTLSASVGDRVTITCRASQSINTWLAWYQQKPGKAPKLLMYKASSLESGVPSRFIGSGSGTEFTLTISSLQPDDFATYYCQQYNSDSKMFGQGTKVEVKGTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC</seq>
+        <length>214</length>
+        <genename>IGK</genename>
+        <type>Precursor Protein</type>
+    </proteins>
+    <proteins>
+        <name>Immunoglobulin lambda-1 light chain</name>
+        <ac>P0DOX8</ac>
+        <id>IGL1_HUMAN</id>
+        <seq>QSALTQPPSASGSLGQSVTISCTGTSSDVGGYNYVSWYQQHAGKAPKVIIYEVNKRPSGVPDRFSGSKSGNTASLTVSGLQAEDEADYYCSSYEGSDNFVFGTGTKVTVLGQPKANPTVTLFPPSSEELQANKATLVCLISDFYPGAVTVAWKADGSPVKAGVETTKPSKQSNNKYAASSYLSLTPEQWKSHRSYSCQVTHEGSTVEKTVAPTECS</seq>
+        <length>216</length>
+        <genename>IGL1</genename>
+        <type>Precursor Protein</type>
+    </proteins>
+    <alternative_names>Diffuse Mixed Small and Large Cell Lymphoma</alternative_names>
+    <alternative_names>Diffuse Mixed-Cell Lymphoma</alternative_names>
+    <alternative_names>Diffuse Small Cleaved-Cell Lymphoma</alternative_names>
+    <alternative_names>Diffuse Undifferentiated Lymphoma</alternative_names>
+    <alternative_names>Lymphatic Sarcoma</alternative_names>
+    <alternative_names>Lymphoma, Atypical Diffuse Small Lymphoid</alternative_names>
+    <alternative_names>Lymphoma, Diffuse</alternative_names>
+    <alternative_names>Lymphoma, Diffuse, Mixed Lymphocytic-Histiocytic</alternative_names>
+    <alternative_names>Lymphoma, High-Grade</alternative_names>
+    <alternative_names>Lymphoma, Intermediate-Grade</alternative_names>
+    <alternative_names>Lymphoma, Low-Grade</alternative_names>
+    <alternative_names>Lymphoma, Mixed</alternative_names>
+    <alternative_names>Lymphoma, Mixed Cell, Diffuse</alternative_names>
+    <alternative_names>Lymphoma, Mixed Lymphocytic-Histiocytic</alternative_names>
+    <alternative_names>Lymphoma, Mixed Small and Large Cell, Diffuse</alternative_names>
+    <alternative_names>Lymphoma, Mixed-Cell</alternative_names>
+    <alternative_names>Lymphoma, Mixed-Cell, Diffuse</alternative_names>
+    <alternative_names>Lymphoma, Non-Hodgkin's</alternative_names>
+    <alternative_names>Lymphoma, Non-Hodgkin, Familial</alternative_names>
+    <alternative_names>Lymphoma, Non-Hodgkins</alternative_names>
+    <alternative_names>Lymphoma, Nonhodgkin's</alternative_names>
+    <alternative_names>Lymphoma, Nonhodgkins</alternative_names>
+    <alternative_names>Lymphoma, Pleomorphic</alternative_names>
+    <alternative_names>Lymphoma, Small Cleaved Cell, Diffuse</alternative_names>
+    <alternative_names>Lymphoma, Small Cleaved-Cell, Diffuse</alternative_names>
+    <alternative_names>Lymphoma, Small Non-Cleaved-Cell</alternative_names>
+    <alternative_names>Lymphoma, Small Noncleaved-Cell</alternative_names>
+    <alternative_names>Lymphoma, Small and Large Cleaved-Cell, Diffuse</alternative_names>
+    <alternative_names>Lymphoma, Undifferentiated</alternative_names>
+    <alternative_names>Lymphoma, Undifferentiated, Diffuse</alternative_names>
+    <alternative_names>Lymphosarcoma</alternative_names>
+    <alternative_names>Mixed Small and Large Cell Lymphoma, Diffuse</alternative_names>
+    <alternative_names>Mixed-Cell Lymphoma</alternative_names>
+    <alternative_names>Mixed-Cell Lymphoma, Diff </alternative_names>
+    <alternative_names>Non-Hodgkin Lymphoma</alternative_names>
+    <crossreferences>
+        <abbreviation>ICD</abbreviation>
+        <link>http://apps.who.int/classifications/icd10/browse/2016/en#/C85</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>MeSH</abbreviation>
+        <link>https://meshb.nlm.nih.gov/record/ui?ui=D008228</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>OMIM</abbreviation>
+        <link>https://www.omim.org/entry/605027</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/1086712</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/9137796</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/15297973</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/12002783</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/14717777</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/20403049</link>
+    </crossreferences>
+    <mappings_amyloid>http://83.212.109.111:8084/amyco/29</mappings_amyloid>
+    <mappings_amyloid>http://83.212.109.111:8084/amyco/8</mappings_amyloid>
+    <isa_name></isa_name>
+</disease>

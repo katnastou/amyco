@@ -1,0 +1,42 @@
+{
+    "name": "Kuru",
+    "descriptions": "A prion disease found exclusively among the Fore linguistic group natives of the highlands of New Guinea. The illness is primarily restricted to adult females and children of both sexes. It is marked by the subacute onset of tremor and ataxia followed by motor weakness and incontinence. Death occurs within 3-6 months of disease onset. The condition is associated with ritual cannibalism, and has become rare since this practice has been discontinued. Pathologic features include a noninflammatory loss of neurons that is most prominent in the cerebellum, glial proliferation, and amyloid plaques.",
+    "type": "Amyloidosis",
+    "association": "Certain Infectious and Parasitic Diseases",
+    "tissue": "Central Nervous System (CNS)",
+    "proteins": [
+        {
+            "name": "Major prion protein",
+            "ac": "P04156",
+            "id": "PRIO_HUMAN",
+            "seq": "MANLGCWMLVLFVATWSDLGLCKKRPKPGGWNTGGSRYPGQGSPGGNRYPPQGGGGWGQPHGGGWGQPHGGGWGQPHGGGWGQPHGGGWGQGGGTHSQWNKPSKPKTNMKHMAGAAAAGAVVGGLGGYMLGSAMSRPIIHFGSDYEDRYYRENMHRYPNQVYYRPMDEYSNQNNFVHDCVNITIKQHTVTTTTKGENFTETDVKMMERVVEQMCITQYERESQAYYQRGSSMVLFSSPPVILLISFLIFLIVG",
+            "length": 253,
+            "genename": "PRNP",
+            "type": "Precursor Protein"
+        }
+    ],
+    "alternative_names": [
+        "Encephalopathy, Kuru",
+        "Kuru Encephalopathy "
+    ],
+    "crossreferences": [
+        {
+            "abbreviation": "ICD",
+            "link": "http://apps.who.int/classifications/icd10/browse/2016/en#/A81"
+        },
+        {
+            "abbreviation": "MeSH",
+            "link": "https://meshb.nlm.nih.gov/record/ui?ui=D007729"
+        },
+        {
+            "abbreviation": "OMIM",
+            "link": "https://www.omim.org/entry/245300"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/9034563"
+        }
+    ],
+    "mappings_amyloid": [],
+    "isa_name": "APrP Amyloidosis"
+}

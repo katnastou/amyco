@@ -1,0 +1,105 @@
+{
+    "name": "Cerebral Amyloid Angiopathy, APP-related",
+    "descriptions": "",
+    "type": "Amyloidosis",
+    "association": "Diseases of the Circulatory System",
+    "tissue": "Central Nervous System (CNS)",
+    "proteins": [
+        {
+            "name": "Amyloid-beta A4 protein",
+            "ac": "P05067",
+            "id": "A4_HUMAN",
+            "seq": "MLPGLALLLLAAWTARALEVPTDGNAGLLAEPQIAMFCGRLNMHMNVQNGKWDSDPSGTKTCIDTKEGILQYCQEVYPELQITNVVEANQPVTIQNWCKRGRKQCKTHPHFVIPYRCLVGEFVSDALLVPDKCKFLHQERMDVCETHLHWHTVAKETCSEKSTNLHDYGMLLPCGIDKFRGVEFVCCPLAEESDNVDSADAEEDDSDVWWGGADTDYADGSEDKVVEVAEEEEVAEVEEEEADDDEDDEDGDEVEEEAEEPYEEATERTTSIATTTTTTTESVEEVVREVCSEQAETGPCRAMISRWYFDVTEGKCAPFFYGGCGGNRNNFDTEEYCMAVCGSAMSQSLLKTTQEPLARDPVKLPTTAASTPDAVDKYLETPGDENEHAHFQKAKERLEAKHRERMSQVMREWEEAERQAKNLPKADKKAVIQHFQEKVESLEQEAANERQQLVETHMARVEAMLNDRRRLALENYITALQAVPPRPRHVFNMLKKYVRAEQKDRQHTLKHFEHVRMVDPKKAAQIRSQVMTHLRVIYERMNQSLSLLYNVPAVAEEIQDEVDELLQKEQNYSDDVLANMISEPRISYGNDALMPSLTETKTTVELLPVNGEFSLDDLQPWHSFGADSVPANTENEVEPVDARPAADRGLTTRPGSGLTNIKTEEISEVKMDAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVVIATVIVITLVMLKKKQYTSIHHGVVEVDAAVTPEERHLSKMQQNGYENPTYKFFEQMQN",
+            "length": 770,
+            "genename": "APP",
+            "type": "Precursor Protein"
+        },
+        {
+            "name": "Alpha-1-antichymotrypsin",
+            "id": "AACT_HUMAN",
+            "ac": "P01011",
+            "seq": "MERMLPLLALGLLAAGFCPAVLCHPNSPLDEENLTQENQDRGTHVDLGLASANVDFAFSLYKQLVLKAPDKNVIFSPLSISTALAFLSLGAHNTTLTEILKGLKFNLTETSEAEIHQSFQHLLRTLNQSSDELQLSMGNAMFVKEQLSLLDRFTEDAKRLYGSEAFATDFQDSAAAKKLINDYVKNGTRGKITDLIKDLDSQTMMVLVNYIFFKAKWEMPFDPQDTHQSRFYLSKKKWVMVPMMSLHHLTIPYFRDEELSCTVVELKYTGNASALFILPDQDKMEEVEAMLLPETLKRWRDSLEFREIGELYLPKFSISRDYNLNDILLQLGIEEAFTSKADLSGITGARNLAVSQVVHKAVLDVFEEGTEASAATAVKITLLSALVETRTIVRFNRPFLMIIVPTDTQNIFFMSKVTNPKQA",
+            "length": 423,
+            "genename": "SERPINA3",
+            "type": "Co-deposited Proteins",
+            "association_source": "2274275"
+        },
+        {
+            "name": "Cystatin-C",
+            "id": "CYTC_HUMAN",
+            "ac": "P01034",
+            "seq": "MAGPLRAPLLLLAILAVALAVSPAAGSSPGKPPRLVGGPMDASVEEEGVRRALDFAVGEYNKASNDMYHSRALQVVRARKQIVAGVNYFLDVELGRTTCTKTQPNLDNCPFHDQPHLKRKAFCSFQIYAVPWQGTMTLSKSTCQDA",
+            "length": 146,
+            "genename": "CST3",
+            "type": "Co-deposited Proteins",
+            "association_source": "8085435"
+        },
+        {
+            "name": "Apolipoprotein E",
+            "id": "APOE_HUMAN",
+            "ac": "P02649",
+            "seq": "MKVLWAALLVTFLAGCQAKVEQAVETEPEPELRQQTEWQSGQRWELALGRFWDYLRWVQTLSEQVQEELLSSQVTQELRALMDETMKELKAYKSELEEQLTPVAEETRARLSKELQAAQARLGADMEDVCGRLVQYRGEVQAMLGQSTEELRVRLASHLRKLRKRLLRDADDLQKRLAVYQAGAREGAERGLSAIRERLGPLVEQGRVRAATVGSLAGQPLQERAQAWGERLRARMEEMGSRTRDRLDEVKEQVAEVRAKLEEQAQQIRLQAEAFQARLKSWFEPLVEDMQRQWAGLVEKVQAAVGTSAAPVPSDNH",
+            "length": 317,
+            "genename": "APOE",
+            "type": "Co-deposited Proteins",
+            "association_source": "8737927"
+        },
+        {
+            "name": "Serum amyloid P-component",
+            "id": "SAMP_HUMAN",
+            "ac": "P02743",
+            "seq": "MNKPLLWISVLTSLLEAFAHTDLSGKVFVFPRESVTDHVNLITPLEKPLQNFTLCFRAYSDLSRAYSLFSYNTQGRDNELLVYKERVGEYSLYIGRHKVTSKVIEKFPAPVHICVSWESSSGIAEFWINGTPLVKKGLRQGYFVEAQPKIVLGQEQDSYGGKFDRSQSFVGEIGDLYMWDSVLPPENILSAYQGTPLPANILDWQALNYEIRGYVIIKPLVWV",
+            "length": 223,
+            "genename": "APCS",
+            "type": "Co-deposited Proteins",
+            "association_source": "2965774"
+        }
+    ],
+    "alternative_names": [
+        "Amyloidosis, Hereditary, With Cerebral Hemorrhage, Dutch Variant",
+        "Cerebral Amyloid Angiopathy, App-Related",
+        "Cerebral Amyloid Angiopathy, App-Related, Arctic Variant",
+        "Cerebral Amyloid Angiopathy, App-Related, Dutch Variant",
+        "Cerebral Amyloid Angiopathy, App-Related, Flemish Variant",
+        "Cerebral Amyloid Angiopathy, App-Related, Iowa Variant",
+        "Cerebral Amyloid Angiopathy, App-Related, Italian Variant",
+        "Cerebral hemorrhage with amyloidosis, hereditary, Dutch type",
+        "Dutch Type Hereditary Cerebral Amyloid Angiopathy",
+        "HCHWAD",
+        "Hereditary Cerebral Amyloid Angiopathy, Dutch Type",
+        "Amyloidosis, Cerebroarterial, App-Related",
+        "ABeta amyloidosis, Dutch type",
+        "ABetaE22Q amyloidosis",
+        "HCHWA, Dutch type",
+        "HCHWA-D ",
+        "Hereditary Cerebral Hemorrhage with Amyloidosis, Dutch type"
+    ],
+    "crossreferences": [
+        {
+            "abbreviation": "ICD",
+            "link": "http://apps.who.int/classifications/icd10/browse/2016/en#/I68"
+        },
+        {
+            "abbreviation": "MeSH",
+            "link": "https://meshb.nlm.nih.gov/record/ui?ui=C537944"
+        },
+        {
+            "abbreviation": "OMIM",
+            "link": "https://www.omim.org/entry/605714"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/3475718"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/7131028"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/19225789"
+        }
+    ],
+    "mappings_amyloid": [],
+    "isa_name": ""
+}

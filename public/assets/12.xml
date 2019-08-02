@@ -1,0 +1,99 @@
+<?xml version='1.0'?>
+<disease>
+    <name>Cerebral Amyloid Angiopathy, APP-related</name>
+    <descriptions></descriptions>
+    <type>Amyloidosis</type>
+    <association>Diseases of the Circulatory System</association>
+    <tissue>Central Nervous System (CNS)</tissue>
+    <proteins>
+        <name>Amyloid-beta A4 protein</name>
+        <ac>P05067</ac>
+        <id>A4_HUMAN</id>
+        <seq>MLPGLALLLLAAWTARALEVPTDGNAGLLAEPQIAMFCGRLNMHMNVQNGKWDSDPSGTKTCIDTKEGILQYCQEVYPELQITNVVEANQPVTIQNWCKRGRKQCKTHPHFVIPYRCLVGEFVSDALLVPDKCKFLHQERMDVCETHLHWHTVAKETCSEKSTNLHDYGMLLPCGIDKFRGVEFVCCPLAEESDNVDSADAEEDDSDVWWGGADTDYADGSEDKVVEVAEEEEVAEVEEEEADDDEDDEDGDEVEEEAEEPYEEATERTTSIATTTTTTTESVEEVVREVCSEQAETGPCRAMISRWYFDVTEGKCAPFFYGGCGGNRNNFDTEEYCMAVCGSAMSQSLLKTTQEPLARDPVKLPTTAASTPDAVDKYLETPGDENEHAHFQKAKERLEAKHRERMSQVMREWEEAERQAKNLPKADKKAVIQHFQEKVESLEQEAANERQQLVETHMARVEAMLNDRRRLALENYITALQAVPPRPRHVFNMLKKYVRAEQKDRQHTLKHFEHVRMVDPKKAAQIRSQVMTHLRVIYERMNQSLSLLYNVPAVAEEIQDEVDELLQKEQNYSDDVLANMISEPRISYGNDALMPSLTETKTTVELLPVNGEFSLDDLQPWHSFGADSVPANTENEVEPVDARPAADRGLTTRPGSGLTNIKTEEISEVKMDAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVVIATVIVITLVMLKKKQYTSIHHGVVEVDAAVTPEERHLSKMQQNGYENPTYKFFEQMQN</seq>
+        <length>770</length>
+        <genename>APP</genename>
+        <type>Precursor Protein</type>
+    </proteins>
+    <proteins>
+        <name>Alpha-1-antichymotrypsin</name>
+        <id>AACT_HUMAN</id>
+        <ac>P01011</ac>
+        <seq>MERMLPLLALGLLAAGFCPAVLCHPNSPLDEENLTQENQDRGTHVDLGLASANVDFAFSLYKQLVLKAPDKNVIFSPLSISTALAFLSLGAHNTTLTEILKGLKFNLTETSEAEIHQSFQHLLRTLNQSSDELQLSMGNAMFVKEQLSLLDRFTEDAKRLYGSEAFATDFQDSAAAKKLINDYVKNGTRGKITDLIKDLDSQTMMVLVNYIFFKAKWEMPFDPQDTHQSRFYLSKKKWVMVPMMSLHHLTIPYFRDEELSCTVVELKYTGNASALFILPDQDKMEEVEAMLLPETLKRWRDSLEFREIGELYLPKFSISRDYNLNDILLQLGIEEAFTSKADLSGITGARNLAVSQVVHKAVLDVFEEGTEASAATAVKITLLSALVETRTIVRFNRPFLMIIVPTDTQNIFFMSKVTNPKQA</seq>
+        <length>423</length>
+        <genename>SERPINA3</genename>
+        <type>Co-deposited Protein</type>
+        <association_source>2274275</association_source>
+    </proteins>
+    <proteins>
+        <name>Cystatin-C</name>
+        <id>CYTC_HUMAN</id>
+        <ac>P01034</ac>
+        <seq>MAGPLRAPLLLLAILAVALAVSPAAGSSPGKPPRLVGGPMDASVEEEGVRRALDFAVGEYNKASNDMYHSRALQVVRARKQIVAGVNYFLDVELGRTTCTKTQPNLDNCPFHDQPHLKRKAFCSFQIYAVPWQGTMTLSKSTCQDA</seq>
+        <length>146</length>
+        <genename>CST3</genename>
+        <type>Co-deposited Protein</type>
+        <association_source>8085435</association_source>
+    </proteins>
+    <proteins>
+        <name>Apolipoprotein E</name>
+        <id>APOE_HUMAN</id>
+        <ac>P02649</ac>
+        <seq>MKVLWAALLVTFLAGCQAKVEQAVETEPEPELRQQTEWQSGQRWELALGRFWDYLRWVQTLSEQVQEELLSSQVTQELRALMDETMKELKAYKSELEEQLTPVAEETRARLSKELQAAQARLGADMEDVCGRLVQYRGEVQAMLGQSTEELRVRLASHLRKLRKRLLRDADDLQKRLAVYQAGAREGAERGLSAIRERLGPLVEQGRVRAATVGSLAGQPLQERAQAWGERLRARMEEMGSRTRDRLDEVKEQVAEVRAKLEEQAQQIRLQAEAFQARLKSWFEPLVEDMQRQWAGLVEKVQAAVGTSAAPVPSDNH</seq>
+        <length>317</length>
+        <genename>APOE</genename>
+        <type>Co-deposited Protein</type>
+        <association_source>8737927</association_source>
+    </proteins>
+    <proteins>
+        <name>Serum amyloid P-component</name>
+        <id>SAMP_HUMAN</id>
+        <ac>P02743</ac>
+        <seq>MNKPLLWISVLTSLLEAFAHTDLSGKVFVFPRESVTDHVNLITPLEKPLQNFTLCFRAYSDLSRAYSLFSYNTQGRDNELLVYKERVGEYSLYIGRHKVTSKVIEKFPAPVHICVSWESSSGIAEFWINGTPLVKKGLRQGYFVEAQPKIVLGQEQDSYGGKFDRSQSFVGEIGDLYMWDSVLPPENILSAYQGTPLPANILDWQALNYEIRGYVIIKPLVWV</seq>
+        <length>223</length>
+        <genename>APCS</genename>
+        <type>Co-deposited Protein</type>
+        <association_source>2965774</association_source>
+    </proteins>
+    <alternative_names>Amyloidosis, Hereditary, With Cerebral Hemorrhage, Dutch Variant</alternative_names>
+    <alternative_names>Cerebral Amyloid Angiopathy, App-Related</alternative_names>
+    <alternative_names>Cerebral Amyloid Angiopathy, App-Related, Arctic Variant</alternative_names>
+    <alternative_names>Cerebral Amyloid Angiopathy, App-Related, Dutch Variant</alternative_names>
+    <alternative_names>Cerebral Amyloid Angiopathy, App-Related, Flemish Variant</alternative_names>
+    <alternative_names>Cerebral Amyloid Angiopathy, App-Related, Iowa Variant</alternative_names>
+    <alternative_names>Cerebral Amyloid Angiopathy, App-Related, Italian Variant</alternative_names>
+    <alternative_names>Cerebral hemorrhage with amyloidosis, hereditary, Dutch type</alternative_names>
+    <alternative_names>Dutch Type Hereditary Cerebral Amyloid Angiopathy</alternative_names>
+    <alternative_names>HCHWAD</alternative_names>
+    <alternative_names>Hereditary Cerebral Amyloid Angiopathy, Dutch Type</alternative_names>
+    <alternative_names>Amyloidosis, Cerebroarterial, App-Related</alternative_names>
+    <alternative_names>ABeta amyloidosis, Dutch type</alternative_names>
+    <alternative_names>ABetaE22Q amyloidosis</alternative_names>
+    <alternative_names>HCHWA, Dutch type</alternative_names>
+    <alternative_names>HCHWA-D </alternative_names>
+    <alternative_names>Hereditary Cerebral Hemorrhage with Amyloidosis, Dutch type</alternative_names>
+    <crossreferences>
+        <abbreviation>ICD</abbreviation>
+        <link>http://apps.who.int/classifications/icd10/browse/2016/en#/I68</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>MeSH</abbreviation>
+        <link>https://meshb.nlm.nih.gov/record/ui?ui=C537944</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>OMIM</abbreviation>
+        <link>https://www.omim.org/entry/605714</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/3475718</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/7131028</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/19225789</link>
+    </crossreferences>
+    <isa_name></isa_name>
+</disease>

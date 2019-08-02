@@ -1,0 +1,60 @@
+<?xml version='1.0'?>
+<disease>
+    <name>Periodic fever, familial, autosomal dominant</name>
+    <descriptions>An inherited condition characterized by recurrent episodes of fever; onset is typically in early childhood. Fevers usually persist for about three weeks, though they can be longer or shorter, and may not occur again for several weeks or several years. Other symptoms may include abdominal pain; myalgia; arthralgia; skin rash and systemic inflammation; amyloidosis may also occur in some cases. There is often no trigger, but episodes are sometimes preceded by infections, injury, or stress. Germline mutations in the TNFRSFIA gene have been identified.</descriptions>
+    <type>Clinical conditions associated with amyloidosis</type>
+    <association>Diseases of the Musculoskeletal System and Connective Tissue</association>
+    <tissue>Kidney</tissue>
+    <proteins>
+        <name>Serum amyloid A-1 protein</name>
+        <ac>P0DJI8</ac>
+        <id>SAA1_HUMAN</id>
+        <seq>MKLLTGLVFCSLVLGVSSRSFFSFLGEAFDGARDMWRAYSDMREANYIGSDKYFHARGNYDAAKRGPGGVWAAEAISDARENIQRFFGHGAEDSLADQAANEWGRSGKDPNHFRPAGLPEKY</seq>
+        <length>122</length>
+        <genename>SAA1</genename>
+        <type>Precursor Protein</type>
+    </proteins>
+    <proteins>
+        <name>Serum amyloid A-2 protein</name>
+        <ac>P0DJI9</ac>
+        <id>SAA2_HUMAN</id>
+        <seq>MKLLTGLVFCSLVLSVSSRSFFSFLGEAFDGARDMWRAYSDMREANYIGSDKYFHARGNYDAAKRGPGGAWAAEVISNARENIQRLTGRGAEDSLADQAANKWGRSGRDPNHFRPAGLPEKY</seq>
+        <length>122</length>
+        <genename>SAA2</genename>
+        <type>Precursor Protein</type>
+    </proteins>
+    <alternative_names>Autosomal Dominant Familial Periodic Fever</alternative_names>
+    <alternative_names>Familial Hibernian fever</alternative_names>
+    <alternative_names>Hibernian Familial Fever</alternative_names>
+    <alternative_names>Hibernian fever, familial</alternative_names>
+    <alternative_names>TNF Receptor-associated Periodic Syndrome</alternative_names>
+    <alternative_names>Tumor necrosis factor receptor-associated periodic syndrome</alternative_names>
+    <alternative_names>TRAPS</alternative_names>
+    <alternative_names>TRAPS syndrome</alternative_names>
+    <alternative_names>Tumor necrosis factor receptor 1 associated periodic syndrome</alternative_names>
+    <alternative_names>TNF receptor 1-associated periodic syndrome</alternative_names>
+    <alternative_names>FPF</alternative_names>
+    <alternative_names>FHF</alternative_names>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/23965844</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/11239851</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/11443543</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>MeSH</abbreviation>
+        <link>https://meshb.nlm.nih.gov/record/ui?ui=C536657</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>OMIM</abbreviation>
+        <link>https://www.omim.org/entry/142680</link>
+    </crossreferences>
+    <mappings_amyloid>http://83.212.109.111:8084/amyco/29</mappings_amyloid>
+    <isa_name></isa_name>
+</disease>

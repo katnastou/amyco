@@ -1,0 +1,50 @@
+{
+    "name": "Pick Disease of the Brain",
+    "descriptions": "A rare form of dementia that is sometimes familial. Clinical features include aphasia; apraxia; confusion; anomia; memory loss; and personality deterioration. This pattern is consistent with the pathologic findings of circumscribed atrophy of the poles of the frontal lobe and temporal lobe. Neuronal loss is maximal in the hippocampus, entorhinal cortex, and amygdala. Some ballooned cortical neurons contain argentophylic (Pick) bodies.",
+    "type": "Amyloidosis",
+    "association": "Diseases of the Nervous System",
+    "tissue": "Central Nervous System (CNS)",
+    "proteins": [
+        {
+            "name": "Tau",
+            "ac": "P10636",
+            "id": "TAU_HUMAN",
+            "seq": "MAEPRQEFEVMEDHAGTYGLGDRKDQGGYTMHQDQEGDTDAGLKESPLQTPTEDGSEEPGSETSDAKSTPTAEDVTAPLVDEGAPGKQAAAQPHTEIPEGTTAEEAGIGDTPSLEDEAAGHVTQEPESGKVVQEGFLREPGPPGLSHQLMSGMPGAPLLPEGPREATRQPSGTGPEDTEGGRHAPELLKHQLLGDLHQEGPPLKGAGGKERPGSKEEVDEDRDVDESSPQDSPPSKASPAQDGRPPQTAAREATSIPGFPAEGAIPLPVDFLSKVSTEIPASEPDGPSVGRAKGQDAPLEFTFHVEITPNVQKEQAHSEEHLGRAAFPGAPGEGPEARGPSLGEDTKEADLPEPSEKQPAAAPRGKPVSRVPQLKARMVSKSKDGTGSDDKKAKTSTRSSAKTLKNRPCLSPKHPTPGSSDPLIQPSSPAVCPEPPSSPKYVSSVTSRTGSSGAKEMKLKGADGKTKIATPRGAAPPGQKGQANATRIPAKTPPAPKTPPSSGEPPKSGDRSGYSSPGSPGTPGSRSRTPSLPTPPTREPKKVAVVRTPPKSPSSAKSRLQTAPVPMPDLKNVKSKIGSTENLKHQPGGGKVQIINKKLDLSNVQSKCGSKDNIKHVPGGGSVQIVYKPVDLSKVTSKCGSLGNIHHKPGGGQVEVKSEKLDFKDRVQSKIGSLDNITHVPGGGNKKIETHKLTFRENAKAKTDHGAEIVYKSPVVSGDTSPRHLSNVSSTGSIDMVDSPQLATLADEVSASLAKQGL",
+            "length": 758,
+            "genename": "MAPT",
+            "type": "Precursor Protein"
+        }
+    ],
+    "alternative_names": [
+        "Brain Atrophy, Circumscribed Lobar",
+        "Circumscribed Lobar Atrophy of the Brain",
+        "Dementia with Lobar Atrophy and Neuronal Cytoplasmic Inclusions",
+        "Lobar Atrophy (Brain)",
+        "Lobar Atrophy Of Brain",
+        "Lobar Atrophy of the Brain",
+        "Pick Disease",
+        "Pick Disease Of Brain",
+        "Pick's Disease",
+        "Picks Disease of Brain"
+    ],
+    "crossreferences": [
+        {
+            "abbreviation": "ICD",
+            "link": "http://apps.who.int/classifications/icd10/browse/2016/en#/G31"
+        },
+        {
+            "abbreviation": "MeSH",
+            "link": "https://meshb.nlm.nih.gov/record/ui?ui=D020774"
+        },
+        {
+            "abbreviation": "OMIM",
+            "link": "https://www.omim.org/entry/172700"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/30158706"
+        }
+    ],
+    "mappings_amyloid": [],
+    "isa_name": "ATau Amyloidosis"
+}

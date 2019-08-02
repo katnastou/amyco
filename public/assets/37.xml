@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<disease>
+    <name>Isolated Atrial Amyloidosis</name>
+    <descriptions></descriptions>
+    <type>Amyloidosis</type>
+    <association>Amyloidosis</association>
+    <tissue>Heart (Cardiac atria)</tissue>
+    <proteins>
+        <name>Natriuretic peptides A</name>
+        <ac>P01160</ac>
+        <id>ANF_HUMAN</id>
+        <seq>MSSFSTTTVSFLLLLAFQLLGQTRANPMYNAVSNADLMDFKNLLDHLEEKMPLEDEVVPPQVLSEPNEEAGAALSPLPEVPPWTGEVSPAQRDGGALGRGPWDSSDRSALLKSKLRALLTAPRSLRRSSCFGGRMDRIGAQSGLGCNSFRYRR</seq>
+        <length>153</length>
+        <genename>NPPA</genename>
+        <type>Precursor Protein</type>
+    </proteins>
+    <alternative_names>IAA</alternative_names>
+    <crossreferences>
+        <abbreviation>ICD</abbreviation>
+        <link>http://apps.who.int/classifications/icd10/browse/2016/en#/E85</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/2901160</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/15677530</link>
+    </crossreferences>
+    <isa_name></isa_name>
+</disease>

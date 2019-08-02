@@ -1,0 +1,46 @@
+ID: 7
+
+Disease Name: Gerstmann-Straussler-Scheinker Disease
+
+Description: An autosomal dominant familial prion disease with a wide spectrum of clinical presentations including ataxia, spastic paraparesis, extrapyramidal signs, and dementia. Clinical onset is in the third to sixth decade of life and the mean duration of illness prior to death is five years. Several kindreds with variable clinical and pathologic features have been described. Pathologic features include cerebral prion protein amyloidosis, and spongiform or neurofibrillary degeneration.
+
+Disease Type: Amyloidosis
+
+ICD-10 Classification: Certain Infectious and Parasitic Diseases
+
+Tissue: Central Nervous System (CNS)
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/A81
+
+https://meshb.nlm.nih.gov/record/ui?ui=D016098
+
+https://www.omim.org/entry/137440
+
+https://www.ncbi.nlm.nih.gov/pubmed/7445983
+
+https://www.ncbi.nlm.nih.gov/pubmed/1672107
+
+https://www.ncbi.nlm.nih.gov/pubmed/17278997
+
+Alternative Names:
+Encephalopathy, Subacute Spongiform, Gerstmann-Straussler Type
+Gerstmann-Straussler Disease
+Gerstmann-Straussler Inherited Spongiform Encephalopathy
+Gerstmann-Straussler Syndrome
+Gerstmann-Straussler-Scheinker Syndrome
+Inherited Spongiform Encephalopathy, Gerstmann-Straussler 
+Subacute spongiform encephalopathy, Gerstmann-Straussler type
+
+Precursor Proteins:
+P04156 | Major prion protein
+
+
+Co-deposited Proteins:
+P05067 | Amyloid-beta A4 protein
+P62258 | 14-3-3 protein epsilon
+
+
+Link to Amyloidosis: 
+	No information available
+//

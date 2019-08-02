@@ -1,0 +1,65 @@
+ID: 17
+
+Disease Name: Apolipoprotein A-I associated Amyloidosis
+
+Description: 
+
+Disease Type: Amyloidosis
+
+ISA Name: AApoAI Amyloidosis
+
+ICD-10 Classification: Amyloidosis
+
+Tissue: Heart,  Liver,  Skin, Kidney, Intestine, Larynx, Uterus, Ovary Lymph Node, Pelvic Lymph Node
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/E85
+
+https://www.omim.org/entry/105200
+
+https://www.ncbi.nlm.nih.gov/pubmed/3142462
+
+https://www.ncbi.nlm.nih.gov/pubmed/11266606
+
+Alternative Names:
+Apolipoprotein A-I amyloidosis
+Familial amyloid nephropathy due to apolipoprotein A-I variant
+Familial renal amyloidosis due to apolipoprotein A-I variant
+Hereditary amyloid nephropathy due to apolipoprotein A-I variant
+Hereditary renal amyloidosis due to apolipoprotein A-I variant
+Amyloid Polyneuropathy, Iowa Type
+Familial Amyloid Polyneuropathy, Type III
+Type III Familial Amyloid Polyneuropathy
+Iowa Type Amyloid Polyneuropathy
+Non-neuropathic apolipoprotein A-I amyloidosis
+Apolipoprotein AI-derived amyloidosis
+Hereditary apoliporpotein AI-induced amyloidosis
+Hereditary apoliporpotein AI-associated amyloidosis
+Amyloidosis VIII
+Ostertag Type Amyloidosis
+German Type Amyloidosis
+Amyloidosis, Familial renal
+Amyloidosis, Familial visceral
+Amyloidosis, Systemic Non-neuropathic
+
+Precursor Proteins:
+P02647 | Apolipoprotein A-I
+
+
+Co-deposited Proteins:
+P01009 | Alpha-1-antitrypsin
+P02743 | Serum amyloid P-component
+P02766 | Transthyretin
+P02768 | Serum albumin
+P25311 | Zinc-alpha-2-glycoprotein
+P60709 | Actin, cytoplasmic 1
+P68104 | Elongation factor 1-alpha 1
+P68871 | Hemoglobin subunit beta
+P69905 | Hemoglobin subunit alpha
+P81605 | Dermcidin
+Q9GZZ8 | Extracellular glycoprotein lacritin
+
+
+Link to Amyloidosis: 
+	No information available
+//

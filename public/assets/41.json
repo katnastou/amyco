@@ -1,0 +1,77 @@
+{
+    "name": "Familial Mediterranean Fever",
+    "descriptions": "A group of hereditary autoinflammation diseases, characterized by recurrent fever, abdominal pain, headache, rash, pleurisy; and arthritis. Orchitis; benign meningitis; and amyloidosis may also occur. Homozygous or compound heterozygous mutations in marenostrin gene result in autosomal recessive transmission; simple heterozygous, autosomal dominant form of the disease.",
+    "type": "Clinical conditions associated with amyloidosis",
+    "association": "Diseases of the Musculoskeletal System and Connective Tissue",
+    "tissue": "Kidney",
+    "proteins": [
+        {
+            "name": "Serum amyloid A-1 protein",
+            "ac": "P0DJI8",
+            "id": "SAA1_HUMAN",
+            "seq": "MKLLTGLVFCSLVLGVSSRSFFSFLGEAFDGARDMWRAYSDMREANYIGSDKYFHARGNYDAAKRGPGGVWAAEAISDARENIQRFFGHGAEDSLADQAANEWGRSGKDPNHFRPAGLPEKY",
+            "length": 122,
+            "genename": "SAA1",
+            "type": "Precursor Protein"
+        },
+        {
+            "name": "Serum amyloid A-2 protein",
+            "ac": "P0DJI9",
+            "id": "SAA2_HUMAN",
+            "seq": "MKLLTGLVFCSLVLSVSSRSFFSFLGEAFDGARDMWRAYSDMREANYIGSDKYFHARGNYDAAKRGPGGAWAAEVISNARENIQRLTGRGAEDSLADQAANKWGRSGRDPNHFRPAGLPEKY",
+            "length": 122,
+            "genename": "SAA2",
+            "type": "Precursor Protein"
+        }
+    ],
+    "alternative_names": [
+        "Benign Paroxysmal Peritonitis",
+        "Familial Mediterranean Fever, Autosomal Recessive",
+        "Familial Paroxysmal Polyserositis",
+        "Mediterranean Fever, Familial",
+        "Periodic Disease",
+        "Periodic Disease, Wolff's",
+        "Periodic Peritonitis",
+        "Polyserositis, Familial Paroxysmal",
+        "Polyserositis, Recurrent",
+        "Recurrent Polyserositis",
+        "Wolff Periodic Disease",
+        "Wolff's Periodic Disease ",
+        "FMF",
+        "Benign recurrent polyserositis"
+    ],
+    "crossreferences": [
+        {
+            "abbreviation": "MeSH",
+            "link": "https://meshb.nlm.nih.gov/record/ui?ui=D010505"
+        },
+        {
+            "abbreviation": "OMIM",
+            "link": "https://www.omim.org/entry/249100"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/14022004"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/5056669"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/3966749"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/10211405"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/16284730"
+        }
+    ],
+    "mappings_amyloid": [
+        "http://83.212.109.111:8084/amyco/29"
+    ],
+    "isa_name": ""
+}

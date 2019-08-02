@@ -1,0 +1,50 @@
+{
+    "name": "Prolactinoma",
+    "descriptions": "A pituitary adenoma which secretes prolactin, leading to hyperprolactinemia. Clinical manifestations include amenorrhea; galactorrhea; impotence; headache; visual disturbances; and cerebrospinal fluid rhinorrhea.",
+    "type": "Amyloidosis",
+    "association": "Neoplasms",
+    "tissue": "Pituitary Gland",
+    "proteins": [
+        {
+            "name": "Prolactin",
+            "ac": "P01236",
+            "id": "PRL_HUMAN",
+            "seq": "MNIKGSPWKGSLLLLLVSNLLLCQSVAPLPICPGGAARCQVTLRDLFDRAVVLSHYIHNLSSEMFSEFDKRYTHGRGFITKAINSCHTSSLATPEDKEQAQQMNQKDFLSLIVSILRSWNEPLYHLVTEVRGMQEAPEAILSKAVEIEEQTKRLLEGMELIVSQVHPETKENEIYPVWSGLPSLQMADEESRLSAYYNLLHCLRRDSHKIDNYLKLLKCRIIHNNNC",
+            "length": 227,
+            "genename": "PRL",
+            "type": "Precursor Protein"
+        }
+    ],
+    "alternative_names": [
+        "Adenoma, Prolactin-Secreting, Pituitary",
+        "Lactotroph Adenoma",
+        "Macroprolactinoma",
+        "Microprolactinoma",
+        "PRL-Secreting Pituitary Adenoma",
+        "Pituitary Adenoma, Prolactin-Secreting",
+        "Prolactin-Producing Pituitary Adenoma",
+        "Prolactin-Secreting Pituitary Adenoma",
+        "Prolactinoma, Familial ",
+        "Pitutary prolactinoma"
+    ],
+    "crossreferences": [
+        {
+            "abbreviation": "ICD",
+            "link": "http://apps.who.int/classifications/icd10/browse/2016/en#/C75"
+        },
+        {
+            "abbreviation": "MeSH",
+            "link": "https://meshb.nlm.nih.gov/record/ui?ui=D015175"
+        },
+        {
+            "abbreviation": "OMIM",
+            "link": "https://www.omim.org/entry/600634"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/9006323"
+        }
+    ],
+    "mappings_amyloid": [],
+    "isa_name": "APro Amyloidosis"
+}

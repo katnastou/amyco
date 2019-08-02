@@ -1,0 +1,3800 @@
+ID: 1
+
+Disease Name: Alzheimer Disease
+
+Description: A degenerative disease of the brain characterized by the insidious onset of dementia. Impairment of memory, judgment, attention span, and problem solving skills are followed by severe apraxias and a global loss of cognitive abilities. The condition primarily occurs after age 60, and is marked pathologically by severe cortical atrophy and the triad of senile plaques; neurofibrillary tangles; and neuropil threads.
+
+Disease Type: Amyloidosis
+
+ICD-10 Classification: Diseases of the Nervous System
+
+Tissue: Central Nervous System (CNS)
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/G30
+
+https://meshb.nlm.nih.gov/record/ui?ui=D000544
+
+https://www.omim.org/entry/104300
+
+https://www.ncbi.nlm.nih.gov/pubmed/8713166
+
+https://www.ncbi.nlm.nih.gov/pubmed/6375662
+
+https://www.ncbi.nlm.nih.gov/pubmed/3159021
+
+https://www.ncbi.nlm.nih.gov/pubmed/17065112
+
+Alternative Names:
+Acute Confusional Senile Dementia
+Alzheimer Dementia
+Alzheimer Disease, Early Onset
+Alzheimer Disease, Late Onset
+Alzheimer Sclerosis
+Alzheimer Syndrome
+Alzheimer Type Senile Dementia
+Alzheimer's Disease
+Alzheimer's Disease, Focal Onset
+Alzheimer-Type Dementia (ATD)
+Dementia, Alzheimer Type
+Dementia, Presenile
+Dementia, Primary Senile Degenerative
+Dementia, Senile
+Early Onset Alzheimer Disease
+Familial Alzheimer Disease (FAD)
+Focal Onset Alzheimer's Disease
+Late Onset Alzheimer Disease
+Presenile Alzheimer Dementia
+Primary Senile Degenerative Dementia
+Senile Dementia, Acute Confusional
+Senile Dementia, Alzheimer Type 
+Presenile and Senile Dementia
+
+Precursor Proteins:
+P05067 | Amyloid-beta A4 protein
+
+
+Co-deposited Proteins:
+P01011 | Alpha-1-antichymotrypsin
+P01034 | Cystatin-C
+P02649 | Apolipoprotein E
+P02743 | Serum amyloid P-component
+P07339 | Cathepsin D
+P07858 | Cathepsin B
+P10909 | Clusterin
+P98160 | Basement membrane-specific heparan sulfate proteoglycan core protein
+P10636 | Tau
+P01023 | Alpha-2-macroglobulin
+P05231 | Interleukin-6
+
+
+Link to Amyloidosis: 
+	No information available
+//
+ID: 2
+
+Disease Name: Diabetes Mellitus, Type 2
+
+Description: A subclass of diabetes mellitus that is not insulin-responsive or dependent (NIDDM). It is characterized initially by insulin resistance and hyperinsulinemia; and eventually by glucose intolerance; hyperglycemia; and overt diabetes. Type II diabetes mellitus is no longer considered a disease exclusively found in adults. Patients seldom develop ketosis but often exhibit obesity.
+
+Disease Type: Amyloidosis
+
+ICD-10 Classification: Endocrine, Nutritional and Metabolic Diseases
+
+Tissue: Pancreas (Islets of Langerhans)
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/E11
+
+https://meshb.nlm.nih.gov/record/ui?ui=D003924
+
+https://www.omim.org/entry/125853
+
+https://www.ncbi.nlm.nih.gov/pubmed/3296768
+
+https://www.ncbi.nlm.nih.gov/pubmed/3535798
+
+https://www.ncbi.nlm.nih.gov/pubmed/2668761
+
+https://www.ncbi.nlm.nih.gov/pubmed/3317417
+
+https://www.ncbi.nlm.nih.gov/pubmed/26636105
+
+Alternative Names:
+Diabetes Mellitus, Adult-Onset
+Diabetes Mellitus, Ketosis-Resistant
+Diabetes Mellitus, Maturity-Onset
+Diabetes Mellitus, Non Insulin Dependent
+Diabetes Mellitus, Non-Insulin-Dependent
+Diabetes Mellitus, Noninsulin Dependent
+Diabetes Mellitus, Noninsulin-Dependent
+Diabetes Mellitus, Slow-Onset
+Diabetes Mellitus, Stable
+Diabetes Mellitus, Type II
+MODY
+Maturity-Onset Diabetes
+Maturity-Onset Diabetes Mellitus
+NIDDM
+Noninsulin-Dependent Diabetes Mellitus
+Type 2 Diabetes
+Type 2 Diabetes Mellitus 
+Non-insulin-dependent diabetes mellitus
+
+Precursor Proteins:
+P10997 | Islet amyloid polypeptide
+
+
+Co-deposited Proteins:
+P02649 | Apolipoprotein E
+P02743 | Serum amyloid P-component
+P98160 | Basement membrane-specific heparan sulfate proteoglycan core protein
+
+
+Link to Amyloidosis: 
+	No information available
+//
+ID: 3
+
+Disease Name: Huntington Disease
+
+Description: A familial disorder inherited as an autosomal dominant trait and characterized by the onset of progressive chorea and dementia in the fourth or fifth decade of life. Common initial manifestations include paranoia; poor impulse control; depression; hallucinations; and delusions. Eventually intellectual impairment; loss of fine motor control; athetosis; and diffuse chorea involving axial and limb musculature develops, leading to a vegetative state within 10-15 years of disease onset. The juvenile variant has a more fulminant course including seizures; ataxia; dementia; and chorea.
+
+Disease Type: Amyloidosis
+
+ICD-10 Classification: Diseases of the Nervous System
+
+Tissue: Central Nervous System (CNS)
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/G10
+
+https://meshb.nlm.nih.gov/record/ui?ui=D006816
+
+https://www.omim.org/entry/143100
+
+https://www.ncbi.nlm.nih.gov/pubmed/9267034
+
+https://www.ncbi.nlm.nih.gov/pubmed/10410676
+
+https://www.ncbi.nlm.nih.gov/pubmed/21163446
+
+Alternative Names:
+Akinetic-Rigid Variant of Huntington Disease
+Chorea, Chronic Progressive Hereditary (Huntington)
+Chronic Progressive Hereditary Chorea (Huntington)
+Huntington Chorea
+Huntington Chronic Progressive Hereditary Chorea
+Huntington Disease, Akinetic-Rigid Variant
+Huntington Disease, Juvenile
+Huntington Disease, Juvenile-Onset
+Huntington Disease, Late Onset
+Huntington's Chorea
+Huntington's Disease
+Juvenile Huntington Disease
+Juvenile-Onset Huntington Disease
+Late-Onset Huntington Disease
+Progressive Chorea, Chronic Hereditary (Huntington)
+Progressive Chorea, Hereditary, Chronic (Huntington) 
+
+Precursor Proteins:
+P42858 | Huntingtin
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	No information available
+//
+ID: 4
+
+Disease Name: Parkinson Disease
+
+Description: A progressive, degenerative neurologic disease characterized by a tremor that is maximal at rest, retropulsion (i.e. a tendency to fall backwards), rigidity, stooped posture, slowness of voluntary movements, and a masklike facial expression. Pathologic features include loss of melanin containing neurons in the substantia nigra and other pigmented nuclei of the brainstem. Lewy bodies are present in the substantia nigra and locus coeruleus but may also be found in a related condition (lewy body disease, diffuse) characterized by dementia in combination with varying degrees of parkinsonism.
+
+Disease Type: Amyloidosis
+
+ICD-10 Classification: Diseases of the Nervous System
+
+Tissue: Central Nervous System (CNS)
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/G20
+
+https://meshb.nlm.nih.gov/record/ui?ui=D010300
+
+https://www.omim.org/entry/168600
+
+https://www.ncbi.nlm.nih.gov/pubmed/2357270
+
+https://www.ncbi.nlm.nih.gov/pubmed/10704204
+
+https://www.ncbi.nlm.nih.gov/pubmed/9600990
+
+https://www.ncbi.nlm.nih.gov/pubmed/29191831
+
+Alternative Names:
+Idiopathic Parkinson Disease
+Idiopathic Parkinson's Disease
+Lewy Body Parkinson Disease
+Lewy Body Parkinson's Disease
+Paralysis Agitans
+Parkinson Disease, Idiopathic
+Parkinson's Disease
+Parkinson's Disease, Idiopathic
+Parkinson's Disease, Lewy Body
+Primary Parkinsonism 
+Parkinson Disease, Late-Onset
+
+Precursor Proteins:
+P37840 | Alpha-synuclein
+
+
+Co-deposited Proteins:
+O00468 | Agrin
+P27348 | 14-3-3 protein theta
+P46821 | Microtubule-associated protein 1B
+P61981 | 14-3-3 protein gamma
+P62258 | 14-3-3 protein epsilon
+P63104 | 14-3-3 protein zeta/delta
+Q9Y6H5 | Synphilin-1
+
+
+Link to Amyloidosis: 
+	No information available
+//
+ID: 5
+
+Disease Name: Creutzfeldt-Jakob Syndrome
+
+Description: A rare transmissible encephalopathy most prevalent between the ages of 50 and 70 years. Affected individuals may present with sleep disturbances, personality changes, ataxia; aphasia, visual loss, weakness, muscle atrophy, myoclonus, progressive dementia, and death within one year of disease onset. A familial form exhibiting autosomal dominant inheritance and a new variant CJD (potentially associated with encephalopathy, bovine spongiform) have been described. Pathological features include prominent cerebellar and cerebral cortical spongiform degeneration and the presence of prions.
+
+Disease Type: Amyloidosis
+
+ICD-10 Classification: Certain Infectious and Parasitic Diseases
+
+Tissue: Central Nervous System (CNS)
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/A81
+
+https://meshb.nlm.nih.gov/record/ui?ui=D007562
+
+https://www.omim.org/entry/123400
+
+https://www.ncbi.nlm.nih.gov/pubmed/3092727
+
+https://www.ncbi.nlm.nih.gov/pubmed/19571726
+
+Alternative Names:
+CJD (Creutzfeldt-Jakob Disease)
+Creutzfeldt Jacob Disease
+Creutzfeldt-Jakob Disease, Familial
+Creutzfeldt-Jakob Disease, New Variant
+Creutzfeldt-Jakob Disease, Variant
+Familial Creutzfeldt-Jakob Disease
+Jakob-Creutzfeldt Disease
+Jakob-Creutzfeldt Syndrome
+New Variant Creutzfeldt-Jakob Disease
+Spongiform Encephalopathy, Subacute
+V-CJD (Variant-Creutzfeldt-Jakob Disease)
+Variant Creutzfeldt-Jakob Disease 
+
+Precursor Proteins:
+P04156 | Major prion protein
+
+
+Co-deposited Proteins:
+P01024 | Complement C3
+P02649 | Apolipoprotein E
+P02743 | Serum amyloid P-component
+P02745 | Complement C1q subcomponent subunit A
+P02746 | Complement C1q subcomponent subunit B
+P02747 | Complement C1q subcomponent subunit C
+P63104 | 14-3-3 protein zeta/delta
+
+
+Link to Amyloidosis: 
+	No information available
+//
+ID: 6
+
+Disease Name: Kuru
+
+Description: A prion disease found exclusively among the Fore linguistic group natives of the highlands of New Guinea. The illness is primarily restricted to adult females and children of both sexes. It is marked by the subacute onset of tremor and ataxia followed by motor weakness and incontinence. Death occurs within 3-6 months of disease onset. The condition is associated with ritual cannibalism, and has become rare since this practice has been discontinued. Pathologic features include a noninflammatory loss of neurons that is most prominent in the cerebellum, glial proliferation, and amyloid plaques.
+
+Disease Type: Amyloidosis
+
+ICD-10 Classification: Certain Infectious and Parasitic Diseases
+
+Tissue: Central Nervous System (CNS)
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/A81
+
+https://meshb.nlm.nih.gov/record/ui?ui=D007729
+
+https://www.omim.org/entry/245300
+
+https://www.ncbi.nlm.nih.gov/pubmed/9034563
+
+Alternative Names:
+Encephalopathy, Kuru
+Kuru Encephalopathy 
+
+Precursor Proteins:
+P04156 | Major prion protein
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	No information available
+//
+ID: 7
+
+Disease Name: Gerstmann-Straussler-Scheinker Disease
+
+Description: An autosomal dominant familial prion disease with a wide spectrum of clinical presentations including ataxia, spastic paraparesis, extrapyramidal signs, and dementia. Clinical onset is in the third to sixth decade of life and the mean duration of illness prior to death is five years. Several kindreds with variable clinical and pathologic features have been described. Pathologic features include cerebral prion protein amyloidosis, and spongiform or neurofibrillary degeneration.
+
+Disease Type: Amyloidosis
+
+ICD-10 Classification: Certain Infectious and Parasitic Diseases
+
+Tissue: Central Nervous System (CNS)
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/A81
+
+https://meshb.nlm.nih.gov/record/ui?ui=D016098
+
+https://www.omim.org/entry/137440
+
+https://www.ncbi.nlm.nih.gov/pubmed/7445983
+
+https://www.ncbi.nlm.nih.gov/pubmed/1672107
+
+https://www.ncbi.nlm.nih.gov/pubmed/17278997
+
+Alternative Names:
+Encephalopathy, Subacute Spongiform, Gerstmann-Straussler Type
+Gerstmann-Straussler Disease
+Gerstmann-Straussler Inherited Spongiform Encephalopathy
+Gerstmann-Straussler Syndrome
+Gerstmann-Straussler-Scheinker Syndrome
+Inherited Spongiform Encephalopathy, Gerstmann-Straussler 
+Subacute spongiform encephalopathy, Gerstmann-Straussler type
+
+Precursor Proteins:
+P04156 | Major prion protein
+
+
+Co-deposited Proteins:
+P05067 | Amyloid-beta A4 protein
+P62258 | 14-3-3 protein epsilon
+
+
+Link to Amyloidosis: 
+	No information available
+//
+ID: 8
+
+Disease Name: Immunoglobulin Light-chain Amyloidosis
+
+Description: A nonproliferative disorder of the plasma cell characterized by excessive production and misfolding of immunoglobulin light chains that form insoluble amyloid fibrils (see amyloid deposits) in various tissues. Clinical features include liver failure; multiple myeloma; nephrotic syndrome; restrictive cardiomyopathy, and neuropathies.
+
+Disease Type: Amyloidosis
+
+ISA Name: AL Amyloidosis
+
+ICD-10 Classification: Amyloidosis
+
+Tissue: Kidney, Heart, Peripheral Nervous System (PNS), Autonomic Nervous System (ANS), Liver, Gastrointestinal Tract, Lung, Soft Tissues, Urinary Tract, Larynx
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/E85
+
+https://meshb.nlm.nih.gov/record/ui?ui=D000075363
+
+https://www.ncbi.nlm.nih.gov/pubmed/4102463
+
+https://www.ncbi.nlm.nih.gov/pubmed/22335280
+
+https://www.ncbi.nlm.nih.gov/pubmed/1565488
+
+https://www.ncbi.nlm.nih.gov/pubmed/5011672
+
+https://www.ncbi.nlm.nih.gov/pubmed/2813458
+
+https://www.ncbi.nlm.nih.gov/pubmed/24082415
+
+https://www.ncbi.nlm.nih.gov/pubmed/11126834
+
+Alternative Names:
+Amyloidosis, Immunoglobulin Light-chain
+Amyloidosis, Primary
+Primary Amyloidosis
+Primary Systemic Amyloidosis
+Light-chain amyloidosis
+Light Chain Associated Amyloidosis
+Immunoglobulin light chain (AL) amyloidosis
+Light chain (AL) amyloidosis
+
+Precursor Proteins:
+P0DOX7 | Immunoglobulin kappa light chain
+P0DOX8 | Immunoglobulin lambda-1 light chain
+
+
+Co-deposited Proteins:
+P02649 | Apolipoprotein E
+P02743 | Serum amyloid P-component
+P02751 | Fibronectin
+P25391 | Laminin subunit alpha-1
+P98160 | Basement membrane-specific heparan sulfate proteoglycan core protein
+
+
+Link to Amyloidosis: 
+	No information available
+//
+ID: 9
+
+Disease Name: Hereditary Cerebral Amyloid Angiopathy, Icelandic Type
+
+Description: A familial disorder marked by amyloid deposits in the walls of small and medium sized blood vessels of cerebral cortex and meninges.
+
+Disease Type: Amyloidosis
+
+ISA Name: ACys Amyloidosis
+
+ICD-10 Classification: Diseases of the Circulatory System
+
+Tissue: Central Nervous System (CNS), Skin,  Lymph Node,  Spleen,  Salivary Gland,  Seminal Vesicle
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/I68
+
+https://meshb.nlm.nih.gov/record/ui?ui=D028243
+
+https://www.omim.org/entry/105150
+
+https://www.ncbi.nlm.nih.gov/pubmed/4655034
+
+https://www.ncbi.nlm.nih.gov/pubmed/6886625
+
+https://www.ncbi.nlm.nih.gov/pubmed/10842708
+
+Alternative Names:
+Amyloidosis VI
+Amyloidosis, Cerebroarterial, Icelandic Type
+Autosomal Dominant Cerebrovascular Amyloidosis
+Cerebral Amyloid Angiopathy, Cst3-Related
+Cerebral Amyloid Angiopathy, Genetic
+Cerebral Amyloid Angiopathy, Hereditary
+Cerebral Hemorrhage, Hereditary, With Amyloidosis
+Familial Cerebral Amyloid Angiopathy
+HCHWA-I
+Hereditary Cerebral Amyloid Angiopathy
+Hereditary Cerebral Amyloid Angiopathy, Icelandic Type
+Hereditary Cerebral Hemorrhage With Amyloidosis
+Icelandic Type Amyloidosis
+Icelandic Type Hereditary Cerebral Amyloid Angiopathy
+HCCAA-I
+Hereditary Cystatin C Amyloid Angiopathy
+
+Precursor Proteins:
+P01034 | Cystatin-C
+
+
+Co-deposited Proteins:
+P02743 | Serum amyloid P-component
+
+
+Link to Amyloidosis: 
+	No information available
+//
+ID: 10
+
+Disease Name: Dementia, familial British
+
+Description: 
+
+Disease Type: Amyloidosis
+
+ISA Name: ABri Amyloidosis
+
+ICD-10 Classification: Diseases of the Circulatory System
+
+Tissue: Central Nervous System (CNS), Pancreas, Heart
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/I68
+
+https://meshb.nlm.nih.gov/record/ui?ui=C538208
+
+https://www.omim.org/entry/176500
+
+https://www.ncbi.nlm.nih.gov/pubmed/2364266
+
+https://www.ncbi.nlm.nih.gov/pubmed/7751849
+
+https://www.ncbi.nlm.nih.gov/pubmed/10391242
+
+https://www.ncbi.nlm.nih.gov/pubmed/11193180
+
+https://www.ncbi.nlm.nih.gov/pubmed/11159188
+
+Alternative Names:
+Cerebral Amyloid Angiopathy, Itm2b-Related, 1
+Cerebral amyloid angiopathy, British type
+Presenile dementia with spastic ataxia
+Familial dementia, British type
+Dementia Familial British
+Bri Amyloidosis
+Familial British Dementia (FBD)
+
+Precursor Proteins:
+Q9Y287 | Integral membrane protein 2B
+
+
+Co-deposited Proteins:
+O00468 | Agrin
+O75056 | Syndecan-3
+P01011 | Alpha-1-antichymotrypsin
+P01034 | Cystatin-C
+P02649 | Apolipoprotein E
+P02743 | Serum amyloid P-component
+P10909 | Clusterin
+P18827 | Syndecan-1
+P34741 | Syndecan-2
+P35052 | Glypican-1
+P98160 | Basement membrane-specific heparan sulfate proteoglycan core protein
+
+
+Link to Amyloidosis: 
+	No information available
+//
+ID: 11
+
+Disease Name: Dementia, familial Danish
+
+Description: 
+
+Disease Type: Amyloidosis
+
+ISA Name: ADan Amyloidosis
+
+ICD-10 Classification: Diseases of the Circulatory System
+
+Tissue: Central Nervous System (CNS)
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/I68
+
+https://meshb.nlm.nih.gov/record/ui?ui=C538209
+
+https://www.omim.org/entry/117300
+
+https://www.ncbi.nlm.nih.gov/pubmed/10781099
+
+https://www.ncbi.nlm.nih.gov/pubmed/11895040
+
+https://www.ncbi.nlm.nih.gov/pubmed/14690516
+
+Alternative Names:
+Dementia, familial Danish
+Cerebral Amyloid Angiopathy, Itm2b-Related, 2
+Familial Danish dementia
+Heredopathia ophthalmootoencephalica
+Familial dementia, Danish type
+Familial Danish Dementia (FDD)
+HOOE 
+Cerebellar ataxia, cataract, deafness, and dementia or psychosis
+
+Precursor Proteins:
+Q9Y287 | Integral membrane protein 2B
+
+
+Co-deposited Proteins:
+O00468 | Agrin
+O75056 | Syndecan-3
+P01011 | Alpha-1-antichymotrypsin
+P01034 | Cystatin-C
+P02649 | Apolipoprotein E
+P02743 | Serum amyloid P-component
+P05067 | Amyloid-beta A4 protein
+P10909 | Clusterin
+P18827 | Syndecan-1
+P34741 | Syndecan-2
+P35052 | Glypican-1
+P98160 | Basement membrane-specific heparan sulfate proteoglycan core protein
+
+
+Link to Amyloidosis: 
+	No information available
+//
+ID: 12
+
+Disease Name: Cerebral Amyloid Angiopathy, APP-related
+
+Description: 
+
+Disease Type: Amyloidosis
+
+ICD-10 Classification: Diseases of the Circulatory System
+
+Tissue: Central Nervous System (CNS)
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/I68
+
+https://meshb.nlm.nih.gov/record/ui?ui=C537944
+
+https://www.omim.org/entry/605714
+
+https://www.ncbi.nlm.nih.gov/pubmed/3475718
+
+https://www.ncbi.nlm.nih.gov/pubmed/7131028
+
+https://www.ncbi.nlm.nih.gov/pubmed/19225789
+
+Alternative Names:
+Amyloidosis, Hereditary, With Cerebral Hemorrhage, Dutch Variant
+Cerebral Amyloid Angiopathy, App-Related
+Cerebral Amyloid Angiopathy, App-Related, Arctic Variant
+Cerebral Amyloid Angiopathy, App-Related, Dutch Variant
+Cerebral Amyloid Angiopathy, App-Related, Flemish Variant
+Cerebral Amyloid Angiopathy, App-Related, Iowa Variant
+Cerebral Amyloid Angiopathy, App-Related, Italian Variant
+Cerebral hemorrhage with amyloidosis, hereditary, Dutch type
+Dutch Type Hereditary Cerebral Amyloid Angiopathy
+HCHWAD
+Hereditary Cerebral Amyloid Angiopathy, Dutch Type
+Amyloidosis, Cerebroarterial, App-Related
+ABeta amyloidosis, Dutch type
+ABetaE22Q amyloidosis
+HCHWA, Dutch type
+HCHWA-D 
+Hereditary Cerebral Hemorrhage with Amyloidosis, Dutch type
+
+Precursor Proteins:
+P05067 | Amyloid-beta A4 protein
+
+
+Co-deposited Proteins:
+P01011 | Alpha-1-antichymotrypsin
+P01034 | Cystatin-C
+P02649 | Apolipoprotein E
+P02743 | Serum amyloid P-component
+
+
+Link to Amyloidosis: 
+	No information available
+//
+ID: 13
+
+Disease Name: Down Syndrome
+
+Description: A chromosome disorder associated either with an extra chromosome 21 or an effective trisomy for chromosome 21. Clinical manifestations include hypotonia, short stature, brachycephaly, upslanting palpebral fissures, epicanthus, Brushfield spots on the iris, protruding tongue, small ears, short, broad hands, fifth finger clinodactyly, Simian crease, and moderate to severe intellectual disability. Cardiac and gastrointestinal malformations, a marked increase in the incidence of leukemia, and the early onset of Alzheimer disease are also associated with this condition. Pathologic features include the development of neurofibrillary tangles in neurons and the deposition of amyloid beta-protein, similar to the pathology of Alzheimer disease.
+
+Disease Type: Clinical conditions associated with amyloidosis
+
+ICD-10 Classification: Chromosomal Abnormalities
+
+Tissue: Central Nervous System (CNS)
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/Q90
+
+https://meshb.nlm.nih.gov/record/ui?ui=D004314
+
+https://www.omim.org/entry/190685
+
+https://www.ncbi.nlm.nih.gov/pubmed/2522541
+
+https://www.ncbi.nlm.nih.gov/pubmed/3159021
+
+https://www.ncbi.nlm.nih.gov/pubmed/11300721
+
+https://www.ncbi.nlm.nih.gov/pubmed/26362596
+
+Alternative Names:
+47,XX,+21
+47,XY,+21
+Down Syndrome, Partial Trisomy 21
+Down's Syndrome
+Mongolism
+Partial Trisomy 21 Down Syndrome
+Trisomy 21
+Trisomy 21, Meiotic Nondisjunction
+Trisomy 21, Mitotic Nondisjunction
+Trisomy G
+DS
+
+Precursor Proteins:
+P05067 | Amyloid-beta A4 protein
+
+
+Co-deposited Proteins:
+P01034 | Cystatin-C
+P02649 | Apolipoprotein E
+P02745 | Complement C1q subcomponent subunit A
+P02746 | Complement C1q subcomponent subunit B
+P02747 | Complement C1q subcomponent subunit C
+
+
+Link to Amyloidosis: 
+	http://83.212.109.111:8084/amyco/1
+
+//
+ID: 14
+
+Disease Name: Amyotrophic Lateral Sclerosis 1
+
+Description: A degenerative disorder affecting upper motor neurons in the brain and lower motor neurons in the brain stem and spinal cord. Disease onset is usually after the age of 50 and the process is usually fatal within 3 to 6 years. Clinical manifestations include progressive weakness, atrophy, fasciculation, hyperreflexia, dysarthria, dysphagia, and eventual paralysis of respiratory function. Pathologic features include the replacement of motor neurons with fibrous astrocytes and atrophy of anterior spinal nerve roots and corticospinal tracts.
+
+Disease Type: Amyloidosis
+
+ICD-10 Classification: Diseases of the Nervous System
+
+Tissue: Central Nervous System (CNS)
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/G12
+
+https://meshb.nlm.nih.gov/record/ui?ui=D000690
+
+https://www.omim.org/entry/105400
+
+https://www.ncbi.nlm.nih.gov/pubmed/19022905
+
+https://www.ncbi.nlm.nih.gov/pubmed/19271992
+
+Alternative Names:
+ALS (Amyotrophic Lateral Sclerosis)
+Amyotrophic Lateral Sclerosis With Dementia
+Amyotrophic Lateral Sclerosis, Guam Form
+Amyotrophic Lateral Sclerosis, Parkinsonism-Dementia Complex of Guam
+Amyotrophic Lateral Sclerosis-Parkinsonism-Dementia Complex 1
+Charcot Disease
+Dementia With Amyotrophic Lateral Sclerosis
+Gehrig's Disease
+Guam Disease
+Guam Form of Amyotrophic Lateral Sclerosis
+Lou Gehrig Disease
+Lou Gehrig's Disease
+Lou-Gehrigs Disease
+Motor Neuron Disease, Amyotrophic Lateral Sclerosis 
+Amyotrophic lateral sclerosis 1, Familial
+FALS
+Amyotrophic lateral sclerosis 1, Autosomal dominant
+
+Precursor Proteins:
+P00441 | Superoxide dismutase [Cu-Zn]
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	No information available
+//
+ID: 15
+
+Disease Name: Prolactinoma
+
+Description: A pituitary adenoma which secretes prolactin, leading to hyperprolactinemia. Clinical manifestations include amenorrhea; galactorrhea; impotence; headache; visual disturbances; and cerebrospinal fluid rhinorrhea.
+
+Disease Type: Amyloidosis
+
+ICD-10 Classification: Neoplasms
+
+Tissue: Pituitary Gland
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/C75
+
+https://meshb.nlm.nih.gov/record/ui?ui=D015175
+
+https://www.omim.org/entry/600634
+
+https://www.ncbi.nlm.nih.gov/pubmed/9006323
+
+Alternative Names:
+Adenoma, Prolactin-Secreting, Pituitary
+Lactotroph Adenoma
+Macroprolactinoma
+Microprolactinoma
+PRL-Secreting Pituitary Adenoma
+Pituitary Adenoma, Prolactin-Secreting
+Prolactin-Producing Pituitary Adenoma
+Prolactin-Secreting Pituitary Adenoma
+Prolactinoma, Familial 
+Pitutary prolactinoma
+
+Precursor Proteins:
+P01236 | Prolactin
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	No information available
+//
+ID: 16
+
+Disease Name: Localized insulin-derived Amyloidosis
+
+Description: 
+
+Disease Type: Amyloidosis
+
+ISA Name: AIns Amyloidosis
+
+ICD-10 Classification: Amyloidosis
+
+Tissue: Insulin injection site
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/E85
+
+https://www.ncbi.nlm.nih.gov/pubmed/3286343
+
+https://www.ncbi.nlm.nih.gov/pubmed/6337294
+
+https://www.ncbi.nlm.nih.gov/pubmed/24462809
+
+Alternative Names:
+Injection-localized amyloidosis
+Localized A-Ins amyloidosis
+Ains-derived amyloidosis
+Insulin-derived amyloidosis
+LIDA
+
+Precursor Proteins:
+P01308 | Insulin
+
+
+Co-deposited Proteins:
+P02647 | Apolipoprotein A-I
+P02649 | Apolipoprotein E
+P02743 | Serum amyloid P-component
+P06727 | Apolipoprotein A-IV
+
+
+Link to Amyloidosis: 
+	No information available
+//
+ID: 17
+
+Disease Name: Apolipoprotein A-I associated Amyloidosis
+
+Description: 
+
+Disease Type: Amyloidosis
+
+ISA Name: AApoAI Amyloidosis
+
+ICD-10 Classification: Amyloidosis
+
+Tissue: Heart,  Liver,  Skin, Kidney, Intestine, Larynx, Uterus, Ovary Lymph Node, Pelvic Lymph Node
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/E85
+
+https://www.omim.org/entry/105200
+
+https://www.ncbi.nlm.nih.gov/pubmed/3142462
+
+https://www.ncbi.nlm.nih.gov/pubmed/11266606
+
+Alternative Names:
+Apolipoprotein A-I amyloidosis
+Familial amyloid nephropathy due to apolipoprotein A-I variant
+Familial renal amyloidosis due to apolipoprotein A-I variant
+Hereditary amyloid nephropathy due to apolipoprotein A-I variant
+Hereditary renal amyloidosis due to apolipoprotein A-I variant
+Amyloid Polyneuropathy, Iowa Type
+Familial Amyloid Polyneuropathy, Type III
+Type III Familial Amyloid Polyneuropathy
+Iowa Type Amyloid Polyneuropathy
+Non-neuropathic apolipoprotein A-I amyloidosis
+Apolipoprotein AI-derived amyloidosis
+Hereditary apoliporpotein AI-induced amyloidosis
+Hereditary apoliporpotein AI-associated amyloidosis
+Amyloidosis VIII
+Ostertag Type Amyloidosis
+German Type Amyloidosis
+Amyloidosis, Familial renal
+Amyloidosis, Familial visceral
+Amyloidosis, Systemic Non-neuropathic
+
+Precursor Proteins:
+P02647 | Apolipoprotein A-I
+
+
+Co-deposited Proteins:
+P01009 | Alpha-1-antitrypsin
+P02743 | Serum amyloid P-component
+P02766 | Transthyretin
+P02768 | Serum albumin
+P25311 | Zinc-alpha-2-glycoprotein
+P60709 | Actin, cytoplasmic 1
+P68104 | Elongation factor 1-alpha 1
+P68871 | Hemoglobin subunit beta
+P69905 | Hemoglobin subunit alpha
+P81605 | Dermcidin
+Q9GZZ8 | Extracellular glycoprotein lacritin
+
+
+Link to Amyloidosis: 
+	No information available
+//
+ID: 18
+
+Disease Name: Meretoja Syndrome
+
+Description: 
+
+Disease Type: Amyloidosis
+
+ISA Name: AGel Amyloidosis
+
+ICD-10 Classification: Amyloidosis
+
+Tissue: Central Nervous System (CNS), Peripheral Nervous System (PNS), Eye, Skin, Smooth Muscles, Skeletal Muscles, Heart, Kidney
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/E85
+
+https://meshb.nlm.nih.gov/record/ui?ui=C537459
+
+https://www.omim.org/entry/105120
+
+https://www.ncbi.nlm.nih.gov/pubmed/2157434
+
+https://www.ncbi.nlm.nih.gov/pubmed/2153578
+
+https://www.ncbi.nlm.nih.gov/pubmed/1338910
+
+https://www.ncbi.nlm.nih.gov/pubmed/2175344
+
+https://www.ncbi.nlm.nih.gov/pubmed/4313418
+
+https://www.ncbi.nlm.nih.gov/pubmed/9547007
+
+Alternative Names:
+Amyloid cranial neuropathy with lattice corneal dystrophy
+Amyloidosis 5
+Amyloidosis V
+Amyloidosis due to mutant gelsolin
+Amyloidosis, Finnish Type
+Amyloidosis, Meretoja Type
+Cerebral Amyloid Angiopathy, Gsn-Related
+Corneal Dystrophy, Lattice Type II
+Familial Amyloid Polyneuropathy Type IV
+Familial Amyloidosis, Finnish Type
+Finnish type amyloidosis
+Gelsolin-Related Amyloidosis
+Kymenlaakso Syndrome
+Lattice Corneal Dystrophy Type II
+Lattice Corneal Dystrophy, Gelsolin Type
+Lattice Corneal Dystrophy, Type II
+Lattice corneal dystrophy associated with familial systemic amyloidosis
+Lattice dystrophy of the cornea with hereditary generalized amyloidosis
+Meretoja type amyloidosis
+Meretoja's syndrome
+Meretoja syndrome
+Gelsolin amyloidosis
+Hereditary amyloidosis, Finnish type
+Meretoja Type
+Meretoja's disease
+Hereditary Gelsolin Amyloidosis (HGA)
+Familial Amyloid Polyneuropathy, Type IV
+Familial Amyloid Neuropathy, Finnish Type
+Finnish Type Familial Amyloid Neuropathy
+Type IV Familial Amyloid Polyneuropathy
+
+Precursor Proteins:
+P06396 | Gelsolin
+
+
+Co-deposited Proteins:
+P01009 | Alpha-1-antitrypsin
+P01024 | Complement C3
+P01034 | Cystatin-C
+P02649 | Apolipoprotein E
+P02743 | Serum amyloid P-component
+P02748 | Complement component C9
+P62736 | Actin, aortic smooth muscle
+
+
+Link to Amyloidosis: 
+	No information available
+//
+ID: 19
+
+Disease Name: Hereditary fibrinogen A alpha-chain Amyloidosis
+
+Description: 
+
+Disease Type: Amyloidosis
+
+ISA Name: AFib Amyloidosis
+
+ICD-10 Classification: Amyloidosis
+
+Tissue: Kidney, Liver, Heart, Spleen
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/E85
+
+https://www.omim.org/entry/105200
+
+https://www.ncbi.nlm.nih.gov/pubmed/8097946
+
+https://www.ncbi.nlm.nih.gov/pubmed/8113408
+
+https://www.ncbi.nlm.nih.gov/pubmed/19633201
+
+Alternative Names:
+Fibrinogen A a-associated amyloidosis
+Hereditary amyloid nephropathy due to fibrinogen A alpha-chain variant
+Fibrinogen A alpha-chain amyloidosis
+Familial amyloid nephropathy due to fibrinogen A alpha-chain variant
+Hereditary renal amyloidosis due to fibrinogen A alpha-chain variant
+Amyloidosis VIII
+Ostertag Type Amyloidosis
+German Type Amyloidosis
+Amyloidosis, Familial renal
+Amyloidosis, Familial visceral
+Amyloidosis, Systemic Non-neuropathic
+
+Precursor Proteins:
+P02671 | Fibrinogen alpha chain
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	No information available
+//
+ID: 20
+
+Disease Name: Hereditary lysozyme Amyloidosis
+
+Description: 
+
+Disease Type: Amyloidosis
+
+ISA Name: ALys Amyloidosis
+
+ICD-10 Classification: Amyloidosis
+
+Tissue: Liver, Kidney, Gastrointestinal Tract, Spleen, Lymph Node, Skin, Lachrymal Gland, Salivary Gland, Heart
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/E85
+
+https://www.omim.org/entry/105200
+
+https://www.ncbi.nlm.nih.gov/pubmed/8464497
+
+https://www.ncbi.nlm.nih.gov/pubmed/28963698
+
+https://www.ncbi.nlm.nih.gov/pubmed/25217048
+
+https://www.ncbi.nlm.nih.gov/pubmed/21988333
+
+Alternative Names:
+Familial amyloid nephropathy due to lysozyme variant
+Familial renal amyloidosis due to lysozyme variant
+Hereditary amyloid nephropathy due to lysozyme variant
+Hereditary renal amyloidosis due to lysozyme variant
+Lysozyme amyloidosis
+Hereditary Lysozyme Amyloidosis
+Amyloidosis VIII
+Ostertag Type Amyloidosis
+German Type Amyloidosis
+Amyloidosis, Familial renal
+Amyloidosis, Familial visceral
+Amyloidosis, Systemic Non-neuropathic
+
+Precursor Proteins:
+P61626 | Lysozyme C
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	No information available
+//
+ID: 21
+
+Disease Name: Thyroid Cancer, Medullary
+
+Description: A neuroendocrine carcinoma that originates in the c-cells of the thyroid gland; about 10-20% of cases are familial. It occurs sporadically or is associated with multiple endocrine neoplasia syndromes. Germline and somatic mutations in RET and NTRK1 genes have been identified.
+
+Disease Type: Amyloidosis
+
+ICD-10 Classification: Neoplasms
+
+Tissue: C-cell thyroid tumors 
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/D09
+
+https://meshb.nlm.nih.gov/record/ui?ui=C536914
+
+https://www.omim.org/entry/155240
+
+https://www.ncbi.nlm.nih.gov/pubmed/56421
+
+https://www.ncbi.nlm.nih.gov/pubmed/15459123
+
+Alternative Names:
+Medullary thyroid cancer (MTC)
+Thyroid carcinoma, medullary
+Medullary Carcinoma of the Thyroid (MCT) 
+Medullary Thyroid Carcinoma
+Thyroid carcinoma, Familial medullary
+Familial medullary thyroid carcinoma
+FMTC
+MTC1
+
+Precursor Proteins:
+P01258 | Calcitonin
+
+
+Co-deposited Proteins:
+P02649 | Apolipoprotein E
+P02743 | Serum amyloid P-component
+P05060 | Secretogranin-1
+P06727 | Apolipoprotein A-IV
+P10092 | Calcitonin gene-related peptide 2
+
+
+Link to Amyloidosis: 
+	No information available
+//
+ID: 22
+
+Disease Name: Apolipoprotein A-II associated Amyloidosis
+
+Description: 
+
+Disease Type: Amyloidosis
+
+ISA Name: AApoAII Amyloidosis
+
+ICD-10 Classification: Amyloidosis
+
+Tissue: Kidney
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/E85
+
+https://www.ncbi.nlm.nih.gov/pubmed/11401442
+
+https://www.ncbi.nlm.nih.gov/pubmed/14986481
+
+https://www.ncbi.nlm.nih.gov/pubmed/21728005
+
+https://www.ncbi.nlm.nih.gov/pubmed/24561203
+
+Alternative Names:
+Apolipoprotein A-II amyloidosis
+Familial amyloid nephropathy due to apolipoprotein A-II variant
+Familial renal amyloidosis due to apolipoprotein A-II variant
+Hereditary amyloid nephropathy due to apolipoprotein A-II variant
+Hereditary renal amyloidosis due to apolipoprotein A-II variant
+Hereditary apolipoprotein AII amyloidosis
+Apolipoprotein AII-induced amyloidosis
+
+Precursor Proteins:
+P02652 | Apolipoprotein A-II
+
+
+Co-deposited Proteins:
+P02649 | Apolipoprotein E
+P02743 | Serum amyloid P-component
+P06727 | Apolipoprotein A-IV
+P60709 | Actin, cytoplasmic 1
+
+
+Link to Amyloidosis: 
+	No information available
+//
+ID: 23
+
+Disease Name: AH Amyloidosis
+
+Description: 
+
+Disease Type: Amyloidosis
+
+ISA Name: AH Amyloidosis
+
+ICD-10 Classification: Amyloidosis
+
+Tissue: Kidney, Lung, Eye (orbit), Heart
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/E85
+
+https://www.ncbi.nlm.nih.gov/pubmed/2118650
+
+https://www.ncbi.nlm.nih.gov/pubmed/8141123
+
+https://www.ncbi.nlm.nih.gov/pubmed/7874834
+
+https://www.ncbi.nlm.nih.gov/pubmed/16632032
+
+Alternative Names:
+Heavy chain amyloidosis
+Immunoglobulin heavy chain amyloidosis 
+
+Precursor Proteins:
+P0DOX4 | Immunoglobulin epsilon heavy chain
+P0DOX5 | Immunoglobulin gamma-1 heavy chain
+P0DOX6 | Immunoglobulin mu heavy chain
+P0DOX2 | Immunoglobulin alpha-2 heavy chain
+
+
+Co-deposited Proteins:
+P02649 | Apolipoprotein E
+P02743 | Serum amyloid P-component
+
+
+Link to Amyloidosis: 
+	No information available
+//
+ID: 24
+
+Disease Name: AHL Amyloidosis
+
+Description: 
+
+Disease Type: Amyloidosis
+
+ISA Name: AHL Amyloidosis
+
+ICD-10 Classification: Amyloidosis
+
+Tissue: Lung, Kidney, Heart
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/E85
+
+https://www.ncbi.nlm.nih.gov/pubmed/16021505
+
+https://www.ncbi.nlm.nih.gov/pubmed/16810284
+
+https://www.ncbi.nlm.nih.gov/pubmed/23302715
+
+Alternative Names:
+Heavy/light-chain amyloidosis
+Heavy- and light-chain amyloidosis 
+Immunoglobulin Heavy and Light Chain Amyloidosis
+
+Precursor Proteins:
+P0DOX4 | Immunoglobulin epsilon heavy chain
+P0DOX5 | Immunoglobulin gamma-1 heavy chain
+P0DOX6 | Immunoglobulin mu heavy chain
+P0DOX7 | Immunoglobulin kappa light chain
+P0DOX8 | Immunoglobulin lambda-1 light chain
+P0DOX2 | Immunoglobulin alpha-2 heavy chain
+
+
+Co-deposited Proteins:
+P02649 | Apolipoprotein E
+P02743 | Serum amyloid P-component
+
+
+Link to Amyloidosis: 
+	No information available
+//
+ID: 25
+
+Disease Name: Apolipoprotein C-II associated Amyloidosis
+
+Description: 
+
+Disease Type: Amyloidosis
+
+ISA Name: AApoCII Amyloidosis
+
+ICD-10 Classification: Amyloidosis
+
+Tissue: Kidney
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/E85
+
+https://www.ncbi.nlm.nih.gov/pubmed/27297947
+
+https://www.ncbi.nlm.nih.gov/pubmed/27840752
+
+Alternative Names:
+Apolipoprotein-CII amyloidosis
+
+Precursor Proteins:
+P02655 | Apolipoprotein C-II
+
+
+Co-deposited Proteins:
+P02649 | Apolipoprotein E
+P02743 | Serum amyloid P-component
+P06727 | Apolipoprotein A-IV
+
+
+Link to Amyloidosis: 
+	No information available
+//
+ID: 26
+
+Disease Name: Apolipoprotein C-III associated Amyloidosis
+
+Description: 
+
+Disease Type: Amyloidosis
+
+ISA Name: AApoCIII Amyloidosis
+
+ICD-10 Classification: Amyloidosis
+
+Tissue: Kidney, Spleen, Salivary Gland, Intestine, Heart
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/E85
+
+https://www.ncbi.nlm.nih.gov/pubmed/26790392
+
+Alternative Names:
+Apolipoprotein-CIII amyloidosis
+
+Precursor Proteins:
+P02656 | Apolipoprotein C-III
+
+
+Co-deposited Proteins:
+P02647 | Apolipoprotein A-I
+P02649 | Apolipoprotein E
+P02743 | Serum amyloid P-component
+P06727 | Apolipoprotein A-IV
+
+
+Link to Amyloidosis: 
+	No information available
+//
+ID: 27
+
+Disease Name: Leukocyte chemotactic factor 2 Amyloidosis
+
+Description: 
+
+Disease Type: Amyloidosis
+
+ISA Name: ALECT2 Amyloidosis
+
+ICD-10 Classification: Amyloidosis
+
+Tissue: Liver, Kidney, Prostate, Parathyroid Gland, Lung, Pancreas, Small Intestine
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/E85
+
+https://www.ncbi.nlm.nih.gov/pubmed/18449172
+
+https://www.ncbi.nlm.nih.gov/pubmed/25873265
+
+https://www.ncbi.nlm.nih.gov/pubmed/27959636
+
+Alternative Names:
+Lect2 amyloidosis
+Leukocyte chemotactic factor 2 amyloidosis
+Leukocyte chemotactic factor 2-associated amyloidosis
+Leukocyte cell-derived chemotaxin-2 amyloidosis
+
+Precursor Proteins:
+O14960 | Leukocyte cell-derived chemotaxin-2
+
+
+Co-deposited Proteins:
+P02649 | Apolipoprotein E
+P02743 | Serum amyloid P-component
+
+
+Link to Amyloidosis: 
+	No information available
+//
+ID: 28
+
+Disease Name: Apolipoprotein A-IV associated Amyloidosis
+
+Description: 
+
+Disease Type: Amyloidosis
+
+ISA Name: AApoAIV Amyloidosis
+
+ICD-10 Classification: Amyloidosis
+
+Tissue: Kidney, Heart, Intestine, Lung, Skin
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/E85
+
+https://www.ncbi.nlm.nih.gov/pubmed/21900878
+
+https://www.ncbi.nlm.nih.gov/pubmed/27262366
+
+Alternative Names:
+Apolipoprotein A-IV amyloidosis
+Apolipoprotein A-IV induced amyloidosis
+
+Precursor Proteins:
+P06727 | Apolipoprotein A-IV
+
+
+Co-deposited Proteins:
+P02649 | Apolipoprotein E
+P02743 | Serum amyloid P-component
+
+
+Link to Amyloidosis: 
+	No information available
+//
+ID: 29
+
+Disease Name: AA Amyloidosis
+
+Description: 
+
+Disease Type: Amyloidosis
+
+ISA Name: AA Amyloidosis
+
+ICD-10 Classification: Amyloidosis
+
+Tissue: Kidney, Liver, Spleen, Heart, Gastrointestinal Tract, Lung, Adrenal Gland
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/E85
+
+https://www.ncbi.nlm.nih.gov/pubmed/5055786
+
+https://www.ncbi.nlm.nih.gov/pubmed/5096367
+
+https://www.ncbi.nlm.nih.gov/pubmed/11946204
+
+https://www.ncbi.nlm.nih.gov/pubmed/4816450
+
+https://www.ncbi.nlm.nih.gov/pubmed/10036584
+
+https://www.ncbi.nlm.nih.gov/pubmed/4198200
+
+https://www.ncbi.nlm.nih.gov/pubmed/4205522
+
+https://www.ncbi.nlm.nih.gov/pubmed/25387054
+
+Alternative Names:
+Inflammatory amyloidosis
+Reactive amyloidosis
+Secondary amyloidosis 
+
+Precursor Proteins:
+P0DJI8 | Serum amyloid A-1 protein
+P0DJI9 | Serum amyloid A-2 protein
+
+
+Co-deposited Proteins:
+P02649 | Apolipoprotein E
+P02743 | Serum amyloid P-component
+P98160 | Basement membrane-specific heparan sulfate proteoglycan core protein
+Q08431 | Lactadherin
+
+
+Link to Amyloidosis: 
+	No information available
+//
+ID: 30
+
+Disease Name: Wild-type transthyretin-related Amyloidosis
+
+Description: 
+
+Disease Type: Amyloidosis
+
+ISA Name: ATTRwt Amyloidosis
+
+ICD-10 Classification: Amyloidosis
+
+Tissue: Heart, Lung
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/E85
+
+https://www.ncbi.nlm.nih.gov/pubmed/6507586
+
+https://www.ncbi.nlm.nih.gov/pubmed/2320592
+
+https://www.ncbi.nlm.nih.gov/pubmed/7244554
+
+https://www.ncbi.nlm.nih.gov/pubmed/7033114
+
+https://www.ncbi.nlm.nih.gov/pubmed/14640042
+
+Alternative Names:
+ATTRwt-related amyloidosis
+SSA
+Senile systemic amyloidosis
+wild-type ATTR (ATTRwt) amyloidosis
+
+Precursor Proteins:
+P02766 | Transthyretin
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	No information available
+//
+ID: 31
+
+Disease Name: Amyloidosis, Hereditary, Transthyretin-Related
+
+Description: Hereditary disorder characterized by amyloid deposits in the extracellular matrix of different tissues. Patients present polyneuropathy; carpal tunnel syndrome, autonomic insufficiency, cardiomyopathy, and gastrointestinal symptoms. A dominant mutation (V30M) in the TTR gene has been identified. 
+
+Disease Type: Amyloidosis
+
+ISA Name: ATTRv Amyloidosis
+
+ICD-10 Classification: Amyloidosis
+
+Tissue: Peripheral Nervous System (PNS), Kidney, Autonomic Nervous System (ANS), Eye, Gastrointestinal Tract, Heart
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/E85
+
+https://meshb.nlm.nih.gov/record/ui?ui=C567782
+
+https://www.omim.org/entry/105210
+
+https://www.ncbi.nlm.nih.gov/pubmed/279930
+
+https://www.ncbi.nlm.nih.gov/pubmed/6208668
+
+https://www.ncbi.nlm.nih.gov/pubmed/2646319
+
+https://www.ncbi.nlm.nih.gov/pubmed/28213611
+
+https://www.ncbi.nlm.nih.gov/pubmed/25044787
+
+Alternative Names:
+Familial Transthyretin Cardiac Amyloidosis
+Hereditary Amyloidosis, Transthyretin-Related
+Transthyretin Amyloidosis
+Familial amyloid polyneuropathy type I (Portuguese-Swedish-Japanese Type)
+TTR amyloid neuropathy
+Transthyretin amyloid polyneuropathy
+Familial amyloid polyneuropathy (FAP)
+Familial Oculoleptomeningeal Amyloidosis
+FOLMA
+Leptomeningeal Amyloidosis
+ATTR cardiomyopathy
+TTR-related amyloid cardiomyopathy
+TTR-related cardiac amyloidosis
+Transthyretin amyloid cardiopathy
+Transthyretin-related familial amyloid cardiomyopathy
+Amyloid polyneuropathy, familial
+Appalachian Type Familial Amyloid Polyneuropathy
+Familial Amyloid Neuropathy, Andrade Type
+Amyloid Neuropathy Type 1
+Amyloid Polyneuropathy, Swiss Type
+Amyloid Polyneuropathy, British Type
+British Type Amyloid Polyneuropathy
+Familial Amyloid Neuropathy, Portuguese Type
+Familial Amyloid Polyneuropathy, Appalachian Type
+Familial Amyloid Polyneuropathy, Jewish Type
+Familial Amyloid Polyneuropathy, Jewish Type I
+Familial Amyloid Polyneuropathy, Type II
+Familial Portuguese Polyneuritic Amyloidosis
+Jewish Type Familial Amyloid Polyneuropathy
+Polyneuritic Amyloidosis, Portuguese
+Portuguese Polyneuritic Amyloidosis
+Portuguese Type Familial Amyloid Neuropathy
+Swiss Type Amyloid Polyneuropathy
+Type I Familial Amyloid Polyneuropathy
+Type II Familial Amyloid Polyneuropathy
+Wohlwill-Andrade Syndrome
+Wohlwill-Corino Andrade Syndrome
+Transthyretin amyloid neuropathy
+Hereditary transthyretin-related amyloidosis
+
+Precursor Proteins:
+P02766 | Transthyretin
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	No information available
+//
+ID: 32
+
+Disease Name: Gout
+
+Description: Metabolic disorder characterized by recurrent acute arthritis, hyperuricemia and deposition of sodium urate in and around the joints, sometimes with formation of uric acid calculi.
+
+Disease Type: Clinical conditions associated with amyloidosis
+
+ICD-10 Classification: Diseases of the Musculoskeletal System and Connective Tissue
+
+Tissue: Kidney, Liver, Gastrointestinal Tract
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/M10
+
+https://meshb.nlm.nih.gov/record/ui?ui=D006073
+
+https://www.ncbi.nlm.nih.gov/pubmed/7458437
+
+https://www.ncbi.nlm.nih.gov/pubmed/4087259
+
+https://www.ncbi.nlm.nih.gov/pubmed/3073036
+
+https://www.ncbi.nlm.nih.gov/pubmed/10088952
+
+https://www.ncbi.nlm.nih.gov/pubmed/17065112
+
+https://www.ncbi.nlm.nih.gov/pubmed/28538281
+
+Alternative Names:
+null
+
+Precursor Proteins:
+P0DJI8 | Serum amyloid A-1 protein
+P0DJI9 | Serum amyloid A-2 protein
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	http://83.212.109.111:8084/amyco/29
+
+//
+ID: 33
+
+Disease Name: Wild type beta-2-microglobulin-related Amyloidosis
+
+Description: 
+
+Disease Type: Amyloidosis
+
+ISA Name: Aβ2Mwt Amyloidosis
+
+ICD-10 Classification: Amyloidosis
+
+Tissue: Musculoskeletal system
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/E85
+
+https://www.ncbi.nlm.nih.gov/pubmed/3537446
+
+https://www.ncbi.nlm.nih.gov/pubmed/3893430
+
+https://www.ncbi.nlm.nih.gov/pubmed/11148456
+
+https://www.ncbi.nlm.nih.gov/pubmed/29268797
+
+https://www.ncbi.nlm.nih.gov/pubmed/27959636
+
+Alternative Names:
+Dialysis-related amyloidosis
+Dialysis-related arthropathy
+Wild type ABeta2-microglobulinic amyloidosis
+Hemodialysis-related amyloidosis
+ABeta2M amyloidosis
+beta2-microglobulin-related amyloidosis
+beta2-microglobulin amyloidosis
+Beta-2-microglobulin amyloidosis
+Dialysis-Related Beta-2m Amyloidosis
+
+Precursor Protein:
+P61769 | Beta-2-microglobulin
+
+
+Co-deposited Proteins: 
+P01023 | Alpha-2-macroglobulin
+P02649 | Apolipoprotein E
+P02743 | Serum amyloid P-component
+
+
+Link to Amyloidosis: 
+	No information available
+//
+ID: 34
+
+Disease Name: Lewy Body Disease
+
+Description: A neurodegenerative disease characterized by dementia, mild parkinsonism, and fluctuations in attention and alertness. The neuropsychiatric manifestations tend to precede the onset of bradykinesia, muscle rigidity, and other extrapyramidal signs. Delusions and visual hallucinations are relatively frequent in this condition. Histologic examination reveals lewy bodies in the cerebral cortex and brain stem. Senile plaques and other pathologic features characteristic of Alzheimer disease may also be present.
+
+Disease Type: Amyloidosis
+
+ICD-10 Classification: Diseases of the Nervous System
+
+Tissue: Central Nervous System (CNS)
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/G31
+
+http://apps.who.int/classifications/icd10/browse/2016/en#/F02
+
+https://meshb.nlm.nih.gov/record/ui?ui=D020961
+
+https://www.omim.org/entry/127750
+
+https://www.ncbi.nlm.nih.gov/pubmed/2683563
+
+https://www.ncbi.nlm.nih.gov/pubmed/1436523
+
+Alternative Names:
+Cortical Lewy Body Disease
+Dementia, Lewy Body
+Diffuse Lewy Body Disease
+Lewy Body Dementia
+Lewy Body Disease, Cortical
+Lewy Body Disease, Diffuse
+Lewy Body Type Senile Dementia
+
+Precursor Proteins:
+P05067 | Amyloid-beta A4 protein
+P37840 | Alpha-synuclein
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	No information available
+//
+ID: 35
+
+Disease Name: Calcifying Epithelial Odontogenic Tumor
+
+Description: A rare slow growing, locally invasive odontogenic tumor. It most often grows intraosseously in the mandible and less frequently in the maxilla, and gingiva. It is characterized by the presence of a fibrous stroma, epithelial cells with abundant eosinophilic cytoplasm, and amyloid material which is often calcified.
+
+Disease Type: Amyloidosis
+
+ICD-10 Classification: Neoplasms
+
+Tissue: Mandible, Maxilla, Gingiva
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/D16
+
+https://meshb.nlm.nih.gov/record/ui?ui=C537961
+
+https://www.ncbi.nlm.nih.gov/pubmed/14647039
+
+https://www.ncbi.nlm.nih.gov/pubmed/18484335
+
+Alternative Names:
+Pindborg tumor
+CEOT
+
+Precursor Proteins:
+A1E959 | Odontogenic ameloblast-associated protein
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	No information available
+//
+ID: 36
+
+Disease Name: Variably Protease-Sensitive Prionopathy
+
+Description: 
+
+Disease Type: Amyloidosis
+
+ICD-10 Classification: Certain Infectious and Parasitic Diseases
+
+Tissue: Central Nervous System (CNS)
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/A81
+
+https://www.ncbi.nlm.nih.gov/pubmed/18571782
+
+https://www.ncbi.nlm.nih.gov/pubmed/21584652
+
+Alternative Names:
+Protease Sensitive Prionopathy
+VPSPr
+
+Precursor Proteins:
+P04156 | Major prion protein
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	No information available
+//
+ID: 37
+
+Disease Name: Isolated Atrial Amyloidosis
+
+Description: 
+
+Disease Type: Amyloidosis
+
+ICD-10 Classification: Amyloidosis
+
+Tissue: Heart (Cardiac atria)
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/E85
+
+https://www.ncbi.nlm.nih.gov/pubmed/2901160
+
+https://www.ncbi.nlm.nih.gov/pubmed/15677530
+
+Alternative Names:
+IAA
+
+Precursor Proteins:
+P01160 | Natriuretic peptides A
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	No information available
+//
+ID: 38
+
+Disease Name: Lattice corneal dystrophy type 1
+
+Description: A hereditary autosomal dominant form of corneal dystrophy with significant phenotypic variability. It is characterized by polymorphic geographic deposits at Bowman's membrane, lattice corneal dystrophy, recurrent corneal ulceration, and mild progressive visual impairment. Mutations in the TGBFI gene have been identified.
+
+Disease Type: Amyloidosis
+
+ICD-10 Classification: Diseases of the Eye and Adnexa
+
+Tissue: Eye
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/H18
+
+https://meshb.nlm.nih.gov/record/ui?ui=C537881
+
+https://www.omim.org/entry/122200
+
+https://www.ncbi.nlm.nih.gov/pubmed/9657906
+
+https://www.ncbi.nlm.nih.gov/pubmed/13814113
+
+Alternative Names:
+Biber-Haab-Dimmer Dystrophy
+Corneal Dystrophy, Lattice Type I
+Corneal dystrophy, lattice type 1
+Lattice Corneal Dystrophy Type I
+Lattice Corneal Dystrophy, Type I
+Classic lattice corneal dystrophy
+LCD1
+LCDI 
+LCD
+CDL1
+
+Precursor Proteins:
+Q15582 | Transforming growth factor-beta-induced protein ig-h3
+
+
+Co-deposited Proteins:
+P02649 | Apolipoprotein E
+P10909 | Clusterin
+
+
+Link to Amyloidosis: 
+	No information available
+//
+ID: 39
+
+Disease Name: Insomnia, Fatal Familial
+
+Description: An autosomal dominant disorder characterized by degeneration of the thalamus and progressive insomnia. It is caused by a mutation in the prion protein (prions).
+
+Disease Type: Amyloidosis
+
+ICD-10 Classification: Certain Infectious and Parasitic Diseases
+
+Tissue: Central Nervous System (CNS)
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/A81
+
+https://meshb.nlm.nih.gov/record/ui?ui=D034062
+
+https://www.omim.org/entry/600072
+
+https://www.ncbi.nlm.nih.gov/pubmed/3762620
+
+https://www.ncbi.nlm.nih.gov/pubmed/1346338
+
+https://www.ncbi.nlm.nih.gov/pubmed/7654073
+
+https://www.ncbi.nlm.nih.gov/pubmed/28324299
+
+Alternative Names:
+Familial Fatal Insomnia
+Insomnia Familial Fatal
+Fatal Familial Disease 
+
+Precursor Proteins:
+P04156 | Major prion protein
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	No information available
+//
+ID: 40
+
+Disease Name: Medin Amyloidosis
+
+Description: 
+
+Disease Type: Amyloidosis
+
+ISA Name: AMed Amyloidosis
+
+ICD-10 Classification: Amyloidosis
+
+Tissue: Thoracic aorta
+
+Cross References
+https://www.ncbi.nlm.nih.gov/pubmed/1562050
+
+https://www.ncbi.nlm.nih.gov/pubmed/10411933
+
+https://www.ncbi.nlm.nih.gov/pubmed/17679143
+
+Alternative Names:
+Aortic medial amyloidosis
+Senile aortic amyloidosis 
+
+Precursor Proteins:
+Q08431 | Lactadherin
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	No information available
+//
+ID: 41
+
+Disease Name: Familial Mediterranean Fever
+
+Description: A group of hereditary autoinflammation diseases, characterized by recurrent fever, abdominal pain, headache, rash, pleurisy; and arthritis. Orchitis; benign meningitis; and amyloidosis may also occur. Homozygous or compound heterozygous mutations in marenostrin gene result in autosomal recessive transmission; simple heterozygous, autosomal dominant form of the disease.
+
+Disease Type: Clinical conditions associated with amyloidosis
+
+ICD-10 Classification: Diseases of the Musculoskeletal System and Connective Tissue
+
+Tissue: Kidney
+
+Cross References
+https://meshb.nlm.nih.gov/record/ui?ui=D010505
+
+https://www.omim.org/entry/249100
+
+https://www.ncbi.nlm.nih.gov/pubmed/14022004
+
+https://www.ncbi.nlm.nih.gov/pubmed/5056669
+
+https://www.ncbi.nlm.nih.gov/pubmed/3966749
+
+https://www.ncbi.nlm.nih.gov/pubmed/10211405
+
+https://www.ncbi.nlm.nih.gov/pubmed/16284730
+
+Alternative Names:
+Benign Paroxysmal Peritonitis
+Familial Mediterranean Fever, Autosomal Recessive
+Familial Paroxysmal Polyserositis
+Mediterranean Fever, Familial
+Periodic Disease
+Periodic Disease, Wolff's
+Periodic Peritonitis
+Polyserositis, Familial Paroxysmal
+Polyserositis, Recurrent
+Recurrent Polyserositis
+Wolff Periodic Disease
+Wolff's Periodic Disease 
+FMF
+Benign recurrent polyserositis
+
+Precursor Proteins:
+P0DJI8 | Serum amyloid A-1 protein
+P0DJI9 | Serum amyloid A-2 protein
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	http://83.212.109.111:8084/amyco/29
+
+//
+ID: 42
+
+Disease Name: Amyloidosis, Primary Cutaneous
+
+Description:  An autosomal dominant type of familial amyloidosis that is characterized by pruritis and skin scratching and histologically by the finding of deposits of amyloid staining on keratinous debris in the papillary dermis. Mutations in the OSMR gene have been identified.
+
+Disease Type: Amyloidosis
+
+ICD-10 Classification: Amyloidosis
+
+Tissue: Skin
+
+Cross References
+https://meshb.nlm.nih.gov/record/ui?ui=C562642
+
+https://www.omim.org/entry/105250
+
+https://www.omim.org/entry/613955
+
+https://www.ncbi.nlm.nih.gov/pubmed/14329250
+
+https://www.ncbi.nlm.nih.gov/pubmed/28342017
+
+Alternative Names:
+Primary Localized Cutaneous Amyloidosis
+ Familial primart localized cutaneous amyloidosis
+FPLCA
+Primary cutaneous amyloidosis
+
+Precursor Proteins:
+P02533 | Keratin, type I cytoskeletal 14
+P04264 | Keratin, type II cytoskeletal 1
+P13647 | Keratin, type II cytoskeletal 5
+P25391 | Laminin subunit alpha-1
+P47929 | Galectin-7
+P60709 | Actin, cytoplasmic 1
+P63261 | Actin, cytoplasmic 2 
+P0DOX7 | Immunoglobulin kappa light chain
+P0DOX8 | Immunoglobulin lambda-1 light chain
+
+
+Co-deposited Proteins:
+P02649 | Apolipoprotein E
+P02743 | Serum amyloid P-component
+
+
+Link to Amyloidosis: 
+	No information available
+//
+ID: 43
+
+Disease Name: Corneal dystrophy, gelatinous drop-like
+
+Description: A hereditary autosomal recessive corneal dystrophy characterized by severe corneal amyloidosis leading to blindness. Clinical manifestations, which appear in the first decade of life, include blurred vision, photophobia, and foreign-body sensation. By the third decade, raised, yellowish-gray, gelatinous masses severely impair visual acuity, and corneal transplantation is required for most patients. Mutations in the TACSTD2 gene have been identified.
+
+Disease Type: Amyloidosis
+
+ICD-10 Classification: Diseases of the Eye and Adnexa
+
+Tissue: Eye
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/H18
+
+https://meshb.nlm.nih.gov/record/ui?ui=C535480
+
+https://www.omim.org/entry/204870
+
+https://www.ncbi.nlm.nih.gov/pubmed/9418728
+
+https://www.ncbi.nlm.nih.gov/pubmed/27913443
+
+Alternative Names:
+Amyloid corneal dystrophy, Japanese type
+Amyloidosis, corneal
+Corneal Dystrophy, Lattice Type III
+Corneal amyloidosis
+Corneal dystrophy, Lattice type 3
+Lattice Corneal Dystrophy, Type III
+Lattice corneal dystrophy type3
+Primary familial amyloidosis of the cornea 
+Familial subepithelial corneal amyloidosis
+CDGDL
+
+Precursor Proteins:
+P02788 | Lactotransferrin
+
+
+Co-deposited Proteins:
+P02649 | Apolipoprotein E
+P10909 | Clusterin
+
+
+Link to Amyloidosis: 
+	No information available
+//
+ID: 44
+
+Disease Name: Corneal dystrophy Avellino type
+
+Description: A hereditary autosomal dominant corneal dystrophy that is characterized by the development of small granules on the stromal layer of the cornea which later develop into lesions with a lattice-like appearance. The lesions increase in size with age and may lead to decreased visual acuity. Mutations in the TGFBI  gene have been identified.
+
+Disease Type: Amyloidosis
+
+ICD-10 Classification: Diseases of the Eye and Adnexa
+
+Tissue: Eye
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/H18
+
+https://meshb.nlm.nih.gov/record/ui?ui=C535474
+
+https://www.omim.org/entry/607541
+
+https://www.ncbi.nlm.nih.gov/pubmed/1454323
+
+https://www.ncbi.nlm.nih.gov/pubmed/18243154
+
+Alternative Names:
+Avellino corneal dystrophy
+Combined Granular-Lattice Corneal Dystrophy
+Combined granular-lattice corneal dystrophies
+Corneal Dystrophy, Avellino Type
+Granular Corneal Dystrophy, Type II
+Granular and lattice corneal dystrophies
+Granular corneal dystrophy type 2
+Granular-lattice (Avellino) corneal dystrophy 
+ACD
+CGD2
+
+Precursor Proteins:
+Q15582 | Transforming growth factor-beta-induced protein ig-h3
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	No information available
+//
+ID: 45
+
+Disease Name: Waldenstrom Macroglobulinemia
+
+Description: A lymphoproliferative disorder characterized by pleomorphic B-lymphocytes including plasma cells, with increased levels of monoclonal serum immunoglobulin M. There is lymphoplasmacytic cells infiltration into bone marrow and often other tissues, also known as lymphoplasmacytic lymphoma. Clinical features include anemia; hemorrhages; and hyperviscosity.
+
+Disease Type: Clinical conditions associated with amyloidosis
+
+ICD-10 Classification: Neoplasms
+
+Tissue: Kidney, Blood Vessel, Liver
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/C88
+
+https://meshb.nlm.nih.gov/record/ui?ui=D008258
+
+https://www.omim.org/entry/610430
+
+https://www.omim.org/entry/153600
+
+https://www.ncbi.nlm.nih.gov/pubmed/2492644
+
+https://www.ncbi.nlm.nih.gov/pubmed/6403452
+
+https://www.ncbi.nlm.nih.gov/pubmed/8487054
+
+https://www.ncbi.nlm.nih.gov/pubmed/6155694
+
+https://www.ncbi.nlm.nih.gov/pubmed/11530809
+
+https://www.ncbi.nlm.nih.gov/pubmed/9430877
+
+https://www.ncbi.nlm.nih.gov/pubmed/23689541
+
+Alternative Names:
+Familial Waldenstrom's Macroglobulinaemia
+Lymphoma, Lymphocytic, Plasmacytoid
+Lymphoma, Lymphoplasmacytoid
+Macroglobulinemia
+Primary Macroglobulinemia
+Waldenstrom's Macroglobulinaemia
+Waldenstrom's Macroglobulinemia 
+
+Precursor Proteins:
+P0DJI8 | Serum amyloid A-1 protein
+P0DJI9 | Serum amyloid A-2 protein
+P61769 | Beta-2-microglobulin
+P0DOX7 | Immunoglobulin kappa light chain
+P0DOX8 | Immunoglobulin lambda-1 light chain
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	http://83.212.109.111:8084/amyco/8
+	http://83.212.109.111:8084/amyco/29
+	http://83.212.109.111:8084/amyco/33
+
+//
+ID: 46
+
+Disease Name: Lymphoma, Non-Hodgkin
+
+Description: Any of a group of malignant tumors of lymphoid tissue that differ from Hodgkin disease, being more heterogeneous with respect to malignant cell lineage, clinical course, prognosis, and therapy. The only common feature among these tumors is the absence of giant Reed-Sternberg cells, a characteristic of Hodgkin's disease.
+
+Disease Type: Clinical conditions associated with amyloidosis
+
+ICD-10 Classification: Neoplasms
+
+Tissue: Heart, Kidney, Liver, Bone Marrow, Lymph Node, Spleen
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/C85
+
+https://meshb.nlm.nih.gov/record/ui?ui=D008228
+
+https://www.omim.org/entry/605027
+
+https://www.ncbi.nlm.nih.gov/pubmed/1086712
+
+https://www.ncbi.nlm.nih.gov/pubmed/9137796
+
+https://www.ncbi.nlm.nih.gov/pubmed/15297973
+
+https://www.ncbi.nlm.nih.gov/pubmed/12002783
+
+https://www.ncbi.nlm.nih.gov/pubmed/14717777
+
+https://www.ncbi.nlm.nih.gov/pubmed/20403049
+
+Alternative Names:
+Diffuse Mixed Small and Large Cell Lymphoma
+Diffuse Mixed-Cell Lymphoma
+Diffuse Small Cleaved-Cell Lymphoma
+Diffuse Undifferentiated Lymphoma
+Lymphatic Sarcoma
+Lymphoma, Atypical Diffuse Small Lymphoid
+Lymphoma, Diffuse
+Lymphoma, Diffuse, Mixed Lymphocytic-Histiocytic
+Lymphoma, High-Grade
+Lymphoma, Intermediate-Grade
+Lymphoma, Low-Grade
+Lymphoma, Mixed
+Lymphoma, Mixed Cell, Diffuse
+Lymphoma, Mixed Lymphocytic-Histiocytic
+Lymphoma, Mixed Small and Large Cell, Diffuse
+Lymphoma, Mixed-Cell
+Lymphoma, Mixed-Cell, Diffuse
+Lymphoma, Non-Hodgkin's
+Lymphoma, Non-Hodgkin, Familial
+Lymphoma, Non-Hodgkins
+Lymphoma, Nonhodgkin's
+Lymphoma, Nonhodgkins
+Lymphoma, Pleomorphic
+Lymphoma, Small Cleaved Cell, Diffuse
+Lymphoma, Small Cleaved-Cell, Diffuse
+Lymphoma, Small Non-Cleaved-Cell
+Lymphoma, Small Noncleaved-Cell
+Lymphoma, Small and Large Cleaved-Cell, Diffuse
+Lymphoma, Undifferentiated
+Lymphoma, Undifferentiated, Diffuse
+Lymphosarcoma
+Mixed Small and Large Cell Lymphoma, Diffuse
+Mixed-Cell Lymphoma
+Mixed-Cell Lymphoma, Diff 
+Non-Hodgkin Lymphoma
+
+Precursor Proteins:
+P0DJI8 | Serum amyloid A-1 protein
+P0DJI9 | Serum amyloid A-2 protein
+P0DOX7 | Immunoglobulin kappa light chain
+P0DOX8 | Immunoglobulin lambda-1 light chain
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	http://83.212.109.111:8084/amyco/29
+	http://83.212.109.111:8084/amyco/8
+
+//
+ID: 47
+
+Disease Name: Carcinoma, Basal Cell
+
+Description: A malignant skin neoplasm that seldom metastasizes but has potentialities for local invasion and destruction. Clinically it is divided into types: nodular, cicatricial, morphaic, and erythematoid (pagetoid). They develop on hair-bearing skin, most commonly on sun-exposed areas. Approximately 85% are found on the head and neck area and the remaining 15% on the trunk and limbs.
+
+Disease Type: Clinical conditions associated with amyloidosis
+
+ICD-10 Classification: Neoplasms
+
+Tissue: Skin
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/C44
+
+https://meshb.nlm.nih.gov/record/ui?ui=D002280
+
+https://www.omim.org/entry/604451
+
+https://www.ncbi.nlm.nih.gov/pubmed/4127464
+
+https://www.ncbi.nlm.nih.gov/pubmed/385032
+
+https://www.ncbi.nlm.nih.gov/pubmed/16076610
+
+Alternative Names:
+Carcinoma, Basal Cell, Pigmented
+Epithelioma, Basal Cell
+Rodent Ulcer
+Ulcer, Rodent 
+Basal Cell Carcinoma
+BCC
+
+Precursor Proteins:
+P02533 | Keratin, type I cytoskeletal 14
+P04264 | Keratin, type II cytoskeletal 1
+P13647 | Keratin, type II cytoskeletal 5
+P47929 | Galectin-7
+P60709 | Actin, cytoplasmic 1
+P63261 | Actin, cytoplasmic 2 
+P0DOX7 | Immunoglobulin kappa light chain
+P0DOX8 | Immunoglobulin lambda-1 light chain
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	http://83.212.109.111:8084/amyco/42
+
+//
+ID: 48
+
+Disease Name: Keratosis, Seborrheic
+
+Description: Benign eccrine poromas that present as multiple oval, brown-to-black plaques, located mostly on the chest and back. the age of onset is usually in the fourth or fifth decade.
+
+Disease Type: Clinical conditions associated with amyloidosis
+
+ICD-10 Classification: Diseases of the Skin and Subcutaneous Tissue
+
+Tissue: Skin
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/L82
+
+https://meshb.nlm.nih.gov/record/ui?ui=D017492
+
+https://www.omim.org/entry/182000
+
+https://www.ncbi.nlm.nih.gov/pubmed/7976084
+
+https://www.ncbi.nlm.nih.gov/pubmed/11132094
+
+Alternative Names:
+ Keratosis Seborrheica
+Seborrheic keratosis 
+
+Precursor Proteins:
+P02533 | Keratin, type I cytoskeletal 14
+P04264 | Keratin, type II cytoskeletal 1
+P13647 | Keratin, type II cytoskeletal 5
+P47929 | Galectin-7
+P60709 | Actin, cytoplasmic 1
+P63261 | Actin, cytoplasmic 2 
+P0DOX7 | Immunoglobulin kappa light chain
+P0DOX8 | Immunoglobulin lambda-1 light chain
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	http://83.212.109.111:8084/amyco/42
+
+//
+ID: 49
+
+Disease Name: Cryopyrin-Associated Periodic Syndromes
+
+Description: A group of rare autosomal dominant diseases, commonly characterized by atypical urticaria (hives) with systemic symptoms that develop into end-organ damage. The atypical hives do not involve T-cell or autoantibody. Cryopyrin-associated periodic syndrome includes three previously distinct disorders: Familial cold autoinflammatory syndrome; Muckle-Wells Syndrome; and CINCA Syndrome, that are now considered to represent a disease continuum, all caused by NLRP3  protein mutations.
+
+Disease Type: Clinical conditions associated with amyloidosis
+
+ICD-10 Classification: Diseases of the Musculoskeletal System and Connective Tissue
+
+Tissue: Kidney
+
+Cross References
+https://meshb.nlm.nih.gov/record/ui?ui=D056587
+
+https://www.omim.org/entry/191900
+
+https://www.ncbi.nlm.nih.gov/pubmed/6406764
+
+https://www.ncbi.nlm.nih.gov/pubmed/10486324
+
+https://www.ncbi.nlm.nih.gov/pubmed/14872505
+
+https://www.ncbi.nlm.nih.gov/pubmed/29163488
+
+Alternative Names:
+Muckle-Wells Syndrome
+Muckle Wells Syndrome
+Syndrome, Muckle-Wells
+Urticaria, Deafness and Amyloidosis
+UDA Syndrome
+Syndrome, UDA
+Syndromes, UDA
+UDA Syndromes
+Urticaria-Deafness-Amyloidosis Syndrome
+Syndrome, Urticaria-Deafness-Amyloidosis
+Syndromes, Urticaria-Deafness-Amyloidosis
+Urticaria Deafness Amyloidosis Syndrome
+Urticaria-Deafness-Amyloidosis Syndromes 
+CINCA
+CINCA Syndrome
+Chronic Infantile Neurologic, Cutaneous, and Articular Syndrome
+Chronic Infantile Neurological, Cutaneous, and Articular Syndrome
+Chronic Neurologic Cutaneous and Articular Syndrome
+Chronic Neurologic, Cutaneous, and Articular Syndrome
+Chronic, Infantile, Neurological, Cutaneous, Articular Syndrome
+Cold Urticaria, Familial
+Cold-Induced Autoinflammatory Syndrome, Familial
+Cryopyrinopathy
+FCAS1
+Familial Cold Autoinflammatory Syndrome
+Familial Cold Autoinflammatory Syndrome 1
+Familial Cold Urticaria
+Familial Cold-Induced Autoinflammatory Syndrome
+IOMID
+IOMID Syndrome
+Infantile Onset Multisystem Inflammatory Disease
+Multisystem Inflammatory Disease, Neonatal-Onset
+NOMID
+Neonatal Onset Multisystem Inflammatory Disease
+Prieur-Griscelli Syndrome
+CAPS
+
+Precursor Proteins:
+P0DJI8 | Serum amyloid A-1 protein
+P0DJI9 | Serum amyloid A-2 protein
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	http://83.212.109.111:8084/amyco/29
+
+//
+ID: 50
+
+Disease Name: Chronic recurrent multifocal osteomyelitis
+
+Description: A type of osteomyelitis that occurs in children and is characterized by inflammation of the bones, especially with lesions at the metaphyses of the long bones; pain, and joint swelling. Patients may or may not present with fever. This disorder may occur alone or together with psoriasis or Inflammatory Bowel Disease; may also occur with Majeed Syndrome.
+
+Disease Type: Clinical conditions associated with amyloidosis
+
+ICD-10 Classification: Diseases of the Musculoskeletal System and Connective Tissue
+
+Tissue: Kidney, Liver
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/M86
+
+https://meshb.nlm.nih.gov/record/ui?ui=C535456
+
+https://www.omim.org/entry/259680
+
+https://www.ncbi.nlm.nih.gov/pubmed/2071276
+
+Alternative Names:
+CRMO
+Chronic multifocal osteomyelitis
+Multifocal osteomyelitis, chronic
+Osteomyelitis, Chronic Multifocal
+Chronic osteomyelitis
+
+Precursor Proteins:
+P0DJI8 | Serum amyloid A-1 protein
+P0DJI9 | Serum amyloid A-2 protein
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	http://83.212.109.111:8084/amyco/29
+
+//
+ID: 51
+
+Disease Name: Arthritis, Reumatoid
+
+Description: A chronic systemic disease, primarily of the joints, marked by inflammatory changes in the synovial membranes and articular structures, widespread fibrinoid degeneration of the collagen fibers in mesenchymal tissues, and by atrophy and rarefaction of bony structures. Etiology is unknown, but autoimmune mechanisms have been implicated.
+
+Disease Type: Clinical conditions associated with amyloidosis
+
+ICD-10 Classification: Diseases of the Musculoskeletal System and Connective Tissue
+
+Tissue: Kidney
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/M06
+
+http://apps.who.int/classifications/icd10/browse/2016/en#/M05
+
+https://meshb.nlm.nih.gov/record/ui?ui=D001172
+
+https://www.omim.org/entry/180300
+
+https://www.ncbi.nlm.nih.gov/pubmed/20266988
+
+https://www.ncbi.nlm.nih.gov/pubmed/18887096
+
+https://www.ncbi.nlm.nih.gov/pubmed/18100843
+
+https://www.ncbi.nlm.nih.gov/pubmed/18623808
+
+https://www.ncbi.nlm.nih.gov/pubmed/20787830
+
+https://www.ncbi.nlm.nih.gov/pubmed/7310780
+
+https://www.ncbi.nlm.nih.gov/pubmed/3893817
+
+https://www.ncbi.nlm.nih.gov/pubmed/26339445
+
+https://www.ncbi.nlm.nih.gov/pubmed/28613962
+
+Alternative Names:
+Reumatoid Arthritis
+RA
+
+Precursor Proteins:
+P0DJI8 | Serum amyloid A-1 protein
+P0DJI9 | Serum amyloid A-2 protein
+P02766 | Transthyretin
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	http://83.212.109.111:8084/amyco/30
+	http://83.212.109.111:8084/amyco/29
+
+//
+ID: 52
+
+Disease Name: Inflammatory Bowel Diseases
+
+Description: Chronic, non-specific inflammation of the gastrointestinal tract. Etiology may be genetic or environmental. This term includes Crohn disease and Ulcerative colitis.
+
+Disease Type: Clinical conditions associated with amyloidosis
+
+ICD-10 Classification: Diseases of the Digestive System
+
+Tissue: Liver, Gastrointestinal Tract
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/K50
+
+http://apps.who.int/classifications/icd10/browse/2016/en#/K51
+
+https://meshb.nlm.nih.gov/record/ui?ui=D015212
+
+https://www.omim.org/entry/266600
+
+https://www.ncbi.nlm.nih.gov/pubmed/842528
+
+https://www.ncbi.nlm.nih.gov/pubmed/1995278
+
+https://www.ncbi.nlm.nih.gov/pubmed/1522802
+
+http://apps.who.int/classifications/icd10/browse/2016/en#/K52
+
+https://www.ncbi.nlm.nih.gov/pubmed/28845105
+
+https://www.ncbi.nlm.nih.gov/pubmed/29707074
+
+Alternative Names:
+Colitis, Granulomatous
+Crohn's Disease
+Crohn's Enteritis
+Enteritis, Granulomatous
+Enteritis, Regional
+Ileitis, Regional
+Ileitis, Terminal
+Ileocolitis
+Inflammatory Bowel Disease 1
+Regional Enteritis
+Colitis Gravis
+Idiopathic Proctocolitis
+Inflammatory Bowel Disease, Ulcerative Colitis Type
+Ulcerative Colitis
+Bowel Diseases, Inflammatory
+
+Precursor Proteins:
+P0DJI8 | Serum amyloid A-1 protein
+P0DJI9 | Serum amyloid A-2 protein
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	http://83.212.109.111:8084/amyco/29
+
+//
+ID: 53
+
+Disease Name: Carcinoma, Renal Cell
+
+Description: A heterogeneous group of sporadic or hereditary carcinoma derived from cells of the kidneys. There are several subtypes including the clear cells, the papillary, the chromophobe, the collecting duct, the spindle cells (sarcomatoid), or mixed cell-type carcinoma.
+
+Disease Type: Clinical conditions associated with amyloidosis
+
+ICD-10 Classification: Neoplasms
+
+Tissue: Kidney
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/C64
+
+https://meshb.nlm.nih.gov/record/ui?ui=D002292
+
+https://www.ncbi.nlm.nih.gov/pubmed/5953729
+
+https://www.ncbi.nlm.nih.gov/pubmed/7060030
+
+https://www.ncbi.nlm.nih.gov/pubmed/28509249
+
+Alternative Names:
+Adenocarcinoma Of Kidney
+Adenocarcinoma, Renal
+Adenocarcinoma, Renal Cell
+Carcinoma, Hypernephroid
+Chromophil Renal Cell Carcinoma
+Chromophobe Renal Cell Carcinoma
+Clear Cell Renal Carcinoma
+Clear Cell Renal Cell Carcinoma
+Collecting Duct Carcinoma
+Collecting Duct Carcinoma (Kidney)
+Collecting Duct Carcinoma of the Kidney
+Grawitz Tumor
+Hypernephroma
+Nephroid Carcinoma
+Papillary Renal Cell Carcinoma
+Renal Cell Cancer
+Renal Cell Carcinoma
+Renal Cell Carcinoma, Papillary
+Renal Collecting Duct Carcinoma
+Sarcomatoid Renal Cell Carcinoma
+
+Precursor Proteins:
+P0DJI8 | Serum amyloid A-1 protein
+P0DJI9 | Serum amyloid A-2 protein
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	http://83.212.109.111:8084/amyco/29
+
+//
+ID: 54
+
+Disease Name: Spondylitis, Ankylosing
+
+Description: A chronic inflammatory condition affecting the axial joints, such as the sacroiliac joint and other intervertebral or costovertebral joints. It occurs predominantly in young males and is characterized by pain and stiffness of joints (ankylosis) with inflammation at tendon insertions.
+
+Disease Type: Clinical conditions associated with amyloidosis
+
+ICD-10 Classification: Diseases of the Musculoskeletal System and Connective Tissue
+
+Tissue: Kidney, Liver, Adrenal Gland
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/M45
+
+https://meshb.nlm.nih.gov/record/ui?ui=D013167
+
+https://www.ncbi.nlm.nih.gov/pubmed/13498599
+
+https://www.ncbi.nlm.nih.gov/pubmed/7022798
+
+https://www.ncbi.nlm.nih.gov/pubmed/23283540
+
+Alternative Names:
+Ankylosing Spondylarthritis
+Ankylosing Spondylitis
+Ankylosing Spondyloarthritis
+Bechterew Disease
+Bechterew's Disease
+Marie-Struempell Disease
+Rheumatoid Spondylitis
+Spondylarthritis Ankylopoietica
+Spondylitis Ankylopoietica
+Spondyloarthritis Ankylopoietica
+
+Precursor Proteins:
+P0DJI8 | Serum amyloid A-1 protein
+P0DJI9 | Serum amyloid A-2 protein
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	http://83.212.109.111:8084/amyco/29
+
+//
+ID: 55
+
+Disease Name: Multiple Endocrine Neoplasia Type 2a
+
+Description: A form of multiple endocrine neoplasia characterized by the presence of medullary carcinoma (carcinoma, medullary) of the thyroid gland, and usually with the co-occurrence of pheochromocytoma, producing calcitonin and adrenaline, respectively. Less frequently, it can occur with hyperplasia or adenoma of the parathyroid glands. This disease is due to gain-of-function mutations of the MEN2 gene on chromosome 10(Locus: 10q11.2), also known as the ret proto-oncogene that encodes a receptor protein-tyrosine kinase. It is an autosomal dominant inherited disease.
+
+Disease Type: Clinical conditions associated with amyloidosis
+
+ICD-10 Classification: Endocrine, Nutritional and Metabolic Diseases
+
+Tissue: Skin
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/E31
+
+https://meshb.nlm.nih.gov/record/ui?ui=D018813
+
+https://www.omim.org/entry/171400
+
+https://www.ncbi.nlm.nih.gov/pubmed/2576949
+
+https://www.ncbi.nlm.nih.gov/pubmed/2573304
+
+https://www.ncbi.nlm.nih.gov/pubmed/29420094
+
+Alternative Names:
+MEA 2a
+MEA II
+MEA IIa
+MEN 2
+MEN 2a
+MEN II
+MEN IIa
+MEN-2A Syndrome
+MEN2a
+Multiple Endocrine Neoplasia Type 2
+Multiple Endocrine Neoplasia, Type IIa
+Multiple Endocrine Neoplasms Type 2a
+Neoplasia, Multiple Endocrine Type 2a
+Neoplasms, Multiple Endocrine Type 2a
+Pheochromocytoma And Amyloid-Producing Medullary Thyroid Carcinoma
+Sipple Syndrome
+PTC Syndrome
+
+Precursor Proteins:
+P02533 | Keratin, type I cytoskeletal 14
+P04264 | Keratin, type II cytoskeletal 1
+P13647 | Keratin, type II cytoskeletal 5
+P47929 | Galectin-7
+P60709 | Actin, cytoplasmic 1
+P63261 | Actin, cytoplasmic 2 
+P0DOX7 | Immunoglobulin kappa light chain
+P0DOX8 | Immunoglobulin lambda-1 light chain
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	http://83.212.109.111:8084/amyco/42
+
+//
+ID: 56
+
+Disease Name: Schnitzler Syndrome
+
+Description: An extremely rare condition manifested as monoclonal immunoglobulin M dysproteinemia without features of lymphoproliferative disease, but with chronic urticaria, fever of unknown origin, disabling bone pain, hyperostosis, and increased erythrocyte sedimentation rate.
+
+Disease Type: Clinical conditions associated with amyloidosis
+
+ICD-10 Classification: Other
+
+Tissue: Gastrointestinal Tract
+
+Cross References
+https://meshb.nlm.nih.gov/record/ui?ui=D019873
+
+https://www.ncbi.nlm.nih.gov/pubmed/17586002
+
+https://www.ncbi.nlm.nih.gov/pubmed/23619586
+
+https://www.ncbi.nlm.nih.gov/pubmed/21143856
+
+Alternative Names:
+null
+
+Precursor Proteins:
+P0DJI8 | Serum amyloid A-1 protein
+P0DJI9 | Serum amyloid A-2 protein
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	http://83.212.109.111:8084/amyco/29
+
+//
+ID: 57
+
+Disease Name: Bowen's Disease
+
+Description: A malignant skin neoplasm that seldom metastasizes but has potentialities for local invasion and destruction. Clinically it is divided into types: nodular, cicatricial, morphaic, and erythematoid (pagetoid). They develop on hair-bearing skin, most commonly on sun-exposed areas. Approximately 85% are found on the head and neck area and the remaining 15% on the trunk and limbs.
+
+Disease Type: Clinical conditions associated with amyloidosis
+
+ICD-10 Classification: Other
+
+Tissue: Skin
+
+Cross References
+https://meshb.nlm.nih.gov/record/ui?ui=D001913
+
+https://www.ncbi.nlm.nih.gov/pubmed/8348730
+
+https://www.ncbi.nlm.nih.gov/pubmed/4100068
+
+https://www.ncbi.nlm.nih.gov/pubmed/1760372
+
+Alternative Names:
+Bowen Disease
+
+Precursor Proteins:
+P02533 | Keratin, type I cytoskeletal 14
+P04264 | Keratin, type II cytoskeletal 1
+P13647 | Keratin, type II cytoskeletal 5
+P60709 | Actin, cytoplasmic 1
+P63261 | Actin, cytoplasmic 2 
+P0DOX7 | Immunoglobulin kappa light chain
+P0DOX8 | Immunoglobulin lambda-1 light chain
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	http://83.212.109.111:8084/amyco/42
+
+//
+ID: 58
+
+Disease Name: Mycosis Fungoides
+
+Description: A chronic, malignant T-cell lymphoma of the skin. In the late stages, the lymph nodes and viscera are affected.
+
+Disease Type: Clinical conditions associated with amyloidosis
+
+ICD-10 Classification: Neoplasms
+
+Tissue: Skin
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/C84
+
+https://meshb.nlm.nih.gov/record/ui?ui=D009182
+
+https://www.omim.org/entry/254400
+
+https://www.ncbi.nlm.nih.gov/pubmed/5846552
+
+https://www.ncbi.nlm.nih.gov/pubmed/5881533
+
+https://www.ncbi.nlm.nih.gov/pubmed/9216538
+
+Alternative Names:
+null
+
+Precursor Proteins:
+P02533 | Keratin, type I cytoskeletal 14
+P04264 | Keratin, type II cytoskeletal 1
+P13647 | Keratin, type II cytoskeletal 5
+P60709 | Actin, cytoplasmic 1
+P63261 | Actin, cytoplasmic 2 
+P0DOX7 | Immunoglobulin kappa light chain
+P0DOX8 | Immunoglobulin lambda-1 light chain
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	http://83.212.109.111:8084/amyco/42
+
+//
+ID: 59
+
+Disease Name: Agammaglobulinemia
+
+Description: An immunologic deficiency state characterized by an extremely low level of generally all classes of gamma-globulin in the blood.
+
+Disease Type: Clinical conditions associated with amyloidosis
+
+ICD-10 Classification: Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism
+
+Tissue: Kidney, Gastrointestinal Tract, Spleen, Liver
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/D80
+
+https://meshb.nlm.nih.gov/record/ui?ui=D000361
+
+https://www.ncbi.nlm.nih.gov/pubmed/14194996
+
+https://www.ncbi.nlm.nih.gov/pubmed/24292696
+
+https://www.ncbi.nlm.nih.gov/pubmed/8810937
+
+Alternative Names:
+Agammaglobulinemia
+Agammaglobulinemia, BTK
+Agammaglobulinemia, Bruton tyrosine kinase
+Agammaglobulinemia, X-Linked
+Agammaglobulinemia, X-Linked, Type I
+Bruton's Agammaglobulinemia
+Bruton-Type Agammaglobulinemia
+Bruton-type (congenital X-linked) agammaglobulinemia
+Congenital Agammaglobulinemia
+Immunodeficiency 1
+X-linked agammaglobulinemia
+Hypogammaglobulinemia 
+
+Precursor Proteins:
+P0DJI8 | Serum amyloid A-1 protein
+P0DJI9 | Serum amyloid A-2 protein
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	http://83.212.109.111:8084/amyco/29
+
+//
+ID: 60
+
+Disease Name: Castleman Disease
+
+Description: Large benign, hyperplastic lymph nodes. The more common hyaline vascular subtype is characterized by small hyaline vascular follicles and interfollicular capillary proliferations. Plasma cells are often present and represent another subtype with the plasma cells containing IgM and immunoglobulin A.
+
+Disease Type: Clinical conditions associated with amyloidosis
+
+ICD-10 Classification: Neoplasms
+
+Tissue: Liver, Lymph Node, Spleen, Kidney, Thyroid Gland, Heart
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/D47
+
+https://meshb.nlm.nih.gov/record/ui?ui=D005871
+
+https://www.ncbi.nlm.nih.gov/pubmed/8213634
+
+https://www.ncbi.nlm.nih.gov/pubmed/6437933
+
+https://www.ncbi.nlm.nih.gov/pubmed/24348320
+
+Alternative Names:
+Angiofollicular Lymph Hyperplasia
+Angiofollicular Lymph Node Hyperplasia
+Angiofollicular Lymphoid Hyperplasia
+Castleman's Disease
+Castleman's Tumor
+Castlemans Disease
+Giant Lymph Node Hyperplasia
+Hyperplasia, Giant Lymph Node
+Lymph Node Hyperplasia, Giant
+
+Precursor Proteins:
+P0DJI8 | Serum amyloid A-1 protein
+P0DJI9 | Serum amyloid A-2 protein
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	http://83.212.109.111:8084/amyco/29
+
+//
+ID: 61
+
+Disease Name: Bronchiectasis 
+
+Description: Persistent abnormal dilatation of the bronchi.
+
+Disease Type: Clinical conditions associated with amyloidosis
+
+ICD-10 Classification: Diseases of the Respiratory System
+
+Tissue: Larynx, Lung, Kidney, Gastrointestinal Tract
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/J47
+
+https://meshb.nlm.nih.gov/record/ui?ui=D001987
+
+https://www.ncbi.nlm.nih.gov/pubmed/27764008
+
+https://www.ncbi.nlm.nih.gov/pubmed/8753122
+
+Alternative Names:
+null
+
+Precursor Proteins:
+P0DJI8 | Serum amyloid A-1 protein
+P0DJI9 | Serum amyloid A-2 protein
+P0DOX7 | Immunoglobulin kappa light chain
+P0DOX8 | Immunoglobulin lambda-1 light chain
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	http://83.212.109.111:8084/amyco/8
+	http://83.212.109.111:8084/amyco/29
+
+//
+ID: 62
+
+Disease Name: Cystic Fibrosis
+
+Description: An autosomal recessive genetic disease of the exocrine glands. It is caused by mutations in the gene encoding the cystic fibrosis transmembrane conductance regulator expressed in several organs including the lung, the pancreas, the biliary system, and the sweat glands. Cystic fibrosis is characterized by epithelial secretory dysfunction associated with ductal obstruction resulting in airway obstruction; chronic respiratory infections; pancreatic insufficiency; maldigestion; salt depletion; and heat prostration.
+
+Disease Type: Clinical conditions associated with amyloidosis
+
+ICD-10 Classification: Endocrine, Nutritional and Metabolic Diseases
+
+Tissue: Kidney, Liver, Spleen, Heart, Gastrointestinal Tract, Lung
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/E84
+
+https://meshb.nlm.nih.gov/record/ui?ui=D003550
+
+https://www.ncbi.nlm.nih.gov/pubmed/7246499
+
+https://www.ncbi.nlm.nih.gov/pubmed/888804
+
+https://www.ncbi.nlm.nih.gov/pubmed/3953498
+
+https://www.ncbi.nlm.nih.gov/pubmed/3925758
+
+https://www.ncbi.nlm.nih.gov/pubmed/25054230
+
+Alternative Names:
+Cystic Fibrosis of Pancreas
+Fibrocystic Disease of Pancreas
+Mucoviscidosis
+Pancreatic Cystic Fibrosis
+Pulmonary Cystic Fibrosis
+
+Precursor Proteins:
+P0DJI8 | Serum amyloid A-1 protein
+P0DJI9 | Serum amyloid A-2 protein
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	http://83.212.109.111:8084/amyco/29
+
+//
+ID: 63
+
+Disease Name: Enfuvirtide-induced Amyloidosis
+
+Description: 
+
+Disease Type: Amyloidosis
+
+ISA Name: AEnf Amyloidosis
+
+ICD-10 Classification: Amyloidosis
+
+Tissue: Enfuvirtide injection site
+
+Cross References
+https://www.ncbi.nlm.nih.gov/pubmed/19805777
+
+https://www.ncbi.nlm.nih.gov/pubmed/22264247
+
+https://www.ncbi.nlm.nih.gov/pubmed/24446896
+
+Alternative Names:
+null
+
+Precursor Proteins:
+
+
+Co-deposited Proteins:
+P02647 | Apolipoprotein A-I
+P02649 | Apolipoprotein E
+P02743 | Serum amyloid P-component
+P06727 | Apolipoprotein A-IV
+
+
+Link to Amyloidosis: 
+	No information available
+//
+ID: 64
+
+Disease Name: Behcet Syndrome
+
+Description: Rare chronic inflammatory disease involving the small blood vessels. It is of unknown etiology and characterized by mucocutaneous ulceration in the mouth and genital region and uveitis with hypopyon. The neuro-ocular form may cause blindness and death. Synovitis; thrombophlebitis; gastrointestinal ulcerations; retinal vasculitis; and optic atrophy may occur as well.
+
+Disease Type: Clinical conditions associated with amyloidosis
+
+ICD-10 Classification: Diseases of the Musculoskeletal System and Connective Tissue
+
+Tissue: Kidney, Salivary Gland, Gastrointestinal Tract
+
+Cross References
+https://www.ncbi.nlm.nih.gov/pubmed/1147457
+
+https://www.ncbi.nlm.nih.gov/pubmed/25579733
+
+https://www.ncbi.nlm.nih.gov/pubmed/22961375
+
+https://www.ncbi.nlm.nih.gov/pubmed/10644872
+
+http://apps.who.int/classifications/icd10/browse/2016/en#/M35
+
+https://meshb.nlm.nih.gov/record/ui?ui=D001528
+
+https://www.omim.org/entry/109650
+
+Alternative Names:
+Adamantiades-Behcet Disease Complex
+Behcet Disease
+Behcet Triple Symptom Complex
+Behcet's Syndrome
+Old Silk Route Disease
+Triple Symptom Complex
+Triple-Symptom Complex
+BD
+
+Precursor Proteins:
+P0DJI8 | Serum amyloid A-1 protein
+P0DJI9 | Serum amyloid A-2 protein
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	http://83.212.109.111:8084/amyco/29
+
+//
+ID: 65
+
+Disease Name: Periodic fever, familial, autosomal dominant
+
+Description: An inherited condition characterized by recurrent episodes of fever; onset is typically in early childhood. Fevers usually persist for about three weeks, though they can be longer or shorter, and may not occur again for several weeks or several years. Other symptoms may include abdominal pain; myalgia; arthralgia; skin rash and systemic inflammation; amyloidosis may also occur in some cases. There is often no trigger, but episodes are sometimes preceded by infections, injury, or stress. Germline mutations in the TNFRSFIA gene have been identified.
+
+Disease Type: Clinical conditions associated with amyloidosis
+
+ICD-10 Classification: Diseases of the Musculoskeletal System and Connective Tissue
+
+Tissue: Kidney
+
+Cross References
+https://www.ncbi.nlm.nih.gov/pubmed/23965844
+
+https://www.ncbi.nlm.nih.gov/pubmed/11239851
+
+https://www.ncbi.nlm.nih.gov/pubmed/11443543
+
+https://meshb.nlm.nih.gov/record/ui?ui=C536657
+
+https://www.omim.org/entry/142680
+
+Alternative Names:
+Autosomal Dominant Familial Periodic Fever
+Familial Hibernian fever
+Hibernian Familial Fever
+Hibernian fever, familial
+TNF Receptor-associated Periodic Syndrome
+Tumor necrosis factor receptor-associated periodic syndrome
+TRAPS
+TRAPS syndrome
+Tumor necrosis factor receptor 1 associated periodic syndrome
+TNF receptor 1-associated periodic syndrome
+FPF
+FHF
+
+Precursor Proteins:
+P0DJI8 | Serum amyloid A-1 protein
+P0DJI9 | Serum amyloid A-2 protein
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	http://83.212.109.111:8084/amyco/29
+
+//
+ID: 66
+
+Disease Name: Polyarteritis Nodosa
+
+Description: A form of necrotizing non-granulomatous inflammation occurring primarily in medium-sized arteries, often with microaneurysms. It is characterized by muscle, joint, and abdominal pain resulting from arterial infarction and scarring in affected organs. Polyarteritis nodosa with lung involvement is called Churg-Strauss Syndrome.
+
+Disease Type: Clinical conditions associated with amyloidosis
+
+ICD-10 Classification: Diseases of the Musculoskeletal System and Connective Tissue
+
+Tissue: Kidney, Intestine
+
+Cross References
+https://www.ncbi.nlm.nih.gov/pubmed/26233953
+
+https://www.ncbi.nlm.nih.gov/pubmed/24106820
+
+https://www.ncbi.nlm.nih.gov/pubmed/10224498
+
+https://www.ncbi.nlm.nih.gov/pubmed/27791393
+
+http://apps.who.int/classifications/icd10/browse/2016/en#/M30
+
+https://meshb.nlm.nih.gov/record/ui?ui=D010488
+
+https://www.omim.org/entry/615688
+
+Alternative Names:
+Polyarteritis Nodosa, Childhood-Onset
+PAN
+ADA2 Deficiency
+Essential Polyarteritis
+Necrotizing Arteritis
+Periarteritis Nodosa
+Adenosine Deaminase 2 Deficiency
+DADA2
+Vasculitis due to DADA2
+Vasculitis due to ADA2 deficiency
+Deficiency of Adenosine Deaminase 2
+
+Precursor Proteins:
+P0DJI8 | Serum amyloid A-1 protein
+P0DJI9 | Serum amyloid A-2 protein
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	http://83.212.109.111:8084/amyco/29
+
+//
+ID: 67
+
+Disease Name: PrP Systemic Amyloidosis
+
+Description: 
+
+Disease Type: Amyloidosis
+
+ICD-10 Classification: Diseases of the Nervous System
+
+Tissue: Peripheral Nervous System (PNS), Kidney, Liver, Lung
+
+Cross References
+https://www.ncbi.nlm.nih.gov/pubmed/24224623
+
+https://www.ncbi.nlm.nih.gov/pubmed/24296653
+
+https://www.ncbi.nlm.nih.gov/pubmed/25623792
+
+http://apps.who.int/classifications/icd10/browse/2016/en#/G60
+
+Alternative Names:
+Prion protein systemic amyloidosis
+Chronic diarrhea with HSAN
+Chronic diarrhea with hereditary sensory and autonomic neuropathy
+Prion Disease Associated with Diarrhea and Autonomic Neuropathy
+
+Precursor Proteins:
+P04156 | Major prion protein
+
+
+Co-deposited Proteins:
+P02743 | Serum amyloid P-component
+
+
+Link to Amyloidosis: 
+	No information available
+//
+ID: 68
+
+Disease Name: Mevalonate Kinase Deficiency
+
+Description: Autosomal recessive disorder caused by mutations in the mevalonate kinase gene. Because of the mutations cholesterol biosynthesis is disrupted and mevalonic acid accumulates. It is characterized by a range of symptoms, including dysmorphic facies, psychomotor retardation, cataract, hepatosplenomegaly, cerebellar ataxia, elevated immunoglobulin D, and recurrent febrile crises with fever; lymphadenopathy; arthralgia; edema; and rash.
+
+Disease Type: Clinical conditions associated with amyloidosis
+
+ICD-10 Classification: Other
+
+Tissue: Kidney, Spleen, Liver
+
+Cross References
+https://www.ncbi.nlm.nih.gov/pubmed/15457465
+
+https://www.ncbi.nlm.nih.gov/pubmed/19011501
+
+https://www.ncbi.nlm.nih.gov/pubmed/27213830
+
+https://www.ncbi.nlm.nih.gov/pubmed/8973873
+
+https://www.ncbi.nlm.nih.gov/pubmed/15536479
+
+https://meshb.nlm.nih.gov/record/ui?ui=D054078
+
+https://www.omim.org/entry/610377
+
+https://www.omim.org/entry/260920
+
+Alternative Names:
+Hyper IgD Syndrome
+Hyper-IgD Syndrome
+Hyperimmunoglobulinemia D
+Hyperimmunoglobulinemia D And Periodic Fever Syndrome
+Mevalonic Aciduria
+Mevalonicaciduria
+Periodic Fever, Dutch Type
+HIDS
+Hyperimmunoglobulinemia D syndrome
+Hyperimmunoglobinemia D with recurrent fever
+MEVA
+
+Precursor Proteins:
+P0DJI8 | Serum amyloid A-1 protein
+P0DJI9 | Serum amyloid A-2 protein
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	http://83.212.109.111:8084/amyco/29
+
+//
+ID: 69
+
+Disease Name: Sjogren's Syndrome
+
+Description: Chronic inflammatory and autoimmune disease in which the salivary and lacrimal glands undergo progressive destruction by lymphocytes and plasma cells resulting in decreased production of saliva and tears. The primary form, often called sicca syndrome, involves both keratoconjunctivitis sicca and xerostomia. The secondary form includes, in addition, the presence of a connective tissue disease, usually rheumatoid arthritis.
+
+Disease Type: Clinical conditions associated with amyloidosis
+
+ICD-10 Classification: Diseases of the Musculoskeletal System and Connective Tissue
+
+Tissue: Lung, Skin, Kidney, Salivary Gland, Soft Tissues, Lachrymal Gland
+
+Cross References
+https://www.ncbi.nlm.nih.gov/pubmed/4682027
+
+https://www.ncbi.nlm.nih.gov/pubmed/30210893
+
+https://www.ncbi.nlm.nih.gov/pubmed/28202864
+
+https://www.ncbi.nlm.nih.gov/pubmed/29787840
+
+https://www.ncbi.nlm.nih.gov/pubmed/26339445
+
+http://apps.who.int/classifications/icd10/browse/2016/en#/M35
+
+https://meshb.nlm.nih.gov/record/ui?ui=D012859
+
+https://www.omim.org/entry/270150
+
+Alternative Names:
+Sicca Syndrome
+Sjogren Syndrome
+SS
+
+Precursor Proteins:
+P02766 | Transthyretin
+P0DOX7 | Immunoglobulin kappa light chain
+P0DOX8 | Immunoglobulin lambda-1 light chain
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	http://83.212.109.111:8084/amyco/8
+	http://83.212.109.111:8084/amyco/30
+	http://83.212.109.111:8084/amyco/42
+
+//
+ID: 70
+
+Disease Name: Lupus Erythematosus, Systemic
+
+Description: A chronic, relapsing, inflammatory, and often febrile multisystemic disorder of connective tissue, characterized principally by involvement of the skin, joints, kidneys, and serosal membranes. It is of unknown etiology, but is thought to represent a failure of the regulatory mechanisms of the autoimmune system. The disease is marked by a wide range of system dysfunctions, an elevated erythrocyte sedimentation rate, and the formation of LE cells in the blood or bone marrow.
+
+Disease Type: Clinical conditions associated with amyloidosis
+
+ICD-10 Classification: Diseases of the Musculoskeletal System and Connective Tissue
+
+Tissue: Kidney, Heart, Lung, Bone Marrow, Gastrointestinal Tract, Liver, Spleen, Adrenal Cortex
+
+Cross References
+https://www.ncbi.nlm.nih.gov/pubmed/991472
+
+https://www.ncbi.nlm.nih.gov/pubmed/17687556
+
+https://www.ncbi.nlm.nih.gov/pubmed/13381422
+
+https://www.ncbi.nlm.nih.gov/pubmed/20477021
+
+http://apps.who.int/classifications/icd10/browse/2016/en#/M32
+
+https://meshb.nlm.nih.gov/record/ui?ui=D008180
+
+https://www.omim.org/entry/152700
+
+Alternative Names:
+Libman-Sacks Disease
+Lupus Erythematosus Disseminatus
+Systemic Lupus Erythematosus
+SLE
+
+Precursor Proteins:
+P0DJI8 | Serum amyloid A-1 protein
+P0DJI9 | Serum amyloid A-2 protein
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	http://83.212.109.111:8084/amyco/29
+
+//
+ID: 71
+
+Disease Name: Limb-girdle muscular dystrophy, type 2B
+
+Description: An autosomal recessive form of limb-girde muscular dystrophy caused by mutations in the DYSF gene and characterized by onset between 15 and 25 years and slow progression, lack of upper limb involvement, increased variation in muscle fiber size, elevated serum creatine kinase, and rarely amyloid deposits in muscle fibers.
+
+Disease Type: Amyloidosis
+
+ICD-10 Classification: Diseases of the Nervous System
+
+Tissue: Skeletal Muscles
+
+Cross References
+https://www.ncbi.nlm.nih.gov/pubmed/18306167
+
+http://apps.who.int/classifications/icd10/browse/2016/en#/G71
+
+https://meshb.nlm.nih.gov/record/ui?ui=C535899
+
+https://www.omim.org/entry/253601
+
+Alternative Names:
+LGMD2B
+LGMD3
+Muscular Dystrophy, Limb-Girdle, Type 2B
+Muscular dystrophy, limb-girdle, type 3
+Limb-girdle muscular dystrophy due to dysferlin deficiency
+Autosomal recessive limb-girdle muscular dystrophy type 2B
+
+Precursor Proteins:
+O75923 | Dysferlin
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	No information available
+//
+ID: 72
+
+Disease Name: Hypotrichosis Simplex of the Scalp
+
+Description: 
+
+Disease Type: Amyloidosis
+
+ICD-10 Classification: Diseases of the Skin and Subcutaneous Tissue
+
+Tissue: Skin
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/L65
+
+https://www.omim.org/entry/146520
+
+https://www.ncbi.nlm.nih.gov/pubmed/20448140
+
+Alternative Names:
+Hereditary hypotrichosis simplex of the scalp
+Hypotrichosis 2
+HYPT2
+Hypotrichosis simplex of the scalp 1
+HTSS1
+HTSS
+HSS
+Hypotrichosis, Spanish Type
+
+Precursor Proteins:
+Q15517 | Corneodesmosin
+
+
+Co-deposited Proteins:
+P02743 | Serum amyloid P-component
+
+
+Link to Amyloidosis: 
+	No information available
+//
+ID: 73
+
+Disease Name: Senile Seminal Vesicle Amyloidosis
+
+Description: 
+
+Disease Type: Amyloidosis
+
+ICD-10 Classification: Amyloidosis
+
+Tissue: Seminal Vesicle, Deferent Duct, Ejaculatory Duct
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/E85
+
+https://www.ncbi.nlm.nih.gov/pubmed/6849372
+
+https://www.ncbi.nlm.nih.gov/pubmed/14087279
+
+https://www.ncbi.nlm.nih.gov/pubmed/1517901
+
+https://www.ncbi.nlm.nih.gov/pubmed/15962837
+
+https://www.ncbi.nlm.nih.gov/pubmed/28097620
+
+Alternative Names:
+SSVA
+Senile Seminal Tract Amyloidosis
+SSTA
+Ejaculatory duct amyloidosis
+Spermatic duct amyloidosis
+
+Precursor Proteins:
+P04279 | Semenogelin-1
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	No information available
+//
+ID: 74
+
+Disease Name: Pick Disease of the Brain
+
+Description: A rare form of dementia that is sometimes familial. Clinical features include aphasia; apraxia; confusion; anomia; memory loss; and personality deterioration. This pattern is consistent with the pathologic findings of circumscribed atrophy of the poles of the frontal lobe and temporal lobe. Neuronal loss is maximal in the hippocampus, entorhinal cortex, and amygdala. Some ballooned cortical neurons contain argentophylic (Pick) bodies.
+
+Disease Type: Amyloidosis
+
+ICD-10 Classification: Diseases of the Nervous System
+
+Tissue: Central Nervous System (CNS)
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/G31
+
+https://meshb.nlm.nih.gov/record/ui?ui=D020774
+
+https://www.omim.org/entry/172700
+
+https://www.ncbi.nlm.nih.gov/pubmed/30158706
+
+Alternative Names:
+Brain Atrophy, Circumscribed Lobar
+Circumscribed Lobar Atrophy of the Brain
+Dementia with Lobar Atrophy and Neuronal Cytoplasmic Inclusions
+Lobar Atrophy (Brain)
+Lobar Atrophy Of Brain
+Lobar Atrophy of the Brain
+Pick Disease
+Pick Disease Of Brain
+Pick's Disease
+Picks Disease of Brain
+
+Precursor Proteins:
+P10636 | Tau
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	No information available
+//
+ID: 75
+
+Disease Name: Hereditary beta-2-microglobulin-related Amyloidosis
+
+Description: 
+
+Disease Type: Amyloidosis
+
+ISA Name: Aβ2Mv Amyloidosis
+
+ICD-10 Classification: Amyloidosis
+
+Tissue: Spleen, Liver, Heart, Salivary Gland
+
+Cross References
+https://www.omim.org/entry/105200
+
+https://www.ncbi.nlm.nih.gov/pubmed/22693999
+
+http://apps.who.int/classifications/icd10/browse/2016/en#/E85
+
+Alternative Names:
+Amyloidosis VIII
+Ostertag Type Amyloidosis
+German Type Amyloidosis
+Amyloidosis, Familial renal
+Amyloidosis, Familial visceral
+Amyloidosis, Systemic Non-neuropathic
+beta2-microglobulin-related amyloidosis
+beta2-microglobulin amyloidosis
+Beta-2-microglobulin amyloidosis
+ABeta2M amyloidosis
+
+Precursor Protein:
+P61769 | Beta-2-microglobulin
+
+
+Co-deposited Proteins: 
+No information available
+
+
+
+Link to Amyloidosis: 
+	No information available
+//

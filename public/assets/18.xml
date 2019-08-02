@@ -1,0 +1,154 @@
+<?xml version='1.0'?>
+<disease>
+    <name>Meretoja Syndrome</name>
+    <descriptions></descriptions>
+    <type>Amyloidosis</type>
+    <association>Amyloidosis</association>
+    <tissue>Central Nervous System (CNS), Peripheral Nervous System (PNS), Eye, Skin, Smooth Muscles, Skeletal Muscles, Heart, Kidney</tissue>
+    <proteins>
+        <name>Gelsolin</name>
+        <ac>P06396</ac>
+        <id>GELS_HUMAN</id>
+        <seq>MAPHRPAPALLCALSLALCALSLPVRAATASRGASQAGAPQGRVPEARPNSMVVEHPEFLKAGKEPGLQIWRVEKFDLVPVPTNLYGDFFTGDAYVILKTVQLRNGNLQYDLHYWLGNECSQDESGAAAIFTVQLDDYLNGRAVQHREVQGFESATFLGYFKSGLKYKKGGVASGFKHVVPNEVVVQRLFQVKGRRVVRATEVPVSWESFNNGDCFILDLGNNIHQWCGSNSNRYERLKATQVSKGIRDNERSGRARVHVSEEGTEPEAMLQVLGPKPALPAGTEDTAKEDAANRKLAKLYKVSNGAGTMSVSLVADENPFAQGALKSEDCFILDHGKDGKIFVWKGKQANTEERKAALKTASDFITKMDYPKQTQVSVLPEGGETPLFKQFFKNWRDPDQTDGLGLSYLSSHIANVERVPFDAATLHTSTAMAAQHGMDDDGTGQKQIWRIEGSNKVPVDPATYGQFYGGDSYIILYNYRHGGRQGQIIYNWQGAQSTQDEVAASAILTAQLDEELGGTPVQSRVVQGKEPAHLMSLFGGKPMIIYKGGTSREGGQTAPASTRLFQVRANSAGATRAVEVLPKAGALNSNDAFVLKTPSAAYLWVGTGASEAEKTGAQELLRVLRAQPVQVAEGSEPDGFWEALGGKAAYRTSPRLKDKKMDAHPPRLFACSNKIGRFVIEEVPGELMQEDLATDDVMLLDTWDQVFVWVGKDSQEEEKTEALTSAKRYIETDPANRDRRTPITVVKQGFEPPSFVGWFLGWDDDYWSVDPLDRAMAELAA</seq>
+        <length>782</length>
+        <genename>GSN</genename>
+        <type>Precursor Protein</type>
+    </proteins>
+    <proteins>
+        <name>Alpha-1-antitrypsin</name>
+        <id>A1AT_HUMAN</id>
+        <ac>P01009</ac>
+        <seq>MPSSVSWGILLLAGLCCLVPVSLAEDPQGDAAQKTDTSHHDQDHPTFNKITPNLAEFAFSLYRQLAHQSNSTNIFFSPVSIATAFAMLSLGTKADTHDEILEGLNFNLTEIPEAQIHEGFQELLRTLNQPDSQLQLTTGNGLFLSEGLKLVDKFLEDVKKLYHSEAFTVNFGDTEEAKKQINDYVEKGTQGKIVDLVKELDRDTVFALVNYIFFKGKWERPFEVKDTEEEDFHVDQVTTVKVPMMKRLGMFNIQHCKKLSSWVLLMKYLGNATAIFFLPDEGKLQHLENELTHDIITKFLENEDRRSASLHLPKLSITGTYDLKSVLGQLGITKVFSNGADLSGVTEEAPLKLSKAVHKAVLTIDEKGTEAAGAMFLEAIPMSIPPEVKFNKPFVFLMIEQNTKSPLFMGKVVNPTQK</seq>
+        <length>418</length>
+        <genename>SERPINA1</genename>
+        <type>Co-deposited Protein</type>
+        <association_source>10072044</association_source>
+    </proteins>
+    <proteins>
+        <name>Complement C3</name>
+        <id>CO3_HUMAN</id>
+        <ac>P01024</ac>
+        <seq>MGPTSGPSLLLLLLTHLPLALGSPMYSIITPNILRLESEETMVLEAHDAQGDVPVTVTVHDFPGKKLVLSSEKTVLTPATNHMGNVTFTIPANREFKSEKGRNKFVTVQATFGTQVVEKVVLVSLQSGYLFIQTDKTIYTPGSTVLYRIFTVNHKLLPVGRTVMVNIENPEGIPVKQDSLSSQNQLGVLPLSWDIPELVNMGQWKIRAYYENSPQQVFSTEFEVKEYVLPSFEVIVEPTEKFYYIYNEKGLEVTITARFLYGKKVEGTAFVIFGIQDGEQRISLPESLKRIPIEDGSGEVVLSRKVLLDGVQNPRAEDLVGKSLYVSATVILHSGSDMVQAERSGIPIVTSPYQIHFTKTPKYFKPGMPFDLMVFVTNPDGSPAYRVPVAVQGEDTVQSLTQGDGVAKLSINTHPSQKPLSITVRTKKQELSEAEQATRTMQALPYSTVGNSNNYLHLSVLRTELRPGETLNVNFLLRMDRAHEAKIRYYTYLIMNKGRLLKAGRQVREPGQDLVVLPLSITTDFIPSFRLVAYYTLIGASGQREVVADSVWVDVKDSCVGSLVVKSGQSEDRQPVPGQQMTLKIEGDHGARVVLVAVDKGVFVLNKKNKLTQSKIWDVVEKADIGCTPGSGKDYAGVFSDAGLTFTSSSGQQTAQRAELQCPQPAARRRRSVQLTEKRMDKVGKYPKELRKCCEDGMRENPMRFSCQRRTRFISLGEACKKVFLDCCNYITELRRQHARASHLGLARSNLDEDIIAEENIVSRSEFPESWLWNVEDLKEPPKNGISTKLMNIFLKDSITTWEILAVSMSDKKGICVADPFEVTVMQDFFIDLRLPYSVVRNEQVEIRAVLYNYRQNQELKVRVELLHNPAFCSLATTKRRHQQTVTIPPKSSLSVPYVIVPLKTGLQEVEVKAAVYHHFISDGVRKSLKVVPEGIRMNKTVAVRTLDPERLGREGVQKEDIPPADLSDQVPDTESETRILLQGTPVAQMTEDAVDAERLKHLIVTPSGCGEQNMIGMTPTVIAVHYLDETEQWEKFGLEKRQGALELIKKGYTQQLAFRQPSSAFAAFVKRAPSTWLTAYVVKVFSLAVNLIAIDSQVLCGAVKWLILEKQKPDGVFQEDAPVIHQEMIGGLRNNNEKDMALTAFVLISLQEAKDICEEQVNSLPGSITKAGDFLEANYMNLQRSYTVAIAGYALAQMGRLKGPLLNKFLTTAKDKNRWEDPGKQLYNVEATSYALLALLQLKDFDFVPPVVRWLNEQRYYGGGYGSTQATFMVFQALAQYQKDAPDHQELNLDVSLQLPSRSSKITHRIHWESASLLRSEETKENEGFTVTAEGKGQGTLSVVTMYHAKAKDQLTCNKFDLKVTIKPAPETEKRPQDAKNTMILEICTRYRGDQDATMSILDISMMTGFAPDTDDLKQLANGVDRYISKYELDKAFSDRNTLIIYLDKVSHSEDDCLAFKVHQYFNVELIQPGAVKVYAYYNLEESCTRFYHPEKEDGKLNKLCRDELCRCAEENCFIQKSDDKVTLEERLDKACEPGVDYVYKTRLVKVQLSNDFDEYIMAIEQTIKSGSDEVQVGQQRTFISPIKCREALKLEEKKHYLMWGLSSDFWGEKPNLSYIIGKDTWVEHWPEEDECQDEENQKQCQDLGAFTESMVVFGCPN</seq>
+        <length>1663</length>
+        <genename>C3</genename>
+        <type>Co-deposited Protein</type>
+        <association_source>17453628</association_source>
+    </proteins>
+    <proteins>
+        <name>Cystatin-C</name>
+        <id>CYTC_HUMAN</id>
+        <ac>P01034</ac>
+        <seq>MAGPLRAPLLLLAILAVALAVSPAAGSSPGKPPRLVGGPMDASVEEEGVRRALDFAVGEYNKASNDMYHSRALQVVRARKQIVAGVNYFLDVELGRTTCTKTQPNLDNCPFHDQPHLKRKAFCSFQIYAVPWQGTMTLSKSTCQDA</seq>
+        <length>146</length>
+        <genename>CST3</genename>
+        <type>Co-deposited Protein</type>
+        <association_source>10072044</association_source>
+    </proteins>
+    <proteins>
+        <name>Apolipoprotein E</name>
+        <id>APOE_HUMAN</id>
+        <ac>P02649</ac>
+        <seq>MKVLWAALLVTFLAGCQAKVEQAVETEPEPELRQQTEWQSGQRWELALGRFWDYLRWVQTLSEQVQEELLSSQVTQELRALMDETMKELKAYKSELEEQLTPVAEETRARLSKELQAAQARLGADMEDVCGRLVQYRGEVQAMLGQSTEELRVRLASHLRKLRKRLLRDADDLQKRLAVYQAGAREGAERGLSAIRERLGPLVEQGRVRAATVGSLAGQPLQERAQAWGERLRARMEEMGSRTRDRLDEVKEQVAEVRAKLEEQAQQIRLQAEAFQARLKSWFEPLVEDMQRQWAGLVEKVQAAVGTSAAPVPSDNH</seq>
+        <length>317</length>
+        <genename>APOE</genename>
+        <type>Co-deposited Protein</type>
+        <association_source>10072044</association_source>
+    </proteins>
+    <proteins>
+        <name>Serum amyloid P-component</name>
+        <id>SAMP_HUMAN</id>
+        <ac>P02743</ac>
+        <seq>MNKPLLWISVLTSLLEAFAHTDLSGKVFVFPRESVTDHVNLITPLEKPLQNFTLCFRAYSDLSRAYSLFSYNTQGRDNELLVYKERVGEYSLYIGRHKVTSKVIEKFPAPVHICVSWESSSGIAEFWINGTPLVKKGLRQGYFVEAQPKIVLGQEQDSYGGKFDRSQSFVGEIGDLYMWDSVLPPENILSAYQGTPLPANILDWQALNYEIRGYVIIKPLVWV</seq>
+        <length>223</length>
+        <genename>APCS</genename>
+        <type>Co-deposited Protein</type>
+        <association_source>2162627</association_source>
+    </proteins>
+    <proteins>
+        <name>Complement component C9</name>
+        <id>CO9_HUMAN</id>
+        <ac>P02748</ac>
+        <seq>MSACRSFAVAICILEISILTAQYTTSYDPELTESSGSASHIDCRMSPWSEWSQCDPCLRQMFRSRSIEVFGQFNGKRCTDAVGDRRQCVPTEPCEDAEDDCGNDFQCSTGRCIKMRLRCNGDNDCGDFSDEDDCESEPRPPCRDRVVEESELARTAGYGINILGMDPLSTPFDNEFYNGLCNRDRDGNTLTYYRRPWNVASLIYETKGEKNFRTEHYEEQIEAFKSIIQEKTSNFNAAISLKFTPTETNKAEQCCEETASSISLHGKGSFRFSYSKNETYQLFLSYSSKKEKMFLHVKGEIHLGRFVMRNRDVVLTTTFVDDIKALPTTYEKGEYFAFLETYGTHYSSSGSLGGLYELIYVLDKASMKRKGVELKDIKRCLGYHLDVSLAFSEISVGAEFNKDDCVKRGEGRAVNITSENLIDDVVSLIRGGTRKYAFELKEKLLRGTVIDVTDFVNWASSINDAPVLISQKLSPIYNLVPVKMKNAHLKKQNLERAIEDYINEFSVRKCHTCQNGGTVILMDGKCLCACPFKFEGIACEISKQKISEGLPALEFPNEK</seq>
+        <length>559</length>
+        <genename>C9</genename>
+        <type>Co-deposited Protein</type>
+        <association_source>17453628</association_source>
+    </proteins>
+    <proteins>
+        <name>Actin, aortic smooth muscle</name>
+        <id>ACTA_HUMAN</id>
+        <ac>P62736</ac>
+        <seq>MCEEEDSTALVCDNGSGLCKAGFAGDDAPRAVFPSIVGRPRHQGVMVGMGQKDSYVGDEAQSKRGILTLKYPIEHGIITNWDDMEKIWHHSFYNELRVAPEEHPTLLTEAPLNPKANREKMTQIMFETFNVPAMYVAIQAVLSLYASGRTTGIVLDSGDGVTHNVPIYEGYALPHAIMRLDLAGRDLTDYLMKILTERGYSFVTTAEREIVRDIKEKLCYVALDFENEMATAASSSSLEKSYELPDGQVITIGNERFRCPETLFQPSFIGMESAGIHETTYNSIMKCDIDIRKDLYANNVLSGGTTMYPGIADRMQKEITALAPSTMKIKIIAPPERKYSVWIGGSILASLSTFQQMWISKQEYDEAGPSIVHRKCF</seq>
+        <length>377</length>
+        <genename>ACTA2</genename>
+        <type>Co-deposited Protein</type>
+        <association_source>12071640</association_source>
+    </proteins>
+    <alternative_names>Amyloid cranial neuropathy with lattice corneal dystrophy</alternative_names>
+    <alternative_names>Amyloidosis 5</alternative_names>
+    <alternative_names>Amyloidosis V</alternative_names>
+    <alternative_names>Amyloidosis due to mutant gelsolin</alternative_names>
+    <alternative_names>Amyloidosis, Finnish Type</alternative_names>
+    <alternative_names>Amyloidosis, Meretoja Type</alternative_names>
+    <alternative_names>Cerebral Amyloid Angiopathy, Gsn-Related</alternative_names>
+    <alternative_names>Corneal Dystrophy, Lattice Type II</alternative_names>
+    <alternative_names>Familial Amyloid Polyneuropathy Type IV</alternative_names>
+    <alternative_names>Familial Amyloidosis, Finnish Type</alternative_names>
+    <alternative_names>Finnish type amyloidosis</alternative_names>
+    <alternative_names>Gelsolin-Related Amyloidosis</alternative_names>
+    <alternative_names>Kymenlaakso Syndrome</alternative_names>
+    <alternative_names>Lattice Corneal Dystrophy Type II</alternative_names>
+    <alternative_names>Lattice Corneal Dystrophy, Gelsolin Type</alternative_names>
+    <alternative_names>Lattice Corneal Dystrophy, Type II</alternative_names>
+    <alternative_names>Lattice corneal dystrophy associated with familial systemic amyloidosis</alternative_names>
+    <alternative_names>Lattice dystrophy of the cornea with hereditary generalized amyloidosis</alternative_names>
+    <alternative_names>Meretoja type amyloidosis</alternative_names>
+    <alternative_names>Meretoja's syndrome</alternative_names>
+    <alternative_names>Meretoja syndrome</alternative_names>
+    <alternative_names>Gelsolin amyloidosis</alternative_names>
+    <alternative_names>Hereditary amyloidosis, Finnish type</alternative_names>
+    <alternative_names>Meretoja Type</alternative_names>
+    <alternative_names>Meretoja's disease</alternative_names>
+    <alternative_names>Hereditary Gelsolin Amyloidosis (HGA)</alternative_names>
+    <alternative_names>Familial Amyloid Polyneuropathy, Type IV</alternative_names>
+    <alternative_names>Familial Amyloid Neuropathy, Finnish Type</alternative_names>
+    <alternative_names>Finnish Type Familial Amyloid Neuropathy</alternative_names>
+    <alternative_names>Type IV Familial Amyloid Polyneuropathy</alternative_names>
+    <crossreferences>
+        <abbreviation>ICD</abbreviation>
+        <link>http://apps.who.int/classifications/icd10/browse/2016/en#/E85</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>MeSH</abbreviation>
+        <link>https://meshb.nlm.nih.gov/record/ui?ui=C537459</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>OMIM</abbreviation>
+        <link>https://www.omim.org/entry/105120</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/2157434</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/2153578</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/1338910</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/2175344</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/4313418</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/9547007</link>
+    </crossreferences>
+    <isa_name>AGel Amyloidosis</isa_name>
+</disease>

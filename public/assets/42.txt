@@ -1,0 +1,49 @@
+ID: 42
+
+Disease Name: Amyloidosis, Primary Cutaneous
+
+Description:  An autosomal dominant type of familial amyloidosis that is characterized by pruritis and skin scratching and histologically by the finding of deposits of amyloid staining on keratinous debris in the papillary dermis. Mutations in the OSMR gene have been identified.
+
+Disease Type: Amyloidosis
+
+ICD-10 Classification: Amyloidosis
+
+Tissue: Skin
+
+Cross References
+https://meshb.nlm.nih.gov/record/ui?ui=C562642
+
+https://www.omim.org/entry/105250
+
+https://www.omim.org/entry/613955
+
+https://www.ncbi.nlm.nih.gov/pubmed/14329250
+
+https://www.ncbi.nlm.nih.gov/pubmed/28342017
+
+Alternative Names:
+Primary Localized Cutaneous Amyloidosis
+ Familial primart localized cutaneous amyloidosis
+FPLCA
+Primary cutaneous amyloidosis
+
+Precursor Proteins:
+P02533 | Keratin, type I cytoskeletal 14
+P04264 | Keratin, type II cytoskeletal 1
+P13647 | Keratin, type II cytoskeletal 5
+P25391 | Laminin subunit alpha-1
+P47929 | Galectin-7
+P60709 | Actin, cytoplasmic 1
+P63261 | Actin, cytoplasmic 2 
+P0DOX7 | Immunoglobulin kappa light chain
+P0DOX8 | Immunoglobulin lambda-1 light chain
+
+
+Co-deposited Proteins:
+P02649 | Apolipoprotein E
+P02743 | Serum amyloid P-component
+
+
+Link to Amyloidosis: 
+	No information available
+//

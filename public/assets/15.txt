@@ -1,0 +1,45 @@
+ID: 15
+
+Disease Name: Prolactinoma
+
+Description: A pituitary adenoma which secretes prolactin, leading to hyperprolactinemia. Clinical manifestations include amenorrhea; galactorrhea; impotence; headache; visual disturbances; and cerebrospinal fluid rhinorrhea.
+
+Disease Type: Amyloidosis
+
+ICD-10 Classification: Neoplasms
+
+Tissue: Pituitary Gland
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/C75
+
+https://meshb.nlm.nih.gov/record/ui?ui=D015175
+
+https://www.omim.org/entry/600634
+
+https://www.ncbi.nlm.nih.gov/pubmed/9006323
+
+Alternative Names:
+Adenoma, Prolactin-Secreting, Pituitary
+Lactotroph Adenoma
+Macroprolactinoma
+Microprolactinoma
+PRL-Secreting Pituitary Adenoma
+Pituitary Adenoma, Prolactin-Secreting
+Prolactin-Producing Pituitary Adenoma
+Prolactin-Secreting Pituitary Adenoma
+Prolactinoma, Familial 
+Pitutary prolactinoma
+
+Precursor Proteins:
+P01236 | Prolactin
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	No information available
+//

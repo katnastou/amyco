@@ -1,0 +1,61 @@
+<?xml version='1.0'?>
+<disease>
+    <name>Gout</name>
+    <descriptions>Metabolic disorder characterized by recurrent acute arthritis, hyperuricemia and deposition of sodium urate in and around the joints, sometimes with formation of uric acid calculi.</descriptions>
+    <type>Clinical conditions associated with amyloidosis</type>
+    <association>Diseases of the Musculoskeletal System and Connective Tissue</association>
+    <tissue>Kidney, Liver, Gastrointestinal Tract</tissue>
+    <proteins>
+        <name>Serum amyloid A-1 protein</name>
+        <ac>P0DJI8</ac>
+        <id>SAA1_HUMAN</id>
+        <seq>MKLLTGLVFCSLVLGVSSRSFFSFLGEAFDGARDMWRAYSDMREANYIGSDKYFHARGNYDAAKRGPGGVWAAEAISDARENIQRFFGHGAEDSLADQAANEWGRSGKDPNHFRPAGLPEKY</seq>
+        <length>122</length>
+        <genename>SAA1</genename>
+        <type>Precursor Protein</type>
+    </proteins>
+    <proteins>
+        <name>Serum amyloid A-2 protein</name>
+        <ac>P0DJI9</ac>
+        <id>SAA2_HUMAN</id>
+        <seq>MKLLTGLVFCSLVLSVSSRSFFSFLGEAFDGARDMWRAYSDMREANYIGSDKYFHARGNYDAAKRGPGGAWAAEVISNARENIQRLTGRGAEDSLADQAANKWGRSGRDPNHFRPAGLPEKY</seq>
+        <length>122</length>
+        <genename>SAA2</genename>
+        <type>Precursor Protein</type>
+    </proteins>
+    <alternative_names>null</alternative_names>
+    <crossreferences>
+        <abbreviation>ICD</abbreviation>
+        <link>http://apps.who.int/classifications/icd10/browse/2016/en#/M10</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>MeSH</abbreviation>
+        <link>https://meshb.nlm.nih.gov/record/ui?ui=D006073</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/7458437</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/4087259</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/3073036</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/10088952</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/17065112</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/28538281</link>
+    </crossreferences>
+    <mappings_amyloid>http://83.212.109.111:8084/amyco/29</mappings_amyloid>
+    <isa_name></isa_name>
+</disease>

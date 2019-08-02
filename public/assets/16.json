@@ -1,0 +1,85 @@
+{
+    "name": "Localized insulin-derived Amyloidosis",
+    "descriptions": "",
+    "type": "Amyloidosis",
+    "association": "Amyloidosis",
+    "tissue": "Insulin injection site",
+    "proteins": [
+        {
+            "name": "Insulin",
+            "ac": "P01308",
+            "id": "INS_HUMAN",
+            "seq": "MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAEDLQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN",
+            "length": 110,
+            "genename": "INS",
+            "type": "Precursor Protein"
+        },
+        {
+            "name": "Apolipoprotein A-I",
+            "id": "APOA1_HUMAN",
+            "ac": "P02647",
+            "seq": "MKAAVLTLAVLFLTGSQARHFWQQDEPPQSPWDRVKDLATVYVDVLKDSGRDYVSQFEGSALGKQLNLKLLDNWDSVTSTFSKLREQLGPVTQEFWDNLEKETEGLRQEMSKDLEEVKAKVQPYLDDFQKKWQEEMELYRQKVEPLRAELQEGARQKLHELQEKLSPLGEEMRDRARAHVDALRTHLAPYSDELRQRLAARLEALKENGGARLAEYHAKATEHLSTLSEKAKPALEDLRQGLLPVLESFKVSFLSALEEYTKKLNTQ",
+            "length": 267,
+            "genename": "APOA1",
+            "type": "Co-deposited Proteins",
+            "association_source": "24446896"
+        },
+        {
+            "name": "Apolipoprotein E",
+            "id": "APOE_HUMAN",
+            "ac": "P02649",
+            "seq": "MKVLWAALLVTFLAGCQAKVEQAVETEPEPELRQQTEWQSGQRWELALGRFWDYLRWVQTLSEQVQEELLSSQVTQELRALMDETMKELKAYKSELEEQLTPVAEETRARLSKELQAAQARLGADMEDVCGRLVQYRGEVQAMLGQSTEELRVRLASHLRKLRKRLLRDADDLQKRLAVYQAGAREGAERGLSAIRERLGPLVEQGRVRAATVGSLAGQPLQERAQAWGERLRARMEEMGSRTRDRLDEVKEQVAEVRAKLEEQAQQIRLQAEAFQARLKSWFEPLVEDMQRQWAGLVEKVQAAVGTSAAPVPSDNH",
+            "length": 317,
+            "genename": "APOE",
+            "type": "Co-deposited Proteins",
+            "association_source": "24446896"
+        },
+        {
+            "name": "Serum amyloid P-component",
+            "id": "SAMP_HUMAN",
+            "ac": "P02743",
+            "seq": "MNKPLLWISVLTSLLEAFAHTDLSGKVFVFPRESVTDHVNLITPLEKPLQNFTLCFRAYSDLSRAYSLFSYNTQGRDNELLVYKERVGEYSLYIGRHKVTSKVIEKFPAPVHICVSWESSSGIAEFWINGTPLVKKGLRQGYFVEAQPKIVLGQEQDSYGGKFDRSQSFVGEIGDLYMWDSVLPPENILSAYQGTPLPANILDWQALNYEIRGYVIIKPLVWV",
+            "length": 223,
+            "genename": "APCS",
+            "type": "Co-deposited Proteins",
+            "association_source": "19683329"
+        },
+        {
+            "name": "Apolipoprotein A-IV",
+            "id": "APOA4_HUMAN",
+            "ac": "P06727",
+            "seq": "MFLKAVVLTLALVAVAGARAEVSADQVATVMWDYFSQLSNNAKEAVEHLQKSELTQQLNALFQDKLGEVNTYAGDLQKKLVPFATELHERLAKDSEKLKEEIGKELEELRARLLPHANEVSQKIGDNLRELQQRLEPYADQLRTQVNTQAEQLRRQLTPYAQRMERVLRENADSLQASLRPHADELKAKIDQNVEELKGRLTPYADEFKVKIDQTVEELRRSLAPYAQDTQEKLNHQLEGLTFQMKKNAEELKARISASAEELRQRLAPLAEDVRGNLRGNTEGLQKSLAELGGHLDQQVEEFRRRVEPYGENFNKALVQQMEQLRQKLGPHAGDVEGHLSFLEKDLRDKVNSFFSTFKEKESQDKTLSLPELEQQQEQQQEQQQEQVQMLAPLES",
+            "length": 396,
+            "genename": "APOA4",
+            "type": "Co-deposited Proteins",
+            "association_source": "24446896"
+        }
+    ],
+    "alternative_names": [
+        "Injection-localized amyloidosis",
+        "Localized A-Ins amyloidosis",
+        "Ains-derived amyloidosis",
+        "Insulin-derived amyloidosis",
+        "LIDA"
+    ],
+    "crossreferences": [
+        {
+            "abbreviation": "ICD",
+            "link": "http://apps.who.int/classifications/icd10/browse/2016/en#/E85"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/3286343"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/6337294"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/24462809"
+        }
+    ],
+    "mappings_amyloid": [],
+    "isa_name": "AIns Amyloidosis"
+}

@@ -1,0 +1,55 @@
+{
+    "name": "Insomnia, Fatal Familial",
+    "descriptions": "An autosomal dominant disorder characterized by degeneration of the thalamus and progressive insomnia. It is caused by a mutation in the prion protein (prions).",
+    "type": "Amyloidosis",
+    "association": "Certain Infectious and Parasitic Diseases",
+    "tissue": "Central Nervous System (CNS)",
+    "proteins": [
+        {
+            "name": "Major prion protein",
+            "ac": "P04156",
+            "id": "PRIO_HUMAN",
+            "seq": "MANLGCWMLVLFVATWSDLGLCKKRPKPGGWNTGGSRYPGQGSPGGNRYPPQGGGGWGQPHGGGWGQPHGGGWGQPHGGGWGQPHGGGWGQGGGTHSQWNKPSKPKTNMKHMAGAAAAGAVVGGLGGYMLGSAMSRPIIHFGSDYEDRYYRENMHRYPNQVYYRPMDEYSNQNNFVHDCVNITIKQHTVTTTTKGENFTETDVKMMERVVEQMCITQYERESQAYYQRGSSMVLFSSPPVILLISFLIFLIVG",
+            "length": 253,
+            "genename": "PRNP",
+            "type": "Precursor Protein"
+        }
+    ],
+    "alternative_names": [
+        "Familial Fatal Insomnia",
+        "Insomnia Familial Fatal",
+        "Fatal Familial Disease "
+    ],
+    "crossreferences": [
+        {
+            "abbreviation": "ICD",
+            "link": "http://apps.who.int/classifications/icd10/browse/2016/en#/A81"
+        },
+        {
+            "abbreviation": "MeSH",
+            "link": "https://meshb.nlm.nih.gov/record/ui?ui=D034062"
+        },
+        {
+            "abbreviation": "OMIM",
+            "link": "https://www.omim.org/entry/600072"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/3762620"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/1346338"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/7654073"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/28324299"
+        }
+    ],
+    "mappings_amyloid": [],
+    "isa_name": "APrP Amyloidosis"
+}

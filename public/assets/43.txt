@@ -1,0 +1,47 @@
+ID: 43
+
+Disease Name: Corneal dystrophy, gelatinous drop-like
+
+Description: A hereditary autosomal recessive corneal dystrophy characterized by severe corneal amyloidosis leading to blindness. Clinical manifestations, which appear in the first decade of life, include blurred vision, photophobia, and foreign-body sensation. By the third decade, raised, yellowish-gray, gelatinous masses severely impair visual acuity, and corneal transplantation is required for most patients. Mutations in the TACSTD2 gene have been identified.
+
+Disease Type: Amyloidosis
+
+ICD-10 Classification: Diseases of the Eye and Adnexa
+
+Tissue: Eye
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/H18
+
+https://meshb.nlm.nih.gov/record/ui?ui=C535480
+
+https://www.omim.org/entry/204870
+
+https://www.ncbi.nlm.nih.gov/pubmed/9418728
+
+https://www.ncbi.nlm.nih.gov/pubmed/27913443
+
+Alternative Names:
+Amyloid corneal dystrophy, Japanese type
+Amyloidosis, corneal
+Corneal Dystrophy, Lattice Type III
+Corneal amyloidosis
+Corneal dystrophy, Lattice type 3
+Lattice Corneal Dystrophy, Type III
+Lattice corneal dystrophy type3
+Primary familial amyloidosis of the cornea 
+Familial subepithelial corneal amyloidosis
+CDGDL
+
+Precursor Proteins:
+P02788 | Lactotransferrin
+
+
+Co-deposited Proteins:
+P02649 | Apolipoprotein E
+P10909 | Clusterin
+
+
+Link to Amyloidosis: 
+	No information available
+//

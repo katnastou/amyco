@@ -1,0 +1,55 @@
+<?xml version='1.0'?>
+<disease>
+    <name>Amyotrophic Lateral Sclerosis 1</name>
+    <descriptions>A degenerative disorder affecting upper motor neurons in the brain and lower motor neurons in the brain stem and spinal cord. Disease onset is usually after the age of 50 and the process is usually fatal within 3 to 6 years. Clinical manifestations include progressive weakness, atrophy, fasciculation, hyperreflexia, dysarthria, dysphagia, and eventual paralysis of respiratory function. Pathologic features include the replacement of motor neurons with fibrous astrocytes and atrophy of anterior spinal nerve roots and corticospinal tracts.</descriptions>
+    <type>Amyloidosis</type>
+    <association>Diseases of the Nervous System</association>
+    <tissue>Central Nervous System (CNS)</tissue>
+    <proteins>
+        <name>Superoxide dismutase [Cu-Zn]</name>
+        <ac>P00441</ac>
+        <id>SODC_HUMAN</id>
+        <seq>MATKAVCVLKGDGPVQGIINFEQKESNGPVKVWGSIKGLTEGLHGFHVHEFGDNTAGCTSAGPHFNPLSRKHGGPKDEERHVGDLGNVTADKDGVADVSIEDSVISLSGDHCIIGRTLVVHEKADDLGKGGNEESTKTGNAGSRLACGVIGIAQ</seq>
+        <length>154</length>
+        <genename>SOD1</genename>
+        <type>Precursor Protein</type>
+    </proteins>
+    <alternative_names>ALS (Amyotrophic Lateral Sclerosis)</alternative_names>
+    <alternative_names>Amyotrophic Lateral Sclerosis With Dementia</alternative_names>
+    <alternative_names>Amyotrophic Lateral Sclerosis, Guam Form</alternative_names>
+    <alternative_names>Amyotrophic Lateral Sclerosis, Parkinsonism-Dementia Complex of Guam</alternative_names>
+    <alternative_names>Amyotrophic Lateral Sclerosis-Parkinsonism-Dementia Complex 1</alternative_names>
+    <alternative_names>Charcot Disease</alternative_names>
+    <alternative_names>Dementia With Amyotrophic Lateral Sclerosis</alternative_names>
+    <alternative_names>Gehrig's Disease</alternative_names>
+    <alternative_names>Guam Disease</alternative_names>
+    <alternative_names>Guam Form of Amyotrophic Lateral Sclerosis</alternative_names>
+    <alternative_names>Lou Gehrig Disease</alternative_names>
+    <alternative_names>Lou Gehrig's Disease</alternative_names>
+    <alternative_names>Lou-Gehrigs Disease</alternative_names>
+    <alternative_names>Motor Neuron Disease, Amyotrophic Lateral Sclerosis </alternative_names>
+    <alternative_names>Amyotrophic lateral sclerosis 1, Familial</alternative_names>
+    <alternative_names>FALS</alternative_names>
+    <alternative_names>Amyotrophic lateral sclerosis 1, Autosomal dominant</alternative_names>
+    <crossreferences>
+        <abbreviation>ICD</abbreviation>
+        <link>http://apps.who.int/classifications/icd10/browse/2016/en#/G12</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>MeSH</abbreviation>
+        <link>https://meshb.nlm.nih.gov/record/ui?ui=D000690</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>OMIM</abbreviation>
+        <link>https://www.omim.org/entry/105400</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/19022905</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/19271992</link>
+    </crossreferences>
+    <isa_name></isa_name>
+</disease>

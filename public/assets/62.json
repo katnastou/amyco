@@ -1,0 +1,68 @@
+{
+    "name": "Cystic Fibrosis",
+    "descriptions": "An autosomal recessive genetic disease of the exocrine glands. It is caused by mutations in the gene encoding the cystic fibrosis transmembrane conductance regulator expressed in several organs including the lung, the pancreas, the biliary system, and the sweat glands. Cystic fibrosis is characterized by epithelial secretory dysfunction associated with ductal obstruction resulting in airway obstruction; chronic respiratory infections; pancreatic insufficiency; maldigestion; salt depletion; and heat prostration.",
+    "type": "Clinical conditions associated with amyloidosis",
+    "association": "Endocrine, Nutritional and Metabolic Diseases",
+    "tissue": "Kidney, Liver, Spleen, Heart, Gastrointestinal Tract, Lung",
+    "proteins": [
+        {
+            "name": "Serum amyloid A-1 protein",
+            "ac": "P0DJI8",
+            "id": "SAA1_HUMAN",
+            "seq": "MKLLTGLVFCSLVLGVSSRSFFSFLGEAFDGARDMWRAYSDMREANYIGSDKYFHARGNYDAAKRGPGGVWAAEAISDARENIQRFFGHGAEDSLADQAANEWGRSGKDPNHFRPAGLPEKY",
+            "length": 122,
+            "genename": "SAA1",
+            "type": "Precursor Protein"
+        },
+        {
+            "name": "Serum amyloid A-2 protein",
+            "ac": "P0DJI9",
+            "id": "SAA2_HUMAN",
+            "seq": "MKLLTGLVFCSLVLSVSSRSFFSFLGEAFDGARDMWRAYSDMREANYIGSDKYFHARGNYDAAKRGPGGAWAAEVISNARENIQRLTGRGAEDSLADQAANKWGRSGRDPNHFRPAGLPEKY",
+            "length": 122,
+            "genename": "SAA2",
+            "type": "Precursor Protein"
+        }
+    ],
+    "alternative_names": [
+        "Cystic Fibrosis of Pancreas",
+        "Fibrocystic Disease of Pancreas",
+        "Mucoviscidosis",
+        "Pancreatic Cystic Fibrosis",
+        "Pulmonary Cystic Fibrosis"
+    ],
+    "crossreferences": [
+        {
+            "abbreviation": "ICD",
+            "link": "http://apps.who.int/classifications/icd10/browse/2016/en#/E84"
+        },
+        {
+            "abbreviation": "MeSH",
+            "link": "https://meshb.nlm.nih.gov/record/ui?ui=D003550"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/7246499"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/888804"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/3953498"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/3925758"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/25054230"
+        }
+    ],
+    "mappings_amyloid": [
+        "http://83.212.109.111:8084/amyco/29"
+    ],
+    "isa_name": ""
+}

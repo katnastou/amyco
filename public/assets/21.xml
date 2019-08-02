@@ -1,0 +1,96 @@
+<?xml version='1.0'?>
+<disease>
+    <name>Thyroid Cancer, Medullary</name>
+    <descriptions>A neuroendocrine carcinoma that originates in the c-cells of the thyroid gland; about 10-20% of cases are familial. It occurs sporadically or is associated with multiple endocrine neoplasia syndromes. Germline and somatic mutations in RET and NTRK1 genes have been identified.</descriptions>
+    <type>Amyloidosis</type>
+    <association>Neoplasms</association>
+    <tissue>C-cell thyroid tumors </tissue>
+    <proteins>
+        <name>Calcitonin</name>
+        <ac>P01258</ac>
+        <id>CALC_HUMAN</id>
+        <seq>MGFQKFSPFLALSILVLLQAGSLHAAPFRSALESSPADPATLSEDEARLLLAALVQNYVQMKASELEQEQEREGSSLDSPRSKRCGNLSTCMLGTYTQDFNKFHTFPQTAIGVGAPGKKRDMSSDLERDHRPHVSMPQNAN</seq>
+        <length>141</length>
+        <genename>CALCA</genename>
+        <type>Precursor Protein</type>
+    </proteins>
+    <proteins>
+        <name>Apolipoprotein E</name>
+        <id>APOE_HUMAN</id>
+        <ac>P02649</ac>
+        <seq>MKVLWAALLVTFLAGCQAKVEQAVETEPEPELRQQTEWQSGQRWELALGRFWDYLRWVQTLSEQVQEELLSSQVTQELRALMDETMKELKAYKSELEEQLTPVAEETRARLSKELQAAQARLGADMEDVCGRLVQYRGEVQAMLGQSTEELRVRLASHLRKLRKRLLRDADDLQKRLAVYQAGAREGAERGLSAIRERLGPLVEQGRVRAATVGSLAGQPLQERAQAWGERLRARMEEMGSRTRDRLDEVKEQVAEVRAKLEEQAQQIRLQAEAFQARLKSWFEPLVEDMQRQWAGLVEKVQAAVGTSAAPVPSDNH</seq>
+        <length>317</length>
+        <genename>APOE</genename>
+        <type>Co-deposited Protein</type>
+        <association_source>26304852</association_source>
+    </proteins>
+    <proteins>
+        <name>Serum amyloid P-component</name>
+        <id>SAMP_HUMAN</id>
+        <ac>P02743</ac>
+        <seq>MNKPLLWISVLTSLLEAFAHTDLSGKVFVFPRESVTDHVNLITPLEKPLQNFTLCFRAYSDLSRAYSLFSYNTQGRDNELLVYKERVGEYSLYIGRHKVTSKVIEKFPAPVHICVSWESSSGIAEFWINGTPLVKKGLRQGYFVEAQPKIVLGQEQDSYGGKFDRSQSFVGEIGDLYMWDSVLPPENILSAYQGTPLPANILDWQALNYEIRGYVIIKPLVWV</seq>
+        <length>223</length>
+        <genename>APCS</genename>
+        <type>Co-deposited Protein</type>
+        <association_source>56421</association_source>
+    </proteins>
+    <proteins>
+        <name>Secretogranin-1</name>
+        <id>SCG1_HUMAN</id>
+        <ac>P05060</ac>
+        <seq>MQPTLLLSLLGAVGLAAVNSMPVDNRNHNEGMVTRCIIEVLSNALSKSSAPPITPECRQVLKTSRKDVKDKETTENENTKFEVRLLRDPADASEAHESSSRGEAGAPGEEDIQGPTKADTEKWAEGGGHSRERADEPQWSLYPSDSQVSEEVKTRHSEKSQREDEEEEEGENYQKGERGEDSSEEKHLEEPGETQNAFLNERKQASAIKKEELVARSETHAAGHSQEKTHSREKSSQESGEETGSQENHPQESKGQPRSQEESEEGEEDATSEVDKRRTRPRHHHGRSRPDRSSQGGSLPSEEKGHPQEESEESNVSMASLGEKRDHHSTHYRASEEEPEYGEEIKGYPGVQAPEDLEWERYRGRGSEEYRAPRPQSEESWDEEDKRNYPSLELDKMAHGYGEESEEERGLEPGKGRHHRGRGGEPRAYFMSDTREEKRFLGEGHHRVQENQMDKARRHPQGAWKELDRNYLNYGEEGAPGKWQQQGDLQDTKENREEARFQDKQYSSHHTAEKRKRLGELFNPYYDPLQWKSSHFERRDNMNDNFLEGEEENELTLNEKNFFPEYNYDWWEKKPFSEDVNWGYEKRNLARVPKLDLKRQYDRVAQLDQLLHYRKKSAEFPDFYDSEEPVSTHQEAENEKDRADQTVLTEDEKKELENLAAMDLELQKIAEKFSQRG</seq>
+        <length>677</length>
+        <genename>CHGB</genename>
+        <type>Co-deposited Protein</type>
+        <association_source>26304852</association_source>
+    </proteins>
+    <proteins>
+        <name>Apolipoprotein A-IV</name>
+        <id>APOA4_HUMAN</id>
+        <ac>P06727</ac>
+        <seq>MFLKAVVLTLALVAVAGARAEVSADQVATVMWDYFSQLSNNAKEAVEHLQKSELTQQLNALFQDKLGEVNTYAGDLQKKLVPFATELHERLAKDSEKLKEEIGKELEELRARLLPHANEVSQKIGDNLRELQQRLEPYADQLRTQVNTQAEQLRRQLTPYAQRMERVLRENADSLQASLRPHADELKAKIDQNVEELKGRLTPYADEFKVKIDQTVEELRRSLAPYAQDTQEKLNHQLEGLTFQMKKNAEELKARISASAEELRQRLAPLAEDVRGNLRGNTEGLQKSLAELGGHLDQQVEEFRRRVEPYGENFNKALVQQMEQLRQKLGPHAGDVEGHLSFLEKDLRDKVNSFFSTFKEKESQDKTLSLPELEQQQEQQQEQQQEQVQMLAPLES</seq>
+        <length>396</length>
+        <genename>APOA4</genename>
+        <type>Co-deposited Protein</type>
+        <association_source>26304852</association_source>
+    </proteins>
+    <proteins>
+        <name>Calcitonin gene-related peptide 2</name>
+        <id>CALCB_HUMAN</id>
+        <ac>P10092</ac>
+        <seq>MGFRKFSPFLALSILVLYQAGSLQAAPFRSALESSPDPATLSKEDARLLLAALVQDYVQMKASELKQEQETQGSSSAAQKRACNTATCVTHRLAGLLSRSGGMVKSNFVPTNVGSKAFGRRRRDLQA</seq>
+        <length>127</length>
+        <genename>CALCB</genename>
+        <type>Co-deposited Protein</type>
+        <association_source>26304852</association_source>
+    </proteins>
+    <alternative_names>Medullary thyroid cancer (MTC)</alternative_names>
+    <alternative_names>Thyroid carcinoma, medullary</alternative_names>
+    <alternative_names>Medullary Carcinoma of the Thyroid (MCT) </alternative_names>
+    <alternative_names>Medullary Thyroid Carcinoma</alternative_names>
+    <alternative_names>Thyroid carcinoma, Familial medullary</alternative_names>
+    <alternative_names>Familial medullary thyroid carcinoma</alternative_names>
+    <alternative_names>FMTC</alternative_names>
+    <alternative_names>MTC1</alternative_names>
+    <crossreferences>
+        <abbreviation>ICD</abbreviation>
+        <link>http://apps.who.int/classifications/icd10/browse/2016/en#/D09</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>MeSH</abbreviation>
+        <link>https://meshb.nlm.nih.gov/record/ui?ui=C536914</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>OMIM</abbreviation>
+        <link>https://www.omim.org/entry/155240</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/56421</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/15459123</link>
+    </crossreferences>
+    <isa_name></isa_name>
+</disease>

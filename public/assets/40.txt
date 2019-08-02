@@ -1,0 +1,37 @@
+ID: 40
+
+Disease Name: Medin Amyloidosis
+
+Description: 
+
+Disease Type: Amyloidosis
+
+ISA Name: AMed Amyloidosis
+
+ICD-10 Classification: Amyloidosis
+
+Tissue: Thoracic aorta
+
+Cross References
+https://www.ncbi.nlm.nih.gov/pubmed/1562050
+
+https://www.ncbi.nlm.nih.gov/pubmed/10411933
+
+https://www.ncbi.nlm.nih.gov/pubmed/17679143
+
+Alternative Names:
+Aortic medial amyloidosis
+Senile aortic amyloidosis 
+
+Precursor Proteins:
+Q08431 | Lactadherin
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	No information available
+//

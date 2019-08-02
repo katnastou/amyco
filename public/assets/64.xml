@@ -1,0 +1,64 @@
+<?xml version='1.0'?>
+<disease>
+    <name>Behcet Syndrome</name>
+    <descriptions>Rare chronic inflammatory disease involving the small blood vessels. It is of unknown etiology and characterized by mucocutaneous ulceration in the mouth and genital region and uveitis with hypopyon. The neuro-ocular form may cause blindness and death. Synovitis; thrombophlebitis; gastrointestinal ulcerations; retinal vasculitis; and optic atrophy may occur as well.</descriptions>
+    <type>Clinical conditions associated with amyloidosis</type>
+    <association>Diseases of the Musculoskeletal System and Connective Tissue</association>
+    <tissue>Kidney, Salivary Gland, Gastrointestinal Tract</tissue>
+    <proteins>
+        <name>Serum amyloid A-1 protein</name>
+        <ac>P0DJI8</ac>
+        <id>SAA1_HUMAN</id>
+        <seq>MKLLTGLVFCSLVLGVSSRSFFSFLGEAFDGARDMWRAYSDMREANYIGSDKYFHARGNYDAAKRGPGGVWAAEAISDARENIQRFFGHGAEDSLADQAANEWGRSGKDPNHFRPAGLPEKY</seq>
+        <length>122</length>
+        <genename>SAA1</genename>
+        <type>Precursor Protein</type>
+    </proteins>
+    <proteins>
+        <name>Serum amyloid A-2 protein</name>
+        <ac>P0DJI9</ac>
+        <id>SAA2_HUMAN</id>
+        <seq>MKLLTGLVFCSLVLSVSSRSFFSFLGEAFDGARDMWRAYSDMREANYIGSDKYFHARGNYDAAKRGPGGAWAAEVISNARENIQRLTGRGAEDSLADQAANKWGRSGRDPNHFRPAGLPEKY</seq>
+        <length>122</length>
+        <genename>SAA2</genename>
+        <type>Precursor Protein</type>
+    </proteins>
+    <alternative_names>Adamantiades-Behcet Disease Complex</alternative_names>
+    <alternative_names>Behcet Disease</alternative_names>
+    <alternative_names>Behcet Triple Symptom Complex</alternative_names>
+    <alternative_names>Behcet's Syndrome</alternative_names>
+    <alternative_names>Old Silk Route Disease</alternative_names>
+    <alternative_names>Triple Symptom Complex</alternative_names>
+    <alternative_names>Triple-Symptom Complex</alternative_names>
+    <alternative_names>BD</alternative_names>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/1147457</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/25579733</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/22961375</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/10644872</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>ICD</abbreviation>
+        <link>http://apps.who.int/classifications/icd10/browse/2016/en#/M35</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>MeSH</abbreviation>
+        <link>https://meshb.nlm.nih.gov/record/ui?ui=D001528</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>OMIM</abbreviation>
+        <link>https://www.omim.org/entry/109650</link>
+    </crossreferences>
+    <mappings_amyloid>http://83.212.109.111:8084/amyco/29</mappings_amyloid>
+    <isa_name></isa_name>
+</disease>

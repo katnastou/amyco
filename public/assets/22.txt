@@ -1,0 +1,48 @@
+ID: 22
+
+Disease Name: Apolipoprotein A-II associated Amyloidosis
+
+Description: 
+
+Disease Type: Amyloidosis
+
+ISA Name: AApoAII Amyloidosis
+
+ICD-10 Classification: Amyloidosis
+
+Tissue: Kidney
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/E85
+
+https://www.ncbi.nlm.nih.gov/pubmed/11401442
+
+https://www.ncbi.nlm.nih.gov/pubmed/14986481
+
+https://www.ncbi.nlm.nih.gov/pubmed/21728005
+
+https://www.ncbi.nlm.nih.gov/pubmed/24561203
+
+Alternative Names:
+Apolipoprotein A-II amyloidosis
+Familial amyloid nephropathy due to apolipoprotein A-II variant
+Familial renal amyloidosis due to apolipoprotein A-II variant
+Hereditary amyloid nephropathy due to apolipoprotein A-II variant
+Hereditary renal amyloidosis due to apolipoprotein A-II variant
+Hereditary apolipoprotein AII amyloidosis
+Apolipoprotein AII-induced amyloidosis
+
+Precursor Proteins:
+P02652 | Apolipoprotein A-II
+
+
+Co-deposited Proteins:
+P02649 | Apolipoprotein E
+P02743 | Serum amyloid P-component
+P06727 | Apolipoprotein A-IV
+P60709 | Actin, cytoplasmic 1
+
+
+Link to Amyloidosis: 
+	No information available
+//

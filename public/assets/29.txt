@@ -1,0 +1,53 @@
+ID: 29
+
+Disease Name: AA Amyloidosis
+
+Description: 
+
+Disease Type: Amyloidosis
+
+ISA Name: AA Amyloidosis
+
+ICD-10 Classification: Amyloidosis
+
+Tissue: Kidney, Liver, Spleen, Heart, Gastrointestinal Tract, Lung, Adrenal Gland
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/E85
+
+https://www.ncbi.nlm.nih.gov/pubmed/5055786
+
+https://www.ncbi.nlm.nih.gov/pubmed/5096367
+
+https://www.ncbi.nlm.nih.gov/pubmed/11946204
+
+https://www.ncbi.nlm.nih.gov/pubmed/4816450
+
+https://www.ncbi.nlm.nih.gov/pubmed/10036584
+
+https://www.ncbi.nlm.nih.gov/pubmed/4198200
+
+https://www.ncbi.nlm.nih.gov/pubmed/4205522
+
+https://www.ncbi.nlm.nih.gov/pubmed/25387054
+
+Alternative Names:
+Inflammatory amyloidosis
+Reactive amyloidosis
+Secondary amyloidosis 
+
+Precursor Proteins:
+P0DJI8 | Serum amyloid A-1 protein
+P0DJI9 | Serum amyloid A-2 protein
+
+
+Co-deposited Proteins:
+P02649 | Apolipoprotein E
+P02743 | Serum amyloid P-component
+P98160 | Basement membrane-specific heparan sulfate proteoglycan core protein
+Q08431 | Lactadherin
+
+
+Link to Amyloidosis: 
+	No information available
+//

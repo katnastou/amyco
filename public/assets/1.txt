@@ -1,0 +1,73 @@
+ID: 1
+
+Disease Name: Alzheimer Disease
+
+Description: A degenerative disease of the brain characterized by the insidious onset of dementia. Impairment of memory, judgment, attention span, and problem solving skills are followed by severe apraxias and a global loss of cognitive abilities. The condition primarily occurs after age 60, and is marked pathologically by severe cortical atrophy and the triad of senile plaques; neurofibrillary tangles; and neuropil threads.
+
+Disease Type: Amyloidosis
+
+ICD-10 Classification: Diseases of the Nervous System
+
+Tissue: Central Nervous System (CNS)
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/G30
+
+https://meshb.nlm.nih.gov/record/ui?ui=D000544
+
+https://www.omim.org/entry/104300
+
+https://www.ncbi.nlm.nih.gov/pubmed/8713166
+
+https://www.ncbi.nlm.nih.gov/pubmed/6375662
+
+https://www.ncbi.nlm.nih.gov/pubmed/3159021
+
+https://www.ncbi.nlm.nih.gov/pubmed/17065112
+
+Alternative Names:
+Acute Confusional Senile Dementia
+Alzheimer Dementia
+Alzheimer Disease, Early Onset
+Alzheimer Disease, Late Onset
+Alzheimer Sclerosis
+Alzheimer Syndrome
+Alzheimer Type Senile Dementia
+Alzheimer's Disease
+Alzheimer's Disease, Focal Onset
+Alzheimer-Type Dementia (ATD)
+Dementia, Alzheimer Type
+Dementia, Presenile
+Dementia, Primary Senile Degenerative
+Dementia, Senile
+Early Onset Alzheimer Disease
+Familial Alzheimer Disease (FAD)
+Focal Onset Alzheimer's Disease
+Late Onset Alzheimer Disease
+Presenile Alzheimer Dementia
+Primary Senile Degenerative Dementia
+Senile Dementia, Acute Confusional
+Senile Dementia, Alzheimer Type 
+Presenile and Senile Dementia
+
+Precursor Proteins:
+P05067 | Amyloid-beta A4 protein
+
+
+Co-deposited Proteins:
+P01011 | Alpha-1-antichymotrypsin
+P01034 | Cystatin-C
+P02649 | Apolipoprotein E
+P02743 | Serum amyloid P-component
+P07339 | Cathepsin D
+P07858 | Cathepsin B
+P10909 | Clusterin
+P98160 | Basement membrane-specific heparan sulfate proteoglycan core protein
+P10636 | Tau
+P01023 | Alpha-2-macroglobulin
+P05231 | Interleukin-6
+
+
+Link to Amyloidosis: 
+	No information available
+//

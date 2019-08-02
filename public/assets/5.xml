@@ -1,0 +1,120 @@
+<?xml version='1.0'?>
+<disease>
+    <name>Creutzfeldt-Jakob Syndrome</name>
+    <descriptions>A rare transmissible encephalopathy most prevalent between the ages of 50 and 70 years. Affected individuals may present with sleep disturbances, personality changes, ataxia; aphasia, visual loss, weakness, muscle atrophy, myoclonus, progressive dementia, and death within one year of disease onset. A familial form exhibiting autosomal dominant inheritance and a new variant CJD (potentially associated with encephalopathy, bovine spongiform) have been described. Pathological features include prominent cerebellar and cerebral cortical spongiform degeneration and the presence of prions.</descriptions>
+    <type>Amyloidosis</type>
+    <association>Certain Infectious and Parasitic Diseases</association>
+    <tissue>Central Nervous System (CNS)</tissue>
+    <proteins>
+        <name>Major prion protein</name>
+        <ac>P04156</ac>
+        <id>PRIO_HUMAN</id>
+        <seq>MANLGCWMLVLFVATWSDLGLCKKRPKPGGWNTGGSRYPGQGSPGGNRYPPQGGGGWGQPHGGGWGQPHGGGWGQPHGGGWGQPHGGGWGQGGGTHSQWNKPSKPKTNMKHMAGAAAAGAVVGGLGGYMLGSAMSRPIIHFGSDYEDRYYRENMHRYPNQVYYRPMDEYSNQNNFVHDCVNITIKQHTVTTTTKGENFTETDVKMMERVVEQMCITQYERESQAYYQRGSSMVLFSSPPVILLISFLIFLIVG</seq>
+        <length>253</length>
+        <genename>PRNP</genename>
+        <type>Precursor Protein</type>
+    </proteins>
+    <proteins>
+        <name>Complement C3</name>
+        <id>CO3_HUMAN</id>
+        <ac>P01024</ac>
+        <seq>MGPTSGPSLLLLLLTHLPLALGSPMYSIITPNILRLESEETMVLEAHDAQGDVPVTVTVHDFPGKKLVLSSEKTVLTPATNHMGNVTFTIPANREFKSEKGRNKFVTVQATFGTQVVEKVVLVSLQSGYLFIQTDKTIYTPGSTVLYRIFTVNHKLLPVGRTVMVNIENPEGIPVKQDSLSSQNQLGVLPLSWDIPELVNMGQWKIRAYYENSPQQVFSTEFEVKEYVLPSFEVIVEPTEKFYYIYNEKGLEVTITARFLYGKKVEGTAFVIFGIQDGEQRISLPESLKRIPIEDGSGEVVLSRKVLLDGVQNPRAEDLVGKSLYVSATVILHSGSDMVQAERSGIPIVTSPYQIHFTKTPKYFKPGMPFDLMVFVTNPDGSPAYRVPVAVQGEDTVQSLTQGDGVAKLSINTHPSQKPLSITVRTKKQELSEAEQATRTMQALPYSTVGNSNNYLHLSVLRTELRPGETLNVNFLLRMDRAHEAKIRYYTYLIMNKGRLLKAGRQVREPGQDLVVLPLSITTDFIPSFRLVAYYTLIGASGQREVVADSVWVDVKDSCVGSLVVKSGQSEDRQPVPGQQMTLKIEGDHGARVVLVAVDKGVFVLNKKNKLTQSKIWDVVEKADIGCTPGSGKDYAGVFSDAGLTFTSSSGQQTAQRAELQCPQPAARRRRSVQLTEKRMDKVGKYPKELRKCCEDGMRENPMRFSCQRRTRFISLGEACKKVFLDCCNYITELRRQHARASHLGLARSNLDEDIIAEENIVSRSEFPESWLWNVEDLKEPPKNGISTKLMNIFLKDSITTWEILAVSMSDKKGICVADPFEVTVMQDFFIDLRLPYSVVRNEQVEIRAVLYNYRQNQELKVRVELLHNPAFCSLATTKRRHQQTVTIPPKSSLSVPYVIVPLKTGLQEVEVKAAVYHHFISDGVRKSLKVVPEGIRMNKTVAVRTLDPERLGREGVQKEDIPPADLSDQVPDTESETRILLQGTPVAQMTEDAVDAERLKHLIVTPSGCGEQNMIGMTPTVIAVHYLDETEQWEKFGLEKRQGALELIKKGYTQQLAFRQPSSAFAAFVKRAPSTWLTAYVVKVFSLAVNLIAIDSQVLCGAVKWLILEKQKPDGVFQEDAPVIHQEMIGGLRNNNEKDMALTAFVLISLQEAKDICEEQVNSLPGSITKAGDFLEANYMNLQRSYTVAIAGYALAQMGRLKGPLLNKFLTTAKDKNRWEDPGKQLYNVEATSYALLALLQLKDFDFVPPVVRWLNEQRYYGGGYGSTQATFMVFQALAQYQKDAPDHQELNLDVSLQLPSRSSKITHRIHWESASLLRSEETKENEGFTVTAEGKGQGTLSVVTMYHAKAKDQLTCNKFDLKVTIKPAPETEKRPQDAKNTMILEICTRYRGDQDATMSILDISMMTGFAPDTDDLKQLANGVDRYISKYELDKAFSDRNTLIIYLDKVSHSEDDCLAFKVHQYFNVELIQPGAVKVYAYYNLEESCTRFYHPEKEDGKLNKLCRDELCRCAEENCFIQKSDDKVTLEERLDKACEPGVDYVYKTRLVKVQLSNDFDEYIMAIEQTIKSGSDEVQVGQQRTFISPIKCREALKLEEKKHYLMWGLSSDFWGEKPNLSYIIGKDTWVEHWPEEDECQDEENQKQCQDLGAFTESMVVFGCPN</seq>
+        <length>1663</length>
+        <genename>C3</genename>
+        <type>Co-deposited Protein</type>
+        <association_source>14751767</association_source>
+    </proteins>
+    <proteins>
+        <name>Apolipoprotein E</name>
+        <id>APOE_HUMAN</id>
+        <ac>P02649</ac>
+        <seq>MKVLWAALLVTFLAGCQAKVEQAVETEPEPELRQQTEWQSGQRWELALGRFWDYLRWVQTLSEQVQEELLSSQVTQELRALMDETMKELKAYKSELEEQLTPVAEETRARLSKELQAAQARLGADMEDVCGRLVQYRGEVQAMLGQSTEELRVRLASHLRKLRKRLLRDADDLQKRLAVYQAGAREGAERGLSAIRERLGPLVEQGRVRAATVGSLAGQPLQERAQAWGERLRARMEEMGSRTRDRLDEVKEQVAEVRAKLEEQAQQIRLQAEAFQARLKSWFEPLVEDMQRQWAGLVEKVQAAVGTSAAPVPSDNH</seq>
+        <length>317</length>
+        <genename>APOE</genename>
+        <type>Co-deposited Protein</type>
+        <association_source>2029618</association_source>
+    </proteins>
+    <proteins>
+        <name>Serum amyloid P-component</name>
+        <id>SAMP_HUMAN</id>
+        <ac>P02743</ac>
+        <seq>MNKPLLWISVLTSLLEAFAHTDLSGKVFVFPRESVTDHVNLITPLEKPLQNFTLCFRAYSDLSRAYSLFSYNTQGRDNELLVYKERVGEYSLYIGRHKVTSKVIEKFPAPVHICVSWESSSGIAEFWINGTPLVKKGLRQGYFVEAQPKIVLGQEQDSYGGKFDRSQSFVGEIGDLYMWDSVLPPENILSAYQGTPLPANILDWQALNYEIRGYVIIKPLVWV</seq>
+        <length>223</length>
+        <genename>APCS</genename>
+        <type>Co-deposited Protein</type>
+        <association_source>1891063</association_source>
+    </proteins>
+    <proteins>
+        <name>Complement C1q subcomponent subunit A</name>
+        <id>C1QA_HUMAN</id>
+        <ac>P02745</ac>
+        <seq>MEGPRGWLVLCVLAISLASMVTEDLCRAPDGKKGEAGRPGRRGRPGLKGEQGEPGAPGIRTGIQGLKGDQGEPGPSGNPGKVGYPGPSGPLGARGIPGIKGTKGSPGNIKDQPRPAFSAIRRNPPMGGNVVIFDTVITNQEEPYQNHSGRFVCTVPGYYYFTFQVLSQWEICLSIVSSSRGQVRRSLGFCDTTNKGLFQVVSGGMVLQLQQGDQVWVEKDPKKGHIYQGSEADSVFSGFLIFPSA</seq>
+        <length>245</length>
+        <genename>C1QA</genename>
+        <type>Co-deposited Protein</type>
+        <association_source>14751767</association_source>
+    </proteins>
+    <proteins>
+        <name>Complement C1q subcomponent subunit B</name>
+        <id>C1QB_HUMAN</id>
+        <ac>P02746</ac>
+        <seq>MMMKIPWGSIPVLMLLLLLGLIDISQAQLSCTGPPAIPGIPGIPGTPGPDGQPGTPGIKGEKGLPGLAGDHGEFGEKGDPGIPGNPGKVGPKGPMGPKGGPGAPGAPGPKGESGDYKATQKIAFSATRTINVPLRRDQTIRFDHVITNMNNNYEPRSGKFTCKVPGLYYFTYHASSRGNLCVNLMRGRERAQKVVTFCDYAYNTFQVTTGGMVLKLEQGENVFLQATDKNSLLGMEGANSIFSGFLLFPDMEA</seq>
+        <length>253</length>
+        <genename>C1QB</genename>
+        <type>Co-deposited Protein</type>
+        <association_source>14751767</association_source>
+    </proteins>
+    <proteins>
+        <name>Complement C1q subcomponent subunit C</name>
+        <id>C1QC_HUMAN</id>
+        <ac>P02747</ac>
+        <seq>MDVGPSSLPHLGLKLLLLLLLLPLRGQANTGCYGIPGMPGLPGAPGKDGYDGLPGPKGEPGIPAIPGIRGPKGQKGEPGLPGHPGKNGPMGPPGMPGVPGPMGIPGEPGEEGRYKQKFQSVFTVTRQTHQPPAPNSLIRFNAVLTNPQGDYDTSTGKFTCKVPGLYYFVYHASHTANLCVLLYRSGVKVVTFCGHTSKTNQVNSGGVLLRLQVGEEVWLAVNDYYDMVGIQGSDSVFSGFLLFPD</seq>
+        <length>245</length>
+        <genename>C1QC</genename>
+        <type>Co-deposited Protein</type>
+        <association_source>14751767</association_source>
+    </proteins>
+    <proteins>
+        <name>14-3-3 protein zeta/delta</name>
+        <id>1433Z_HUMAN</id>
+        <ac>P63104</ac>
+        <seq>MDKNELVQKAKLAEQAERYDDMAACMKSVTEQGAELSNEERNLLSVAYKNVVGARRSSWRVVSSIEQKTEGAEKKQQMAREYREKIETELRDICNDVLSLLEKFLIPNASQAESKVFYLKMKGDYYRYLAEVAAGDDKKGIVDQSQQAYQEAFEISKKEMQPTHPIRLGLALNFSVFYYEILNSPEKACSLAKTAFDEAIAELDTLSEESYKDSTLIMQLLRDNLTLWTSDTQGDEAEAGEGGEN</seq>
+        <length>245</length>
+        <genename>YWHAZ</genename>
+        <type>Co-deposited Protein</type>
+        <association_source>12557018</association_source>
+    </proteins>
+    <alternative_names>CJD (Creutzfeldt-Jakob Disease)</alternative_names>
+    <alternative_names>Creutzfeldt Jacob Disease</alternative_names>
+    <alternative_names>Creutzfeldt-Jakob Disease, Familial</alternative_names>
+    <alternative_names>Creutzfeldt-Jakob Disease, New Variant</alternative_names>
+    <alternative_names>Creutzfeldt-Jakob Disease, Variant</alternative_names>
+    <alternative_names>Familial Creutzfeldt-Jakob Disease</alternative_names>
+    <alternative_names>Jakob-Creutzfeldt Disease</alternative_names>
+    <alternative_names>Jakob-Creutzfeldt Syndrome</alternative_names>
+    <alternative_names>New Variant Creutzfeldt-Jakob Disease</alternative_names>
+    <alternative_names>Spongiform Encephalopathy, Subacute</alternative_names>
+    <alternative_names>V-CJD (Variant-Creutzfeldt-Jakob Disease)</alternative_names>
+    <alternative_names>Variant Creutzfeldt-Jakob Disease </alternative_names>
+    <crossreferences>
+        <abbreviation>ICD</abbreviation>
+        <link>http://apps.who.int/classifications/icd10/browse/2016/en#/A81</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>MeSH</abbreviation>
+        <link>https://meshb.nlm.nih.gov/record/ui?ui=D007562</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>OMIM</abbreviation>
+        <link>https://www.omim.org/entry/123400</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/3092727</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/19571726</link>
+    </crossreferences>
+    <isa_name></isa_name>
+</disease>

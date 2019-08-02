@@ -1,0 +1,60 @@
+{
+    "name": "Hereditary lysozyme Amyloidosis",
+    "descriptions": "",
+    "type": "Amyloidosis",
+    "association": "Amyloidosis",
+    "tissue": "Liver, Kidney, Gastrointestinal Tract, Spleen, Lymph Node, Skin, Lachrymal Gland, Salivary Gland, Heart",
+    "proteins": [
+        {
+            "name": "Lysozyme C",
+            "ac": "P61626",
+            "id": "LYSC_HUMAN",
+            "seq": "MKALIVLGLVLLSVTVQGKVFERCELARTLKRLGMDGYRGISLANWMCLAKWESGYNTRATNYNAGDRSTDYGIFQINSRYWCNDGKTPGAVNACHLSCSALLQDNIADAVACAKRVVRDPQGIRAWVAWRNRCQNRDVRQYVQGCGV",
+            "length": 148,
+            "genename": "LYZ",
+            "type": "Precursor Protein"
+        }
+    ],
+    "alternative_names": [
+        "Familial amyloid nephropathy due to lysozyme variant",
+        "Familial renal amyloidosis due to lysozyme variant",
+        "Hereditary amyloid nephropathy due to lysozyme variant",
+        "Hereditary renal amyloidosis due to lysozyme variant",
+        "Lysozyme amyloidosis",
+        "Hereditary Lysozyme Amyloidosis",
+        "Amyloidosis VIII",
+        "Ostertag Type Amyloidosis",
+        "German Type Amyloidosis",
+        "Amyloidosis, Familial renal",
+        "Amyloidosis, Familial visceral",
+        "Amyloidosis, Systemic Non-neuropathic"
+    ],
+    "crossreferences": [
+        {
+            "abbreviation": "ICD",
+            "link": "http://apps.who.int/classifications/icd10/browse/2016/en#/E85"
+        },
+        {
+            "abbreviation": "OMIM",
+            "link": "https://www.omim.org/entry/105200"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/8464497"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/28963698"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/25217048"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/21988333"
+        }
+    ],
+    "mappings_amyloid": [],
+    "isa_name": "ALys Amyloidosis"
+}

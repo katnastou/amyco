@@ -1,0 +1,95 @@
+{
+    "name": "Cryopyrin-Associated Periodic Syndromes",
+    "descriptions": "A group of rare autosomal dominant diseases, commonly characterized by atypical urticaria (hives) with systemic symptoms that develop into end-organ damage. The atypical hives do not involve T-cell or autoantibody. Cryopyrin-associated periodic syndrome includes three previously distinct disorders: Familial cold autoinflammatory syndrome; Muckle-Wells Syndrome; and CINCA Syndrome, that are now considered to represent a disease continuum, all caused by NLRP3  protein mutations.",
+    "type": "Clinical conditions associated with amyloidosis",
+    "association": "Diseases of the Musculoskeletal System and Connective Tissue",
+    "tissue": "Kidney",
+    "proteins": [
+        {
+            "name": "Serum amyloid A-1 protein",
+            "ac": "P0DJI8",
+            "id": "SAA1_HUMAN",
+            "seq": "MKLLTGLVFCSLVLGVSSRSFFSFLGEAFDGARDMWRAYSDMREANYIGSDKYFHARGNYDAAKRGPGGVWAAEAISDARENIQRFFGHGAEDSLADQAANEWGRSGKDPNHFRPAGLPEKY",
+            "length": 122,
+            "genename": "SAA1",
+            "type": "Precursor Protein"
+        },
+        {
+            "name": "Serum amyloid A-2 protein",
+            "ac": "P0DJI9",
+            "id": "SAA2_HUMAN",
+            "seq": "MKLLTGLVFCSLVLSVSSRSFFSFLGEAFDGARDMWRAYSDMREANYIGSDKYFHARGNYDAAKRGPGGAWAAEVISNARENIQRLTGRGAEDSLADQAANKWGRSGRDPNHFRPAGLPEKY",
+            "length": 122,
+            "genename": "SAA2",
+            "type": "Precursor Protein"
+        }
+    ],
+    "alternative_names": [
+        "Muckle-Wells Syndrome",
+        "Muckle Wells Syndrome",
+        "Syndrome, Muckle-Wells",
+        "Urticaria, Deafness and Amyloidosis",
+        "UDA Syndrome",
+        "Syndrome, UDA",
+        "Syndromes, UDA",
+        "UDA Syndromes",
+        "Urticaria-Deafness-Amyloidosis Syndrome",
+        "Syndrome, Urticaria-Deafness-Amyloidosis",
+        "Syndromes, Urticaria-Deafness-Amyloidosis",
+        "Urticaria Deafness Amyloidosis Syndrome",
+        "Urticaria-Deafness-Amyloidosis Syndromes ",
+        "CINCA",
+        "CINCA Syndrome",
+        "Chronic Infantile Neurologic, Cutaneous, and Articular Syndrome",
+        "Chronic Infantile Neurological, Cutaneous, and Articular Syndrome",
+        "Chronic Neurologic Cutaneous and Articular Syndrome",
+        "Chronic Neurologic, Cutaneous, and Articular Syndrome",
+        "Chronic, Infantile, Neurological, Cutaneous, Articular Syndrome",
+        "Cold Urticaria, Familial",
+        "Cold-Induced Autoinflammatory Syndrome, Familial",
+        "Cryopyrinopathy",
+        "FCAS1",
+        "Familial Cold Autoinflammatory Syndrome",
+        "Familial Cold Autoinflammatory Syndrome 1",
+        "Familial Cold Urticaria",
+        "Familial Cold-Induced Autoinflammatory Syndrome",
+        "IOMID",
+        "IOMID Syndrome",
+        "Infantile Onset Multisystem Inflammatory Disease",
+        "Multisystem Inflammatory Disease, Neonatal-Onset",
+        "NOMID",
+        "Neonatal Onset Multisystem Inflammatory Disease",
+        "Prieur-Griscelli Syndrome",
+        "CAPS"
+    ],
+    "crossreferences": [
+        {
+            "abbreviation": "MeSH",
+            "link": "https://meshb.nlm.nih.gov/record/ui?ui=D056587"
+        },
+        {
+            "abbreviation": "OMIM",
+            "link": "https://www.omim.org/entry/191900"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/6406764"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/10486324"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/14872505"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/29163488"
+        }
+    ],
+    "mappings_amyloid": [
+        "http://83.212.109.111:8084/amyco/29"
+    ],
+    "isa_name": ""
+}

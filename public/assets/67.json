@@ -1,0 +1,54 @@
+{
+    "name": "PrP Systemic Amyloidosis",
+    "descriptions": "",
+    "type": "Amyloidosis",
+    "association": "Diseases of the Nervous System",
+    "tissue": "Peripheral Nervous System (PNS), Kidney, Liver, Lung",
+    "proteins": [
+        {
+            "name": "Major prion protein",
+            "ac": "P04156",
+            "id": "PRIO_HUMAN",
+            "seq": "MANLGCWMLVLFVATWSDLGLCKKRPKPGGWNTGGSRYPGQGSPGGNRYPPQGGGGWGQPHGGGWGQPHGGGWGQPHGGGWGQPHGGGWGQGGGTHSQWNKPSKPKTNMKHMAGAAAAGAVVGGLGGYMLGSAMSRPIIHFGSDYEDRYYRENMHRYPNQVYYRPMDEYSNQNNFVHDCVNITIKQHTVTTTTKGENFTETDVKMMERVVEQMCITQYERESQAYYQRGSSMVLFSSPPVILLISFLIFLIVG",
+            "length": 253,
+            "genename": "PRNP",
+            "type": "Precursor Protein"
+        },
+        {
+            "name": "Serum amyloid P-component",
+            "id": "SAMP_HUMAN",
+            "ac": "P02743",
+            "seq": "MNKPLLWISVLTSLLEAFAHTDLSGKVFVFPRESVTDHVNLITPLEKPLQNFTLCFRAYSDLSRAYSLFSYNTQGRDNELLVYKERVGEYSLYIGRHKVTSKVIEKFPAPVHICVSWESSSGIAEFWINGTPLVKKGLRQGYFVEAQPKIVLGQEQDSYGGKFDRSQSFVGEIGDLYMWDSVLPPENILSAYQGTPLPANILDWQALNYEIRGYVIIKPLVWV",
+            "length": 223,
+            "genename": "APCS",
+            "type": "Co-deposited Proteins",
+            "association_source": "24224623"
+        }
+    ],
+    "alternative_names": [
+        "Prion protein systemic amyloidosis",
+        "Chronic diarrhea with HSAN",
+        "Chronic diarrhea with hereditary sensory and autonomic neuropathy",
+        "Prion Disease Associated with Diarrhea and Autonomic Neuropathy"
+    ],
+    "crossreferences": [
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/24224623"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/24296653"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/25623792"
+        },
+        {
+            "abbreviation": "ICD",
+            "link": "http://apps.who.int/classifications/icd10/browse/2016/en#/G60"
+        }
+    ],
+    "mappings_amyloid": [],
+    "isa_name": "APrP Amyloidosis"
+}

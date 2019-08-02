@@ -1,0 +1,49 @@
+<?xml version='1.0'?>
+<disease>
+    <name>Insomnia, Fatal Familial</name>
+    <descriptions>An autosomal dominant disorder characterized by degeneration of the thalamus and progressive insomnia. It is caused by a mutation in the prion protein (prions).</descriptions>
+    <type>Amyloidosis</type>
+    <association>Certain Infectious and Parasitic Diseases</association>
+    <tissue>Central Nervous System (CNS)</tissue>
+    <proteins>
+        <name>Major prion protein</name>
+        <ac>P04156</ac>
+        <id>PRIO_HUMAN</id>
+        <seq>MANLGCWMLVLFVATWSDLGLCKKRPKPGGWNTGGSRYPGQGSPGGNRYPPQGGGGWGQPHGGGWGQPHGGGWGQPHGGGWGQPHGGGWGQGGGTHSQWNKPSKPKTNMKHMAGAAAAGAVVGGLGGYMLGSAMSRPIIHFGSDYEDRYYRENMHRYPNQVYYRPMDEYSNQNNFVHDCVNITIKQHTVTTTTKGENFTETDVKMMERVVEQMCITQYERESQAYYQRGSSMVLFSSPPVILLISFLIFLIVG</seq>
+        <length>253</length>
+        <genename>PRNP</genename>
+        <type>Precursor Protein</type>
+    </proteins>
+    <alternative_names>Familial Fatal Insomnia</alternative_names>
+    <alternative_names>Insomnia Familial Fatal</alternative_names>
+    <alternative_names>Fatal Familial Disease </alternative_names>
+    <crossreferences>
+        <abbreviation>ICD</abbreviation>
+        <link>http://apps.who.int/classifications/icd10/browse/2016/en#/A81</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>MeSH</abbreviation>
+        <link>https://meshb.nlm.nih.gov/record/ui?ui=D034062</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>OMIM</abbreviation>
+        <link>https://www.omim.org/entry/600072</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/3762620</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/1346338</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/7654073</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/28324299</link>
+    </crossreferences>
+    <isa_name></isa_name>
+</disease>

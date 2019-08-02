@@ -1,0 +1,44 @@
+ID: 39
+
+Disease Name: Insomnia, Fatal Familial
+
+Description: An autosomal dominant disorder characterized by degeneration of the thalamus and progressive insomnia. It is caused by a mutation in the prion protein (prions).
+
+Disease Type: Amyloidosis
+
+ICD-10 Classification: Certain Infectious and Parasitic Diseases
+
+Tissue: Central Nervous System (CNS)
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/A81
+
+https://meshb.nlm.nih.gov/record/ui?ui=D034062
+
+https://www.omim.org/entry/600072
+
+https://www.ncbi.nlm.nih.gov/pubmed/3762620
+
+https://www.ncbi.nlm.nih.gov/pubmed/1346338
+
+https://www.ncbi.nlm.nih.gov/pubmed/7654073
+
+https://www.ncbi.nlm.nih.gov/pubmed/28324299
+
+Alternative Names:
+Familial Fatal Insomnia
+Insomnia Familial Fatal
+Fatal Familial Disease 
+
+Precursor Proteins:
+P04156 | Major prion protein
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	No information available
+//

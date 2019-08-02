@@ -1,0 +1,91 @@
+{
+    "name": "Apolipoprotein A-II associated Amyloidosis",
+    "descriptions": "",
+    "type": "Amyloidosis",
+    "association": "Amyloidosis",
+    "tissue": "Kidney",
+    "proteins": [
+        {
+            "name": "Apolipoprotein A-II",
+            "ac": "P02652",
+            "id": "APOA2_HUMAN",
+            "seq": "MKLLAATVLLLTICSLEGALVRRQAKEPCVESLVSQYFQTVTDYGKDLMEKVKSPELQAEAKSYFEKSKEQLTPLIKKAGTELVNFLSYFVELGTQPATQ",
+            "length": 100,
+            "genename": "APOA2",
+            "type": "Precursor Protein"
+        },
+        {
+            "name": "Apolipoprotein E",
+            "id": "APOE_HUMAN",
+            "ac": "P02649",
+            "seq": "MKVLWAALLVTFLAGCQAKVEQAVETEPEPELRQQTEWQSGQRWELALGRFWDYLRWVQTLSEQVQEELLSSQVTQELRALMDETMKELKAYKSELEEQLTPVAEETRARLSKELQAAQARLGADMEDVCGRLVQYRGEVQAMLGQSTEELRVRLASHLRKLRKRLLRDADDLQKRLAVYQAGAREGAERGLSAIRERLGPLVEQGRVRAATVGSLAGQPLQERAQAWGERLRARMEEMGSRTRDRLDEVKEQVAEVRAKLEEQAQQIRLQAEAFQARLKSWFEPLVEDMQRQWAGLVEKVQAAVGTSAAPVPSDNH",
+            "length": 317,
+            "genename": "APOE",
+            "type": "Co-deposited Proteins",
+            "association_source": "29270531"
+        },
+        {
+            "name": "Serum amyloid P-component",
+            "id": "SAMP_HUMAN",
+            "ac": "P02743",
+            "seq": "MNKPLLWISVLTSLLEAFAHTDLSGKVFVFPRESVTDHVNLITPLEKPLQNFTLCFRAYSDLSRAYSLFSYNTQGRDNELLVYKERVGEYSLYIGRHKVTSKVIEKFPAPVHICVSWESSSGIAEFWINGTPLVKKGLRQGYFVEAQPKIVLGQEQDSYGGKFDRSQSFVGEIGDLYMWDSVLPPENILSAYQGTPLPANILDWQALNYEIRGYVIIKPLVWV",
+            "length": 223,
+            "genename": "APCS",
+            "type": "Co-deposited Proteins",
+            "association_source": "29270531"
+        },
+        {
+            "name": "Apolipoprotein A-IV",
+            "id": "APOA4_HUMAN",
+            "ac": "P06727",
+            "seq": "MFLKAVVLTLALVAVAGARAEVSADQVATVMWDYFSQLSNNAKEAVEHLQKSELTQQLNALFQDKLGEVNTYAGDLQKKLVPFATELHERLAKDSEKLKEEIGKELEELRARLLPHANEVSQKIGDNLRELQQRLEPYADQLRTQVNTQAEQLRRQLTPYAQRMERVLRENADSLQASLRPHADELKAKIDQNVEELKGRLTPYADEFKVKIDQTVEELRRSLAPYAQDTQEKLNHQLEGLTFQMKKNAEELKARISASAEELRQRLAPLAEDVRGNLRGNTEGLQKSLAELGGHLDQQVEEFRRRVEPYGENFNKALVQQMEQLRQKLGPHAGDVEGHLSFLEKDLRDKVNSFFSTFKEKESQDKTLSLPELEQQQEQQQEQQQEQVQMLAPLES",
+            "length": 396,
+            "genename": "APOA4",
+            "type": "Co-deposited Proteins",
+            "association_source": "29270531"
+        },
+        {
+            "name": "Actin, cytoplasmic 1",
+            "id": "ACTB_HUMAN",
+            "ac": "P60709",
+            "seq": "MDDDIAALVVDNGSGMCKAGFAGDDAPRAVFPSIVGRPRHQGVMVGMGQKDSYVGDEAQSKRGILTLKYPIEHGIVTNWDDMEKIWHHTFYNELRVAPEEHPVLLTEAPLNPKANREKMTQIMFETFNTPAMYVAIQAVLSLYASGRTTGIVMDSGDGVTHTVPIYEGYALPHAILRLDLAGRDLTDYLMKILTERGYSFTTTAEREIVRDIKEKLCYVALDFEQEMATAASSSSLEKSYELPDGQVITIGNERFRCPEALFQPSFLGMESCGIHETTFNSIMKCDVDIRKDLYANTVLSGGTTMYPGIADRMQKEITALAPSTMKIKIIAPPERKYSVWIGGSILASLSTFQQMWISKQEYDESGPSIVHRKCF",
+            "length": 375,
+            "genename": "ACTB",
+            "type": "Co-deposited Proteins",
+            "association_source": "29270531"
+        }
+    ],
+    "alternative_names": [
+        "Apolipoprotein A-II amyloidosis",
+        "Familial amyloid nephropathy due to apolipoprotein A-II variant",
+        "Familial renal amyloidosis due to apolipoprotein A-II variant",
+        "Hereditary amyloid nephropathy due to apolipoprotein A-II variant",
+        "Hereditary renal amyloidosis due to apolipoprotein A-II variant",
+        "Hereditary apolipoprotein AII amyloidosis",
+        "Apolipoprotein AII-induced amyloidosis"
+    ],
+    "crossreferences": [
+        {
+            "abbreviation": "ICD",
+            "link": "http://apps.who.int/classifications/icd10/browse/2016/en#/E85"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/11401442"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/14986481"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/21728005"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/24561203"
+        }
+    ],
+    "mappings_amyloid": [],
+    "isa_name": "AApoAII Amyloidosis"
+}

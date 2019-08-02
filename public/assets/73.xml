@@ -1,0 +1,47 @@
+<?xml version='1.0'?>
+<disease>
+    <name>Senile Seminal Vesicle Amyloidosis</name>
+    <descriptions></descriptions>
+    <type>Amyloidosis</type>
+    <association>Amyloidosis</association>
+    <tissue>Seminal Vesicle, Deferent Duct, Ejaculatory Duct</tissue>
+    <proteins>
+        <name>Semenogelin-1</name>
+        <ac>P04279</ac>
+        <id>SEMG1_HUMAN</id>
+        <seq>MKPNIIFVLSLLLILEKQAAVMGQKGGSKGRLPSEFSQFPHGQKGQHYSGQKGKQQTESKGSFSIQYTYHVDANDHDQSRKSQQYDLNALHKTTKSQRHLGGSQQLLHNKQEGRDHDKSKGHFHRVVIHHKGGKAHRGTQNPSQDQGNSPSGKGISSQYSNTEERLWVHGLSKEQTSVSGAQKGRKQGGSQSSYVLQTEELVANKQQRETKNSHQNKGHYQNVVEVREEHSSKVQTSLCPAHQDKLQHGSKDIFSTQDELLVYNKNQHQTKNLNQDQQHGRKANKISYQSSSTEERRLHYGENGVQKDVSQSSIYSQTEEKAQGKSQKQITIPSQEQEHSQKANKISYQSSSTEERRLHYGENGVQKDVSQRSIYSQTEKLVAGKSQIQAPNPKQEPWHGENAKGESGQSTNREQDLLSHEQKGRHQHGSHGGLDIVIIEQEDDSDRHLAQHLNNDRNPLFT</seq>
+        <length>462</length>
+        <genename>SEMG1</genename>
+        <type>Precursor Protein</type>
+    </proteins>
+    <alternative_names>SSVA</alternative_names>
+    <alternative_names>Senile Seminal Tract Amyloidosis</alternative_names>
+    <alternative_names>SSTA</alternative_names>
+    <alternative_names>Ejaculatory duct amyloidosis</alternative_names>
+    <alternative_names>Spermatic duct amyloidosis</alternative_names>
+    <crossreferences>
+        <abbreviation>ICD</abbreviation>
+        <link>http://apps.who.int/classifications/icd10/browse/2016/en#/E85</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/6849372</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/14087279</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/1517901</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/15962837</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/28097620</link>
+    </crossreferences>
+    <isa_name></isa_name>
+</disease>

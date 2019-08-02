@@ -1,0 +1,68 @@
+<?xml version='1.0'?>
+<disease>
+    <name>Lattice corneal dystrophy type 1</name>
+    <descriptions>A hereditary autosomal dominant form of corneal dystrophy with significant phenotypic variability. It is characterized by polymorphic geographic deposits at Bowman's membrane, lattice corneal dystrophy, recurrent corneal ulceration, and mild progressive visual impairment. Mutations in the TGBFI gene have been identified.</descriptions>
+    <type>Amyloidosis</type>
+    <association>Diseases of the Eye and Adnexa</association>
+    <tissue>Eye</tissue>
+    <proteins>
+        <name>Transforming growth factor-beta-induced protein ig-h3</name>
+        <ac>Q15582</ac>
+        <id>BGH3_HUMAN</id>
+        <seq>MALFVRLLALALALALGPAATLAGPAKSPYQLVLQHSRLRGRQHGPNVCAVQKVIGTNRKYFTNCKQWYQRKICGKSTVISYECCPGYEKVPGEKGCPAALPLSNLYETLGVVGSTTTQLYTDRTEKLRPEMEGPGSFTIFAPSNEAWASLPAEVLDSLVSNVNIELLNALRYHMVGRRVLTDELKHGMTLTSMYQNSNIQIHHYPNGIVTVNCARLLKADHHATNGVVHLIDKVISTITNNIQQIIEIEDTFETLRAAVAASGLNTMLEGNGQYTLLAPTNEAFEKIPSETLNRILGDPEALRDLLNNHILKSAMCAEAIVAGLSVETLEGTTLEVGCSGDMLTINGKAIISNKDILATNGVIHYIDELLIPDSAKTLFELAAESDVSTAIDLFRQAGLGNHLSGSERLTLLAPLNSVFKDGTPPIDAHTRNLLRNHIIKDQLASKYLYHGQTLETLGGKKLRVFVYRNSLCIENSCIAAHDKRGRYGTLFTMDRVLTPPMGTVMDVLKGDNRFSMLVAAIQSAGLTETLNREGVYTVFAPTNEAFRALPPRERSRLLGDAKELANILKYHIGDEILVSGGIGALVRLKSLQGDKLEVSLKNNVVSVNKEPVAEPDIMATNGVVHVITNVLQPPANRPQERGDELADSALEIFKQASAFSRASQRSVRLAPVYQKLLERMKH</seq>
+        <length>683</length>
+        <genename>TGFBI</genename>
+        <type>Precursor Protein</type>
+    </proteins>
+    <proteins>
+        <name>Apolipoprotein E</name>
+        <id>APOE_HUMAN</id>
+        <ac>P02649</ac>
+        <seq>MKVLWAALLVTFLAGCQAKVEQAVETEPEPELRQQTEWQSGQRWELALGRFWDYLRWVQTLSEQVQEELLSSQVTQELRALMDETMKELKAYKSELEEQLTPVAEETRARLSKELQAAQARLGADMEDVCGRLVQYRGEVQAMLGQSTEELRVRLASHLRKLRKRLLRDADDLQKRLAVYQAGAREGAERGLSAIRERLGPLVEQGRVRAATVGSLAGQPLQERAQAWGERLRARMEEMGSRTRDRLDEVKEQVAEVRAKLEEQAQQIRLQAEAFQARLKSWFEPLVEDMQRQWAGLVEKVQAAVGTSAAPVPSDNH</seq>
+        <length>317</length>
+        <genename>APOE</genename>
+        <type>Co-deposited Protein</type>
+        <association_source>10502582</association_source>
+    </proteins>
+    <proteins>
+        <name>Clusterin</name>
+        <id>CLUS_HUMAN</id>
+        <ac>P10909</ac>
+        <seq>MMKTLLLFVGLLLTWESGQVLGDQTVSDNELQEMSNQGSKYVNKEIQNAVNGVKQIKTLIEKTNEERKTLLSNLEEAKKKKEDALNETRESETKLKELPGVCNETMMALWEECKPCLKQTCMKFYARVCRSGSGLVGRQLEEFLNQSSPFYFWMNGDRIDSLLENDRQQTHMLDVMQDHFSRASSIIDELFQDRFFTREPQDTYHYLPFSLPHRRPHFFFPKSRIVRSLMPFSPYEPLNFHAMFQPFLEMIHEAQQAMDIHFHSPAFQHPPTEFIREGDDDRTVCREIRHNSTGCLRMKDQCDKCREILSVDCSTNNPSQAKLRRELDESLQVAERLTRKYNELLKSYQWKMLNTSSLLEQLNEQFNWVSRLANLTQGEDQYYLRVTTVASHTSDSDVPSGVTEVVVKLFDSDPITVTVPVEVSRKNPKFMETVAEKALQEYRKKHREE</seq>
+        <length>449</length>
+        <genename>CLU</genename>
+        <type>Co-deposited Protein</type>
+        <association_source>10502582</association_source>
+    </proteins>
+    <alternative_names>Biber-Haab-Dimmer Dystrophy</alternative_names>
+    <alternative_names>Corneal Dystrophy, Lattice Type I</alternative_names>
+    <alternative_names>Corneal dystrophy, lattice type 1</alternative_names>
+    <alternative_names>Lattice Corneal Dystrophy Type I</alternative_names>
+    <alternative_names>Lattice Corneal Dystrophy, Type I</alternative_names>
+    <alternative_names>Classic lattice corneal dystrophy</alternative_names>
+    <alternative_names>LCD1</alternative_names>
+    <alternative_names>LCDI </alternative_names>
+    <alternative_names>LCD</alternative_names>
+    <alternative_names>CDL1</alternative_names>
+    <crossreferences>
+        <abbreviation>ICD</abbreviation>
+        <link>http://apps.who.int/classifications/icd10/browse/2016/en#/H18</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>MeSH</abbreviation>
+        <link>https://meshb.nlm.nih.gov/record/ui?ui=C537881</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>OMIM</abbreviation>
+        <link>https://www.omim.org/entry/122200</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/9657906</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/13814113</link>
+    </crossreferences>
+    <isa_name></isa_name>
+</disease>

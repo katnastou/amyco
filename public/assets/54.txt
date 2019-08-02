@@ -1,0 +1,49 @@
+ID: 54
+
+Disease Name: Spondylitis, Ankylosing
+
+Description: A chronic inflammatory condition affecting the axial joints, such as the sacroiliac joint and other intervertebral or costovertebral joints. It occurs predominantly in young males and is characterized by pain and stiffness of joints (ankylosis) with inflammation at tendon insertions.
+
+Disease Type: Clinical conditions associated with amyloidosis
+
+ICD-10 Classification: Diseases of the Musculoskeletal System and Connective Tissue
+
+Tissue: Kidney, Liver, Adrenal Gland
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/M45
+
+https://meshb.nlm.nih.gov/record/ui?ui=D013167
+
+https://www.ncbi.nlm.nih.gov/pubmed/13498599
+
+https://www.ncbi.nlm.nih.gov/pubmed/7022798
+
+https://www.ncbi.nlm.nih.gov/pubmed/23283540
+
+Alternative Names:
+Ankylosing Spondylarthritis
+Ankylosing Spondylitis
+Ankylosing Spondyloarthritis
+Bechterew Disease
+Bechterew's Disease
+Marie-Struempell Disease
+Rheumatoid Spondylitis
+Spondylarthritis Ankylopoietica
+Spondylitis Ankylopoietica
+Spondyloarthritis Ankylopoietica
+
+Precursor Proteins:
+P0DJI8 | Serum amyloid A-1 protein
+P0DJI9 | Serum amyloid A-2 protein
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	http://83.212.109.111:8084/amyco/29
+
+//

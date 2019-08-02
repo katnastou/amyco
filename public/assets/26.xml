@@ -1,0 +1,67 @@
+<?xml version='1.0'?>
+<disease>
+    <name>Apolipoprotein C-III associated Amyloidosis</name>
+    <descriptions></descriptions>
+    <type>Amyloidosis</type>
+    <association>Amyloidosis</association>
+    <tissue>Kidney, Spleen, Salivary Gland, Intestine, Heart</tissue>
+    <proteins>
+        <name>Apolipoprotein C-III</name>
+        <ac>P02656</ac>
+        <id>APOC3_HUMAN</id>
+        <seq>MQPRVLLVVALLALLASARASEAEDASLLSFMQGYMKHATKTAKDALSSVQESQVAQQARGWVTDGFSSLKDYWSTVKDKFSEFWDLDPEVRPTSAVAA</seq>
+        <length>99</length>
+        <genename>APOC3</genename>
+        <type>Precursor Protein</type>
+    </proteins>
+    <proteins>
+        <name>Apolipoprotein A-I</name>
+        <id>APOA1_HUMAN</id>
+        <ac>P02647</ac>
+        <seq>MKAAVLTLAVLFLTGSQARHFWQQDEPPQSPWDRVKDLATVYVDVLKDSGRDYVSQFEGSALGKQLNLKLLDNWDSVTSTFSKLREQLGPVTQEFWDNLEKETEGLRQEMSKDLEEVKAKVQPYLDDFQKKWQEEMELYRQKVEPLRAELQEGARQKLHELQEKLSPLGEEMRDRARAHVDALRTHLAPYSDELRQRLAARLEALKENGGARLAEYHAKATEHLSTLSEKAKPALEDLRQGLLPVLESFKVSFLSALEEYTKKLNTQ</seq>
+        <length>267</length>
+        <genename>APOA1</genename>
+        <type>Co-deposited Protein</type>
+        <association_source>26790392</association_source>
+    </proteins>
+    <proteins>
+        <name>Apolipoprotein E</name>
+        <id>APOE_HUMAN</id>
+        <ac>P02649</ac>
+        <seq>MKVLWAALLVTFLAGCQAKVEQAVETEPEPELRQQTEWQSGQRWELALGRFWDYLRWVQTLSEQVQEELLSSQVTQELRALMDETMKELKAYKSELEEQLTPVAEETRARLSKELQAAQARLGADMEDVCGRLVQYRGEVQAMLGQSTEELRVRLASHLRKLRKRLLRDADDLQKRLAVYQAGAREGAERGLSAIRERLGPLVEQGRVRAATVGSLAGQPLQERAQAWGERLRARMEEMGSRTRDRLDEVKEQVAEVRAKLEEQAQQIRLQAEAFQARLKSWFEPLVEDMQRQWAGLVEKVQAAVGTSAAPVPSDNH</seq>
+        <length>317</length>
+        <genename>APOE</genename>
+        <type>Co-deposited Protein</type>
+        <association_source>26790392</association_source>
+    </proteins>
+    <proteins>
+        <name>Serum amyloid P-component</name>
+        <id>SAMP_HUMAN</id>
+        <ac>P02743</ac>
+        <seq>MNKPLLWISVLTSLLEAFAHTDLSGKVFVFPRESVTDHVNLITPLEKPLQNFTLCFRAYSDLSRAYSLFSYNTQGRDNELLVYKERVGEYSLYIGRHKVTSKVIEKFPAPVHICVSWESSSGIAEFWINGTPLVKKGLRQGYFVEAQPKIVLGQEQDSYGGKFDRSQSFVGEIGDLYMWDSVLPPENILSAYQGTPLPANILDWQALNYEIRGYVIIKPLVWV</seq>
+        <length>223</length>
+        <genename>APCS</genename>
+        <type>Co-deposited Protein</type>
+        <association_source>26790392</association_source>
+    </proteins>
+    <proteins>
+        <name>Apolipoprotein A-IV</name>
+        <id>APOA4_HUMAN</id>
+        <ac>P06727</ac>
+        <seq>MFLKAVVLTLALVAVAGARAEVSADQVATVMWDYFSQLSNNAKEAVEHLQKSELTQQLNALFQDKLGEVNTYAGDLQKKLVPFATELHERLAKDSEKLKEEIGKELEELRARLLPHANEVSQKIGDNLRELQQRLEPYADQLRTQVNTQAEQLRRQLTPYAQRMERVLRENADSLQASLRPHADELKAKIDQNVEELKGRLTPYADEFKVKIDQTVEELRRSLAPYAQDTQEKLNHQLEGLTFQMKKNAEELKARISASAEELRQRLAPLAEDVRGNLRGNTEGLQKSLAELGGHLDQQVEEFRRRVEPYGENFNKALVQQMEQLRQKLGPHAGDVEGHLSFLEKDLRDKVNSFFSTFKEKESQDKTLSLPELEQQQEQQQEQQQEQVQMLAPLES</seq>
+        <length>396</length>
+        <genename>APOA4</genename>
+        <type>Co-deposited Protein</type>
+        <association_source>26790392</association_source>
+    </proteins>
+    <alternative_names>Apolipoprotein-CIII amyloidosis</alternative_names>
+    <crossreferences>
+        <abbreviation>ICD</abbreviation>
+        <link>http://apps.who.int/classifications/icd10/browse/2016/en#/E85</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/26790392</link>
+    </crossreferences>
+    <isa_name>AApoCIII Amyloidosis</isa_name>
+</disease>

@@ -1,0 +1,64 @@
+{
+    "name": "Castleman Disease",
+    "descriptions": "Large benign, hyperplastic lymph nodes. The more common hyaline vascular subtype is characterized by small hyaline vascular follicles and interfollicular capillary proliferations. Plasma cells are often present and represent another subtype with the plasma cells containing IgM and immunoglobulin A.",
+    "type": "Clinical conditions associated with amyloidosis",
+    "association": "Neoplasms",
+    "tissue": "Liver, Lymph Node, Spleen, Kidney, Thyroid Gland, Heart",
+    "proteins": [
+        {
+            "name": "Serum amyloid A-1 protein",
+            "ac": "P0DJI8",
+            "id": "SAA1_HUMAN",
+            "seq": "MKLLTGLVFCSLVLGVSSRSFFSFLGEAFDGARDMWRAYSDMREANYIGSDKYFHARGNYDAAKRGPGGVWAAEAISDARENIQRFFGHGAEDSLADQAANEWGRSGKDPNHFRPAGLPEKY",
+            "length": 122,
+            "genename": "SAA1",
+            "type": "Precursor Protein"
+        },
+        {
+            "name": "Serum amyloid A-2 protein",
+            "ac": "P0DJI9",
+            "id": "SAA2_HUMAN",
+            "seq": "MKLLTGLVFCSLVLSVSSRSFFSFLGEAFDGARDMWRAYSDMREANYIGSDKYFHARGNYDAAKRGPGGAWAAEVISNARENIQRLTGRGAEDSLADQAANKWGRSGRDPNHFRPAGLPEKY",
+            "length": 122,
+            "genename": "SAA2",
+            "type": "Precursor Protein"
+        }
+    ],
+    "alternative_names": [
+        "Angiofollicular Lymph Hyperplasia",
+        "Angiofollicular Lymph Node Hyperplasia",
+        "Angiofollicular Lymphoid Hyperplasia",
+        "Castleman's Disease",
+        "Castleman's Tumor",
+        "Castlemans Disease",
+        "Giant Lymph Node Hyperplasia",
+        "Hyperplasia, Giant Lymph Node",
+        "Lymph Node Hyperplasia, Giant"
+    ],
+    "crossreferences": [
+        {
+            "abbreviation": "ICD",
+            "link": "http://apps.who.int/classifications/icd10/browse/2016/en#/D47"
+        },
+        {
+            "abbreviation": "MeSH",
+            "link": "https://meshb.nlm.nih.gov/record/ui?ui=D005871"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/8213634"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/6437933"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/24348320"
+        }
+    ],
+    "mappings_amyloid": [
+        "http://83.212.109.111:8084/amyco/29"
+    ],
+    "isa_name": ""
+}

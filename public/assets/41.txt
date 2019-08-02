@@ -1,0 +1,57 @@
+ID: 41
+
+Disease Name: Familial Mediterranean Fever
+
+Description: A group of hereditary autoinflammation diseases, characterized by recurrent fever, abdominal pain, headache, rash, pleurisy; and arthritis. Orchitis; benign meningitis; and amyloidosis may also occur. Homozygous or compound heterozygous mutations in marenostrin gene result in autosomal recessive transmission; simple heterozygous, autosomal dominant form of the disease.
+
+Disease Type: Clinical conditions associated with amyloidosis
+
+ICD-10 Classification: Diseases of the Musculoskeletal System and Connective Tissue
+
+Tissue: Kidney
+
+Cross References
+https://meshb.nlm.nih.gov/record/ui?ui=D010505
+
+https://www.omim.org/entry/249100
+
+https://www.ncbi.nlm.nih.gov/pubmed/14022004
+
+https://www.ncbi.nlm.nih.gov/pubmed/5056669
+
+https://www.ncbi.nlm.nih.gov/pubmed/3966749
+
+https://www.ncbi.nlm.nih.gov/pubmed/10211405
+
+https://www.ncbi.nlm.nih.gov/pubmed/16284730
+
+Alternative Names:
+Benign Paroxysmal Peritonitis
+Familial Mediterranean Fever, Autosomal Recessive
+Familial Paroxysmal Polyserositis
+Mediterranean Fever, Familial
+Periodic Disease
+Periodic Disease, Wolff's
+Periodic Peritonitis
+Polyserositis, Familial Paroxysmal
+Polyserositis, Recurrent
+Recurrent Polyserositis
+Wolff Periodic Disease
+Wolff's Periodic Disease 
+FMF
+Benign recurrent polyserositis
+
+Precursor Proteins:
+P0DJI8 | Serum amyloid A-1 protein
+P0DJI9 | Serum amyloid A-2 protein
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	http://83.212.109.111:8084/amyco/29
+
+//

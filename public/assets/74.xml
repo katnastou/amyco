@@ -1,0 +1,44 @@
+<?xml version='1.0'?>
+<disease>
+    <name>Pick Disease of the Brain</name>
+    <descriptions>A rare form of dementia that is sometimes familial. Clinical features include aphasia; apraxia; confusion; anomia; memory loss; and personality deterioration. This pattern is consistent with the pathologic findings of circumscribed atrophy of the poles of the frontal lobe and temporal lobe. Neuronal loss is maximal in the hippocampus, entorhinal cortex, and amygdala. Some ballooned cortical neurons contain argentophylic (Pick) bodies.</descriptions>
+    <type>Amyloidosis</type>
+    <association>Diseases of the Nervous System</association>
+    <tissue>Central Nervous System (CNS)</tissue>
+    <proteins>
+        <name>Tau</name>
+        <ac>P10636</ac>
+        <id>TAU_HUMAN</id>
+        <seq>MAEPRQEFEVMEDHAGTYGLGDRKDQGGYTMHQDQEGDTDAGLKESPLQTPTEDGSEEPGSETSDAKSTPTAEDVTAPLVDEGAPGKQAAAQPHTEIPEGTTAEEAGIGDTPSLEDEAAGHVTQEPESGKVVQEGFLREPGPPGLSHQLMSGMPGAPLLPEGPREATRQPSGTGPEDTEGGRHAPELLKHQLLGDLHQEGPPLKGAGGKERPGSKEEVDEDRDVDESSPQDSPPSKASPAQDGRPPQTAAREATSIPGFPAEGAIPLPVDFLSKVSTEIPASEPDGPSVGRAKGQDAPLEFTFHVEITPNVQKEQAHSEEHLGRAAFPGAPGEGPEARGPSLGEDTKEADLPEPSEKQPAAAPRGKPVSRVPQLKARMVSKSKDGTGSDDKKAKTSTRSSAKTLKNRPCLSPKHPTPGSSDPLIQPSSPAVCPEPPSSPKYVSSVTSRTGSSGAKEMKLKGADGKTKIATPRGAAPPGQKGQANATRIPAKTPPAPKTPPSSGEPPKSGDRSGYSSPGSPGTPGSRSRTPSLPTPPTREPKKVAVVRTPPKSPSSAKSRLQTAPVPMPDLKNVKSKIGSTENLKHQPGGGKVQIINKKLDLSNVQSKCGSKDNIKHVPGGGSVQIVYKPVDLSKVTSKCGSLGNIHHKPGGGQVEVKSEKLDFKDRVQSKIGSLDNITHVPGGGNKKIETHKLTFRENAKAKTDHGAEIVYKSPVVSGDTSPRHLSNVSSTGSIDMVDSPQLATLADEVSASLAKQGL</seq>
+        <length>758</length>
+        <genename>MAPT</genename>
+        <type>Precursor Protein</type>
+    </proteins>
+    <alternative_names>Brain Atrophy, Circumscribed Lobar</alternative_names>
+    <alternative_names>Circumscribed Lobar Atrophy of the Brain</alternative_names>
+    <alternative_names>Dementia with Lobar Atrophy and Neuronal Cytoplasmic Inclusions</alternative_names>
+    <alternative_names>Lobar Atrophy (Brain)</alternative_names>
+    <alternative_names>Lobar Atrophy Of Brain</alternative_names>
+    <alternative_names>Lobar Atrophy of the Brain</alternative_names>
+    <alternative_names>Pick Disease</alternative_names>
+    <alternative_names>Pick Disease Of Brain</alternative_names>
+    <alternative_names>Pick's Disease</alternative_names>
+    <alternative_names>Picks Disease of Brain</alternative_names>
+    <crossreferences>
+        <abbreviation>ICD</abbreviation>
+        <link>http://apps.who.int/classifications/icd10/browse/2016/en#/G31</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>MeSH</abbreviation>
+        <link>https://meshb.nlm.nih.gov/record/ui?ui=D020774</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>OMIM</abbreviation>
+        <link>https://www.omim.org/entry/172700</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/30158706</link>
+    </crossreferences>
+    <isa_name></isa_name>
+</disease>

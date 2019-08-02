@@ -1,0 +1,60 @@
+<?xml version='1.0'?>
+<disease>
+    <name>Agammaglobulinemia</name>
+    <descriptions>An immunologic deficiency state characterized by an extremely low level of generally all classes of gamma-globulin in the blood.</descriptions>
+    <type>Clinical conditions associated with amyloidosis</type>
+    <association>Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism</association>
+    <tissue>Kidney, Gastrointestinal Tract, Spleen, Liver</tissue>
+    <proteins>
+        <name>Serum amyloid A-1 protein</name>
+        <ac>P0DJI8</ac>
+        <id>SAA1_HUMAN</id>
+        <seq>MKLLTGLVFCSLVLGVSSRSFFSFLGEAFDGARDMWRAYSDMREANYIGSDKYFHARGNYDAAKRGPGGVWAAEAISDARENIQRFFGHGAEDSLADQAANEWGRSGKDPNHFRPAGLPEKY</seq>
+        <length>122</length>
+        <genename>SAA1</genename>
+        <type>Precursor Protein</type>
+    </proteins>
+    <proteins>
+        <name>Serum amyloid A-2 protein</name>
+        <ac>P0DJI9</ac>
+        <id>SAA2_HUMAN</id>
+        <seq>MKLLTGLVFCSLVLSVSSRSFFSFLGEAFDGARDMWRAYSDMREANYIGSDKYFHARGNYDAAKRGPGGAWAAEVISNARENIQRLTGRGAEDSLADQAANKWGRSGRDPNHFRPAGLPEKY</seq>
+        <length>122</length>
+        <genename>SAA2</genename>
+        <type>Precursor Protein</type>
+    </proteins>
+    <alternative_names>Agammaglobulinemia</alternative_names>
+    <alternative_names>Agammaglobulinemia, BTK</alternative_names>
+    <alternative_names>Agammaglobulinemia, Bruton tyrosine kinase</alternative_names>
+    <alternative_names>Agammaglobulinemia, X-Linked</alternative_names>
+    <alternative_names>Agammaglobulinemia, X-Linked, Type I</alternative_names>
+    <alternative_names>Bruton's Agammaglobulinemia</alternative_names>
+    <alternative_names>Bruton-Type Agammaglobulinemia</alternative_names>
+    <alternative_names>Bruton-type (congenital X-linked) agammaglobulinemia</alternative_names>
+    <alternative_names>Congenital Agammaglobulinemia</alternative_names>
+    <alternative_names>Immunodeficiency 1</alternative_names>
+    <alternative_names>X-linked agammaglobulinemia</alternative_names>
+    <alternative_names>Hypogammaglobulinemia </alternative_names>
+    <crossreferences>
+        <abbreviation>ICD</abbreviation>
+        <link>http://apps.who.int/classifications/icd10/browse/2016/en#/D80</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>MeSH</abbreviation>
+        <link>https://meshb.nlm.nih.gov/record/ui?ui=D000361</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/14194996</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/24292696</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/8810937</link>
+    </crossreferences>
+    <mappings_amyloid>http://83.212.109.111:8084/amyco/29</mappings_amyloid>
+    <isa_name></isa_name>
+</disease>

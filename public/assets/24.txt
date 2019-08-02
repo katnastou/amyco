@@ -1,0 +1,45 @@
+ID: 24
+
+Disease Name: AHL Amyloidosis
+
+Description: 
+
+Disease Type: Amyloidosis
+
+ISA Name: AHL Amyloidosis
+
+ICD-10 Classification: Amyloidosis
+
+Tissue: Lung, Kidney, Heart
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/E85
+
+https://www.ncbi.nlm.nih.gov/pubmed/16021505
+
+https://www.ncbi.nlm.nih.gov/pubmed/16810284
+
+https://www.ncbi.nlm.nih.gov/pubmed/23302715
+
+Alternative Names:
+Heavy/light-chain amyloidosis
+Heavy- and light-chain amyloidosis 
+Immunoglobulin Heavy and Light Chain Amyloidosis
+
+Precursor Proteins:
+P0DOX4 | Immunoglobulin epsilon heavy chain
+P0DOX5 | Immunoglobulin gamma-1 heavy chain
+P0DOX6 | Immunoglobulin mu heavy chain
+P0DOX7 | Immunoglobulin kappa light chain
+P0DOX8 | Immunoglobulin lambda-1 light chain
+P0DOX2 | Immunoglobulin alpha-2 heavy chain
+
+
+Co-deposited Proteins:
+P02649 | Apolipoprotein E
+P02743 | Serum amyloid P-component
+
+
+Link to Amyloidosis: 
+	No information available
+//

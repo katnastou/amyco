@@ -1,0 +1,35 @@
+ID: 36
+
+Disease Name: Variably Protease-Sensitive Prionopathy
+
+Description: 
+
+Disease Type: Amyloidosis
+
+ICD-10 Classification: Certain Infectious and Parasitic Diseases
+
+Tissue: Central Nervous System (CNS)
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/A81
+
+https://www.ncbi.nlm.nih.gov/pubmed/18571782
+
+https://www.ncbi.nlm.nih.gov/pubmed/21584652
+
+Alternative Names:
+Protease Sensitive Prionopathy
+VPSPr
+
+Precursor Proteins:
+P04156 | Major prion protein
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	No information available
+//

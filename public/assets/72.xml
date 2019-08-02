@@ -1,0 +1,48 @@
+<?xml version='1.0'?>
+<disease>
+    <name>Hypotrichosis Simplex of the Scalp</name>
+    <descriptions></descriptions>
+    <type>Amyloidosis</type>
+    <association>Diseases of the Skin and Subcutaneous Tissue</association>
+    <tissue>Skin</tissue>
+    <proteins>
+        <name>Corneodesmosin</name>
+        <ac>Q15517</ac>
+        <id>CDSN_HUMAN</id>
+        <seq>MGSSRAPWMGRVGGHGMMALLLAGLLLPGTLAKSIGTFSDPCKDPTRITSPNDPCLTGKGDSSGFSSYSGSSSSGSSISSARSSGGGSSGSSSGSSIAQGGSAGSFKPGTGYSQVSYSSGSGSSLQGASGSSQLGSSSSHSGNSGSHSGSSSSHSSSSSSFQFSSSSFQVGNGSALPTNDNSYRGILNPSQPGQSSSSSQTSGVSSSGQSVSSNQRPCSSDIPDSPCSGGPIVSHSGPYIPSSHSVSGGQRPVVVVVDQHGSGAPGVVQGPPCSNGGLPGKPCPPITSVDKSYGGYEVVGGSSDSYLVPGMTYSKGKIYPVGYFTKENPVKGSPGVPSFAAGPPISEGKYFSSNPIIPSQSAASSAIAFQPVGTGGVQLCGGGSTGSKGPCSPSSSRVPSSSSISSSSGSPYHPCGSASQSPCSPPGTGSFSSSSSSQSSGKIILQPCGSKSSSSGHPCMSVSSLTLTGGPDGSPHPDPSAGAKPCGSSSAGKIPCRSIRDILAQVKPLGPQLADPEVFLPQGELLDSP</seq>
+        <length>529</length>
+        <genename>CDSN</genename>
+        <type>Precursor Protein</type>
+    </proteins>
+    <proteins>
+        <name>Serum amyloid P-component</name>
+        <id>SAMP_HUMAN</id>
+        <ac>P02743</ac>
+        <seq>MNKPLLWISVLTSLLEAFAHTDLSGKVFVFPRESVTDHVNLITPLEKPLQNFTLCFRAYSDLSRAYSLFSYNTQGRDNELLVYKERVGEYSLYIGRHKVTSKVIEKFPAPVHICVSWESSSGIAEFWINGTPLVKKGLRQGYFVEAQPKIVLGQEQDSYGGKFDRSQSFVGEIGDLYMWDSVLPPENILSAYQGTPLPANILDWQALNYEIRGYVIIKPLVWV</seq>
+        <length>223</length>
+        <genename>APCS</genename>
+        <type>Co-deposited Protein</type>
+        <association_source>20448140</association_source>
+    </proteins>
+    <alternative_names>Hereditary hypotrichosis simplex of the scalp</alternative_names>
+    <alternative_names>Hypotrichosis 2</alternative_names>
+    <alternative_names>HYPT2</alternative_names>
+    <alternative_names>Hypotrichosis simplex of the scalp 1</alternative_names>
+    <alternative_names>HTSS1</alternative_names>
+    <alternative_names>HTSS</alternative_names>
+    <alternative_names>HSS</alternative_names>
+    <alternative_names>Hypotrichosis, Spanish Type</alternative_names>
+    <crossreferences>
+        <abbreviation>ICD</abbreviation>
+        <link>http://apps.who.int/classifications/icd10/browse/2016/en#/L65</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>OMIM</abbreviation>
+        <link>https://www.omim.org/entry/146520</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/20448140</link>
+    </crossreferences>
+    <isa_name></isa_name>
+</disease>

@@ -1,0 +1,61 @@
+{
+    "name": "Amyotrophic Lateral Sclerosis 1",
+    "descriptions": "A degenerative disorder affecting upper motor neurons in the brain and lower motor neurons in the brain stem and spinal cord. Disease onset is usually after the age of 50 and the process is usually fatal within 3 to 6 years. Clinical manifestations include progressive weakness, atrophy, fasciculation, hyperreflexia, dysarthria, dysphagia, and eventual paralysis of respiratory function. Pathologic features include the replacement of motor neurons with fibrous astrocytes and atrophy of anterior spinal nerve roots and corticospinal tracts.",
+    "type": "Amyloidosis",
+    "association": "Diseases of the Nervous System",
+    "tissue": "Central Nervous System (CNS)",
+    "proteins": [
+        {
+            "name": "Superoxide dismutase [Cu-Zn]",
+            "ac": "P00441",
+            "id": "SODC_HUMAN",
+            "seq": "MATKAVCVLKGDGPVQGIINFEQKESNGPVKVWGSIKGLTEGLHGFHVHEFGDNTAGCTSAGPHFNPLSRKHGGPKDEERHVGDLGNVTADKDGVADVSIEDSVISLSGDHCIIGRTLVVHEKADDLGKGGNEESTKTGNAGSRLACGVIGIAQ",
+            "length": 154,
+            "genename": "SOD1",
+            "type": "Precursor Protein"
+        }
+    ],
+    "alternative_names": [
+        "ALS (Amyotrophic Lateral Sclerosis)",
+        "Amyotrophic Lateral Sclerosis With Dementia",
+        "Amyotrophic Lateral Sclerosis, Guam Form",
+        "Amyotrophic Lateral Sclerosis, Parkinsonism-Dementia Complex of Guam",
+        "Amyotrophic Lateral Sclerosis-Parkinsonism-Dementia Complex 1",
+        "Charcot Disease",
+        "Dementia With Amyotrophic Lateral Sclerosis",
+        "Gehrig's Disease",
+        "Guam Disease",
+        "Guam Form of Amyotrophic Lateral Sclerosis",
+        "Lou Gehrig Disease",
+        "Lou Gehrig's Disease",
+        "Lou-Gehrigs Disease",
+        "Motor Neuron Disease, Amyotrophic Lateral Sclerosis ",
+        "Amyotrophic lateral sclerosis 1, Familial",
+        "FALS",
+        "Amyotrophic lateral sclerosis 1, Autosomal dominant"
+    ],
+    "crossreferences": [
+        {
+            "abbreviation": "ICD",
+            "link": "http://apps.who.int/classifications/icd10/browse/2016/en#/G12"
+        },
+        {
+            "abbreviation": "MeSH",
+            "link": "https://meshb.nlm.nih.gov/record/ui?ui=D000690"
+        },
+        {
+            "abbreviation": "OMIM",
+            "link": "https://www.omim.org/entry/105400"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/19022905"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/19271992"
+        }
+    ],
+    "mappings_amyloid": [],
+    "isa_name": ""
+}

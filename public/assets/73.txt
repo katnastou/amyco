@@ -1,0 +1,44 @@
+ID: 73
+
+Disease Name: Senile Seminal Vesicle Amyloidosis
+
+Description: 
+
+Disease Type: Amyloidosis
+
+ICD-10 Classification: Amyloidosis
+
+Tissue: Seminal Vesicle, Deferent Duct, Ejaculatory Duct
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/E85
+
+https://www.ncbi.nlm.nih.gov/pubmed/6849372
+
+https://www.ncbi.nlm.nih.gov/pubmed/14087279
+
+https://www.ncbi.nlm.nih.gov/pubmed/1517901
+
+https://www.ncbi.nlm.nih.gov/pubmed/15962837
+
+https://www.ncbi.nlm.nih.gov/pubmed/28097620
+
+Alternative Names:
+SSVA
+Senile Seminal Tract Amyloidosis
+SSTA
+Ejaculatory duct amyloidosis
+Spermatic duct amyloidosis
+
+Precursor Proteins:
+P04279 | Semenogelin-1
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	No information available
+//

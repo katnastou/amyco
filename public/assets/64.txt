@@ -1,0 +1,51 @@
+ID: 64
+
+Disease Name: Behcet Syndrome
+
+Description: Rare chronic inflammatory disease involving the small blood vessels. It is of unknown etiology and characterized by mucocutaneous ulceration in the mouth and genital region and uveitis with hypopyon. The neuro-ocular form may cause blindness and death. Synovitis; thrombophlebitis; gastrointestinal ulcerations; retinal vasculitis; and optic atrophy may occur as well.
+
+Disease Type: Clinical conditions associated with amyloidosis
+
+ICD-10 Classification: Diseases of the Musculoskeletal System and Connective Tissue
+
+Tissue: Kidney, Salivary Gland, Gastrointestinal Tract
+
+Cross References
+https://www.ncbi.nlm.nih.gov/pubmed/1147457
+
+https://www.ncbi.nlm.nih.gov/pubmed/25579733
+
+https://www.ncbi.nlm.nih.gov/pubmed/22961375
+
+https://www.ncbi.nlm.nih.gov/pubmed/10644872
+
+http://apps.who.int/classifications/icd10/browse/2016/en#/M35
+
+https://meshb.nlm.nih.gov/record/ui?ui=D001528
+
+https://www.omim.org/entry/109650
+
+Alternative Names:
+Adamantiades-Behcet Disease Complex
+Behcet Disease
+Behcet Triple Symptom Complex
+Behcet's Syndrome
+Old Silk Route Disease
+Triple Symptom Complex
+Triple-Symptom Complex
+BD
+
+Precursor Proteins:
+P0DJI8 | Serum amyloid A-1 protein
+P0DJI9 | Serum amyloid A-2 protein
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	http://83.212.109.111:8084/amyco/29
+
+//

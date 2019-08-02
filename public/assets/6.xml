@@ -1,0 +1,36 @@
+<?xml version='1.0'?>
+<disease>
+    <name>Kuru</name>
+    <descriptions>A prion disease found exclusively among the Fore linguistic group natives of the highlands of New Guinea. The illness is primarily restricted to adult females and children of both sexes. It is marked by the subacute onset of tremor and ataxia followed by motor weakness and incontinence. Death occurs within 3-6 months of disease onset. The condition is associated with ritual cannibalism, and has become rare since this practice has been discontinued. Pathologic features include a noninflammatory loss of neurons that is most prominent in the cerebellum, glial proliferation, and amyloid plaques.</descriptions>
+    <type>Amyloidosis</type>
+    <association>Certain Infectious and Parasitic Diseases</association>
+    <tissue>Central Nervous System (CNS)</tissue>
+    <proteins>
+        <name>Major prion protein</name>
+        <ac>P04156</ac>
+        <id>PRIO_HUMAN</id>
+        <seq>MANLGCWMLVLFVATWSDLGLCKKRPKPGGWNTGGSRYPGQGSPGGNRYPPQGGGGWGQPHGGGWGQPHGGGWGQPHGGGWGQPHGGGWGQGGGTHSQWNKPSKPKTNMKHMAGAAAAGAVVGGLGGYMLGSAMSRPIIHFGSDYEDRYYRENMHRYPNQVYYRPMDEYSNQNNFVHDCVNITIKQHTVTTTTKGENFTETDVKMMERVVEQMCITQYERESQAYYQRGSSMVLFSSPPVILLISFLIFLIVG</seq>
+        <length>253</length>
+        <genename>PRNP</genename>
+        <type>Precursor Protein</type>
+    </proteins>
+    <alternative_names>Encephalopathy, Kuru</alternative_names>
+    <alternative_names>Kuru Encephalopathy </alternative_names>
+    <crossreferences>
+        <abbreviation>ICD</abbreviation>
+        <link>http://apps.who.int/classifications/icd10/browse/2016/en#/A81</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>MeSH</abbreviation>
+        <link>https://meshb.nlm.nih.gov/record/ui?ui=D007729</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>OMIM</abbreviation>
+        <link>https://www.omim.org/entry/245300</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/9034563</link>
+    </crossreferences>
+    <isa_name></isa_name>
+</disease>

@@ -1,0 +1,42 @@
+{
+    "name": "Calcifying Epithelial Odontogenic Tumor",
+    "descriptions": "A rare slow growing, locally invasive odontogenic tumor. It most often grows intraosseously in the mandible and less frequently in the maxilla, and gingiva. It is characterized by the presence of a fibrous stroma, epithelial cells with abundant eosinophilic cytoplasm, and amyloid material which is often calcified.",
+    "type": "Amyloidosis",
+    "association": "Neoplasms",
+    "tissue": "Mandible, Maxilla, Gingiva",
+    "proteins": [
+        {
+            "name": "Odontogenic ameloblast-associated protein",
+            "ac": "A1E959",
+            "id": "ODAM_HUMAN",
+            "seq": "MKIIILLGFLGATLSAPLIPQRLMSASNSNELLLNLNNGQLLPLQLQGPLNSWIPPFSGILQQQQQAQIPGLSQFSLSALDQFAGLLPNQIPLTGEASFAQGAQAGQVDPLQLQTPPQTQPGPSHVMPYVFSFKMPQEQGQMFQYYPVYMVLPWEQPQQTVPRSPQQTRQQQYEEQIPFYAQFGYIPQLAEPAISGGQQQLAFDPQLGTAPEIAVMSTGEEIPYLQKEAINFRHDSAGVFMPSTSPKPSTTNVFTSAVDQTITPELPEEKDKTDSLREP",
+            "length": 279,
+            "genename": "ODAM",
+            "type": "Precursor Protein"
+        }
+    ],
+    "alternative_names": [
+        "Pindborg tumor",
+        "CEOT"
+    ],
+    "crossreferences": [
+        {
+            "abbreviation": "ICD",
+            "link": "http://apps.who.int/classifications/icd10/browse/2016/en#/D16"
+        },
+        {
+            "abbreviation": "MeSH",
+            "link": "https://meshb.nlm.nih.gov/record/ui?ui=C537961"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/14647039"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/18484335"
+        }
+    ],
+    "mappings_amyloid": [],
+    "isa_name": "AOAAP Amyloidosis"
+}

@@ -1,0 +1,47 @@
+ID: 70
+
+Disease Name: Lupus Erythematosus, Systemic
+
+Description: A chronic, relapsing, inflammatory, and often febrile multisystemic disorder of connective tissue, characterized principally by involvement of the skin, joints, kidneys, and serosal membranes. It is of unknown etiology, but is thought to represent a failure of the regulatory mechanisms of the autoimmune system. The disease is marked by a wide range of system dysfunctions, an elevated erythrocyte sedimentation rate, and the formation of LE cells in the blood or bone marrow.
+
+Disease Type: Clinical conditions associated with amyloidosis
+
+ICD-10 Classification: Diseases of the Musculoskeletal System and Connective Tissue
+
+Tissue: Kidney, Heart, Lung, Bone Marrow, Gastrointestinal Tract, Liver, Spleen, Adrenal Cortex
+
+Cross References
+https://www.ncbi.nlm.nih.gov/pubmed/991472
+
+https://www.ncbi.nlm.nih.gov/pubmed/17687556
+
+https://www.ncbi.nlm.nih.gov/pubmed/13381422
+
+https://www.ncbi.nlm.nih.gov/pubmed/20477021
+
+http://apps.who.int/classifications/icd10/browse/2016/en#/M32
+
+https://meshb.nlm.nih.gov/record/ui?ui=D008180
+
+https://www.omim.org/entry/152700
+
+Alternative Names:
+Libman-Sacks Disease
+Lupus Erythematosus Disseminatus
+Systemic Lupus Erythematosus
+SLE
+
+Precursor Proteins:
+P0DJI8 | Serum amyloid A-1 protein
+P0DJI9 | Serum amyloid A-2 protein
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	http://83.212.109.111:8084/amyco/29
+
+//

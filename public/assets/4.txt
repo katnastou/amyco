@@ -1,0 +1,57 @@
+ID: 4
+
+Disease Name: Parkinson Disease
+
+Description: A progressive, degenerative neurologic disease characterized by a tremor that is maximal at rest, retropulsion (i.e. a tendency to fall backwards), rigidity, stooped posture, slowness of voluntary movements, and a masklike facial expression. Pathologic features include loss of melanin containing neurons in the substantia nigra and other pigmented nuclei of the brainstem. Lewy bodies are present in the substantia nigra and locus coeruleus but may also be found in a related condition (lewy body disease, diffuse) characterized by dementia in combination with varying degrees of parkinsonism.
+
+Disease Type: Amyloidosis
+
+ICD-10 Classification: Diseases of the Nervous System
+
+Tissue: Central Nervous System (CNS)
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/G20
+
+https://meshb.nlm.nih.gov/record/ui?ui=D010300
+
+https://www.omim.org/entry/168600
+
+https://www.ncbi.nlm.nih.gov/pubmed/2357270
+
+https://www.ncbi.nlm.nih.gov/pubmed/10704204
+
+https://www.ncbi.nlm.nih.gov/pubmed/9600990
+
+https://www.ncbi.nlm.nih.gov/pubmed/29191831
+
+Alternative Names:
+Idiopathic Parkinson Disease
+Idiopathic Parkinson's Disease
+Lewy Body Parkinson Disease
+Lewy Body Parkinson's Disease
+Paralysis Agitans
+Parkinson Disease, Idiopathic
+Parkinson's Disease
+Parkinson's Disease, Idiopathic
+Parkinson's Disease, Lewy Body
+Primary Parkinsonism 
+Parkinson Disease, Late-Onset
+
+Precursor Proteins:
+P37840 | Alpha-synuclein
+
+
+Co-deposited Proteins:
+O00468 | Agrin
+P27348 | 14-3-3 protein theta
+P46821 | Microtubule-associated protein 1B
+P61981 | 14-3-3 protein gamma
+P62258 | 14-3-3 protein epsilon
+P63104 | 14-3-3 protein zeta/delta
+Q9Y6H5 | Synphilin-1
+
+
+Link to Amyloidosis: 
+	No information available
+//

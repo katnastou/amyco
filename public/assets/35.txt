@@ -1,0 +1,37 @@
+ID: 35
+
+Disease Name: Calcifying Epithelial Odontogenic Tumor
+
+Description: A rare slow growing, locally invasive odontogenic tumor. It most often grows intraosseously in the mandible and less frequently in the maxilla, and gingiva. It is characterized by the presence of a fibrous stroma, epithelial cells with abundant eosinophilic cytoplasm, and amyloid material which is often calcified.
+
+Disease Type: Amyloidosis
+
+ICD-10 Classification: Neoplasms
+
+Tissue: Mandible, Maxilla, Gingiva
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/D16
+
+https://meshb.nlm.nih.gov/record/ui?ui=C537961
+
+https://www.ncbi.nlm.nih.gov/pubmed/14647039
+
+https://www.ncbi.nlm.nih.gov/pubmed/18484335
+
+Alternative Names:
+Pindborg tumor
+CEOT
+
+Precursor Proteins:
+A1E959 | Odontogenic ameloblast-associated protein
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	No information available
+//

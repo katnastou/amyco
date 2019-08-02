@@ -1,0 +1,51 @@
+ID: 69
+
+Disease Name: Sjogren's Syndrome
+
+Description: Chronic inflammatory and autoimmune disease in which the salivary and lacrimal glands undergo progressive destruction by lymphocytes and plasma cells resulting in decreased production of saliva and tears. The primary form, often called sicca syndrome, involves both keratoconjunctivitis sicca and xerostomia. The secondary form includes, in addition, the presence of a connective tissue disease, usually rheumatoid arthritis.
+
+Disease Type: Clinical conditions associated with amyloidosis
+
+ICD-10 Classification: Diseases of the Musculoskeletal System and Connective Tissue
+
+Tissue: Lung, Skin, Kidney, Salivary Gland, Soft Tissues, Lachrymal Gland
+
+Cross References
+https://www.ncbi.nlm.nih.gov/pubmed/4682027
+
+https://www.ncbi.nlm.nih.gov/pubmed/30210893
+
+https://www.ncbi.nlm.nih.gov/pubmed/28202864
+
+https://www.ncbi.nlm.nih.gov/pubmed/29787840
+
+https://www.ncbi.nlm.nih.gov/pubmed/26339445
+
+http://apps.who.int/classifications/icd10/browse/2016/en#/M35
+
+https://meshb.nlm.nih.gov/record/ui?ui=D012859
+
+https://www.omim.org/entry/270150
+
+Alternative Names:
+Sicca Syndrome
+Sjogren Syndrome
+SS
+
+Precursor Proteins:
+P02766 | Transthyretin
+P0DOX7 | Immunoglobulin kappa light chain
+P0DOX8 | Immunoglobulin lambda-1 light chain
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	http://83.212.109.111:8084/amyco/8
+	http://83.212.109.111:8084/amyco/30
+	http://83.212.109.111:8084/amyco/42
+
+//

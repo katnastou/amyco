@@ -1,0 +1,54 @@
+ID: 14
+
+Disease Name: Amyotrophic Lateral Sclerosis 1
+
+Description: A degenerative disorder affecting upper motor neurons in the brain and lower motor neurons in the brain stem and spinal cord. Disease onset is usually after the age of 50 and the process is usually fatal within 3 to 6 years. Clinical manifestations include progressive weakness, atrophy, fasciculation, hyperreflexia, dysarthria, dysphagia, and eventual paralysis of respiratory function. Pathologic features include the replacement of motor neurons with fibrous astrocytes and atrophy of anterior spinal nerve roots and corticospinal tracts.
+
+Disease Type: Amyloidosis
+
+ICD-10 Classification: Diseases of the Nervous System
+
+Tissue: Central Nervous System (CNS)
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/G12
+
+https://meshb.nlm.nih.gov/record/ui?ui=D000690
+
+https://www.omim.org/entry/105400
+
+https://www.ncbi.nlm.nih.gov/pubmed/19022905
+
+https://www.ncbi.nlm.nih.gov/pubmed/19271992
+
+Alternative Names:
+ALS (Amyotrophic Lateral Sclerosis)
+Amyotrophic Lateral Sclerosis With Dementia
+Amyotrophic Lateral Sclerosis, Guam Form
+Amyotrophic Lateral Sclerosis, Parkinsonism-Dementia Complex of Guam
+Amyotrophic Lateral Sclerosis-Parkinsonism-Dementia Complex 1
+Charcot Disease
+Dementia With Amyotrophic Lateral Sclerosis
+Gehrig's Disease
+Guam Disease
+Guam Form of Amyotrophic Lateral Sclerosis
+Lou Gehrig Disease
+Lou Gehrig's Disease
+Lou-Gehrigs Disease
+Motor Neuron Disease, Amyotrophic Lateral Sclerosis 
+Amyotrophic lateral sclerosis 1, Familial
+FALS
+Amyotrophic lateral sclerosis 1, Autosomal dominant
+
+Precursor Proteins:
+P00441 | Superoxide dismutase [Cu-Zn]
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	No information available
+//

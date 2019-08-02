@@ -1,0 +1,46 @@
+ID: 32
+
+Disease Name: Gout
+
+Description: Metabolic disorder characterized by recurrent acute arthritis, hyperuricemia and deposition of sodium urate in and around the joints, sometimes with formation of uric acid calculi.
+
+Disease Type: Clinical conditions associated with amyloidosis
+
+ICD-10 Classification: Diseases of the Musculoskeletal System and Connective Tissue
+
+Tissue: Kidney, Liver, Gastrointestinal Tract
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/M10
+
+https://meshb.nlm.nih.gov/record/ui?ui=D006073
+
+https://www.ncbi.nlm.nih.gov/pubmed/7458437
+
+https://www.ncbi.nlm.nih.gov/pubmed/4087259
+
+https://www.ncbi.nlm.nih.gov/pubmed/3073036
+
+https://www.ncbi.nlm.nih.gov/pubmed/10088952
+
+https://www.ncbi.nlm.nih.gov/pubmed/17065112
+
+https://www.ncbi.nlm.nih.gov/pubmed/28538281
+
+Alternative Names:
+null
+
+Precursor Proteins:
+P0DJI8 | Serum amyloid A-1 protein
+P0DJI9 | Serum amyloid A-2 protein
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	http://83.212.109.111:8084/amyco/29
+
+//

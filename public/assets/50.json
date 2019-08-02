@@ -1,0 +1,56 @@
+{
+    "name": "Chronic recurrent multifocal osteomyelitis",
+    "descriptions": "A type of osteomyelitis that occurs in children and is characterized by inflammation of the bones, especially with lesions at the metaphyses of the long bones; pain, and joint swelling. Patients may or may not present with fever. This disorder may occur alone or together with psoriasis or Inflammatory Bowel Disease; may also occur with Majeed Syndrome.",
+    "type": "Clinical conditions associated with amyloidosis",
+    "association": "Diseases of the Musculoskeletal System and Connective Tissue",
+    "tissue": "Kidney, Liver",
+    "proteins": [
+        {
+            "name": "Serum amyloid A-1 protein",
+            "ac": "P0DJI8",
+            "id": "SAA1_HUMAN",
+            "seq": "MKLLTGLVFCSLVLGVSSRSFFSFLGEAFDGARDMWRAYSDMREANYIGSDKYFHARGNYDAAKRGPGGVWAAEAISDARENIQRFFGHGAEDSLADQAANEWGRSGKDPNHFRPAGLPEKY",
+            "length": 122,
+            "genename": "SAA1",
+            "type": "Precursor Protein"
+        },
+        {
+            "name": "Serum amyloid A-2 protein",
+            "ac": "P0DJI9",
+            "id": "SAA2_HUMAN",
+            "seq": "MKLLTGLVFCSLVLSVSSRSFFSFLGEAFDGARDMWRAYSDMREANYIGSDKYFHARGNYDAAKRGPGGAWAAEVISNARENIQRLTGRGAEDSLADQAANKWGRSGRDPNHFRPAGLPEKY",
+            "length": 122,
+            "genename": "SAA2",
+            "type": "Precursor Protein"
+        }
+    ],
+    "alternative_names": [
+        "CRMO",
+        "Chronic multifocal osteomyelitis",
+        "Multifocal osteomyelitis, chronic",
+        "Osteomyelitis, Chronic Multifocal",
+        "Chronic osteomyelitis"
+    ],
+    "crossreferences": [
+        {
+            "abbreviation": "ICD",
+            "link": "http://apps.who.int/classifications/icd10/browse/2016/en#/M86"
+        },
+        {
+            "abbreviation": "MeSH",
+            "link": "https://meshb.nlm.nih.gov/record/ui?ui=C535456"
+        },
+        {
+            "abbreviation": "OMIM",
+            "link": "https://www.omim.org/entry/259680"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/2071276"
+        }
+    ],
+    "mappings_amyloid": [
+        "http://83.212.109.111:8084/amyco/29"
+    ],
+    "isa_name": ""
+}

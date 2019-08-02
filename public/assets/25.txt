@@ -1,0 +1,37 @@
+ID: 25
+
+Disease Name: Apolipoprotein C-II associated Amyloidosis
+
+Description: 
+
+Disease Type: Amyloidosis
+
+ISA Name: AApoCII Amyloidosis
+
+ICD-10 Classification: Amyloidosis
+
+Tissue: Kidney
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/E85
+
+https://www.ncbi.nlm.nih.gov/pubmed/27297947
+
+https://www.ncbi.nlm.nih.gov/pubmed/27840752
+
+Alternative Names:
+Apolipoprotein-CII amyloidosis
+
+Precursor Proteins:
+P02655 | Apolipoprotein C-II
+
+
+Co-deposited Proteins:
+P02649 | Apolipoprotein E
+P02743 | Serum amyloid P-component
+P06727 | Apolipoprotein A-IV
+
+
+Link to Amyloidosis: 
+	No information available
+//

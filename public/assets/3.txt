@@ -1,0 +1,55 @@
+ID: 3
+
+Disease Name: Huntington Disease
+
+Description: A familial disorder inherited as an autosomal dominant trait and characterized by the onset of progressive chorea and dementia in the fourth or fifth decade of life. Common initial manifestations include paranoia; poor impulse control; depression; hallucinations; and delusions. Eventually intellectual impairment; loss of fine motor control; athetosis; and diffuse chorea involving axial and limb musculature develops, leading to a vegetative state within 10-15 years of disease onset. The juvenile variant has a more fulminant course including seizures; ataxia; dementia; and chorea.
+
+Disease Type: Amyloidosis
+
+ICD-10 Classification: Diseases of the Nervous System
+
+Tissue: Central Nervous System (CNS)
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/G10
+
+https://meshb.nlm.nih.gov/record/ui?ui=D006816
+
+https://www.omim.org/entry/143100
+
+https://www.ncbi.nlm.nih.gov/pubmed/9267034
+
+https://www.ncbi.nlm.nih.gov/pubmed/10410676
+
+https://www.ncbi.nlm.nih.gov/pubmed/21163446
+
+Alternative Names:
+Akinetic-Rigid Variant of Huntington Disease
+Chorea, Chronic Progressive Hereditary (Huntington)
+Chronic Progressive Hereditary Chorea (Huntington)
+Huntington Chorea
+Huntington Chronic Progressive Hereditary Chorea
+Huntington Disease, Akinetic-Rigid Variant
+Huntington Disease, Juvenile
+Huntington Disease, Juvenile-Onset
+Huntington Disease, Late Onset
+Huntington's Chorea
+Huntington's Disease
+Juvenile Huntington Disease
+Juvenile-Onset Huntington Disease
+Late-Onset Huntington Disease
+Progressive Chorea, Chronic Hereditary (Huntington)
+Progressive Chorea, Hereditary, Chronic (Huntington) 
+
+Precursor Proteins:
+P42858 | Huntingtin
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	No information available
+//

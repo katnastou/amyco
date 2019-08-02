@@ -1,0 +1,46 @@
+{
+    "name": "Hereditary beta-2-microglobulin-related Amyloidosis",
+    "descriptions": "",
+    "type": "Amyloidosis",
+    "association": "Amyloidosis",
+    "tissue": "Spleen, Liver, Heart, Salivary Gland",
+    "proteins": [
+        {
+            "name": "Beta-2-microglobulin",
+            "ac": "P61769",
+            "id": "B2MG_HUMAN",
+            "seq": "MSRSVALAVLALLSLSGLEAIQRTPKIQVYSRHPAENGKSNFLNCYVSGFHPSDIEVDLLKNGERIEKVEHSDLSFSKDWSFYLLYYTEFTPTEKDEYACRVNHVTLSQPKIVKWDRDM",
+            "length": 119,
+            "genename": "B2M",
+            "type": "Precursor Protein"
+        }
+    ],
+    "alternative_names": [
+        "Amyloidosis VIII",
+        "Ostertag Type Amyloidosis",
+        "German Type Amyloidosis",
+        "Amyloidosis, Familial renal",
+        "Amyloidosis, Familial visceral",
+        "Amyloidosis, Systemic Non-neuropathic",
+        "beta2-microglobulin-related amyloidosis",
+        "beta2-microglobulin amyloidosis",
+        "Beta-2-microglobulin amyloidosis",
+        "ABeta2M amyloidosis"
+    ],
+    "crossreferences": [
+        {
+            "abbreviation": "OMIM",
+            "link": "https://www.omim.org/entry/105200"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/22693999"
+        },
+        {
+            "abbreviation": "ICD",
+            "link": "http://apps.who.int/classifications/icd10/browse/2016/en#/E85"
+        }
+    ],
+    "mappings_amyloid": [],
+    "isa_name": "Aβ2Mv Amyloidosis"
+}

@@ -1,0 +1,85 @@
+ID: 46
+
+Disease Name: Lymphoma, Non-Hodgkin
+
+Description: Any of a group of malignant tumors of lymphoid tissue that differ from Hodgkin disease, being more heterogeneous with respect to malignant cell lineage, clinical course, prognosis, and therapy. The only common feature among these tumors is the absence of giant Reed-Sternberg cells, a characteristic of Hodgkin's disease.
+
+Disease Type: Clinical conditions associated with amyloidosis
+
+ICD-10 Classification: Neoplasms
+
+Tissue: Heart, Kidney, Liver, Bone Marrow, Lymph Node, Spleen
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/C85
+
+https://meshb.nlm.nih.gov/record/ui?ui=D008228
+
+https://www.omim.org/entry/605027
+
+https://www.ncbi.nlm.nih.gov/pubmed/1086712
+
+https://www.ncbi.nlm.nih.gov/pubmed/9137796
+
+https://www.ncbi.nlm.nih.gov/pubmed/15297973
+
+https://www.ncbi.nlm.nih.gov/pubmed/12002783
+
+https://www.ncbi.nlm.nih.gov/pubmed/14717777
+
+https://www.ncbi.nlm.nih.gov/pubmed/20403049
+
+Alternative Names:
+Diffuse Mixed Small and Large Cell Lymphoma
+Diffuse Mixed-Cell Lymphoma
+Diffuse Small Cleaved-Cell Lymphoma
+Diffuse Undifferentiated Lymphoma
+Lymphatic Sarcoma
+Lymphoma, Atypical Diffuse Small Lymphoid
+Lymphoma, Diffuse
+Lymphoma, Diffuse, Mixed Lymphocytic-Histiocytic
+Lymphoma, High-Grade
+Lymphoma, Intermediate-Grade
+Lymphoma, Low-Grade
+Lymphoma, Mixed
+Lymphoma, Mixed Cell, Diffuse
+Lymphoma, Mixed Lymphocytic-Histiocytic
+Lymphoma, Mixed Small and Large Cell, Diffuse
+Lymphoma, Mixed-Cell
+Lymphoma, Mixed-Cell, Diffuse
+Lymphoma, Non-Hodgkin's
+Lymphoma, Non-Hodgkin, Familial
+Lymphoma, Non-Hodgkins
+Lymphoma, Nonhodgkin's
+Lymphoma, Nonhodgkins
+Lymphoma, Pleomorphic
+Lymphoma, Small Cleaved Cell, Diffuse
+Lymphoma, Small Cleaved-Cell, Diffuse
+Lymphoma, Small Non-Cleaved-Cell
+Lymphoma, Small Noncleaved-Cell
+Lymphoma, Small and Large Cleaved-Cell, Diffuse
+Lymphoma, Undifferentiated
+Lymphoma, Undifferentiated, Diffuse
+Lymphosarcoma
+Mixed Small and Large Cell Lymphoma, Diffuse
+Mixed-Cell Lymphoma
+Mixed-Cell Lymphoma, Diff 
+Non-Hodgkin Lymphoma
+
+Precursor Proteins:
+P0DJI8 | Serum amyloid A-1 protein
+P0DJI9 | Serum amyloid A-2 protein
+P0DOX7 | Immunoglobulin kappa light chain
+P0DOX8 | Immunoglobulin lambda-1 light chain
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	http://83.212.109.111:8084/amyco/29
+	http://83.212.109.111:8084/amyco/8
+
+//

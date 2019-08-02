@@ -1,0 +1,64 @@
+ID: 52
+
+Disease Name: Inflammatory Bowel Diseases
+
+Description: Chronic, non-specific inflammation of the gastrointestinal tract. Etiology may be genetic or environmental. This term includes Crohn disease and Ulcerative colitis.
+
+Disease Type: Clinical conditions associated with amyloidosis
+
+ICD-10 Classification: Diseases of the Digestive System
+
+Tissue: Liver, Gastrointestinal Tract
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/K50
+
+http://apps.who.int/classifications/icd10/browse/2016/en#/K51
+
+https://meshb.nlm.nih.gov/record/ui?ui=D015212
+
+https://www.omim.org/entry/266600
+
+https://www.ncbi.nlm.nih.gov/pubmed/842528
+
+https://www.ncbi.nlm.nih.gov/pubmed/1995278
+
+https://www.ncbi.nlm.nih.gov/pubmed/1522802
+
+http://apps.who.int/classifications/icd10/browse/2016/en#/K52
+
+https://www.ncbi.nlm.nih.gov/pubmed/28845105
+
+https://www.ncbi.nlm.nih.gov/pubmed/29707074
+
+Alternative Names:
+Colitis, Granulomatous
+Crohn's Disease
+Crohn's Enteritis
+Enteritis, Granulomatous
+Enteritis, Regional
+Ileitis, Regional
+Ileitis, Terminal
+Ileocolitis
+Inflammatory Bowel Disease 1
+Regional Enteritis
+Colitis Gravis
+Idiopathic Proctocolitis
+Inflammatory Bowel Disease, Ulcerative Colitis Type
+Ulcerative Colitis
+Bowel Diseases, Inflammatory
+
+Precursor Proteins:
+P0DJI8 | Serum amyloid A-1 protein
+P0DJI9 | Serum amyloid A-2 protein
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	http://83.212.109.111:8084/amyco/29
+
+//

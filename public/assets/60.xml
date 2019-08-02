@@ -1,0 +1,57 @@
+<?xml version='1.0'?>
+<disease>
+    <name>Castleman Disease</name>
+    <descriptions>Large benign, hyperplastic lymph nodes. The more common hyaline vascular subtype is characterized by small hyaline vascular follicles and interfollicular capillary proliferations. Plasma cells are often present and represent another subtype with the plasma cells containing IgM and immunoglobulin A.</descriptions>
+    <type>Clinical conditions associated with amyloidosis</type>
+    <association>Neoplasms</association>
+    <tissue>Liver, Lymph Node, Spleen, Kidney, Thyroid Gland, Heart</tissue>
+    <proteins>
+        <name>Serum amyloid A-1 protein</name>
+        <ac>P0DJI8</ac>
+        <id>SAA1_HUMAN</id>
+        <seq>MKLLTGLVFCSLVLGVSSRSFFSFLGEAFDGARDMWRAYSDMREANYIGSDKYFHARGNYDAAKRGPGGVWAAEAISDARENIQRFFGHGAEDSLADQAANEWGRSGKDPNHFRPAGLPEKY</seq>
+        <length>122</length>
+        <genename>SAA1</genename>
+        <type>Precursor Protein</type>
+    </proteins>
+    <proteins>
+        <name>Serum amyloid A-2 protein</name>
+        <ac>P0DJI9</ac>
+        <id>SAA2_HUMAN</id>
+        <seq>MKLLTGLVFCSLVLSVSSRSFFSFLGEAFDGARDMWRAYSDMREANYIGSDKYFHARGNYDAAKRGPGGAWAAEVISNARENIQRLTGRGAEDSLADQAANKWGRSGRDPNHFRPAGLPEKY</seq>
+        <length>122</length>
+        <genename>SAA2</genename>
+        <type>Precursor Protein</type>
+    </proteins>
+    <alternative_names>Angiofollicular Lymph Hyperplasia</alternative_names>
+    <alternative_names>Angiofollicular Lymph Node Hyperplasia</alternative_names>
+    <alternative_names>Angiofollicular Lymphoid Hyperplasia</alternative_names>
+    <alternative_names>Castleman's Disease</alternative_names>
+    <alternative_names>Castleman's Tumor</alternative_names>
+    <alternative_names>Castlemans Disease</alternative_names>
+    <alternative_names>Giant Lymph Node Hyperplasia</alternative_names>
+    <alternative_names>Hyperplasia, Giant Lymph Node</alternative_names>
+    <alternative_names>Lymph Node Hyperplasia, Giant</alternative_names>
+    <crossreferences>
+        <abbreviation>ICD</abbreviation>
+        <link>http://apps.who.int/classifications/icd10/browse/2016/en#/D47</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>MeSH</abbreviation>
+        <link>https://meshb.nlm.nih.gov/record/ui?ui=D005871</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/8213634</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/6437933</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/24348320</link>
+    </crossreferences>
+    <mappings_amyloid>http://83.212.109.111:8084/amyco/29</mappings_amyloid>
+    <isa_name></isa_name>
+</disease>

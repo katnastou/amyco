@@ -1,0 +1,40 @@
+<?xml version='1.0'?>
+<disease>
+    <name>Hereditary beta-2-microglobulin-related Amyloidosis</name>
+    <descriptions></descriptions>
+    <type>Amyloidosis</type>
+    <association>Amyloidosis</association>
+    <tissue>Spleen, Liver, Heart, Salivary Gland</tissue>
+    <proteins>
+        <name>Beta-2-microglobulin</name>
+        <ac>P61769</ac>
+        <id>B2MG_HUMAN</id>
+        <seq>MSRSVALAVLALLSLSGLEAIQRTPKIQVYSRHPAENGKSNFLNCYVSGFHPSDIEVDLLKNGERIEKVEHSDLSFSKDWSFYLLYYTEFTPTEKDEYACRVNHVTLSQPKIVKWDRDM</seq>
+        <length>119</length>
+        <genename>B2M</genename>
+        <type>Precursor Protein</type>
+    </proteins>
+    <alternative_names>Amyloidosis VIII</alternative_names>
+    <alternative_names>Ostertag Type Amyloidosis</alternative_names>
+    <alternative_names>German Type Amyloidosis</alternative_names>
+    <alternative_names>Amyloidosis, Familial renal</alternative_names>
+    <alternative_names>Amyloidosis, Familial visceral</alternative_names>
+    <alternative_names>Amyloidosis, Systemic Non-neuropathic</alternative_names>
+    <alternative_names>beta2-microglobulin-related amyloidosis</alternative_names>
+    <alternative_names>beta2-microglobulin amyloidosis</alternative_names>
+    <alternative_names>Beta-2-microglobulin amyloidosis</alternative_names>
+    <alternative_names>ABeta2M amyloidosis</alternative_names>
+    <crossreferences>
+        <abbreviation>OMIM</abbreviation>
+        <link>https://www.omim.org/entry/105200</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/22693999</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>ICD</abbreviation>
+        <link>http://apps.who.int/classifications/icd10/browse/2016/en#/E85</link>
+    </crossreferences>
+    <isa_name>Aβ2Mv Amyloidosis</isa_name>
+</disease>

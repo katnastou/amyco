@@ -1,0 +1,59 @@
+ID: 51
+
+Disease Name: Arthritis, Reumatoid
+
+Description: A chronic systemic disease, primarily of the joints, marked by inflammatory changes in the synovial membranes and articular structures, widespread fibrinoid degeneration of the collagen fibers in mesenchymal tissues, and by atrophy and rarefaction of bony structures. Etiology is unknown, but autoimmune mechanisms have been implicated.
+
+Disease Type: Clinical conditions associated with amyloidosis
+
+ICD-10 Classification: Diseases of the Musculoskeletal System and Connective Tissue
+
+Tissue: Kidney
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/M06
+
+http://apps.who.int/classifications/icd10/browse/2016/en#/M05
+
+https://meshb.nlm.nih.gov/record/ui?ui=D001172
+
+https://www.omim.org/entry/180300
+
+https://www.ncbi.nlm.nih.gov/pubmed/20266988
+
+https://www.ncbi.nlm.nih.gov/pubmed/18887096
+
+https://www.ncbi.nlm.nih.gov/pubmed/18100843
+
+https://www.ncbi.nlm.nih.gov/pubmed/18623808
+
+https://www.ncbi.nlm.nih.gov/pubmed/20787830
+
+https://www.ncbi.nlm.nih.gov/pubmed/7310780
+
+https://www.ncbi.nlm.nih.gov/pubmed/3893817
+
+https://www.ncbi.nlm.nih.gov/pubmed/26339445
+
+https://www.ncbi.nlm.nih.gov/pubmed/28613962
+
+Alternative Names:
+Reumatoid Arthritis
+RA
+
+Precursor Proteins:
+P0DJI8 | Serum amyloid A-1 protein
+P0DJI9 | Serum amyloid A-2 protein
+P02766 | Transthyretin
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	http://83.212.109.111:8084/amyco/30
+	http://83.212.109.111:8084/amyco/29
+
+//

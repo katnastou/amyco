@@ -1,0 +1,88 @@
+<?xml version='1.0'?>
+<disease>
+    <name>Cryopyrin-Associated Periodic Syndromes</name>
+    <descriptions>A group of rare autosomal dominant diseases, commonly characterized by atypical urticaria (hives) with systemic symptoms that develop into end-organ damage. The atypical hives do not involve T-cell or autoantibody. Cryopyrin-associated periodic syndrome includes three previously distinct disorders: Familial cold autoinflammatory syndrome; Muckle-Wells Syndrome; and CINCA Syndrome, that are now considered to represent a disease continuum, all caused by NLRP3  protein mutations.</descriptions>
+    <type>Clinical conditions associated with amyloidosis</type>
+    <association>Diseases of the Musculoskeletal System and Connective Tissue</association>
+    <tissue>Kidney</tissue>
+    <proteins>
+        <name>Serum amyloid A-1 protein</name>
+        <ac>P0DJI8</ac>
+        <id>SAA1_HUMAN</id>
+        <seq>MKLLTGLVFCSLVLGVSSRSFFSFLGEAFDGARDMWRAYSDMREANYIGSDKYFHARGNYDAAKRGPGGVWAAEAISDARENIQRFFGHGAEDSLADQAANEWGRSGKDPNHFRPAGLPEKY</seq>
+        <length>122</length>
+        <genename>SAA1</genename>
+        <type>Precursor Protein</type>
+    </proteins>
+    <proteins>
+        <name>Serum amyloid A-2 protein</name>
+        <ac>P0DJI9</ac>
+        <id>SAA2_HUMAN</id>
+        <seq>MKLLTGLVFCSLVLSVSSRSFFSFLGEAFDGARDMWRAYSDMREANYIGSDKYFHARGNYDAAKRGPGGAWAAEVISNARENIQRLTGRGAEDSLADQAANKWGRSGRDPNHFRPAGLPEKY</seq>
+        <length>122</length>
+        <genename>SAA2</genename>
+        <type>Precursor Protein</type>
+    </proteins>
+    <alternative_names>Muckle-Wells Syndrome</alternative_names>
+    <alternative_names>Muckle Wells Syndrome</alternative_names>
+    <alternative_names>Syndrome, Muckle-Wells</alternative_names>
+    <alternative_names>Urticaria, Deafness and Amyloidosis</alternative_names>
+    <alternative_names>UDA Syndrome</alternative_names>
+    <alternative_names>Syndrome, UDA</alternative_names>
+    <alternative_names>Syndromes, UDA</alternative_names>
+    <alternative_names>UDA Syndromes</alternative_names>
+    <alternative_names>Urticaria-Deafness-Amyloidosis Syndrome</alternative_names>
+    <alternative_names>Syndrome, Urticaria-Deafness-Amyloidosis</alternative_names>
+    <alternative_names>Syndromes, Urticaria-Deafness-Amyloidosis</alternative_names>
+    <alternative_names>Urticaria Deafness Amyloidosis Syndrome</alternative_names>
+    <alternative_names>Urticaria-Deafness-Amyloidosis Syndromes </alternative_names>
+    <alternative_names>CINCA</alternative_names>
+    <alternative_names>CINCA Syndrome</alternative_names>
+    <alternative_names>Chronic Infantile Neurologic, Cutaneous, and Articular Syndrome</alternative_names>
+    <alternative_names>Chronic Infantile Neurological, Cutaneous, and Articular Syndrome</alternative_names>
+    <alternative_names>Chronic Neurologic Cutaneous and Articular Syndrome</alternative_names>
+    <alternative_names>Chronic Neurologic, Cutaneous, and Articular Syndrome</alternative_names>
+    <alternative_names>Chronic, Infantile, Neurological, Cutaneous, Articular Syndrome</alternative_names>
+    <alternative_names>Cold Urticaria, Familial</alternative_names>
+    <alternative_names>Cold-Induced Autoinflammatory Syndrome, Familial</alternative_names>
+    <alternative_names>Cryopyrinopathy</alternative_names>
+    <alternative_names>FCAS1</alternative_names>
+    <alternative_names>Familial Cold Autoinflammatory Syndrome</alternative_names>
+    <alternative_names>Familial Cold Autoinflammatory Syndrome 1</alternative_names>
+    <alternative_names>Familial Cold Urticaria</alternative_names>
+    <alternative_names>Familial Cold-Induced Autoinflammatory Syndrome</alternative_names>
+    <alternative_names>IOMID</alternative_names>
+    <alternative_names>IOMID Syndrome</alternative_names>
+    <alternative_names>Infantile Onset Multisystem Inflammatory Disease</alternative_names>
+    <alternative_names>Multisystem Inflammatory Disease, Neonatal-Onset</alternative_names>
+    <alternative_names>NOMID</alternative_names>
+    <alternative_names>Neonatal Onset Multisystem Inflammatory Disease</alternative_names>
+    <alternative_names>Prieur-Griscelli Syndrome</alternative_names>
+    <alternative_names>CAPS</alternative_names>
+    <crossreferences>
+        <abbreviation>MeSH</abbreviation>
+        <link>https://meshb.nlm.nih.gov/record/ui?ui=D056587</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>OMIM</abbreviation>
+        <link>https://www.omim.org/entry/191900</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/6406764</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/10486324</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/14872505</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/29163488</link>
+    </crossreferences>
+    <mappings_amyloid>http://83.212.109.111:8084/amyco/29</mappings_amyloid>
+    <isa_name></isa_name>
+</disease>

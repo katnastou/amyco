@@ -1,0 +1,74 @@
+<?xml version='1.0'?>
+<disease>
+    <name>Sjogren's Syndrome</name>
+    <descriptions>Chronic inflammatory and autoimmune disease in which the salivary and lacrimal glands undergo progressive destruction by lymphocytes and plasma cells resulting in decreased production of saliva and tears. The primary form, often called sicca syndrome, involves both keratoconjunctivitis sicca and xerostomia. The secondary form includes, in addition, the presence of a connective tissue disease, usually rheumatoid arthritis.</descriptions>
+    <type>Clinical conditions associated with amyloidosis</type>
+    <association>Diseases of the Musculoskeletal System and Connective Tissue</association>
+    <tissue>Lung, Skin, Kidney, Salivary Gland, Soft Tissues, Lachrymal Gland</tissue>
+    <proteins>
+        <name>Transthyretin</name>
+        <ac>P02766</ac>
+        <id>TTHY_HUMAN</id>
+        <seq>MASHRLLLLCLAGLVFVSEAGPTGTGESKCPLMVKVLDAVRGSPAINVAVHVFRKAADDTWEPFASGKTSESGELHGLTTEEEFVEGIYKVEIDTKSYWKALGISPFHEHAEVVFTANDSGPRRYTIAALLSPYSYSTTAVVTNPKE</seq>
+        <length>147</length>
+        <genename>TTR</genename>
+        <type>Precursor Protein</type>
+    </proteins>
+    <proteins>
+        <name>Immunoglobulin kappa light chain</name>
+        <ac>P0DOX7</ac>
+        <id>IGK_HUMAN</id>
+        <seq>DIQMTQSPSTLSASVGDRVTITCRASQSINTWLAWYQQKPGKAPKLLMYKASSLESGVPSRFIGSGSGTEFTLTISSLQPDDFATYYCQQYNSDSKMFGQGTKVEVKGTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC</seq>
+        <length>214</length>
+        <genename>IGK</genename>
+        <type>Precursor Protein</type>
+    </proteins>
+    <proteins>
+        <name>Immunoglobulin lambda-1 light chain</name>
+        <ac>P0DOX8</ac>
+        <id>IGL1_HUMAN</id>
+        <seq>QSALTQPPSASGSLGQSVTISCTGTSSDVGGYNYVSWYQQHAGKAPKVIIYEVNKRPSGVPDRFSGSKSGNTASLTVSGLQAEDEADYYCSSYEGSDNFVFGTGTKVTVLGQPKANPTVTLFPPSSEELQANKATLVCLISDFYPGAVTVAWKADGSPVKAGVETTKPSKQSNNKYAASSYLSLTPEQWKSHRSYSCQVTHEGSTVEKTVAPTECS</seq>
+        <length>216</length>
+        <genename>IGL1</genename>
+        <type>Precursor Protein</type>
+    </proteins>
+    <alternative_names>Sicca Syndrome</alternative_names>
+    <alternative_names>Sjogren Syndrome</alternative_names>
+    <alternative_names>SS</alternative_names>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/4682027</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/30210893</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/28202864</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/29787840</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/26339445</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>ICD</abbreviation>
+        <link>http://apps.who.int/classifications/icd10/browse/2016/en#/M35</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>MeSH</abbreviation>
+        <link>https://meshb.nlm.nih.gov/record/ui?ui=D012859</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>OMIM</abbreviation>
+        <link>https://www.omim.org/entry/270150</link>
+    </crossreferences>
+    <mappings_amyloid>http://83.212.109.111:8084/amyco/8</mappings_amyloid>
+    <mappings_amyloid>http://83.212.109.111:8084/amyco/30</mappings_amyloid>
+    <mappings_amyloid>http://83.212.109.111:8084/amyco/42</mappings_amyloid>
+    <isa_name></isa_name>
+</disease>

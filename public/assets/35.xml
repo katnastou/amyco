@@ -1,0 +1,36 @@
+<?xml version='1.0'?>
+<disease>
+    <name>Calcifying Epithelial Odontogenic Tumor</name>
+    <descriptions>A rare slow growing, locally invasive odontogenic tumor. It most often grows intraosseously in the mandible and less frequently in the maxilla, and gingiva. It is characterized by the presence of a fibrous stroma, epithelial cells with abundant eosinophilic cytoplasm, and amyloid material which is often calcified.</descriptions>
+    <type>Amyloidosis</type>
+    <association>Neoplasms</association>
+    <tissue>Mandible, Maxilla, Gingiva</tissue>
+    <proteins>
+        <name>Odontogenic ameloblast-associated protein</name>
+        <ac>A1E959</ac>
+        <id>ODAM_HUMAN</id>
+        <seq>MKIIILLGFLGATLSAPLIPQRLMSASNSNELLLNLNNGQLLPLQLQGPLNSWIPPFSGILQQQQQAQIPGLSQFSLSALDQFAGLLPNQIPLTGEASFAQGAQAGQVDPLQLQTPPQTQPGPSHVMPYVFSFKMPQEQGQMFQYYPVYMVLPWEQPQQTVPRSPQQTRQQQYEEQIPFYAQFGYIPQLAEPAISGGQQQLAFDPQLGTAPEIAVMSTGEEIPYLQKEAINFRHDSAGVFMPSTSPKPSTTNVFTSAVDQTITPELPEEKDKTDSLREP</seq>
+        <length>279</length>
+        <genename>ODAM</genename>
+        <type>Precursor Protein</type>
+    </proteins>
+    <alternative_names>Pindborg tumor</alternative_names>
+    <alternative_names>CEOT</alternative_names>
+    <crossreferences>
+        <abbreviation>ICD</abbreviation>
+        <link>http://apps.who.int/classifications/icd10/browse/2016/en#/D16</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>MeSH</abbreviation>
+        <link>https://meshb.nlm.nih.gov/record/ui?ui=C537961</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/14647039</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/18484335</link>
+    </crossreferences>
+    <isa_name></isa_name>
+</disease>

@@ -1,0 +1,54 @@
+ID: 66
+
+Disease Name: Polyarteritis Nodosa
+
+Description: A form of necrotizing non-granulomatous inflammation occurring primarily in medium-sized arteries, often with microaneurysms. It is characterized by muscle, joint, and abdominal pain resulting from arterial infarction and scarring in affected organs. Polyarteritis nodosa with lung involvement is called Churg-Strauss Syndrome.
+
+Disease Type: Clinical conditions associated with amyloidosis
+
+ICD-10 Classification: Diseases of the Musculoskeletal System and Connective Tissue
+
+Tissue: Kidney, Intestine
+
+Cross References
+https://www.ncbi.nlm.nih.gov/pubmed/26233953
+
+https://www.ncbi.nlm.nih.gov/pubmed/24106820
+
+https://www.ncbi.nlm.nih.gov/pubmed/10224498
+
+https://www.ncbi.nlm.nih.gov/pubmed/27791393
+
+http://apps.who.int/classifications/icd10/browse/2016/en#/M30
+
+https://meshb.nlm.nih.gov/record/ui?ui=D010488
+
+https://www.omim.org/entry/615688
+
+Alternative Names:
+Polyarteritis Nodosa, Childhood-Onset
+PAN
+ADA2 Deficiency
+Essential Polyarteritis
+Necrotizing Arteritis
+Periarteritis Nodosa
+Adenosine Deaminase 2 Deficiency
+DADA2
+Vasculitis due to DADA2
+Vasculitis due to ADA2 deficiency
+Deficiency of Adenosine Deaminase 2
+
+Precursor Proteins:
+P0DJI8 | Serum amyloid A-1 protein
+P0DJI9 | Serum amyloid A-2 protein
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	http://83.212.109.111:8084/amyco/29
+
+//

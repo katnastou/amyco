@@ -1,0 +1,67 @@
+{
+    "name": "Agammaglobulinemia",
+    "descriptions": "An immunologic deficiency state characterized by an extremely low level of generally all classes of gamma-globulin in the blood.",
+    "type": "Clinical conditions associated with amyloidosis",
+    "association": "Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism",
+    "tissue": "Kidney, Gastrointestinal Tract, Spleen, Liver",
+    "proteins": [
+        {
+            "name": "Serum amyloid A-1 protein",
+            "ac": "P0DJI8",
+            "id": "SAA1_HUMAN",
+            "seq": "MKLLTGLVFCSLVLGVSSRSFFSFLGEAFDGARDMWRAYSDMREANYIGSDKYFHARGNYDAAKRGPGGVWAAEAISDARENIQRFFGHGAEDSLADQAANEWGRSGKDPNHFRPAGLPEKY",
+            "length": 122,
+            "genename": "SAA1",
+            "type": "Precursor Protein"
+        },
+        {
+            "name": "Serum amyloid A-2 protein",
+            "ac": "P0DJI9",
+            "id": "SAA2_HUMAN",
+            "seq": "MKLLTGLVFCSLVLSVSSRSFFSFLGEAFDGARDMWRAYSDMREANYIGSDKYFHARGNYDAAKRGPGGAWAAEVISNARENIQRLTGRGAEDSLADQAANKWGRSGRDPNHFRPAGLPEKY",
+            "length": 122,
+            "genename": "SAA2",
+            "type": "Precursor Protein"
+        }
+    ],
+    "alternative_names": [
+        "Agammaglobulinemia",
+        "Agammaglobulinemia, BTK",
+        "Agammaglobulinemia, Bruton tyrosine kinase",
+        "Agammaglobulinemia, X-Linked",
+        "Agammaglobulinemia, X-Linked, Type I",
+        "Bruton's Agammaglobulinemia",
+        "Bruton-Type Agammaglobulinemia",
+        "Bruton-type (congenital X-linked) agammaglobulinemia",
+        "Congenital Agammaglobulinemia",
+        "Immunodeficiency 1",
+        "X-linked agammaglobulinemia",
+        "Hypogammaglobulinemia "
+    ],
+    "crossreferences": [
+        {
+            "abbreviation": "ICD",
+            "link": "http://apps.who.int/classifications/icd10/browse/2016/en#/D80"
+        },
+        {
+            "abbreviation": "MeSH",
+            "link": "https://meshb.nlm.nih.gov/record/ui?ui=D000361"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/14194996"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/24292696"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/8810937"
+        }
+    ],
+    "mappings_amyloid": [
+        "http://83.212.109.111:8084/amyco/29"
+    ],
+    "isa_name": ""
+}

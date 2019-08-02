@@ -1,0 +1,44 @@
+ID: 23
+
+Disease Name: AH Amyloidosis
+
+Description: 
+
+Disease Type: Amyloidosis
+
+ISA Name: AH Amyloidosis
+
+ICD-10 Classification: Amyloidosis
+
+Tissue: Kidney, Lung, Eye (orbit), Heart
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/E85
+
+https://www.ncbi.nlm.nih.gov/pubmed/2118650
+
+https://www.ncbi.nlm.nih.gov/pubmed/8141123
+
+https://www.ncbi.nlm.nih.gov/pubmed/7874834
+
+https://www.ncbi.nlm.nih.gov/pubmed/16632032
+
+Alternative Names:
+Heavy chain amyloidosis
+Immunoglobulin heavy chain amyloidosis 
+
+Precursor Proteins:
+P0DOX4 | Immunoglobulin epsilon heavy chain
+P0DOX5 | Immunoglobulin gamma-1 heavy chain
+P0DOX6 | Immunoglobulin mu heavy chain
+P0DOX2 | Immunoglobulin alpha-2 heavy chain
+
+
+Co-deposited Proteins:
+P02649 | Apolipoprotein E
+P02743 | Serum amyloid P-component
+
+
+Link to Amyloidosis: 
+	No information available
+//

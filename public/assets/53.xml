@@ -1,0 +1,68 @@
+<?xml version='1.0'?>
+<disease>
+    <name>Carcinoma, Renal Cell</name>
+    <descriptions>A heterogeneous group of sporadic or hereditary carcinoma derived from cells of the kidneys. There are several subtypes including the clear cells, the papillary, the chromophobe, the collecting duct, the spindle cells (sarcomatoid), or mixed cell-type carcinoma.</descriptions>
+    <type>Clinical conditions associated with amyloidosis</type>
+    <association>Neoplasms</association>
+    <tissue>Kidney</tissue>
+    <proteins>
+        <name>Serum amyloid A-1 protein</name>
+        <ac>P0DJI8</ac>
+        <id>SAA1_HUMAN</id>
+        <seq>MKLLTGLVFCSLVLGVSSRSFFSFLGEAFDGARDMWRAYSDMREANYIGSDKYFHARGNYDAAKRGPGGVWAAEAISDARENIQRFFGHGAEDSLADQAANEWGRSGKDPNHFRPAGLPEKY</seq>
+        <length>122</length>
+        <genename>SAA1</genename>
+        <type>Precursor Protein</type>
+    </proteins>
+    <proteins>
+        <name>Serum amyloid A-2 protein</name>
+        <ac>P0DJI9</ac>
+        <id>SAA2_HUMAN</id>
+        <seq>MKLLTGLVFCSLVLSVSSRSFFSFLGEAFDGARDMWRAYSDMREANYIGSDKYFHARGNYDAAKRGPGGAWAAEVISNARENIQRLTGRGAEDSLADQAANKWGRSGRDPNHFRPAGLPEKY</seq>
+        <length>122</length>
+        <genename>SAA2</genename>
+        <type>Precursor Protein</type>
+    </proteins>
+    <alternative_names>Adenocarcinoma Of Kidney</alternative_names>
+    <alternative_names>Adenocarcinoma, Renal</alternative_names>
+    <alternative_names>Adenocarcinoma, Renal Cell</alternative_names>
+    <alternative_names>Carcinoma, Hypernephroid</alternative_names>
+    <alternative_names>Chromophil Renal Cell Carcinoma</alternative_names>
+    <alternative_names>Chromophobe Renal Cell Carcinoma</alternative_names>
+    <alternative_names>Clear Cell Renal Carcinoma</alternative_names>
+    <alternative_names>Clear Cell Renal Cell Carcinoma</alternative_names>
+    <alternative_names>Collecting Duct Carcinoma</alternative_names>
+    <alternative_names>Collecting Duct Carcinoma (Kidney)</alternative_names>
+    <alternative_names>Collecting Duct Carcinoma of the Kidney</alternative_names>
+    <alternative_names>Grawitz Tumor</alternative_names>
+    <alternative_names>Hypernephroma</alternative_names>
+    <alternative_names>Nephroid Carcinoma</alternative_names>
+    <alternative_names>Papillary Renal Cell Carcinoma</alternative_names>
+    <alternative_names>Renal Cell Cancer</alternative_names>
+    <alternative_names>Renal Cell Carcinoma</alternative_names>
+    <alternative_names>Renal Cell Carcinoma, Papillary</alternative_names>
+    <alternative_names>Renal Collecting Duct Carcinoma</alternative_names>
+    <alternative_names>Sarcomatoid Renal Cell Carcinoma</alternative_names>
+    <crossreferences>
+        <abbreviation>ICD</abbreviation>
+        <link>http://apps.who.int/classifications/icd10/browse/2016/en#/C64</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>MeSH</abbreviation>
+        <link>https://meshb.nlm.nih.gov/record/ui?ui=D002292</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/5953729</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/7060030</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/28509249</link>
+    </crossreferences>
+    <mappings_amyloid>http://83.212.109.111:8084/amyco/29</mappings_amyloid>
+    <isa_name></isa_name>
+</disease>

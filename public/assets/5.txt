@@ -1,0 +1,54 @@
+ID: 5
+
+Disease Name: Creutzfeldt-Jakob Syndrome
+
+Description: A rare transmissible encephalopathy most prevalent between the ages of 50 and 70 years. Affected individuals may present with sleep disturbances, personality changes, ataxia; aphasia, visual loss, weakness, muscle atrophy, myoclonus, progressive dementia, and death within one year of disease onset. A familial form exhibiting autosomal dominant inheritance and a new variant CJD (potentially associated with encephalopathy, bovine spongiform) have been described. Pathological features include prominent cerebellar and cerebral cortical spongiform degeneration and the presence of prions.
+
+Disease Type: Amyloidosis
+
+ICD-10 Classification: Certain Infectious and Parasitic Diseases
+
+Tissue: Central Nervous System (CNS)
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/A81
+
+https://meshb.nlm.nih.gov/record/ui?ui=D007562
+
+https://www.omim.org/entry/123400
+
+https://www.ncbi.nlm.nih.gov/pubmed/3092727
+
+https://www.ncbi.nlm.nih.gov/pubmed/19571726
+
+Alternative Names:
+CJD (Creutzfeldt-Jakob Disease)
+Creutzfeldt Jacob Disease
+Creutzfeldt-Jakob Disease, Familial
+Creutzfeldt-Jakob Disease, New Variant
+Creutzfeldt-Jakob Disease, Variant
+Familial Creutzfeldt-Jakob Disease
+Jakob-Creutzfeldt Disease
+Jakob-Creutzfeldt Syndrome
+New Variant Creutzfeldt-Jakob Disease
+Spongiform Encephalopathy, Subacute
+V-CJD (Variant-Creutzfeldt-Jakob Disease)
+Variant Creutzfeldt-Jakob Disease 
+
+Precursor Proteins:
+P04156 | Major prion protein
+
+
+Co-deposited Proteins:
+P01024 | Complement C3
+P02649 | Apolipoprotein E
+P02743 | Serum amyloid P-component
+P02745 | Complement C1q subcomponent subunit A
+P02746 | Complement C1q subcomponent subunit B
+P02747 | Complement C1q subcomponent subunit C
+P63104 | 14-3-3 protein zeta/delta
+
+
+Link to Amyloidosis: 
+	No information available
+//

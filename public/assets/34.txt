@@ -1,0 +1,47 @@
+ID: 34
+
+Disease Name: Lewy Body Disease
+
+Description: A neurodegenerative disease characterized by dementia, mild parkinsonism, and fluctuations in attention and alertness. The neuropsychiatric manifestations tend to precede the onset of bradykinesia, muscle rigidity, and other extrapyramidal signs. Delusions and visual hallucinations are relatively frequent in this condition. Histologic examination reveals lewy bodies in the cerebral cortex and brain stem. Senile plaques and other pathologic features characteristic of Alzheimer disease may also be present.
+
+Disease Type: Amyloidosis
+
+ICD-10 Classification: Diseases of the Nervous System
+
+Tissue: Central Nervous System (CNS)
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/G31
+
+http://apps.who.int/classifications/icd10/browse/2016/en#/F02
+
+https://meshb.nlm.nih.gov/record/ui?ui=D020961
+
+https://www.omim.org/entry/127750
+
+https://www.ncbi.nlm.nih.gov/pubmed/2683563
+
+https://www.ncbi.nlm.nih.gov/pubmed/1436523
+
+Alternative Names:
+Cortical Lewy Body Disease
+Dementia, Lewy Body
+Diffuse Lewy Body Disease
+Lewy Body Dementia
+Lewy Body Disease, Cortical
+Lewy Body Disease, Diffuse
+Lewy Body Type Senile Dementia
+
+Precursor Proteins:
+P05067 | Amyloid-beta A4 protein
+P37840 | Alpha-synuclein
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	No information available
+//

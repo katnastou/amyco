@@ -1,0 +1,62 @@
+ID: 2
+
+Disease Name: Diabetes Mellitus, Type 2
+
+Description: A subclass of diabetes mellitus that is not insulin-responsive or dependent (NIDDM). It is characterized initially by insulin resistance and hyperinsulinemia; and eventually by glucose intolerance; hyperglycemia; and overt diabetes. Type II diabetes mellitus is no longer considered a disease exclusively found in adults. Patients seldom develop ketosis but often exhibit obesity.
+
+Disease Type: Amyloidosis
+
+ICD-10 Classification: Endocrine, Nutritional and Metabolic Diseases
+
+Tissue: Pancreas (Islets of Langerhans)
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/E11
+
+https://meshb.nlm.nih.gov/record/ui?ui=D003924
+
+https://www.omim.org/entry/125853
+
+https://www.ncbi.nlm.nih.gov/pubmed/3296768
+
+https://www.ncbi.nlm.nih.gov/pubmed/3535798
+
+https://www.ncbi.nlm.nih.gov/pubmed/2668761
+
+https://www.ncbi.nlm.nih.gov/pubmed/3317417
+
+https://www.ncbi.nlm.nih.gov/pubmed/26636105
+
+Alternative Names:
+Diabetes Mellitus, Adult-Onset
+Diabetes Mellitus, Ketosis-Resistant
+Diabetes Mellitus, Maturity-Onset
+Diabetes Mellitus, Non Insulin Dependent
+Diabetes Mellitus, Non-Insulin-Dependent
+Diabetes Mellitus, Noninsulin Dependent
+Diabetes Mellitus, Noninsulin-Dependent
+Diabetes Mellitus, Slow-Onset
+Diabetes Mellitus, Stable
+Diabetes Mellitus, Type II
+MODY
+Maturity-Onset Diabetes
+Maturity-Onset Diabetes Mellitus
+NIDDM
+Noninsulin-Dependent Diabetes Mellitus
+Type 2 Diabetes
+Type 2 Diabetes Mellitus 
+Non-insulin-dependent diabetes mellitus
+
+Precursor Proteins:
+P10997 | Islet amyloid polypeptide
+
+
+Co-deposited Proteins:
+P02649 | Apolipoprotein E
+P02743 | Serum amyloid P-component
+P98160 | Basement membrane-specific heparan sulfate proteoglycan core protein
+
+
+Link to Amyloidosis: 
+	No information available
+//

@@ -1,0 +1,38 @@
+ID: 56
+
+Disease Name: Schnitzler Syndrome
+
+Description: An extremely rare condition manifested as monoclonal immunoglobulin M dysproteinemia without features of lymphoproliferative disease, but with chronic urticaria, fever of unknown origin, disabling bone pain, hyperostosis, and increased erythrocyte sedimentation rate.
+
+Disease Type: Clinical conditions associated with amyloidosis
+
+ICD-10 Classification: Other
+
+Tissue: Gastrointestinal Tract
+
+Cross References
+https://meshb.nlm.nih.gov/record/ui?ui=D019873
+
+https://www.ncbi.nlm.nih.gov/pubmed/17586002
+
+https://www.ncbi.nlm.nih.gov/pubmed/23619586
+
+https://www.ncbi.nlm.nih.gov/pubmed/21143856
+
+Alternative Names:
+null
+
+Precursor Proteins:
+P0DJI8 | Serum amyloid A-1 protein
+P0DJI9 | Serum amyloid A-2 protein
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	http://83.212.109.111:8084/amyco/29
+
+//

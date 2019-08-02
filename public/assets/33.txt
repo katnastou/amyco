@@ -1,0 +1,51 @@
+ID: 33
+
+Disease Name: Wild type beta-2-microglobulin-related Amyloidosis
+
+Description: 
+
+Disease Type: Amyloidosis
+
+ISA Name: Aβ2Mwt Amyloidosis
+
+ICD-10 Classification: Amyloidosis
+
+Tissue: Musculoskeletal system
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/E85
+
+https://www.ncbi.nlm.nih.gov/pubmed/3537446
+
+https://www.ncbi.nlm.nih.gov/pubmed/3893430
+
+https://www.ncbi.nlm.nih.gov/pubmed/11148456
+
+https://www.ncbi.nlm.nih.gov/pubmed/29268797
+
+https://www.ncbi.nlm.nih.gov/pubmed/27959636
+
+Alternative Names:
+Dialysis-related amyloidosis
+Dialysis-related arthropathy
+Wild type ABeta2-microglobulinic amyloidosis
+Hemodialysis-related amyloidosis
+ABeta2M amyloidosis
+beta2-microglobulin-related amyloidosis
+beta2-microglobulin amyloidosis
+Beta-2-microglobulin amyloidosis
+Dialysis-Related Beta-2m Amyloidosis
+
+Precursor Protein:
+P61769 | Beta-2-microglobulin
+
+
+Co-deposited Proteins: 
+P01023 | Alpha-2-macroglobulin
+P02649 | Apolipoprotein E
+P02743 | Serum amyloid P-component
+
+
+Link to Amyloidosis: 
+	No information available
+//

@@ -1,0 +1,37 @@
+ID: 63
+
+Disease Name: Enfuvirtide-induced Amyloidosis
+
+Description: 
+
+Disease Type: Amyloidosis
+
+ISA Name: AEnf Amyloidosis
+
+ICD-10 Classification: Amyloidosis
+
+Tissue: Enfuvirtide injection site
+
+Cross References
+https://www.ncbi.nlm.nih.gov/pubmed/19805777
+
+https://www.ncbi.nlm.nih.gov/pubmed/22264247
+
+https://www.ncbi.nlm.nih.gov/pubmed/24446896
+
+Alternative Names:
+null
+
+Precursor Proteins:
+
+
+Co-deposited Proteins:
+P02647 | Apolipoprotein A-I
+P02649 | Apolipoprotein E
+P02743 | Serum amyloid P-component
+P06727 | Apolipoprotein A-IV
+
+
+Link to Amyloidosis: 
+	No information available
+//

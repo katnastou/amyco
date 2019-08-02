@@ -1,0 +1,123 @@
+<?xml version='1.0'?>
+<disease>
+    <name>Multiple Endocrine Neoplasia Type 2a</name>
+    <descriptions>A form of multiple endocrine neoplasia characterized by the presence of medullary carcinoma (carcinoma, medullary) of the thyroid gland, and usually with the co-occurrence of pheochromocytoma, producing calcitonin and adrenaline, respectively. Less frequently, it can occur with hyperplasia or adenoma of the parathyroid glands. This disease is due to gain-of-function mutations of the MEN2 gene on chromosome 10(Locus: 10q11.2), also known as the ret proto-oncogene that encodes a receptor protein-tyrosine kinase. It is an autosomal dominant inherited disease.</descriptions>
+    <type>Clinical conditions associated with amyloidosis</type>
+    <association>Endocrine, Nutritional and Metabolic Diseases</association>
+    <tissue>Skin</tissue>
+    <proteins>
+        <name>Keratin, type I cytoskeletal 14</name>
+        <ac>P02533</ac>
+        <id>K1C14_HUMAN</id>
+        <seq>MTTCSRQFTSSSSMKGSCGIGGGIGGGSSRISSVLAGGSCRAPSTYGGGLSVSSSRFSSGGACGLGGGYGGGFSSSSSSFGSGFGGGYGGGLGAGLGGGFGGGFAGGDGLLVGSEKVTMQNLNDRLASYLDKVRALEEANADLEVKIRDWYQRQRPAEIKDYSPYFKTIEDLRNKILTATVDNANVLLQIDNARLAADDFRTKYETELNLRMSVEADINGLRRVLDELTLARADLEMQIESLKEELAYLKKNHEEEMNALRGQVGGDVNVEMDAAPGVDLSRILNEMRDQYEKMAEKNRKDAEEWFFTKTEELNREVATNSELVQSGKSEISELRRTMQNLEIELQSQLSMKASLENSLEETKGRYCMQLAQIQEMIGSVEEQLAQLRCEMEQQNQEYKILLDVKTRLEQEIATYRRLLEGEDAHLSSSQFSSGSQSSRDVTSSSRQIRTKVMDVHDGKVVSTHEQVLRTKN</seq>
+        <length>472</length>
+        <genename>KRT14</genename>
+        <type>Precursor Protein</type>
+    </proteins>
+    <proteins>
+        <name>Keratin, type II cytoskeletal 1</name>
+        <ac>P04264</ac>
+        <id>K2C1_HUMAN</id>
+        <seq>MSRQFSSRSGYRSGGGFSSGSAGIINYQRRTTSSSTRRSGGGGGRFSSCGGGGGSFGAGGGFGSRSLVNLGGSKSISISVARGGGRGSGFGGGYGGGGFGGGGFGGGGFGGGGIGGGGFGGFGSGGGGFGGGGFGGGGYGGGYGPVCPPGGIQEVTINQSLLQPLNVEIDPEIQKVKSREREQIKSLNNQFASFIDKVRFLEQQNQVLQTKWELLQQVDTSTRTHNLEPYFESFINNLRRRVDQLKSDQSRLDSELKNMQDMVEDYRNKYEDEINKRTNAENEFVTIKKDVDGAYMTKVDLQAKLDNLQQEIDFLTALYQAELSQMQTQISETNVILSMDNNRSLDLDSIIAEVKAQYEDIAQKSKAEAESLYQSKYEELQITAGRHGDSVRNSKIEISELNRVIQRLRSEIDNVKKQISNLQQSISDAEQRGENALKDAKNKLNDLEDALQQAKEDLARLLRDYQELMNTKLALDLEIATYRTLLEGEESRMSGECAPNVSVSVSTSHTTISGGGSRGGGGGGYGSGGSSYGSGGGSYGSGGGGGGGRGSYGSGGSSYGSGGGSYGSGGGGGGHGSYGSGSSSGGYRGGSGGGGGGSSGGRGSGGGSSGGSIGGRGSSSGGVKSSGGSSSVKFVSTTYSGVTR</seq>
+        <length>644</length>
+        <genename>KRT1</genename>
+        <type>Precursor Protein</type>
+    </proteins>
+    <proteins>
+        <name>Keratin, type II cytoskeletal 5</name>
+        <ac>P13647</ac>
+        <id>K2C5_HUMAN</id>
+        <seq>MSRQSSVSFRSGGSRSFSTASAITPSVSRTSFTSVSRSGGGGGGGFGRVSLAGACGVGGYGSRSLYNLGGSKRISISTSGGSFRNRFGAGAGGGYGFGGGAGSGFGFGGGAGGGFGLGGGAGFGGGFGGPGFPVCPPGGIQEVTVNQSLLTPLNLQIDPSIQRVRTEEREQIKTLNNKFASFIDKVRFLEQQNKVLDTKWTLLQEQGTKTVRQNLEPLFEQYINNLRRQLDSIVGERGRLDSELRNMQDLVEDFKNKYEDEINKRTTAENEFVMLKKDVDAAYMNKVELEAKVDALMDEINFMKMFFDAELSQMQTHVSDTSVVLSMDNNRNLDLDSIIAEVKAQYEEIANRSRTEAESWYQTKYEELQQTAGRHGDDLRNTKHEISEMNRMIQRLRAEIDNVKKQCANLQNAIADAEQRGELALKDARNKLAELEEALQKAKQDMARLLREYQELMNTKLALDVEIATYRKLLEGEECRLSGEGVGPVNISVVTSSVSSGYGSGSGYGGGLGGGLGGGLGGGLAGGSSGSYYSSSSGGVGLGGGLSVGGSGFSASSGRGLGVGFGSGGGSSSSVKFVSTTSSSRKSFKS</seq>
+        <length>590</length>
+        <genename>KRT5</genename>
+        <type>Precursor Protein</type>
+    </proteins>
+    <proteins>
+        <name>Galectin-7</name>
+        <ac>P47929</ac>
+        <id>LEG7_HUMAN</id>
+        <seq>MSNVPHKSSLPEGIRPGTVLRIRGLVPPNASRFHVNLLCGEEQGSDAALHFNPRLDTSEVVFNSKEQGSWGREERGPGVPFQRGQPFEVLIIASDDGFKAVVGDAQYHHFRHRLPLARVRLVEVGGDVQLDSVRIF</seq>
+        <length>136</length>
+        <genename>LGALS7</genename>
+        <type>Precursor Protein</type>
+    </proteins>
+    <proteins>
+        <name>Actin, cytoplasmic 1</name>
+        <ac>P60709</ac>
+        <id>ACTB_HUMAN</id>
+        <seq>MDDDIAALVVDNGSGMCKAGFAGDDAPRAVFPSIVGRPRHQGVMVGMGQKDSYVGDEAQSKRGILTLKYPIEHGIVTNWDDMEKIWHHTFYNELRVAPEEHPVLLTEAPLNPKANREKMTQIMFETFNTPAMYVAIQAVLSLYASGRTTGIVMDSGDGVTHTVPIYEGYALPHAILRLDLAGRDLTDYLMKILTERGYSFTTTAEREIVRDIKEKLCYVALDFEQEMATAASSSSLEKSYELPDGQVITIGNERFRCPEALFQPSFLGMESCGIHETTFNSIMKCDVDIRKDLYANTVLSGGTTMYPGIADRMQKEITALAPSTMKIKIIAPPERKYSVWIGGSILASLSTFQQMWISKQEYDESGPSIVHRKCF</seq>
+        <length>375</length>
+        <genename>ACTB</genename>
+        <type>Precursor Protein</type>
+    </proteins>
+    <proteins>
+        <name>Actin, cytoplasmic 2 </name>
+        <ac>P63261</ac>
+        <id>ACTG_HUMAN</id>
+        <seq>MEEEIAALVIDNGSGMCKAGFAGDDAPRAVFPSIVGRPRHQGVMVGMGQKDSYVGDEAQSKRGILTLKYPIEHGIVTNWDDMEKIWHHTFYNELRVAPEEHPVLLTEAPLNPKANREKMTQIMFETFNTPAMYVAIQAVLSLYASGRTTGIVMDSGDGVTHTVPIYEGYALPHAILRLDLAGRDLTDYLMKILTERGYSFTTTAEREIVRDIKEKLCYVALDFEQEMATAASSSSLEKSYELPDGQVITIGNERFRCPEALFQPSFLGMESCGIHETTFNSIMKCDVDIRKDLYANTVLSGGTTMYPGIADRMQKEITALAPSTMKIKIIAPPERKYSVWIGGSILASLSTFQQMWISKQEYDESGPSIVHRKCF</seq>
+        <length>375</length>
+        <genename>ACTG1</genename>
+        <type>Precursor Protein</type>
+    </proteins>
+    <proteins>
+        <name>Immunoglobulin kappa light chain</name>
+        <ac>P0DOX7</ac>
+        <id>IGK_HUMAN</id>
+        <seq>DIQMTQSPSTLSASVGDRVTITCRASQSINTWLAWYQQKPGKAPKLLMYKASSLESGVPSRFIGSGSGTEFTLTISSLQPDDFATYYCQQYNSDSKMFGQGTKVEVKGTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC</seq>
+        <length>214</length>
+        <genename>IGK</genename>
+        <type>Precursor Protein</type>
+    </proteins>
+    <proteins>
+        <name>Immunoglobulin lambda-1 light chain</name>
+        <ac>P0DOX8</ac>
+        <id>IGL1_HUMAN</id>
+        <seq>QSALTQPPSASGSLGQSVTISCTGTSSDVGGYNYVSWYQQHAGKAPKVIIYEVNKRPSGVPDRFSGSKSGNTASLTVSGLQAEDEADYYCSSYEGSDNFVFGTGTKVTVLGQPKANPTVTLFPPSSEELQANKATLVCLISDFYPGAVTVAWKADGSPVKAGVETTKPSKQSNNKYAASSYLSLTPEQWKSHRSYSCQVTHEGSTVEKTVAPTECS</seq>
+        <length>216</length>
+        <genename>IGL1</genename>
+        <type>Precursor Protein</type>
+    </proteins>
+    <alternative_names>MEA 2a</alternative_names>
+    <alternative_names>MEA II</alternative_names>
+    <alternative_names>MEA IIa</alternative_names>
+    <alternative_names>MEN 2</alternative_names>
+    <alternative_names>MEN 2a</alternative_names>
+    <alternative_names>MEN II</alternative_names>
+    <alternative_names>MEN IIa</alternative_names>
+    <alternative_names>MEN-2A Syndrome</alternative_names>
+    <alternative_names>MEN2a</alternative_names>
+    <alternative_names>Multiple Endocrine Neoplasia Type 2</alternative_names>
+    <alternative_names>Multiple Endocrine Neoplasia, Type IIa</alternative_names>
+    <alternative_names>Multiple Endocrine Neoplasms Type 2a</alternative_names>
+    <alternative_names>Neoplasia, Multiple Endocrine Type 2a</alternative_names>
+    <alternative_names>Neoplasms, Multiple Endocrine Type 2a</alternative_names>
+    <alternative_names>Pheochromocytoma And Amyloid-Producing Medullary Thyroid Carcinoma</alternative_names>
+    <alternative_names>Sipple Syndrome</alternative_names>
+    <alternative_names>PTC Syndrome</alternative_names>
+    <crossreferences>
+        <abbreviation>ICD</abbreviation>
+        <link>http://apps.who.int/classifications/icd10/browse/2016/en#/E31</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>MeSH</abbreviation>
+        <link>https://meshb.nlm.nih.gov/record/ui?ui=D018813</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>OMIM</abbreviation>
+        <link>https://www.omim.org/entry/171400</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/2576949</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/2573304</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/29420094</link>
+    </crossreferences>
+    <mappings_amyloid>http://83.212.109.111:8084/amyco/42</mappings_amyloid>
+    <isa_name></isa_name>
+</disease>

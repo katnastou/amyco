@@ -1,0 +1,61 @@
+ID: 10
+
+Disease Name: Dementia, familial British
+
+Description: 
+
+Disease Type: Amyloidosis
+
+ISA Name: ABri Amyloidosis
+
+ICD-10 Classification: Diseases of the Circulatory System
+
+Tissue: Central Nervous System (CNS), Pancreas, Heart
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/I68
+
+https://meshb.nlm.nih.gov/record/ui?ui=C538208
+
+https://www.omim.org/entry/176500
+
+https://www.ncbi.nlm.nih.gov/pubmed/2364266
+
+https://www.ncbi.nlm.nih.gov/pubmed/7751849
+
+https://www.ncbi.nlm.nih.gov/pubmed/10391242
+
+https://www.ncbi.nlm.nih.gov/pubmed/11193180
+
+https://www.ncbi.nlm.nih.gov/pubmed/11159188
+
+Alternative Names:
+Cerebral Amyloid Angiopathy, Itm2b-Related, 1
+Cerebral amyloid angiopathy, British type
+Presenile dementia with spastic ataxia
+Familial dementia, British type
+Dementia Familial British
+Bri Amyloidosis
+Familial British Dementia (FBD)
+
+Precursor Proteins:
+Q9Y287 | Integral membrane protein 2B
+
+
+Co-deposited Proteins:
+O00468 | Agrin
+O75056 | Syndecan-3
+P01011 | Alpha-1-antichymotrypsin
+P01034 | Cystatin-C
+P02649 | Apolipoprotein E
+P02743 | Serum amyloid P-component
+P10909 | Clusterin
+P18827 | Syndecan-1
+P34741 | Syndecan-2
+P35052 | Glypican-1
+P98160 | Basement membrane-specific heparan sulfate proteoglycan core protein
+
+
+Link to Amyloidosis: 
+	No information available
+//

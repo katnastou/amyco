@@ -1,0 +1,41 @@
+ID: 61
+
+Disease Name: Bronchiectasis 
+
+Description: Persistent abnormal dilatation of the bronchi.
+
+Disease Type: Clinical conditions associated with amyloidosis
+
+ICD-10 Classification: Diseases of the Respiratory System
+
+Tissue: Larynx, Lung, Kidney, Gastrointestinal Tract
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/J47
+
+https://meshb.nlm.nih.gov/record/ui?ui=D001987
+
+https://www.ncbi.nlm.nih.gov/pubmed/27764008
+
+https://www.ncbi.nlm.nih.gov/pubmed/8753122
+
+Alternative Names:
+null
+
+Precursor Proteins:
+P0DJI8 | Serum amyloid A-1 protein
+P0DJI9 | Serum amyloid A-2 protein
+P0DOX7 | Immunoglobulin kappa light chain
+P0DOX8 | Immunoglobulin lambda-1 light chain
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	http://83.212.109.111:8084/amyco/8
+	http://83.212.109.111:8084/amyco/29
+
+//

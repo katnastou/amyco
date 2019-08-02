@@ -1,0 +1,58 @@
+ID: 12
+
+Disease Name: Cerebral Amyloid Angiopathy, APP-related
+
+Description: 
+
+Disease Type: Amyloidosis
+
+ICD-10 Classification: Diseases of the Circulatory System
+
+Tissue: Central Nervous System (CNS)
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/I68
+
+https://meshb.nlm.nih.gov/record/ui?ui=C537944
+
+https://www.omim.org/entry/605714
+
+https://www.ncbi.nlm.nih.gov/pubmed/3475718
+
+https://www.ncbi.nlm.nih.gov/pubmed/7131028
+
+https://www.ncbi.nlm.nih.gov/pubmed/19225789
+
+Alternative Names:
+Amyloidosis, Hereditary, With Cerebral Hemorrhage, Dutch Variant
+Cerebral Amyloid Angiopathy, App-Related
+Cerebral Amyloid Angiopathy, App-Related, Arctic Variant
+Cerebral Amyloid Angiopathy, App-Related, Dutch Variant
+Cerebral Amyloid Angiopathy, App-Related, Flemish Variant
+Cerebral Amyloid Angiopathy, App-Related, Iowa Variant
+Cerebral Amyloid Angiopathy, App-Related, Italian Variant
+Cerebral hemorrhage with amyloidosis, hereditary, Dutch type
+Dutch Type Hereditary Cerebral Amyloid Angiopathy
+HCHWAD
+Hereditary Cerebral Amyloid Angiopathy, Dutch Type
+Amyloidosis, Cerebroarterial, App-Related
+ABeta amyloidosis, Dutch type
+ABetaE22Q amyloidosis
+HCHWA, Dutch type
+HCHWA-D 
+Hereditary Cerebral Hemorrhage with Amyloidosis, Dutch type
+
+Precursor Proteins:
+P05067 | Amyloid-beta A4 protein
+
+
+Co-deposited Proteins:
+P01011 | Alpha-1-antichymotrypsin
+P01034 | Cystatin-C
+P02649 | Apolipoprotein E
+P02743 | Serum amyloid P-component
+
+
+Link to Amyloidosis: 
+	No information available
+//

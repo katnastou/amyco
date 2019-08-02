@@ -1,0 +1,54 @@
+{
+    "name": "Hypotrichosis Simplex of the Scalp",
+    "descriptions": "",
+    "type": "Amyloidosis",
+    "association": "Diseases of the Skin and Subcutaneous Tissue",
+    "tissue": "Skin",
+    "proteins": [
+        {
+            "name": "Corneodesmosin",
+            "ac": "Q15517",
+            "id": "CDSN_HUMAN",
+            "seq": "MGSSRAPWMGRVGGHGMMALLLAGLLLPGTLAKSIGTFSDPCKDPTRITSPNDPCLTGKGDSSGFSSYSGSSSSGSSISSARSSGGGSSGSSSGSSIAQGGSAGSFKPGTGYSQVSYSSGSGSSLQGASGSSQLGSSSSHSGNSGSHSGSSSSHSSSSSSFQFSSSSFQVGNGSALPTNDNSYRGILNPSQPGQSSSSSQTSGVSSSGQSVSSNQRPCSSDIPDSPCSGGPIVSHSGPYIPSSHSVSGGQRPVVVVVDQHGSGAPGVVQGPPCSNGGLPGKPCPPITSVDKSYGGYEVVGGSSDSYLVPGMTYSKGKIYPVGYFTKENPVKGSPGVPSFAAGPPISEGKYFSSNPIIPSQSAASSAIAFQPVGTGGVQLCGGGSTGSKGPCSPSSSRVPSSSSISSSSGSPYHPCGSASQSPCSPPGTGSFSSSSSSQSSGKIILQPCGSKSSSSGHPCMSVSSLTLTGGPDGSPHPDPSAGAKPCGSSSAGKIPCRSIRDILAQVKPLGPQLADPEVFLPQGELLDSP",
+            "length": 529,
+            "genename": "CDSN",
+            "type": "Precursor Protein"
+        },
+        {
+            "name": "Serum amyloid P-component",
+            "id": "SAMP_HUMAN",
+            "ac": "P02743",
+            "seq": "MNKPLLWISVLTSLLEAFAHTDLSGKVFVFPRESVTDHVNLITPLEKPLQNFTLCFRAYSDLSRAYSLFSYNTQGRDNELLVYKERVGEYSLYIGRHKVTSKVIEKFPAPVHICVSWESSSGIAEFWINGTPLVKKGLRQGYFVEAQPKIVLGQEQDSYGGKFDRSQSFVGEIGDLYMWDSVLPPENILSAYQGTPLPANILDWQALNYEIRGYVIIKPLVWV",
+            "length": 223,
+            "genename": "APCS",
+            "type": "Co-deposited Proteins",
+            "association_source": "20448140"
+        }
+    ],
+    "alternative_names": [
+        "Hereditary hypotrichosis simplex of the scalp",
+        "Hypotrichosis 2",
+        "HYPT2",
+        "Hypotrichosis simplex of the scalp 1",
+        "HTSS1",
+        "HTSS",
+        "HSS",
+        "Hypotrichosis, Spanish Type"
+    ],
+    "crossreferences": [
+        {
+            "abbreviation": "ICD",
+            "link": "http://apps.who.int/classifications/icd10/browse/2016/en#/L65"
+        },
+        {
+            "abbreviation": "OMIM",
+            "link": "https://www.omim.org/entry/146520"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/20448140"
+        }
+    ],
+    "mappings_amyloid": [],
+    "isa_name": "ACor Amyloidosis"
+}

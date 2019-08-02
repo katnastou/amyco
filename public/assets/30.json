@@ -1,0 +1,52 @@
+{
+    "name": "Wild-type transthyretin-related Amyloidosis",
+    "descriptions": "",
+    "type": "Amyloidosis",
+    "association": "Amyloidosis",
+    "tissue": "Heart, Lung",
+    "proteins": [
+        {
+            "name": "Transthyretin",
+            "ac": "P02766",
+            "id": "TTHY_HUMAN",
+            "seq": "MASHRLLLLCLAGLVFVSEAGPTGTGESKCPLMVKVLDAVRGSPAINVAVHVFRKAADDTWEPFASGKTSESGELHGLTTEEEFVEGIYKVEIDTKSYWKALGISPFHEHAEVVFTANDSGPRRYTIAALLSPYSYSTTAVVTNPKE",
+            "length": 147,
+            "genename": "TTR",
+            "type": "Precursor Protein"
+        }
+    ],
+    "alternative_names": [
+        "ATTRwt-related amyloidosis",
+        "SSA",
+        "Senile systemic amyloidosis",
+        "wild-type ATTR (ATTRwt) amyloidosis"
+    ],
+    "crossreferences": [
+        {
+            "abbreviation": "ICD",
+            "link": "http://apps.who.int/classifications/icd10/browse/2016/en#/E85"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/6507586"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/2320592"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/7244554"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/7033114"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/14640042"
+        }
+    ],
+    "mappings_amyloid": [],
+    "isa_name": "ATTRwt Amyloidosis"
+}

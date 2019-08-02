@@ -1,0 +1,49 @@
+<?xml version='1.0'?>
+<disease>
+    <name>Hereditary fibrinogen A alpha-chain Amyloidosis</name>
+    <descriptions></descriptions>
+    <type>Amyloidosis</type>
+    <association>Amyloidosis</association>
+    <tissue>Kidney, Liver, Heart, Spleen</tissue>
+    <proteins>
+        <name>Fibrinogen alpha chain</name>
+        <ac>P02671</ac>
+        <id>FIBA_HUMAN</id>
+        <seq>MFSMRIVCLVLSVVGTAWTADSGEGDFLAEGGGVRGPRVVERHQSACKDSDWPFCSDEDWNYKCPSGCRMKGLIDEVNQDFTNRINKLKNSLFEYQKNNKDSHSLTTNIMEILRGDFSSANNRDNTYNRVSEDLRSRIEVLKRKVIEKVQHIQLLQKNVRAQLVDMKRLEVDIDIKIRSCRGSCSRALAREVDLKDYEDQQKQLEQVIAKDLLPSRDRQHLPLIKMKPVPDLVPGNFKSQLQKVPPEWKALTDMPQMRMELERPGGNEITRGGSTSYGTGSETESPRNPSSAGSWNSGSSGPGSTGNRNPGSSGTGGTATWKPGSSGPGSTGSWNSGSSGTGSTGNQNPGSPRPGSTGTWNPGSSERGSAGHWTSESSVSGSTGQWHSESGSFRPDSPGSGNARPNNPDWGTFEEVSGNVSPGTRREYHTEKLVTSKGDKELRTGKEKVTSGSTTTTRRSCSKTVTKTVIGPDGHKEVTKEVVTSEDGSDCPEAMDLGTLSGIGTLDGFRHRHPDEAAFFDTASTGKTFPGFFSPMLGEFVSETESRGSESGIFTNTKESSSHHPGIAEFPSRGKSSSYSKQFTSSTSYNRGDSTFESKSYKMADEAGSEADHEGTHSTKRGHAKSRPVRDCDDVLQTHPSGTQSGIFNIKLPGSSKIFSVYCDQETSLGGWLLIQQRMDGSLNFNRTWQDYKRGFGSLNDEGEGEFWLGNDYLHLLTQRGSVLRVELEDWAGNEAYAEYHFRVGSEAEGYALQVSSYEGTAGDALIEGSVEEGAEYTSHNNMQFSTFDRDADQWEENCAEVYGGGWWYNNCQAANLNGIYYPGGSYDPRNNSPYEIENGVVWVSFRGADYSLRAVRMKIRPLVTQ</seq>
+        <length>866</length>
+        <genename>FGA</genename>
+        <type>Precursor Protein</type>
+    </proteins>
+    <alternative_names>Fibrinogen A a-associated amyloidosis</alternative_names>
+    <alternative_names>Hereditary amyloid nephropathy due to fibrinogen A alpha-chain variant</alternative_names>
+    <alternative_names>Fibrinogen A alpha-chain amyloidosis</alternative_names>
+    <alternative_names>Familial amyloid nephropathy due to fibrinogen A alpha-chain variant</alternative_names>
+    <alternative_names>Hereditary renal amyloidosis due to fibrinogen A alpha-chain variant</alternative_names>
+    <alternative_names>Amyloidosis VIII</alternative_names>
+    <alternative_names>Ostertag Type Amyloidosis</alternative_names>
+    <alternative_names>German Type Amyloidosis</alternative_names>
+    <alternative_names>Amyloidosis, Familial renal</alternative_names>
+    <alternative_names>Amyloidosis, Familial visceral</alternative_names>
+    <alternative_names>Amyloidosis, Systemic Non-neuropathic</alternative_names>
+    <crossreferences>
+        <abbreviation>ICD</abbreviation>
+        <link>http://apps.who.int/classifications/icd10/browse/2016/en#/E85</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>OMIM</abbreviation>
+        <link>https://www.omim.org/entry/105200</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/8097946</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/8113408</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/19633201</link>
+    </crossreferences>
+    <isa_name>AFib Amyloidosis</isa_name>
+</disease>

@@ -1,0 +1,58 @@
+<?xml version='1.0'?>
+<disease>
+    <name>Leukocyte chemotactic factor 2 Amyloidosis</name>
+    <descriptions></descriptions>
+    <type>Amyloidosis</type>
+    <association>Amyloidosis</association>
+    <tissue>Liver, Kidney, Prostate, Parathyroid Gland, Lung, Pancreas, Small Intestine</tissue>
+    <proteins>
+        <name>Leukocyte cell-derived chemotaxin-2</name>
+        <ac>O14960</ac>
+        <id>LECT2_HUMAN</id>
+        <seq>MFSTKALLLAGLISTALAGPWANICAGKSSNEIRTCDRHGCGQYSAQRSQRPHQGVDILCSAGSTVYAPFTGMIVGQEKPYQNKNAINNGVRISGRGFCVKMFYIKPIKYKGPIKKGEKLGTLLPLQKVYPGIQSHVHIENCDSSDPTAYL</seq>
+        <length>151</length>
+        <genename>LECT2</genename>
+        <type>Precursor Protein</type>
+    </proteins>
+    <proteins>
+        <name>Apolipoprotein E</name>
+        <id>APOE_HUMAN</id>
+        <ac>P02649</ac>
+        <seq>MKVLWAALLVTFLAGCQAKVEQAVETEPEPELRQQTEWQSGQRWELALGRFWDYLRWVQTLSEQVQEELLSSQVTQELRALMDETMKELKAYKSELEEQLTPVAEETRARLSKELQAAQARLGADMEDVCGRLVQYRGEVQAMLGQSTEELRVRLASHLRKLRKRLLRDADDLQKRLAVYQAGAREGAERGLSAIRERLGPLVEQGRVRAATVGSLAGQPLQERAQAWGERLRARMEEMGSRTRDRLDEVKEQVAEVRAKLEEQAQQIRLQAEAFQARLKSWFEPLVEDMQRQWAGLVEKVQAAVGTSAAPVPSDNH</seq>
+        <length>317</length>
+        <genename>APOE</genename>
+        <type>Co-deposited Protein</type>
+        <association_source>24415538</association_source>
+    </proteins>
+    <proteins>
+        <name>Serum amyloid P-component</name>
+        <id>SAMP_HUMAN</id>
+        <ac>P02743</ac>
+        <seq>MNKPLLWISVLTSLLEAFAHTDLSGKVFVFPRESVTDHVNLITPLEKPLQNFTLCFRAYSDLSRAYSLFSYNTQGRDNELLVYKERVGEYSLYIGRHKVTSKVIEKFPAPVHICVSWESSSGIAEFWINGTPLVKKGLRQGYFVEAQPKIVLGQEQDSYGGKFDRSQSFVGEIGDLYMWDSVLPPENILSAYQGTPLPANILDWQALNYEIRGYVIIKPLVWV</seq>
+        <length>223</length>
+        <genename>APCS</genename>
+        <type>Co-deposited Protein</type>
+        <association_source>24415538</association_source>
+    </proteins>
+    <alternative_names>Lect2 amyloidosis</alternative_names>
+    <alternative_names>Leukocyte chemotactic factor 2 amyloidosis</alternative_names>
+    <alternative_names>Leukocyte chemotactic factor 2-associated amyloidosis</alternative_names>
+    <alternative_names>Leukocyte cell-derived chemotaxin-2 amyloidosis</alternative_names>
+    <crossreferences>
+        <abbreviation>ICD</abbreviation>
+        <link>http://apps.who.int/classifications/icd10/browse/2016/en#/E85</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/18449172</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/25873265</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/27959636</link>
+    </crossreferences>
+    <isa_name>ALECT2 Amyloidosis</isa_name>
+</disease>

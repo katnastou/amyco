@@ -1,0 +1,78 @@
+{
+    "name": "Mevalonate Kinase Deficiency",
+    "descriptions": "Autosomal recessive disorder caused by mutations in the mevalonate kinase gene. Because of the mutations cholesterol biosynthesis is disrupted and mevalonic acid accumulates. It is characterized by a range of symptoms, including dysmorphic facies, psychomotor retardation, cataract, hepatosplenomegaly, cerebellar ataxia, elevated immunoglobulin D, and recurrent febrile crises with fever; lymphadenopathy; arthralgia; edema; and rash.",
+    "type": "Clinical conditions associated with amyloidosis",
+    "association": "Other",
+    "tissue": "Kidney, Spleen, Liver",
+    "proteins": [
+        {
+            "name": "Serum amyloid A-1 protein",
+            "ac": "P0DJI8",
+            "id": "SAA1_HUMAN",
+            "seq": "MKLLTGLVFCSLVLGVSSRSFFSFLGEAFDGARDMWRAYSDMREANYIGSDKYFHARGNYDAAKRGPGGVWAAEAISDARENIQRFFGHGAEDSLADQAANEWGRSGKDPNHFRPAGLPEKY",
+            "length": 122,
+            "genename": "SAA1",
+            "type": "Precursor Protein"
+        },
+        {
+            "name": "Serum amyloid A-2 protein",
+            "ac": "P0DJI9",
+            "id": "SAA2_HUMAN",
+            "seq": "MKLLTGLVFCSLVLSVSSRSFFSFLGEAFDGARDMWRAYSDMREANYIGSDKYFHARGNYDAAKRGPGGAWAAEVISNARENIQRLTGRGAEDSLADQAANKWGRSGRDPNHFRPAGLPEKY",
+            "length": 122,
+            "genename": "SAA2",
+            "type": "Precursor Protein"
+        }
+    ],
+    "alternative_names": [
+        "Hyper IgD Syndrome",
+        "Hyper-IgD Syndrome",
+        "Hyperimmunoglobulinemia D",
+        "Hyperimmunoglobulinemia D And Periodic Fever Syndrome",
+        "Mevalonic Aciduria",
+        "Mevalonicaciduria",
+        "Periodic Fever, Dutch Type",
+        "HIDS",
+        "Hyperimmunoglobulinemia D syndrome",
+        "Hyperimmunoglobinemia D with recurrent fever",
+        "MEVA"
+    ],
+    "crossreferences": [
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/15457465"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/19011501"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/27213830"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/8973873"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/15536479"
+        },
+        {
+            "abbreviation": "MeSH",
+            "link": "https://meshb.nlm.nih.gov/record/ui?ui=D054078"
+        },
+        {
+            "abbreviation": "OMIM",
+            "link": "https://www.omim.org/entry/610377"
+        },
+        {
+            "abbreviation": "OMIM",
+            "link": "https://www.omim.org/entry/260920"
+        }
+    ],
+    "mappings_amyloid": [
+        "http://83.212.109.111:8084/amyco/29"
+    ],
+    "isa_name": ""
+}

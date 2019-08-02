@@ -1,0 +1,67 @@
+{
+    "name": "Periodic fever, familial, autosomal dominant",
+    "descriptions": "An inherited condition characterized by recurrent episodes of fever; onset is typically in early childhood. Fevers usually persist for about three weeks, though they can be longer or shorter, and may not occur again for several weeks or several years. Other symptoms may include abdominal pain; myalgia; arthralgia; skin rash and systemic inflammation; amyloidosis may also occur in some cases. There is often no trigger, but episodes are sometimes preceded by infections, injury, or stress. Germline mutations in the TNFRSFIA gene have been identified.",
+    "type": "Clinical conditions associated with amyloidosis",
+    "association": "Diseases of the Musculoskeletal System and Connective Tissue",
+    "tissue": "Kidney",
+    "proteins": [
+        {
+            "name": "Serum amyloid A-1 protein",
+            "ac": "P0DJI8",
+            "id": "SAA1_HUMAN",
+            "seq": "MKLLTGLVFCSLVLGVSSRSFFSFLGEAFDGARDMWRAYSDMREANYIGSDKYFHARGNYDAAKRGPGGVWAAEAISDARENIQRFFGHGAEDSLADQAANEWGRSGKDPNHFRPAGLPEKY",
+            "length": 122,
+            "genename": "SAA1",
+            "type": "Precursor Protein"
+        },
+        {
+            "name": "Serum amyloid A-2 protein",
+            "ac": "P0DJI9",
+            "id": "SAA2_HUMAN",
+            "seq": "MKLLTGLVFCSLVLSVSSRSFFSFLGEAFDGARDMWRAYSDMREANYIGSDKYFHARGNYDAAKRGPGGAWAAEVISNARENIQRLTGRGAEDSLADQAANKWGRSGRDPNHFRPAGLPEKY",
+            "length": 122,
+            "genename": "SAA2",
+            "type": "Precursor Protein"
+        }
+    ],
+    "alternative_names": [
+        "Autosomal Dominant Familial Periodic Fever",
+        "Familial Hibernian fever",
+        "Hibernian Familial Fever",
+        "Hibernian fever, familial",
+        "TNF Receptor-associated Periodic Syndrome",
+        "Tumor necrosis factor receptor-associated periodic syndrome",
+        "TRAPS",
+        "TRAPS syndrome",
+        "Tumor necrosis factor receptor 1 associated periodic syndrome",
+        "TNF receptor 1-associated periodic syndrome",
+        "FPF",
+        "FHF"
+    ],
+    "crossreferences": [
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/23965844"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/11239851"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/11443543"
+        },
+        {
+            "abbreviation": "MeSH",
+            "link": "https://meshb.nlm.nih.gov/record/ui?ui=C536657"
+        },
+        {
+            "abbreviation": "OMIM",
+            "link": "https://www.omim.org/entry/142680"
+        }
+    ],
+    "mappings_amyloid": [
+        "http://83.212.109.111:8084/amyco/29"
+    ],
+    "isa_name": ""
+}

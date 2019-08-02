@@ -1,0 +1,70 @@
+<?xml version='1.0'?>
+<disease>
+    <name>Familial Mediterranean Fever</name>
+    <descriptions>A group of hereditary autoinflammation diseases, characterized by recurrent fever, abdominal pain, headache, rash, pleurisy; and arthritis. Orchitis; benign meningitis; and amyloidosis may also occur. Homozygous or compound heterozygous mutations in marenostrin gene result in autosomal recessive transmission; simple heterozygous, autosomal dominant form of the disease.</descriptions>
+    <type>Clinical conditions associated with amyloidosis</type>
+    <association>Diseases of the Musculoskeletal System and Connective Tissue</association>
+    <tissue>Kidney</tissue>
+    <proteins>
+        <name>Serum amyloid A-1 protein</name>
+        <ac>P0DJI8</ac>
+        <id>SAA1_HUMAN</id>
+        <seq>MKLLTGLVFCSLVLGVSSRSFFSFLGEAFDGARDMWRAYSDMREANYIGSDKYFHARGNYDAAKRGPGGVWAAEAISDARENIQRFFGHGAEDSLADQAANEWGRSGKDPNHFRPAGLPEKY</seq>
+        <length>122</length>
+        <genename>SAA1</genename>
+        <type>Precursor Protein</type>
+    </proteins>
+    <proteins>
+        <name>Serum amyloid A-2 protein</name>
+        <ac>P0DJI9</ac>
+        <id>SAA2_HUMAN</id>
+        <seq>MKLLTGLVFCSLVLSVSSRSFFSFLGEAFDGARDMWRAYSDMREANYIGSDKYFHARGNYDAAKRGPGGAWAAEVISNARENIQRLTGRGAEDSLADQAANKWGRSGRDPNHFRPAGLPEKY</seq>
+        <length>122</length>
+        <genename>SAA2</genename>
+        <type>Precursor Protein</type>
+    </proteins>
+    <alternative_names>Benign Paroxysmal Peritonitis</alternative_names>
+    <alternative_names>Familial Mediterranean Fever, Autosomal Recessive</alternative_names>
+    <alternative_names>Familial Paroxysmal Polyserositis</alternative_names>
+    <alternative_names>Mediterranean Fever, Familial</alternative_names>
+    <alternative_names>Periodic Disease</alternative_names>
+    <alternative_names>Periodic Disease, Wolff's</alternative_names>
+    <alternative_names>Periodic Peritonitis</alternative_names>
+    <alternative_names>Polyserositis, Familial Paroxysmal</alternative_names>
+    <alternative_names>Polyserositis, Recurrent</alternative_names>
+    <alternative_names>Recurrent Polyserositis</alternative_names>
+    <alternative_names>Wolff Periodic Disease</alternative_names>
+    <alternative_names>Wolff's Periodic Disease </alternative_names>
+    <alternative_names>FMF</alternative_names>
+    <alternative_names>Benign recurrent polyserositis</alternative_names>
+    <crossreferences>
+        <abbreviation>MeSH</abbreviation>
+        <link>https://meshb.nlm.nih.gov/record/ui?ui=D010505</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>OMIM</abbreviation>
+        <link>https://www.omim.org/entry/249100</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/14022004</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/5056669</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/3966749</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/10211405</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/16284730</link>
+    </crossreferences>
+    <mappings_amyloid>http://83.212.109.111:8084/amyco/29</mappings_amyloid>
+    <isa_name></isa_name>
+</disease>

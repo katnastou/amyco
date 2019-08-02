@@ -1,0 +1,36 @@
+ID: 26
+
+Disease Name: Apolipoprotein C-III associated Amyloidosis
+
+Description: 
+
+Disease Type: Amyloidosis
+
+ISA Name: AApoCIII Amyloidosis
+
+ICD-10 Classification: Amyloidosis
+
+Tissue: Kidney, Spleen, Salivary Gland, Intestine, Heart
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/E85
+
+https://www.ncbi.nlm.nih.gov/pubmed/26790392
+
+Alternative Names:
+Apolipoprotein-CIII amyloidosis
+
+Precursor Proteins:
+P02656 | Apolipoprotein C-III
+
+
+Co-deposited Proteins:
+P02647 | Apolipoprotein A-I
+P02649 | Apolipoprotein E
+P02743 | Serum amyloid P-component
+P06727 | Apolipoprotein A-IV
+
+
+Link to Amyloidosis: 
+	No information available
+//

@@ -1,0 +1,47 @@
+ID: 38
+
+Disease Name: Lattice corneal dystrophy type 1
+
+Description: A hereditary autosomal dominant form of corneal dystrophy with significant phenotypic variability. It is characterized by polymorphic geographic deposits at Bowman's membrane, lattice corneal dystrophy, recurrent corneal ulceration, and mild progressive visual impairment. Mutations in the TGBFI gene have been identified.
+
+Disease Type: Amyloidosis
+
+ICD-10 Classification: Diseases of the Eye and Adnexa
+
+Tissue: Eye
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/H18
+
+https://meshb.nlm.nih.gov/record/ui?ui=C537881
+
+https://www.omim.org/entry/122200
+
+https://www.ncbi.nlm.nih.gov/pubmed/9657906
+
+https://www.ncbi.nlm.nih.gov/pubmed/13814113
+
+Alternative Names:
+Biber-Haab-Dimmer Dystrophy
+Corneal Dystrophy, Lattice Type I
+Corneal dystrophy, lattice type 1
+Lattice Corneal Dystrophy Type I
+Lattice Corneal Dystrophy, Type I
+Classic lattice corneal dystrophy
+LCD1
+LCDI 
+LCD
+CDL1
+
+Precursor Proteins:
+Q15582 | Transforming growth factor-beta-induced protein ig-h3
+
+
+Co-deposited Proteins:
+P02649 | Apolipoprotein E
+P10909 | Clusterin
+
+
+Link to Amyloidosis: 
+	No information available
+//

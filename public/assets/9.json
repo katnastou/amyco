@@ -1,0 +1,74 @@
+{
+    "name": "Hereditary Cerebral Amyloid Angiopathy, Icelandic Type",
+    "descriptions": "A familial disorder marked by amyloid deposits in the walls of small and medium sized blood vessels of cerebral cortex and meninges.",
+    "type": "Amyloidosis",
+    "association": "Diseases of the Circulatory System",
+    "tissue": "Central Nervous System (CNS), Skin,  Lymph Node,  Spleen,  Salivary Gland,  Seminal Vesicle",
+    "proteins": [
+        {
+            "name": "Cystatin-C",
+            "ac": "P01034",
+            "id": "CYTC_HUMAN",
+            "seq": "MAGPLRAPLLLLAILAVALAVSPAAGSSPGKPPRLVGGPMDASVEEEGVRRALDFAVGEYNKASNDMYHSRALQVVRARKQIVAGVNYFLDVELGRTTCTKTQPNLDNCPFHDQPHLKRKAFCSFQIYAVPWQGTMTLSKSTCQDA",
+            "length": 146,
+            "genename": "CST3",
+            "type": "Precursor Protein"
+        },
+        {
+            "name": "Serum amyloid P-component",
+            "id": "SAMP_HUMAN",
+            "ac": "P02743",
+            "seq": "MNKPLLWISVLTSLLEAFAHTDLSGKVFVFPRESVTDHVNLITPLEKPLQNFTLCFRAYSDLSRAYSLFSYNTQGRDNELLVYKERVGEYSLYIGRHKVTSKVIEKFPAPVHICVSWESSSGIAEFWINGTPLVKKGLRQGYFVEAQPKIVLGQEQDSYGGKFDRSQSFVGEIGDLYMWDSVLPPENILSAYQGTPLPANILDWQALNYEIRGYVIIKPLVWV",
+            "length": 223,
+            "genename": "APCS",
+            "type": "Co-deposited Proteins",
+            "association_source": "2436360"
+        }
+    ],
+    "alternative_names": [
+        "Amyloidosis VI",
+        "Amyloidosis, Cerebroarterial, Icelandic Type",
+        "Autosomal Dominant Cerebrovascular Amyloidosis",
+        "Cerebral Amyloid Angiopathy, Cst3-Related",
+        "Cerebral Amyloid Angiopathy, Genetic",
+        "Cerebral Amyloid Angiopathy, Hereditary",
+        "Cerebral Hemorrhage, Hereditary, With Amyloidosis",
+        "Familial Cerebral Amyloid Angiopathy",
+        "HCHWA-I",
+        "Hereditary Cerebral Amyloid Angiopathy",
+        "Hereditary Cerebral Amyloid Angiopathy, Icelandic Type",
+        "Hereditary Cerebral Hemorrhage With Amyloidosis",
+        "Icelandic Type Amyloidosis",
+        "Icelandic Type Hereditary Cerebral Amyloid Angiopathy",
+        "HCCAA-I",
+        "Hereditary Cystatin C Amyloid Angiopathy"
+    ],
+    "crossreferences": [
+        {
+            "abbreviation": "ICD",
+            "link": "http://apps.who.int/classifications/icd10/browse/2016/en#/I68"
+        },
+        {
+            "abbreviation": "MeSH",
+            "link": "https://meshb.nlm.nih.gov/record/ui?ui=D028243"
+        },
+        {
+            "abbreviation": "OMIM",
+            "link": "https://www.omim.org/entry/105150"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/4655034"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/6886625"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/10842708"
+        }
+    ],
+    "mappings_amyloid": [],
+    "isa_name": "ACys Amyloidosis"
+}

@@ -1,0 +1,45 @@
+ID: 74
+
+Disease Name: Pick Disease of the Brain
+
+Description: A rare form of dementia that is sometimes familial. Clinical features include aphasia; apraxia; confusion; anomia; memory loss; and personality deterioration. This pattern is consistent with the pathologic findings of circumscribed atrophy of the poles of the frontal lobe and temporal lobe. Neuronal loss is maximal in the hippocampus, entorhinal cortex, and amygdala. Some ballooned cortical neurons contain argentophylic (Pick) bodies.
+
+Disease Type: Amyloidosis
+
+ICD-10 Classification: Diseases of the Nervous System
+
+Tissue: Central Nervous System (CNS)
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/G31
+
+https://meshb.nlm.nih.gov/record/ui?ui=D020774
+
+https://www.omim.org/entry/172700
+
+https://www.ncbi.nlm.nih.gov/pubmed/30158706
+
+Alternative Names:
+Brain Atrophy, Circumscribed Lobar
+Circumscribed Lobar Atrophy of the Brain
+Dementia with Lobar Atrophy and Neuronal Cytoplasmic Inclusions
+Lobar Atrophy (Brain)
+Lobar Atrophy Of Brain
+Lobar Atrophy of the Brain
+Pick Disease
+Pick Disease Of Brain
+Pick's Disease
+Picks Disease of Brain
+
+Precursor Proteins:
+P10636 | Tau
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	No information available
+//

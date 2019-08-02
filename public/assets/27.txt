@@ -1,0 +1,41 @@
+ID: 27
+
+Disease Name: Leukocyte chemotactic factor 2 Amyloidosis
+
+Description: 
+
+Disease Type: Amyloidosis
+
+ISA Name: ALECT2 Amyloidosis
+
+ICD-10 Classification: Amyloidosis
+
+Tissue: Liver, Kidney, Prostate, Parathyroid Gland, Lung, Pancreas, Small Intestine
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/E85
+
+https://www.ncbi.nlm.nih.gov/pubmed/18449172
+
+https://www.ncbi.nlm.nih.gov/pubmed/25873265
+
+https://www.ncbi.nlm.nih.gov/pubmed/27959636
+
+Alternative Names:
+Lect2 amyloidosis
+Leukocyte chemotactic factor 2 amyloidosis
+Leukocyte chemotactic factor 2-associated amyloidosis
+Leukocyte cell-derived chemotaxin-2 amyloidosis
+
+Precursor Proteins:
+O14960 | Leukocyte cell-derived chemotaxin-2
+
+
+Co-deposited Proteins:
+P02649 | Apolipoprotein E
+P02743 | Serum amyloid P-component
+
+
+Link to Amyloidosis: 
+	No information available
+//

@@ -1,0 +1,32 @@
+<?xml version='1.0'?>
+<disease>
+    <name>Medin Amyloidosis</name>
+    <descriptions></descriptions>
+    <type>Amyloidosis</type>
+    <association>Amyloidosis</association>
+    <tissue>Thoracic aorta</tissue>
+    <proteins>
+        <name>Lactadherin</name>
+        <ac>Q08431</ac>
+        <id>MFGM_HUMAN</id>
+        <seq>MPRPRLLAALCGALLCAPSLLVALDICSKNPCHNGGLCEEISQEVRGDVFPSYTCTCLKGYAGNHCETKCVEPLGMENGNIANSQIAASSVRVTFLGLQHWVPELARLNRAGMVNAWTPSSNDDNPWIQVNLLRRMWVTGVVTQGASRLASHEYLKAFKVAYSLNGHEFDFIHDVNKKHKEFVGNWNKNAVHVNLFETPVEAQYVRLYPTSCHTACTLRFELLGCELNGCANPLGLKNNSIPDKQITASSSYKTWGLHLFSWNPSYARLDKQGNFNAWVAGSYGNDQWLQVDLGSSKEVTGIITQGARNFGSVQFVASYKVAYSNDSANWTEYQDPRTGSSKIFPGNWDNHSHKKNLFETPILARYVRILPVAWHNRIALRLELLGC</seq>
+        <length>387</length>
+        <genename>MFGE8</genename>
+        <type>Precursor Protein</type>
+    </proteins>
+    <alternative_names>Aortic medial amyloidosis</alternative_names>
+    <alternative_names>Senile aortic amyloidosis </alternative_names>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/1562050</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/10411933</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/17679143</link>
+    </crossreferences>
+    <isa_name>AMed Amyloidosis</isa_name>
+</disease>

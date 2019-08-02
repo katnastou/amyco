@@ -1,0 +1,74 @@
+{
+    "name": "Lattice corneal dystrophy type 1",
+    "descriptions": "A hereditary autosomal dominant form of corneal dystrophy with significant phenotypic variability. It is characterized by polymorphic geographic deposits at Bowman's membrane, lattice corneal dystrophy, recurrent corneal ulceration, and mild progressive visual impairment. Mutations in the TGBFI gene have been identified.",
+    "type": "Amyloidosis",
+    "association": "Diseases of the Eye and Adnexa",
+    "tissue": "Eye",
+    "proteins": [
+        {
+            "name": "Transforming growth factor-beta-induced protein ig-h3",
+            "ac": "Q15582",
+            "id": "BGH3_HUMAN",
+            "seq": "MALFVRLLALALALALGPAATLAGPAKSPYQLVLQHSRLRGRQHGPNVCAVQKVIGTNRKYFTNCKQWYQRKICGKSTVISYECCPGYEKVPGEKGCPAALPLSNLYETLGVVGSTTTQLYTDRTEKLRPEMEGPGSFTIFAPSNEAWASLPAEVLDSLVSNVNIELLNALRYHMVGRRVLTDELKHGMTLTSMYQNSNIQIHHYPNGIVTVNCARLLKADHHATNGVVHLIDKVISTITNNIQQIIEIEDTFETLRAAVAASGLNTMLEGNGQYTLLAPTNEAFEKIPSETLNRILGDPEALRDLLNNHILKSAMCAEAIVAGLSVETLEGTTLEVGCSGDMLTINGKAIISNKDILATNGVIHYIDELLIPDSAKTLFELAAESDVSTAIDLFRQAGLGNHLSGSERLTLLAPLNSVFKDGTPPIDAHTRNLLRNHIIKDQLASKYLYHGQTLETLGGKKLRVFVYRNSLCIENSCIAAHDKRGRYGTLFTMDRVLTPPMGTVMDVLKGDNRFSMLVAAIQSAGLTETLNREGVYTVFAPTNEAFRALPPRERSRLLGDAKELANILKYHIGDEILVSGGIGALVRLKSLQGDKLEVSLKNNVVSVNKEPVAEPDIMATNGVVHVITNVLQPPANRPQERGDELADSALEIFKQASAFSRASQRSVRLAPVYQKLLERMKH",
+            "length": 683,
+            "genename": "TGFBI",
+            "type": "Precursor Protein"
+        },
+        {
+            "name": "Apolipoprotein E",
+            "id": "APOE_HUMAN",
+            "ac": "P02649",
+            "seq": "MKVLWAALLVTFLAGCQAKVEQAVETEPEPELRQQTEWQSGQRWELALGRFWDYLRWVQTLSEQVQEELLSSQVTQELRALMDETMKELKAYKSELEEQLTPVAEETRARLSKELQAAQARLGADMEDVCGRLVQYRGEVQAMLGQSTEELRVRLASHLRKLRKRLLRDADDLQKRLAVYQAGAREGAERGLSAIRERLGPLVEQGRVRAATVGSLAGQPLQERAQAWGERLRARMEEMGSRTRDRLDEVKEQVAEVRAKLEEQAQQIRLQAEAFQARLKSWFEPLVEDMQRQWAGLVEKVQAAVGTSAAPVPSDNH",
+            "length": 317,
+            "genename": "APOE",
+            "type": "Co-deposited Proteins",
+            "association_source": "10502582"
+        },
+        {
+            "name": "Clusterin",
+            "id": "CLUS_HUMAN",
+            "ac": "P10909",
+            "seq": "MMKTLLLFVGLLLTWESGQVLGDQTVSDNELQEMSNQGSKYVNKEIQNAVNGVKQIKTLIEKTNEERKTLLSNLEEAKKKKEDALNETRESETKLKELPGVCNETMMALWEECKPCLKQTCMKFYARVCRSGSGLVGRQLEEFLNQSSPFYFWMNGDRIDSLLENDRQQTHMLDVMQDHFSRASSIIDELFQDRFFTREPQDTYHYLPFSLPHRRPHFFFPKSRIVRSLMPFSPYEPLNFHAMFQPFLEMIHEAQQAMDIHFHSPAFQHPPTEFIREGDDDRTVCREIRHNSTGCLRMKDQCDKCREILSVDCSTNNPSQAKLRRELDESLQVAERLTRKYNELLKSYQWKMLNTSSLLEQLNEQFNWVSRLANLTQGEDQYYLRVTTVASHTSDSDVPSGVTEVVVKLFDSDPITVTVPVEVSRKNPKFMETVAEKALQEYRKKHREE",
+            "length": 449,
+            "genename": "CLU",
+            "type": "Co-deposited Proteins",
+            "association_source": "10502582"
+        }
+    ],
+    "alternative_names": [
+        "Biber-Haab-Dimmer Dystrophy",
+        "Corneal Dystrophy, Lattice Type I",
+        "Corneal dystrophy, lattice type 1",
+        "Lattice Corneal Dystrophy Type I",
+        "Lattice Corneal Dystrophy, Type I",
+        "Classic lattice corneal dystrophy",
+        "LCD1",
+        "LCDI ",
+        "LCD",
+        "CDL1"
+    ],
+    "crossreferences": [
+        {
+            "abbreviation": "ICD",
+            "link": "http://apps.who.int/classifications/icd10/browse/2016/en#/H18"
+        },
+        {
+            "abbreviation": "MeSH",
+            "link": "https://meshb.nlm.nih.gov/record/ui?ui=C537881"
+        },
+        {
+            "abbreviation": "OMIM",
+            "link": "https://www.omim.org/entry/122200"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/9657906"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/13814113"
+        }
+    ],
+    "mappings_amyloid": [],
+    "isa_name": "AKer Amyloidosis"
+}

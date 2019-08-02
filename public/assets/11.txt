@@ -1,0 +1,59 @@
+ID: 11
+
+Disease Name: Dementia, familial Danish
+
+Description: 
+
+Disease Type: Amyloidosis
+
+ISA Name: ADan Amyloidosis
+
+ICD-10 Classification: Diseases of the Circulatory System
+
+Tissue: Central Nervous System (CNS)
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/I68
+
+https://meshb.nlm.nih.gov/record/ui?ui=C538209
+
+https://www.omim.org/entry/117300
+
+https://www.ncbi.nlm.nih.gov/pubmed/10781099
+
+https://www.ncbi.nlm.nih.gov/pubmed/11895040
+
+https://www.ncbi.nlm.nih.gov/pubmed/14690516
+
+Alternative Names:
+Dementia, familial Danish
+Cerebral Amyloid Angiopathy, Itm2b-Related, 2
+Familial Danish dementia
+Heredopathia ophthalmootoencephalica
+Familial dementia, Danish type
+Familial Danish Dementia (FDD)
+HOOE 
+Cerebellar ataxia, cataract, deafness, and dementia or psychosis
+
+Precursor Proteins:
+Q9Y287 | Integral membrane protein 2B
+
+
+Co-deposited Proteins:
+O00468 | Agrin
+O75056 | Syndecan-3
+P01011 | Alpha-1-antichymotrypsin
+P01034 | Cystatin-C
+P02649 | Apolipoprotein E
+P02743 | Serum amyloid P-component
+P05067 | Amyloid-beta A4 protein
+P10909 | Clusterin
+P18827 | Syndecan-1
+P34741 | Syndecan-2
+P35052 | Glypican-1
+P98160 | Basement membrane-specific heparan sulfate proteoglycan core protein
+
+
+Link to Amyloidosis: 
+	No information available
+//

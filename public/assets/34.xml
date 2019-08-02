@@ -1,0 +1,58 @@
+<?xml version='1.0'?>
+<disease>
+    <name>Lewy Body Disease</name>
+    <descriptions>A neurodegenerative disease characterized by dementia, mild parkinsonism, and fluctuations in attention and alertness. The neuropsychiatric manifestations tend to precede the onset of bradykinesia, muscle rigidity, and other extrapyramidal signs. Delusions and visual hallucinations are relatively frequent in this condition. Histologic examination reveals lewy bodies in the cerebral cortex and brain stem. Senile plaques and other pathologic features characteristic of Alzheimer disease may also be present.</descriptions>
+    <type>Amyloidosis</type>
+    <association>Diseases of the Nervous System</association>
+    <tissue>Central Nervous System (CNS)</tissue>
+    <proteins>
+        <name>Amyloid-beta A4 protein</name>
+        <ac>P05067</ac>
+        <id>A4_HUMAN</id>
+        <seq>MLPGLALLLLAAWTARALEVPTDGNAGLLAEPQIAMFCGRLNMHMNVQNGKWDSDPSGTKTCIDTKEGILQYCQEVYPELQITNVVEANQPVTIQNWCKRGRKQCKTHPHFVIPYRCLVGEFVSDALLVPDKCKFLHQERMDVCETHLHWHTVAKETCSEKSTNLHDYGMLLPCGIDKFRGVEFVCCPLAEESDNVDSADAEEDDSDVWWGGADTDYADGSEDKVVEVAEEEEVAEVEEEEADDDEDDEDGDEVEEEAEEPYEEATERTTSIATTTTTTTESVEEVVREVCSEQAETGPCRAMISRWYFDVTEGKCAPFFYGGCGGNRNNFDTEEYCMAVCGSAMSQSLLKTTQEPLARDPVKLPTTAASTPDAVDKYLETPGDENEHAHFQKAKERLEAKHRERMSQVMREWEEAERQAKNLPKADKKAVIQHFQEKVESLEQEAANERQQLVETHMARVEAMLNDRRRLALENYITALQAVPPRPRHVFNMLKKYVRAEQKDRQHTLKHFEHVRMVDPKKAAQIRSQVMTHLRVIYERMNQSLSLLYNVPAVAEEIQDEVDELLQKEQNYSDDVLANMISEPRISYGNDALMPSLTETKTTVELLPVNGEFSLDDLQPWHSFGADSVPANTENEVEPVDARPAADRGLTTRPGSGLTNIKTEEISEVKMDAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVVIATVIVITLVMLKKKQYTSIHHGVVEVDAAVTPEERHLSKMQQNGYENPTYKFFEQMQN</seq>
+        <length>770</length>
+        <genename>APP</genename>
+        <type>Precursor Protein</type>
+    </proteins>
+    <proteins>
+        <name>Alpha-synuclein</name>
+        <ac>P37840</ac>
+        <id>SYUA_HUMAN</id>
+        <seq>MDVFMKGLSKAKEGVVAAAEKTKQGVAEAAGKTKEGVLYVGSKTKEGVVHGVATVAEKTKEQVTNVGGAVVTGVTAVAQKTVEGAGSIAAATGFVKKDQLGKNEEGAPQEGILEDMPVDPDNEAYEMPSEEGYQDYEPEA</seq>
+        <length>140</length>
+        <genename>SNCA</genename>
+        <type>Precursor Protein</type>
+    </proteins>
+    <alternative_names>Cortical Lewy Body Disease</alternative_names>
+    <alternative_names>Dementia, Lewy Body</alternative_names>
+    <alternative_names>Diffuse Lewy Body Disease</alternative_names>
+    <alternative_names>Lewy Body Dementia</alternative_names>
+    <alternative_names>Lewy Body Disease, Cortical</alternative_names>
+    <alternative_names>Lewy Body Disease, Diffuse</alternative_names>
+    <alternative_names>Lewy Body Type Senile Dementia</alternative_names>
+    <crossreferences>
+        <abbreviation>ICD</abbreviation>
+        <link>http://apps.who.int/classifications/icd10/browse/2016/en#/G31</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>ICD</abbreviation>
+        <link>http://apps.who.int/classifications/icd10/browse/2016/en#/F02</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>MeSH</abbreviation>
+        <link>https://meshb.nlm.nih.gov/record/ui?ui=D020961</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>OMIM</abbreviation>
+        <link>https://www.omim.org/entry/127750</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/2683563</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/1436523</link>
+    </crossreferences>
+    <isa_name></isa_name>
+</disease>

@@ -1,0 +1,38 @@
+{
+    "name": "Medin Amyloidosis",
+    "descriptions": "",
+    "type": "Amyloidosis",
+    "association": "Amyloidosis",
+    "tissue": "Thoracic aorta",
+    "proteins": [
+        {
+            "name": "Lactadherin",
+            "ac": "Q08431",
+            "id": "MFGM_HUMAN",
+            "seq": "MPRPRLLAALCGALLCAPSLLVALDICSKNPCHNGGLCEEISQEVRGDVFPSYTCTCLKGYAGNHCETKCVEPLGMENGNIANSQIAASSVRVTFLGLQHWVPELARLNRAGMVNAWTPSSNDDNPWIQVNLLRRMWVTGVVTQGASRLASHEYLKAFKVAYSLNGHEFDFIHDVNKKHKEFVGNWNKNAVHVNLFETPVEAQYVRLYPTSCHTACTLRFELLGCELNGCANPLGLKNNSIPDKQITASSSYKTWGLHLFSWNPSYARLDKQGNFNAWVAGSYGNDQWLQVDLGSSKEVTGIITQGARNFGSVQFVASYKVAYSNDSANWTEYQDPRTGSSKIFPGNWDNHSHKKNLFETPILARYVRILPVAWHNRIALRLELLGC",
+            "length": 387,
+            "genename": "MFGE8",
+            "type": "Precursor Protein"
+        }
+    ],
+    "alternative_names": [
+        "Aortic medial amyloidosis",
+        "Senile aortic amyloidosis "
+    ],
+    "crossreferences": [
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/1562050"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/10411933"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/17679143"
+        }
+    ],
+    "mappings_amyloid": [],
+    "isa_name": "AMed Amyloidosis"
+}

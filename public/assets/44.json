@@ -1,0 +1,54 @@
+{
+    "name": "Corneal dystrophy Avellino type",
+    "descriptions": "A hereditary autosomal dominant corneal dystrophy that is characterized by the development of small granules on the stromal layer of the cornea which later develop into lesions with a lattice-like appearance. The lesions increase in size with age and may lead to decreased visual acuity. Mutations in the TGFBI  gene have been identified.",
+    "type": "Amyloidosis",
+    "association": "Diseases of the Eye and Adnexa",
+    "tissue": "Eye",
+    "proteins": [
+        {
+            "name": "Transforming growth factor-beta-induced protein ig-h3",
+            "ac": "Q15582",
+            "id": "BGH3_HUMAN",
+            "seq": "MALFVRLLALALALALGPAATLAGPAKSPYQLVLQHSRLRGRQHGPNVCAVQKVIGTNRKYFTNCKQWYQRKICGKSTVISYECCPGYEKVPGEKGCPAALPLSNLYETLGVVGSTTTQLYTDRTEKLRPEMEGPGSFTIFAPSNEAWASLPAEVLDSLVSNVNIELLNALRYHMVGRRVLTDELKHGMTLTSMYQNSNIQIHHYPNGIVTVNCARLLKADHHATNGVVHLIDKVISTITNNIQQIIEIEDTFETLRAAVAASGLNTMLEGNGQYTLLAPTNEAFEKIPSETLNRILGDPEALRDLLNNHILKSAMCAEAIVAGLSVETLEGTTLEVGCSGDMLTINGKAIISNKDILATNGVIHYIDELLIPDSAKTLFELAAESDVSTAIDLFRQAGLGNHLSGSERLTLLAPLNSVFKDGTPPIDAHTRNLLRNHIIKDQLASKYLYHGQTLETLGGKKLRVFVYRNSLCIENSCIAAHDKRGRYGTLFTMDRVLTPPMGTVMDVLKGDNRFSMLVAAIQSAGLTETLNREGVYTVFAPTNEAFRALPPRERSRLLGDAKELANILKYHIGDEILVSGGIGALVRLKSLQGDKLEVSLKNNVVSVNKEPVAEPDIMATNGVVHVITNVLQPPANRPQERGDELADSALEIFKQASAFSRASQRSVRLAPVYQKLLERMKH",
+            "length": 683,
+            "genename": "TGFBI",
+            "type": "Precursor Protein"
+        }
+    ],
+    "alternative_names": [
+        "Avellino corneal dystrophy",
+        "Combined Granular-Lattice Corneal Dystrophy",
+        "Combined granular-lattice corneal dystrophies",
+        "Corneal Dystrophy, Avellino Type",
+        "Granular Corneal Dystrophy, Type II",
+        "Granular and lattice corneal dystrophies",
+        "Granular corneal dystrophy type 2",
+        "Granular-lattice (Avellino) corneal dystrophy ",
+        "ACD",
+        "CGD2"
+    ],
+    "crossreferences": [
+        {
+            "abbreviation": "ICD",
+            "link": "http://apps.who.int/classifications/icd10/browse/2016/en#/H18"
+        },
+        {
+            "abbreviation": "MeSH",
+            "link": "https://meshb.nlm.nih.gov/record/ui?ui=C535474"
+        },
+        {
+            "abbreviation": "OMIM",
+            "link": "https://www.omim.org/entry/607541"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/1454323"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/18243154"
+        }
+    ],
+    "mappings_amyloid": [],
+    "isa_name": "AKer Amyloidosis"
+}

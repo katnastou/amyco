@@ -1,0 +1,44 @@
+<?xml version='1.0'?>
+<disease>
+    <name>Prolactinoma</name>
+    <descriptions>A pituitary adenoma which secretes prolactin, leading to hyperprolactinemia. Clinical manifestations include amenorrhea; galactorrhea; impotence; headache; visual disturbances; and cerebrospinal fluid rhinorrhea.</descriptions>
+    <type>Amyloidosis</type>
+    <association>Neoplasms</association>
+    <tissue>Pituitary Gland</tissue>
+    <proteins>
+        <name>Prolactin</name>
+        <ac>P01236</ac>
+        <id>PRL_HUMAN</id>
+        <seq>MNIKGSPWKGSLLLLLVSNLLLCQSVAPLPICPGGAARCQVTLRDLFDRAVVLSHYIHNLSSEMFSEFDKRYTHGRGFITKAINSCHTSSLATPEDKEQAQQMNQKDFLSLIVSILRSWNEPLYHLVTEVRGMQEAPEAILSKAVEIEEQTKRLLEGMELIVSQVHPETKENEIYPVWSGLPSLQMADEESRLSAYYNLLHCLRRDSHKIDNYLKLLKCRIIHNNNC</seq>
+        <length>227</length>
+        <genename>PRL</genename>
+        <type>Precursor Protein</type>
+    </proteins>
+    <alternative_names>Adenoma, Prolactin-Secreting, Pituitary</alternative_names>
+    <alternative_names>Lactotroph Adenoma</alternative_names>
+    <alternative_names>Macroprolactinoma</alternative_names>
+    <alternative_names>Microprolactinoma</alternative_names>
+    <alternative_names>PRL-Secreting Pituitary Adenoma</alternative_names>
+    <alternative_names>Pituitary Adenoma, Prolactin-Secreting</alternative_names>
+    <alternative_names>Prolactin-Producing Pituitary Adenoma</alternative_names>
+    <alternative_names>Prolactin-Secreting Pituitary Adenoma</alternative_names>
+    <alternative_names>Prolactinoma, Familial </alternative_names>
+    <alternative_names>Pitutary prolactinoma</alternative_names>
+    <crossreferences>
+        <abbreviation>ICD</abbreviation>
+        <link>http://apps.who.int/classifications/icd10/browse/2016/en#/C75</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>MeSH</abbreviation>
+        <link>https://meshb.nlm.nih.gov/record/ui?ui=D015175</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>OMIM</abbreviation>
+        <link>https://www.omim.org/entry/600634</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/9006323</link>
+    </crossreferences>
+    <isa_name></isa_name>
+</disease>

@@ -1,0 +1,71 @@
+<?xml version='1.0'?>
+<disease>
+    <name>Mevalonate Kinase Deficiency</name>
+    <descriptions>Autosomal recessive disorder caused by mutations in the mevalonate kinase gene. Because of the mutations cholesterol biosynthesis is disrupted and mevalonic acid accumulates. It is characterized by a range of symptoms, including dysmorphic facies, psychomotor retardation, cataract, hepatosplenomegaly, cerebellar ataxia, elevated immunoglobulin D, and recurrent febrile crises with fever; lymphadenopathy; arthralgia; edema; and rash.</descriptions>
+    <type>Clinical conditions associated with amyloidosis</type>
+    <association>Other</association>
+    <tissue>Kidney, Spleen, Liver</tissue>
+    <proteins>
+        <name>Serum amyloid A-1 protein</name>
+        <ac>P0DJI8</ac>
+        <id>SAA1_HUMAN</id>
+        <seq>MKLLTGLVFCSLVLGVSSRSFFSFLGEAFDGARDMWRAYSDMREANYIGSDKYFHARGNYDAAKRGPGGVWAAEAISDARENIQRFFGHGAEDSLADQAANEWGRSGKDPNHFRPAGLPEKY</seq>
+        <length>122</length>
+        <genename>SAA1</genename>
+        <type>Precursor Protein</type>
+    </proteins>
+    <proteins>
+        <name>Serum amyloid A-2 protein</name>
+        <ac>P0DJI9</ac>
+        <id>SAA2_HUMAN</id>
+        <seq>MKLLTGLVFCSLVLSVSSRSFFSFLGEAFDGARDMWRAYSDMREANYIGSDKYFHARGNYDAAKRGPGGAWAAEVISNARENIQRLTGRGAEDSLADQAANKWGRSGRDPNHFRPAGLPEKY</seq>
+        <length>122</length>
+        <genename>SAA2</genename>
+        <type>Precursor Protein</type>
+    </proteins>
+    <alternative_names>Hyper IgD Syndrome</alternative_names>
+    <alternative_names>Hyper-IgD Syndrome</alternative_names>
+    <alternative_names>Hyperimmunoglobulinemia D</alternative_names>
+    <alternative_names>Hyperimmunoglobulinemia D And Periodic Fever Syndrome</alternative_names>
+    <alternative_names>Mevalonic Aciduria</alternative_names>
+    <alternative_names>Mevalonicaciduria</alternative_names>
+    <alternative_names>Periodic Fever, Dutch Type</alternative_names>
+    <alternative_names>HIDS</alternative_names>
+    <alternative_names>Hyperimmunoglobulinemia D syndrome</alternative_names>
+    <alternative_names>Hyperimmunoglobinemia D with recurrent fever</alternative_names>
+    <alternative_names>MEVA</alternative_names>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/15457465</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/19011501</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/27213830</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/8973873</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/15536479</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>MeSH</abbreviation>
+        <link>https://meshb.nlm.nih.gov/record/ui?ui=D054078</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>OMIM</abbreviation>
+        <link>https://www.omim.org/entry/610377</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>OMIM</abbreviation>
+        <link>https://www.omim.org/entry/260920</link>
+    </crossreferences>
+    <mappings_amyloid>http://83.212.109.111:8084/amyco/29</mappings_amyloid>
+    <isa_name></isa_name>
+</disease>

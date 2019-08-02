@@ -1,0 +1,89 @@
+<?xml version='1.0'?>
+<disease>
+    <name>Amyloidosis, Hereditary, Transthyretin-Related</name>
+    <descriptions>Hereditary disorder characterized by amyloid deposits in the extracellular matrix of different tissues. Patients present polyneuropathy; carpal tunnel syndrome, autonomic insufficiency, cardiomyopathy, and gastrointestinal symptoms. A dominant mutation (V30M) in the TTR gene has been identified. </descriptions>
+    <type>Amyloidosis</type>
+    <association>Amyloidosis</association>
+    <tissue>Peripheral Nervous System (PNS), Kidney, Autonomic Nervous System (ANS), Eye, Gastrointestinal Tract, Heart</tissue>
+    <proteins>
+        <name>Transthyretin</name>
+        <ac>P02766</ac>
+        <id>TTHY_HUMAN</id>
+        <seq>MASHRLLLLCLAGLVFVSEAGPTGTGESKCPLMVKVLDAVRGSPAINVAVHVFRKAADDTWEPFASGKTSESGELHGLTTEEEFVEGIYKVEIDTKSYWKALGISPFHEHAEVVFTANDSGPRRYTIAALLSPYSYSTTAVVTNPKE</seq>
+        <length>147</length>
+        <genename>TTR</genename>
+        <type>Precursor Protein</type>
+    </proteins>
+    <alternative_names>Familial Transthyretin Cardiac Amyloidosis</alternative_names>
+    <alternative_names>Hereditary Amyloidosis, Transthyretin-Related</alternative_names>
+    <alternative_names>Transthyretin Amyloidosis</alternative_names>
+    <alternative_names>Familial amyloid polyneuropathy type I (Portuguese-Swedish-Japanese Type)</alternative_names>
+    <alternative_names>TTR amyloid neuropathy</alternative_names>
+    <alternative_names>Transthyretin amyloid polyneuropathy</alternative_names>
+    <alternative_names>Familial amyloid polyneuropathy (FAP)</alternative_names>
+    <alternative_names>Familial Oculoleptomeningeal Amyloidosis</alternative_names>
+    <alternative_names>FOLMA</alternative_names>
+    <alternative_names>Leptomeningeal Amyloidosis</alternative_names>
+    <alternative_names>ATTR cardiomyopathy</alternative_names>
+    <alternative_names>TTR-related amyloid cardiomyopathy</alternative_names>
+    <alternative_names>TTR-related cardiac amyloidosis</alternative_names>
+    <alternative_names>Transthyretin amyloid cardiopathy</alternative_names>
+    <alternative_names>Transthyretin-related familial amyloid cardiomyopathy</alternative_names>
+    <alternative_names>Amyloid polyneuropathy, familial</alternative_names>
+    <alternative_names>Appalachian Type Familial Amyloid Polyneuropathy</alternative_names>
+    <alternative_names>Familial Amyloid Neuropathy, Andrade Type</alternative_names>
+    <alternative_names>Amyloid Neuropathy Type 1</alternative_names>
+    <alternative_names>Amyloid Polyneuropathy, Swiss Type</alternative_names>
+    <alternative_names>Amyloid Polyneuropathy, British Type</alternative_names>
+    <alternative_names>British Type Amyloid Polyneuropathy</alternative_names>
+    <alternative_names>Familial Amyloid Neuropathy, Portuguese Type</alternative_names>
+    <alternative_names>Familial Amyloid Polyneuropathy, Appalachian Type</alternative_names>
+    <alternative_names>Familial Amyloid Polyneuropathy, Jewish Type</alternative_names>
+    <alternative_names>Familial Amyloid Polyneuropathy, Jewish Type I</alternative_names>
+    <alternative_names>Familial Amyloid Polyneuropathy, Type II</alternative_names>
+    <alternative_names>Familial Portuguese Polyneuritic Amyloidosis</alternative_names>
+    <alternative_names>Jewish Type Familial Amyloid Polyneuropathy</alternative_names>
+    <alternative_names>Polyneuritic Amyloidosis, Portuguese</alternative_names>
+    <alternative_names>Portuguese Polyneuritic Amyloidosis</alternative_names>
+    <alternative_names>Portuguese Type Familial Amyloid Neuropathy</alternative_names>
+    <alternative_names>Swiss Type Amyloid Polyneuropathy</alternative_names>
+    <alternative_names>Type I Familial Amyloid Polyneuropathy</alternative_names>
+    <alternative_names>Type II Familial Amyloid Polyneuropathy</alternative_names>
+    <alternative_names>Wohlwill-Andrade Syndrome</alternative_names>
+    <alternative_names>Wohlwill-Corino Andrade Syndrome</alternative_names>
+    <alternative_names>Transthyretin amyloid neuropathy</alternative_names>
+    <alternative_names>Hereditary transthyretin-related amyloidosis</alternative_names>
+    <crossreferences>
+        <abbreviation>ICD</abbreviation>
+        <link>http://apps.who.int/classifications/icd10/browse/2016/en#/E85</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>MeSH</abbreviation>
+        <link>https://meshb.nlm.nih.gov/record/ui?ui=C567782</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>OMIM</abbreviation>
+        <link>https://www.omim.org/entry/105210</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/279930</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/6208668</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/2646319</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/28213611</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/25044787</link>
+    </crossreferences>
+    <isa_name>ATTRv Amyloidosis</isa_name>
+</disease>

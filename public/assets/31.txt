@@ -1,0 +1,84 @@
+ID: 31
+
+Disease Name: Amyloidosis, Hereditary, Transthyretin-Related
+
+Description: Hereditary disorder characterized by amyloid deposits in the extracellular matrix of different tissues. Patients present polyneuropathy; carpal tunnel syndrome, autonomic insufficiency, cardiomyopathy, and gastrointestinal symptoms. A dominant mutation (V30M) in the TTR gene has been identified. 
+
+Disease Type: Amyloidosis
+
+ISA Name: ATTRv Amyloidosis
+
+ICD-10 Classification: Amyloidosis
+
+Tissue: Peripheral Nervous System (PNS), Kidney, Autonomic Nervous System (ANS), Eye, Gastrointestinal Tract, Heart
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/E85
+
+https://meshb.nlm.nih.gov/record/ui?ui=C567782
+
+https://www.omim.org/entry/105210
+
+https://www.ncbi.nlm.nih.gov/pubmed/279930
+
+https://www.ncbi.nlm.nih.gov/pubmed/6208668
+
+https://www.ncbi.nlm.nih.gov/pubmed/2646319
+
+https://www.ncbi.nlm.nih.gov/pubmed/28213611
+
+https://www.ncbi.nlm.nih.gov/pubmed/25044787
+
+Alternative Names:
+Familial Transthyretin Cardiac Amyloidosis
+Hereditary Amyloidosis, Transthyretin-Related
+Transthyretin Amyloidosis
+Familial amyloid polyneuropathy type I (Portuguese-Swedish-Japanese Type)
+TTR amyloid neuropathy
+Transthyretin amyloid polyneuropathy
+Familial amyloid polyneuropathy (FAP)
+Familial Oculoleptomeningeal Amyloidosis
+FOLMA
+Leptomeningeal Amyloidosis
+ATTR cardiomyopathy
+TTR-related amyloid cardiomyopathy
+TTR-related cardiac amyloidosis
+Transthyretin amyloid cardiopathy
+Transthyretin-related familial amyloid cardiomyopathy
+Amyloid polyneuropathy, familial
+Appalachian Type Familial Amyloid Polyneuropathy
+Familial Amyloid Neuropathy, Andrade Type
+Amyloid Neuropathy Type 1
+Amyloid Polyneuropathy, Swiss Type
+Amyloid Polyneuropathy, British Type
+British Type Amyloid Polyneuropathy
+Familial Amyloid Neuropathy, Portuguese Type
+Familial Amyloid Polyneuropathy, Appalachian Type
+Familial Amyloid Polyneuropathy, Jewish Type
+Familial Amyloid Polyneuropathy, Jewish Type I
+Familial Amyloid Polyneuropathy, Type II
+Familial Portuguese Polyneuritic Amyloidosis
+Jewish Type Familial Amyloid Polyneuropathy
+Polyneuritic Amyloidosis, Portuguese
+Portuguese Polyneuritic Amyloidosis
+Portuguese Type Familial Amyloid Neuropathy
+Swiss Type Amyloid Polyneuropathy
+Type I Familial Amyloid Polyneuropathy
+Type II Familial Amyloid Polyneuropathy
+Wohlwill-Andrade Syndrome
+Wohlwill-Corino Andrade Syndrome
+Transthyretin amyloid neuropathy
+Hereditary transthyretin-related amyloidosis
+
+Precursor Proteins:
+P02766 | Transthyretin
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	No information available
+//

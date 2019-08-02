@@ -1,0 +1,81 @@
+{
+    "name": "Sjogren's Syndrome",
+    "descriptions": "Chronic inflammatory and autoimmune disease in which the salivary and lacrimal glands undergo progressive destruction by lymphocytes and plasma cells resulting in decreased production of saliva and tears. The primary form, often called sicca syndrome, involves both keratoconjunctivitis sicca and xerostomia. The secondary form includes, in addition, the presence of a connective tissue disease, usually rheumatoid arthritis.",
+    "type": "Clinical conditions associated with amyloidosis",
+    "association": "Diseases of the Musculoskeletal System and Connective Tissue",
+    "tissue": "Lung, Skin, Kidney, Salivary Gland, Soft Tissues, Lachrymal Gland",
+    "proteins": [
+        {
+            "name": "Transthyretin",
+            "ac": "P02766",
+            "id": "TTHY_HUMAN",
+            "seq": "MASHRLLLLCLAGLVFVSEAGPTGTGESKCPLMVKVLDAVRGSPAINVAVHVFRKAADDTWEPFASGKTSESGELHGLTTEEEFVEGIYKVEIDTKSYWKALGISPFHEHAEVVFTANDSGPRRYTIAALLSPYSYSTTAVVTNPKE",
+            "length": 147,
+            "genename": "TTR",
+            "type": "Precursor Protein"
+        },
+        {
+            "name": "Immunoglobulin kappa light chain",
+            "ac": "P0DOX7",
+            "id": "IGK_HUMAN",
+            "seq": "DIQMTQSPSTLSASVGDRVTITCRASQSINTWLAWYQQKPGKAPKLLMYKASSLESGVPSRFIGSGSGTEFTLTISSLQPDDFATYYCQQYNSDSKMFGQGTKVEVKGTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC",
+            "length": 214,
+            "genename": "IGK",
+            "type": "Precursor Protein"
+        },
+        {
+            "name": "Immunoglobulin lambda-1 light chain",
+            "ac": "P0DOX8",
+            "id": "IGL1_HUMAN",
+            "seq": "QSALTQPPSASGSLGQSVTISCTGTSSDVGGYNYVSWYQQHAGKAPKVIIYEVNKRPSGVPDRFSGSKSGNTASLTVSGLQAEDEADYYCSSYEGSDNFVFGTGTKVTVLGQPKANPTVTLFPPSSEELQANKATLVCLISDFYPGAVTVAWKADGSPVKAGVETTKPSKQSNNKYAASSYLSLTPEQWKSHRSYSCQVTHEGSTVEKTVAPTECS",
+            "length": 216,
+            "genename": "IGL1",
+            "type": "Precursor Protein"
+        }
+    ],
+    "alternative_names": [
+        "Sicca Syndrome",
+        "Sjogren Syndrome",
+        "SS"
+    ],
+    "crossreferences": [
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/4682027"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/30210893"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/28202864"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/29787840"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/26339445"
+        },
+        {
+            "abbreviation": "ICD",
+            "link": "http://apps.who.int/classifications/icd10/browse/2016/en#/M35"
+        },
+        {
+            "abbreviation": "MeSH",
+            "link": "https://meshb.nlm.nih.gov/record/ui?ui=D012859"
+        },
+        {
+            "abbreviation": "OMIM",
+            "link": "https://www.omim.org/entry/270150"
+        }
+    ],
+    "mappings_amyloid": [
+        "http://83.212.109.111:8084/amyco/8",
+        "http://83.212.109.111:8084/amyco/30",
+        "http://83.212.109.111:8084/amyco/42"
+    ],
+    "isa_name": ""
+}

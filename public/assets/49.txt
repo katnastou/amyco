@@ -1,0 +1,77 @@
+ID: 49
+
+Disease Name: Cryopyrin-Associated Periodic Syndromes
+
+Description: A group of rare autosomal dominant diseases, commonly characterized by atypical urticaria (hives) with systemic symptoms that develop into end-organ damage. The atypical hives do not involve T-cell or autoantibody. Cryopyrin-associated periodic syndrome includes three previously distinct disorders: Familial cold autoinflammatory syndrome; Muckle-Wells Syndrome; and CINCA Syndrome, that are now considered to represent a disease continuum, all caused by NLRP3  protein mutations.
+
+Disease Type: Clinical conditions associated with amyloidosis
+
+ICD-10 Classification: Diseases of the Musculoskeletal System and Connective Tissue
+
+Tissue: Kidney
+
+Cross References
+https://meshb.nlm.nih.gov/record/ui?ui=D056587
+
+https://www.omim.org/entry/191900
+
+https://www.ncbi.nlm.nih.gov/pubmed/6406764
+
+https://www.ncbi.nlm.nih.gov/pubmed/10486324
+
+https://www.ncbi.nlm.nih.gov/pubmed/14872505
+
+https://www.ncbi.nlm.nih.gov/pubmed/29163488
+
+Alternative Names:
+Muckle-Wells Syndrome
+Muckle Wells Syndrome
+Syndrome, Muckle-Wells
+Urticaria, Deafness and Amyloidosis
+UDA Syndrome
+Syndrome, UDA
+Syndromes, UDA
+UDA Syndromes
+Urticaria-Deafness-Amyloidosis Syndrome
+Syndrome, Urticaria-Deafness-Amyloidosis
+Syndromes, Urticaria-Deafness-Amyloidosis
+Urticaria Deafness Amyloidosis Syndrome
+Urticaria-Deafness-Amyloidosis Syndromes 
+CINCA
+CINCA Syndrome
+Chronic Infantile Neurologic, Cutaneous, and Articular Syndrome
+Chronic Infantile Neurological, Cutaneous, and Articular Syndrome
+Chronic Neurologic Cutaneous and Articular Syndrome
+Chronic Neurologic, Cutaneous, and Articular Syndrome
+Chronic, Infantile, Neurological, Cutaneous, Articular Syndrome
+Cold Urticaria, Familial
+Cold-Induced Autoinflammatory Syndrome, Familial
+Cryopyrinopathy
+FCAS1
+Familial Cold Autoinflammatory Syndrome
+Familial Cold Autoinflammatory Syndrome 1
+Familial Cold Urticaria
+Familial Cold-Induced Autoinflammatory Syndrome
+IOMID
+IOMID Syndrome
+Infantile Onset Multisystem Inflammatory Disease
+Multisystem Inflammatory Disease, Neonatal-Onset
+NOMID
+Neonatal Onset Multisystem Inflammatory Disease
+Prieur-Griscelli Syndrome
+CAPS
+
+Precursor Proteins:
+P0DJI8 | Serum amyloid A-1 protein
+P0DJI9 | Serum amyloid A-2 protein
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	http://83.212.109.111:8084/amyco/29
+
+//

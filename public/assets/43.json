@@ -1,0 +1,74 @@
+{
+    "name": "Corneal dystrophy, gelatinous drop-like",
+    "descriptions": "A hereditary autosomal recessive corneal dystrophy characterized by severe corneal amyloidosis leading to blindness. Clinical manifestations, which appear in the first decade of life, include blurred vision, photophobia, and foreign-body sensation. By the third decade, raised, yellowish-gray, gelatinous masses severely impair visual acuity, and corneal transplantation is required for most patients. Mutations in the TACSTD2 gene have been identified.",
+    "type": "Amyloidosis",
+    "association": "Diseases of the Eye and Adnexa",
+    "tissue": "Eye",
+    "proteins": [
+        {
+            "name": "Lactotransferrin",
+            "ac": "P02788",
+            "id": "TRFL_HUMAN",
+            "seq": "MKLVFLVLLFLGALGLCLAGRRRSVQWCAVSQPEATKCFQWQRNMRKVRGPPVSCIKRDSPIQCIQAIAENRADAVTLDGGFIYEAGLAPYKLRPVAAEVYGTERQPRTHYYAVAVVKKGGSFQLNELQGLKSCHTGLRRTAGWNVPIGTLRPFLNWTGPPEPIEAAVARFFSASCVPGADKGQFPNLCRLCAGTGENKCAFSSQEPYFSYSGAFKCLRDGAGDVAFIRESTVFEDLSDEAERDEYELLCPDNTRKPVDKFKDCHLARVPSHAVVARSVNGKEDAIWNLLRQAQEKFGKDKSPKFQLFGSPSGQKDLLFKDSAIGFSRVPPRIDSGLYLGSGYFTAIQNLRKSEEEVAARRARVVWCAVGEQELRKCNQWSGLSEGSVTCSSASTTEDCIALVLKGEADAMSLDGGYVYTAGKCGLVPVLAENYKSQQSSDPDPNCVDRPVEGYLAVAVVRRSDTSLTWNSVKGKKSCHTAVDRTAGWNIPMGLLFNQTGSCKFDEYFSQSCAPGSDPRSNLCALCIGDEQGENKCVPNSNERYYGYTGAFRCLAENAGDVAFVKDVTVLQNTDGNNNEAWAKDLKLADFALLCLDGKRKPVTEARSCHLAMAPNHAVVSRMDKVERLKQVLLHQQAKFGRNGSDCPDKFCLFQSETKNLLFNDNTECLARLHGKTTYEKYLGPQYVAGITNLKKCSTSPLLEACEFLRK",
+            "length": 710,
+            "genename": "LTF",
+            "type": "Precursor Protein"
+        },
+        {
+            "name": "Apolipoprotein E",
+            "id": "APOE_HUMAN",
+            "ac": "P02649",
+            "seq": "MKVLWAALLVTFLAGCQAKVEQAVETEPEPELRQQTEWQSGQRWELALGRFWDYLRWVQTLSEQVQEELLSSQVTQELRALMDETMKELKAYKSELEEQLTPVAEETRARLSKELQAAQARLGADMEDVCGRLVQYRGEVQAMLGQSTEELRVRLASHLRKLRKRLLRDADDLQKRLAVYQAGAREGAERGLSAIRERLGPLVEQGRVRAATVGSLAGQPLQERAQAWGERLRARMEEMGSRTRDRLDEVKEQVAEVRAKLEEQAQQIRLQAEAFQARLKSWFEPLVEDMQRQWAGLVEKVQAAVGTSAAPVPSDNH",
+            "length": 317,
+            "genename": "APOE",
+            "type": "Co-deposited Proteins",
+            "association_source": "10502582"
+        },
+        {
+            "name": "Clusterin",
+            "id": "CLUS_HUMAN",
+            "ac": "P10909",
+            "seq": "MMKTLLLFVGLLLTWESGQVLGDQTVSDNELQEMSNQGSKYVNKEIQNAVNGVKQIKTLIEKTNEERKTLLSNLEEAKKKKEDALNETRESETKLKELPGVCNETMMALWEECKPCLKQTCMKFYARVCRSGSGLVGRQLEEFLNQSSPFYFWMNGDRIDSLLENDRQQTHMLDVMQDHFSRASSIIDELFQDRFFTREPQDTYHYLPFSLPHRRPHFFFPKSRIVRSLMPFSPYEPLNFHAMFQPFLEMIHEAQQAMDIHFHSPAFQHPPTEFIREGDDDRTVCREIRHNSTGCLRMKDQCDKCREILSVDCSTNNPSQAKLRRELDESLQVAERLTRKYNELLKSYQWKMLNTSSLLEQLNEQFNWVSRLANLTQGEDQYYLRVTTVASHTSDSDVPSGVTEVVVKLFDSDPITVTVPVEVSRKNPKFMETVAEKALQEYRKKHREE",
+            "length": 449,
+            "genename": "CLU",
+            "type": "Co-deposited Proteins",
+            "association_source": "10502582"
+        }
+    ],
+    "alternative_names": [
+        "Amyloid corneal dystrophy, Japanese type",
+        "Amyloidosis, corneal",
+        "Corneal Dystrophy, Lattice Type III",
+        "Corneal amyloidosis",
+        "Corneal dystrophy, Lattice type 3",
+        "Lattice Corneal Dystrophy, Type III",
+        "Lattice corneal dystrophy type3",
+        "Primary familial amyloidosis of the cornea ",
+        "Familial subepithelial corneal amyloidosis",
+        "CDGDL"
+    ],
+    "crossreferences": [
+        {
+            "abbreviation": "ICD",
+            "link": "http://apps.who.int/classifications/icd10/browse/2016/en#/H18"
+        },
+        {
+            "abbreviation": "MeSH",
+            "link": "https://meshb.nlm.nih.gov/record/ui?ui=C535480"
+        },
+        {
+            "abbreviation": "OMIM",
+            "link": "https://www.omim.org/entry/204870"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/9418728"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/27913443"
+        }
+    ],
+    "mappings_amyloid": [],
+    "isa_name": "ALac Amyloidosis"
+}

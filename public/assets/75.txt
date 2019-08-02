@@ -1,0 +1,45 @@
+ID: 75
+
+Disease Name: Hereditary beta-2-microglobulin-related Amyloidosis
+
+Description: 
+
+Disease Type: Amyloidosis
+
+ISA Name: Aβ2Mv Amyloidosis
+
+ICD-10 Classification: Amyloidosis
+
+Tissue: Spleen, Liver, Heart, Salivary Gland
+
+Cross References
+https://www.omim.org/entry/105200
+
+https://www.ncbi.nlm.nih.gov/pubmed/22693999
+
+http://apps.who.int/classifications/icd10/browse/2016/en#/E85
+
+Alternative Names:
+Amyloidosis VIII
+Ostertag Type Amyloidosis
+German Type Amyloidosis
+Amyloidosis, Familial renal
+Amyloidosis, Familial visceral
+Amyloidosis, Systemic Non-neuropathic
+beta2-microglobulin-related amyloidosis
+beta2-microglobulin amyloidosis
+Beta-2-microglobulin amyloidosis
+ABeta2M amyloidosis
+
+Precursor Protein:
+P61769 | Beta-2-microglobulin
+
+
+Co-deposited Proteins: 
+No information available
+
+
+
+Link to Amyloidosis: 
+	No information available
+//

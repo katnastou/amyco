@@ -1,0 +1,40 @@
+ID: 72
+
+Disease Name: Hypotrichosis Simplex of the Scalp
+
+Description: 
+
+Disease Type: Amyloidosis
+
+ICD-10 Classification: Diseases of the Skin and Subcutaneous Tissue
+
+Tissue: Skin
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/L65
+
+https://www.omim.org/entry/146520
+
+https://www.ncbi.nlm.nih.gov/pubmed/20448140
+
+Alternative Names:
+Hereditary hypotrichosis simplex of the scalp
+Hypotrichosis 2
+HYPT2
+Hypotrichosis simplex of the scalp 1
+HTSS1
+HTSS
+HSS
+Hypotrichosis, Spanish Type
+
+Precursor Proteins:
+Q15517 | Corneodesmosin
+
+
+Co-deposited Proteins:
+P02743 | Serum amyloid P-component
+
+
+Link to Amyloidosis: 
+	No information available
+//

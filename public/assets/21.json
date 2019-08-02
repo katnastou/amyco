@@ -1,0 +1,102 @@
+{
+    "name": "Thyroid Cancer, Medullary",
+    "descriptions": "A neuroendocrine carcinoma that originates in the c-cells of the thyroid gland; about 10-20% of cases are familial. It occurs sporadically or is associated with multiple endocrine neoplasia syndromes. Germline and somatic mutations in RET and NTRK1 genes have been identified.",
+    "type": "Amyloidosis",
+    "association": "Neoplasms",
+    "tissue": "C-cell thyroid tumors ",
+    "proteins": [
+        {
+            "name": "Calcitonin",
+            "ac": "P01258",
+            "id": "CALC_HUMAN",
+            "seq": "MGFQKFSPFLALSILVLLQAGSLHAAPFRSALESSPADPATLSEDEARLLLAALVQNYVQMKASELEQEQEREGSSLDSPRSKRCGNLSTCMLGTYTQDFNKFHTFPQTAIGVGAPGKKRDMSSDLERDHRPHVSMPQNAN",
+            "length": 141,
+            "genename": "CALCA",
+            "type": "Precursor Protein"
+        },
+        {
+            "name": "Apolipoprotein E",
+            "id": "APOE_HUMAN",
+            "ac": "P02649",
+            "seq": "MKVLWAALLVTFLAGCQAKVEQAVETEPEPELRQQTEWQSGQRWELALGRFWDYLRWVQTLSEQVQEELLSSQVTQELRALMDETMKELKAYKSELEEQLTPVAEETRARLSKELQAAQARLGADMEDVCGRLVQYRGEVQAMLGQSTEELRVRLASHLRKLRKRLLRDADDLQKRLAVYQAGAREGAERGLSAIRERLGPLVEQGRVRAATVGSLAGQPLQERAQAWGERLRARMEEMGSRTRDRLDEVKEQVAEVRAKLEEQAQQIRLQAEAFQARLKSWFEPLVEDMQRQWAGLVEKVQAAVGTSAAPVPSDNH",
+            "length": 317,
+            "genename": "APOE",
+            "type": "Co-deposited Proteins",
+            "association_source": "26304852"
+        },
+        {
+            "name": "Serum amyloid P-component",
+            "id": "SAMP_HUMAN",
+            "ac": "P02743",
+            "seq": "MNKPLLWISVLTSLLEAFAHTDLSGKVFVFPRESVTDHVNLITPLEKPLQNFTLCFRAYSDLSRAYSLFSYNTQGRDNELLVYKERVGEYSLYIGRHKVTSKVIEKFPAPVHICVSWESSSGIAEFWINGTPLVKKGLRQGYFVEAQPKIVLGQEQDSYGGKFDRSQSFVGEIGDLYMWDSVLPPENILSAYQGTPLPANILDWQALNYEIRGYVIIKPLVWV",
+            "length": 223,
+            "genename": "APCS",
+            "type": "Co-deposited Proteins",
+            "association_source": "56421"
+        },
+        {
+            "name": "Secretogranin-1",
+            "id": "SCG1_HUMAN",
+            "ac": "P05060",
+            "seq": "MQPTLLLSLLGAVGLAAVNSMPVDNRNHNEGMVTRCIIEVLSNALSKSSAPPITPECRQVLKTSRKDVKDKETTENENTKFEVRLLRDPADASEAHESSSRGEAGAPGEEDIQGPTKADTEKWAEGGGHSRERADEPQWSLYPSDSQVSEEVKTRHSEKSQREDEEEEEGENYQKGERGEDSSEEKHLEEPGETQNAFLNERKQASAIKKEELVARSETHAAGHSQEKTHSREKSSQESGEETGSQENHPQESKGQPRSQEESEEGEEDATSEVDKRRTRPRHHHGRSRPDRSSQGGSLPSEEKGHPQEESEESNVSMASLGEKRDHHSTHYRASEEEPEYGEEIKGYPGVQAPEDLEWERYRGRGSEEYRAPRPQSEESWDEEDKRNYPSLELDKMAHGYGEESEEERGLEPGKGRHHRGRGGEPRAYFMSDTREEKRFLGEGHHRVQENQMDKARRHPQGAWKELDRNYLNYGEEGAPGKWQQQGDLQDTKENREEARFQDKQYSSHHTAEKRKRLGELFNPYYDPLQWKSSHFERRDNMNDNFLEGEEENELTLNEKNFFPEYNYDWWEKKPFSEDVNWGYEKRNLARVPKLDLKRQYDRVAQLDQLLHYRKKSAEFPDFYDSEEPVSTHQEAENEKDRADQTVLTEDEKKELENLAAMDLELQKIAEKFSQRG",
+            "length": 677,
+            "genename": "CHGB",
+            "type": "Co-deposited Proteins",
+            "association_source": "26304852"
+        },
+        {
+            "name": "Apolipoprotein A-IV",
+            "id": "APOA4_HUMAN",
+            "ac": "P06727",
+            "seq": "MFLKAVVLTLALVAVAGARAEVSADQVATVMWDYFSQLSNNAKEAVEHLQKSELTQQLNALFQDKLGEVNTYAGDLQKKLVPFATELHERLAKDSEKLKEEIGKELEELRARLLPHANEVSQKIGDNLRELQQRLEPYADQLRTQVNTQAEQLRRQLTPYAQRMERVLRENADSLQASLRPHADELKAKIDQNVEELKGRLTPYADEFKVKIDQTVEELRRSLAPYAQDTQEKLNHQLEGLTFQMKKNAEELKARISASAEELRQRLAPLAEDVRGNLRGNTEGLQKSLAELGGHLDQQVEEFRRRVEPYGENFNKALVQQMEQLRQKLGPHAGDVEGHLSFLEKDLRDKVNSFFSTFKEKESQDKTLSLPELEQQQEQQQEQQQEQVQMLAPLES",
+            "length": 396,
+            "genename": "APOA4",
+            "type": "Co-deposited Proteins",
+            "association_source": "26304852"
+        },
+        {
+            "name": "Calcitonin gene-related peptide 2",
+            "id": "CALCB_HUMAN",
+            "ac": "P10092",
+            "seq": "MGFRKFSPFLALSILVLYQAGSLQAAPFRSALESSPDPATLSKEDARLLLAALVQDYVQMKASELKQEQETQGSSSAAQKRACNTATCVTHRLAGLLSRSGGMVKSNFVPTNVGSKAFGRRRRDLQA",
+            "length": 127,
+            "genename": "CALCb",
+            "type": "Co-deposited Proteins",
+            "association_source": "26304852"
+        }
+    ],
+    "alternative_names": [
+        "Medullary thyroid cancer (MTC)",
+        "Thyroid carcinoma, medullary",
+        "Medullary Carcinoma of the Thyroid (MCT) ",
+        "Medullary Thyroid Carcinoma",
+        "Thyroid carcinoma, Familial medullary",
+        "Familial medullary thyroid carcinoma",
+        "FMTC",
+        "MTC1"
+    ],
+    "crossreferences": [
+        {
+            "abbreviation": "ICD",
+            "link": "http://apps.who.int/classifications/icd10/browse/2016/en#/D09"
+        },
+        {
+            "abbreviation": "MeSH",
+            "link": "https://meshb.nlm.nih.gov/record/ui?ui=C536914"
+        },
+        {
+            "abbreviation": "OMIM",
+            "link": "https://www.omim.org/entry/155240"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/56421"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/15459123"
+        }
+    ],
+    "mappings_amyloid": [],
+    "isa_name": "ACal Amyloidosis"
+}

@@ -1,0 +1,37 @@
+ID: 6
+
+Disease Name: Kuru
+
+Description: A prion disease found exclusively among the Fore linguistic group natives of the highlands of New Guinea. The illness is primarily restricted to adult females and children of both sexes. It is marked by the subacute onset of tremor and ataxia followed by motor weakness and incontinence. Death occurs within 3-6 months of disease onset. The condition is associated with ritual cannibalism, and has become rare since this practice has been discontinued. Pathologic features include a noninflammatory loss of neurons that is most prominent in the cerebellum, glial proliferation, and amyloid plaques.
+
+Disease Type: Amyloidosis
+
+ICD-10 Classification: Certain Infectious and Parasitic Diseases
+
+Tissue: Central Nervous System (CNS)
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/A81
+
+https://meshb.nlm.nih.gov/record/ui?ui=D007729
+
+https://www.omim.org/entry/245300
+
+https://www.ncbi.nlm.nih.gov/pubmed/9034563
+
+Alternative Names:
+Encephalopathy, Kuru
+Kuru Encephalopathy 
+
+Precursor Proteins:
+P04156 | Major prion protein
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	No information available
+//

@@ -1,0 +1,53 @@
+{
+    "name": "Senile Seminal Vesicle Amyloidosis",
+    "descriptions": "",
+    "type": "Amyloidosis",
+    "association": "Amyloidosis",
+    "tissue": "Seminal Vesicle, Deferent Duct, Ejaculatory Duct",
+    "proteins": [
+        {
+            "name": "Semenogelin-1",
+            "ac": "P04279",
+            "id": "SEMG1_HUMAN",
+            "seq": "MKPNIIFVLSLLLILEKQAAVMGQKGGSKGRLPSEFSQFPHGQKGQHYSGQKGKQQTESKGSFSIQYTYHVDANDHDQSRKSQQYDLNALHKTTKSQRHLGGSQQLLHNKQEGRDHDKSKGHFHRVVIHHKGGKAHRGTQNPSQDQGNSPSGKGISSQYSNTEERLWVHGLSKEQTSVSGAQKGRKQGGSQSSYVLQTEELVANKQQRETKNSHQNKGHYQNVVEVREEHSSKVQTSLCPAHQDKLQHGSKDIFSTQDELLVYNKNQHQTKNLNQDQQHGRKANKISYQSSSTEERRLHYGENGVQKDVSQSSIYSQTEEKAQGKSQKQITIPSQEQEHSQKANKISYQSSSTEERRLHYGENGVQKDVSQRSIYSQTEKLVAGKSQIQAPNPKQEPWHGENAKGESGQSTNREQDLLSHEQKGRHQHGSHGGLDIVIIEQEDDSDRHLAQHLNNDRNPLFT",
+            "length": 462,
+            "genename": "SEMG1",
+            "type": "Precursor Protein"
+        }
+    ],
+    "alternative_names": [
+        "SSVA",
+        "Senile Seminal Tract Amyloidosis",
+        "SSTA",
+        "Ejaculatory duct amyloidosis",
+        "Spermatic duct amyloidosis"
+    ],
+    "crossreferences": [
+        {
+            "abbreviation": "ICD",
+            "link": "http://apps.who.int/classifications/icd10/browse/2016/en#/E85"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/6849372"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/14087279"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/1517901"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/15962837"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/28097620"
+        }
+    ],
+    "mappings_amyloid": [],
+    "isa_name": "ASem1 Amyloidosis"
+}

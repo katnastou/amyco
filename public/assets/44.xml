@@ -1,0 +1,48 @@
+<?xml version='1.0'?>
+<disease>
+    <name>Corneal dystrophy Avellino type</name>
+    <descriptions>A hereditary autosomal dominant corneal dystrophy that is characterized by the development of small granules on the stromal layer of the cornea which later develop into lesions with a lattice-like appearance. The lesions increase in size with age and may lead to decreased visual acuity. Mutations in the TGFBI  gene have been identified.</descriptions>
+    <type>Amyloidosis</type>
+    <association>Diseases of the Eye and Adnexa</association>
+    <tissue>Eye</tissue>
+    <proteins>
+        <name>Transforming growth factor-beta-induced protein ig-h3</name>
+        <ac>Q15582</ac>
+        <id>BGH3_HUMAN</id>
+        <seq>MALFVRLLALALALALGPAATLAGPAKSPYQLVLQHSRLRGRQHGPNVCAVQKVIGTNRKYFTNCKQWYQRKICGKSTVISYECCPGYEKVPGEKGCPAALPLSNLYETLGVVGSTTTQLYTDRTEKLRPEMEGPGSFTIFAPSNEAWASLPAEVLDSLVSNVNIELLNALRYHMVGRRVLTDELKHGMTLTSMYQNSNIQIHHYPNGIVTVNCARLLKADHHATNGVVHLIDKVISTITNNIQQIIEIEDTFETLRAAVAASGLNTMLEGNGQYTLLAPTNEAFEKIPSETLNRILGDPEALRDLLNNHILKSAMCAEAIVAGLSVETLEGTTLEVGCSGDMLTINGKAIISNKDILATNGVIHYIDELLIPDSAKTLFELAAESDVSTAIDLFRQAGLGNHLSGSERLTLLAPLNSVFKDGTPPIDAHTRNLLRNHIIKDQLASKYLYHGQTLETLGGKKLRVFVYRNSLCIENSCIAAHDKRGRYGTLFTMDRVLTPPMGTVMDVLKGDNRFSMLVAAIQSAGLTETLNREGVYTVFAPTNEAFRALPPRERSRLLGDAKELANILKYHIGDEILVSGGIGALVRLKSLQGDKLEVSLKNNVVSVNKEPVAEPDIMATNGVVHVITNVLQPPANRPQERGDELADSALEIFKQASAFSRASQRSVRLAPVYQKLLERMKH</seq>
+        <length>683</length>
+        <genename>TGFBI</genename>
+        <type>Precursor Protein</type>
+    </proteins>
+    <alternative_names>Avellino corneal dystrophy</alternative_names>
+    <alternative_names>Combined Granular-Lattice Corneal Dystrophy</alternative_names>
+    <alternative_names>Combined granular-lattice corneal dystrophies</alternative_names>
+    <alternative_names>Corneal Dystrophy, Avellino Type</alternative_names>
+    <alternative_names>Granular Corneal Dystrophy, Type II</alternative_names>
+    <alternative_names>Granular and lattice corneal dystrophies</alternative_names>
+    <alternative_names>Granular corneal dystrophy type 2</alternative_names>
+    <alternative_names>Granular-lattice (Avellino) corneal dystrophy </alternative_names>
+    <alternative_names>ACD</alternative_names>
+    <alternative_names>CGD2</alternative_names>
+    <crossreferences>
+        <abbreviation>ICD</abbreviation>
+        <link>http://apps.who.int/classifications/icd10/browse/2016/en#/H18</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>MeSH</abbreviation>
+        <link>https://meshb.nlm.nih.gov/record/ui?ui=C535474</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>OMIM</abbreviation>
+        <link>https://www.omim.org/entry/607541</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/1454323</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/18243154</link>
+    </crossreferences>
+    <isa_name></isa_name>
+</disease>

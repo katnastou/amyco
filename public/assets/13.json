@@ -1,0 +1,115 @@
+{
+    "name": "Down Syndrome",
+    "descriptions": "A chromosome disorder associated either with an extra chromosome 21 or an effective trisomy for chromosome 21. Clinical manifestations include hypotonia, short stature, brachycephaly, upslanting palpebral fissures, epicanthus, Brushfield spots on the iris, protruding tongue, small ears, short, broad hands, fifth finger clinodactyly, Simian crease, and moderate to severe intellectual disability. Cardiac and gastrointestinal malformations, a marked increase in the incidence of leukemia, and the early onset of Alzheimer disease are also associated with this condition. Pathologic features include the development of neurofibrillary tangles in neurons and the deposition of amyloid beta-protein, similar to the pathology of Alzheimer disease.",
+    "type": "Clinical conditions associated with amyloidosis",
+    "association": "Chromosomal Abnormalities",
+    "tissue": "Central Nervous System (CNS)",
+    "proteins": [
+        {
+            "name": "Amyloid-beta A4 protein",
+            "ac": "P05067",
+            "id": "A4_HUMAN",
+            "seq": "MLPGLALLLLAAWTARALEVPTDGNAGLLAEPQIAMFCGRLNMHMNVQNGKWDSDPSGTKTCIDTKEGILQYCQEVYPELQITNVVEANQPVTIQNWCKRGRKQCKTHPHFVIPYRCLVGEFVSDALLVPDKCKFLHQERMDVCETHLHWHTVAKETCSEKSTNLHDYGMLLPCGIDKFRGVEFVCCPLAEESDNVDSADAEEDDSDVWWGGADTDYADGSEDKVVEVAEEEEVAEVEEEEADDDEDDEDGDEVEEEAEEPYEEATERTTSIATTTTTTTESVEEVVREVCSEQAETGPCRAMISRWYFDVTEGKCAPFFYGGCGGNRNNFDTEEYCMAVCGSAMSQSLLKTTQEPLARDPVKLPTTAASTPDAVDKYLETPGDENEHAHFQKAKERLEAKHRERMSQVMREWEEAERQAKNLPKADKKAVIQHFQEKVESLEQEAANERQQLVETHMARVEAMLNDRRRLALENYITALQAVPPRPRHVFNMLKKYVRAEQKDRQHTLKHFEHVRMVDPKKAAQIRSQVMTHLRVIYERMNQSLSLLYNVPAVAEEIQDEVDELLQKEQNYSDDVLANMISEPRISYGNDALMPSLTETKTTVELLPVNGEFSLDDLQPWHSFGADSVPANTENEVEPVDARPAADRGLTTRPGSGLTNIKTEEISEVKMDAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVVIATVIVITLVMLKKKQYTSIHHGVVEVDAAVTPEERHLSKMQQNGYENPTYKFFEQMQN",
+            "length": 770,
+            "genename": "APP",
+            "type": "Precursor Protein"
+        },
+        {
+            "name": "Cystatin-C",
+            "id": "CYTC_HUMAN",
+            "ac": "P01034",
+            "seq": "MAGPLRAPLLLLAILAVALAVSPAAGSSPGKPPRLVGGPMDASVEEEGVRRALDFAVGEYNKASNDMYHSRALQVVRARKQIVAGVNYFLDVELGRTTCTKTQPNLDNCPFHDQPHLKRKAFCSFQIYAVPWQGTMTLSKSTCQDA",
+            "length": 146,
+            "genename": "CST3",
+            "type": "Co-deposited Proteins",
+            "association_source": "2408196"
+        },
+        {
+            "name": "Apolipoprotein E",
+            "id": "APOE_HUMAN",
+            "ac": "P02649",
+            "seq": "MKVLWAALLVTFLAGCQAKVEQAVETEPEPELRQQTEWQSGQRWELALGRFWDYLRWVQTLSEQVQEELLSSQVTQELRALMDETMKELKAYKSELEEQLTPVAEETRARLSKELQAAQARLGADMEDVCGRLVQYRGEVQAMLGQSTEELRVRLASHLRKLRKRLLRDADDLQKRLAVYQAGAREGAERGLSAIRERLGPLVEQGRVRAATVGSLAGQPLQERAQAWGERLRARMEEMGSRTRDRLDEVKEQVAEVRAKLEEQAQQIRLQAEAFQARLKSWFEPLVEDMQRQWAGLVEKVQAAVGTSAAPVPSDNH",
+            "length": 317,
+            "genename": "APOE",
+            "type": "Co-deposited Proteins",
+            "association_source": "1625800"
+        },
+        {
+            "name": "Complement C1q subcomponent subunit A",
+            "id": "C1QA_HUMAN",
+            "ac": "P02745",
+            "seq": "MEGPRGWLVLCVLAISLASMVTEDLCRAPDGKKGEAGRPGRRGRPGLKGEQGEPGAPGIRTGIQGLKGDQGEPGPSGNPGKVGYPGPSGPLGARGIPGIKGTKGSPGNIKDQPRPAFSAIRRNPPMGGNVVIFDTVITNQEEPYQNHSGRFVCTVPGYYYFTFQVLSQWEICLSIVSSSRGQVRRSLGFCDTTNKGLFQVVSGGMVLQLQQGDQVWVEKDPKKGHIYQGSEADSVFSGFLIFPSA",
+            "length": 245,
+            "genename": "C1QA",
+            "type": "Co-deposited Proteins",
+            "association_source": "11300721"
+        },
+        {
+            "name": "Complement C1q subcomponent subunit B",
+            "id": "C1QB_HUMAN",
+            "ac": "P02746",
+            "seq": "MMMKIPWGSIPVLMLLLLLGLIDISQAQLSCTGPPAIPGIPGIPGTPGPDGQPGTPGIKGEKGLPGLAGDHGEFGEKGDPGIPGNPGKVGPKGPMGPKGGPGAPGAPGPKGESGDYKATQKIAFSATRTINVPLRRDQTIRFDHVITNMNNNYEPRSGKFTCKVPGLYYFTYHASSRGNLCVNLMRGRERAQKVVTFCDYAYNTFQVTTGGMVLKLEQGENVFLQATDKNSLLGMEGANSIFSGFLLFPDMEA",
+            "length": 253,
+            "genename": "C1QB",
+            "type": "Co-deposited Proteins",
+            "association_source": "11300721"
+        },
+        {
+            "name": "Complement C1q subcomponent subunit C",
+            "id": "C1QC_HUMAN",
+            "ac": "P02747",
+            "seq": "MDVGPSSLPHLGLKLLLLLLLLPLRGQANTGCYGIPGMPGLPGAPGKDGYDGLPGPKGEPGIPAIPGIRGPKGQKGEPGLPGHPGKNGPMGPPGMPGVPGPMGIPGEPGEEGRYKQKFQSVFTVTRQTHQPPAPNSLIRFNAVLTNPQGDYDTSTGKFTCKVPGLYYFVYHASHTANLCVLLYRSGVKVVTFCGHTSKTNQVNSGGVLLRLQVGEEVWLAVNDYYDMVGIQGSDSVFSGFLLFPD",
+            "length": 245,
+            "genename": "C1QC",
+            "type": "Co-deposited Proteins",
+            "association_source": "11300721"
+        }
+    ],
+    "alternative_names": [
+        "47,XX,+21",
+        "47,XY,+21",
+        "Down Syndrome, Partial Trisomy 21",
+        "Down's Syndrome",
+        "Mongolism",
+        "Partial Trisomy 21 Down Syndrome",
+        "Trisomy 21",
+        "Trisomy 21, Meiotic Nondisjunction",
+        "Trisomy 21, Mitotic Nondisjunction",
+        "Trisomy G",
+        "DS"
+    ],
+    "crossreferences": [
+        {
+            "abbreviation": "ICD",
+            "link": "http://apps.who.int/classifications/icd10/browse/2016/en#/Q90"
+        },
+        {
+            "abbreviation": "MeSH",
+            "link": "https://meshb.nlm.nih.gov/record/ui?ui=D004314"
+        },
+        {
+            "abbreviation": "OMIM",
+            "link": "https://www.omim.org/entry/190685"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/2522541"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/3159021"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/11300721"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/26362596"
+        }
+    ],
+    "mappings_amyloid": [
+        "http://83.212.109.111:8084/amyco/1"
+    ],
+    "isa_name": ""
+}

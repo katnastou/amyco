@@ -1,0 +1,125 @@
+{
+    "name": "Lymphoma, Non-Hodgkin",
+    "descriptions": "Any of a group of malignant tumors of lymphoid tissue that differ from Hodgkin disease, being more heterogeneous with respect to malignant cell lineage, clinical course, prognosis, and therapy. The only common feature among these tumors is the absence of giant Reed-Sternberg cells, a characteristic of Hodgkin's disease.",
+    "type": "Clinical conditions associated with amyloidosis",
+    "association": "Neoplasms",
+    "tissue": "Heart, Kidney, Liver, Bone Marrow, Lymph Node, Spleen",
+    "proteins": [
+        {
+            "name": "Serum amyloid A-1 protein",
+            "ac": "P0DJI8",
+            "id": "SAA1_HUMAN",
+            "seq": "MKLLTGLVFCSLVLGVSSRSFFSFLGEAFDGARDMWRAYSDMREANYIGSDKYFHARGNYDAAKRGPGGVWAAEAISDARENIQRFFGHGAEDSLADQAANEWGRSGKDPNHFRPAGLPEKY",
+            "length": 122,
+            "genename": "SAA1",
+            "type": "Precursor Protein"
+        },
+        {
+            "name": "Serum amyloid A-2 protein",
+            "ac": "P0DJI9",
+            "id": "SAA2_HUMAN",
+            "seq": "MKLLTGLVFCSLVLSVSSRSFFSFLGEAFDGARDMWRAYSDMREANYIGSDKYFHARGNYDAAKRGPGGAWAAEVISNARENIQRLTGRGAEDSLADQAANKWGRSGRDPNHFRPAGLPEKY",
+            "length": 122,
+            "genename": "SAA2",
+            "type": "Precursor Protein"
+        },
+        {
+            "name": "Immunoglobulin kappa light chain",
+            "ac": "P0DOX7",
+            "id": "IGK_HUMAN",
+            "seq": "DIQMTQSPSTLSASVGDRVTITCRASQSINTWLAWYQQKPGKAPKLLMYKASSLESGVPSRFIGSGSGTEFTLTISSLQPDDFATYYCQQYNSDSKMFGQGTKVEVKGTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC",
+            "length": 214,
+            "genename": "IGK",
+            "type": "Precursor Protein"
+        },
+        {
+            "name": "Immunoglobulin lambda-1 light chain",
+            "ac": "P0DOX8",
+            "id": "IGL1_HUMAN",
+            "seq": "QSALTQPPSASGSLGQSVTISCTGTSSDVGGYNYVSWYQQHAGKAPKVIIYEVNKRPSGVPDRFSGSKSGNTASLTVSGLQAEDEADYYCSSYEGSDNFVFGTGTKVTVLGQPKANPTVTLFPPSSEELQANKATLVCLISDFYPGAVTVAWKADGSPVKAGVETTKPSKQSNNKYAASSYLSLTPEQWKSHRSYSCQVTHEGSTVEKTVAPTECS",
+            "length": 216,
+            "genename": "IGL1",
+            "type": "Precursor Protein"
+        }
+    ],
+    "alternative_names": [
+        "Diffuse Mixed Small and Large Cell Lymphoma",
+        "Diffuse Mixed-Cell Lymphoma",
+        "Diffuse Small Cleaved-Cell Lymphoma",
+        "Diffuse Undifferentiated Lymphoma",
+        "Lymphatic Sarcoma",
+        "Lymphoma, Atypical Diffuse Small Lymphoid",
+        "Lymphoma, Diffuse",
+        "Lymphoma, Diffuse, Mixed Lymphocytic-Histiocytic",
+        "Lymphoma, High-Grade",
+        "Lymphoma, Intermediate-Grade",
+        "Lymphoma, Low-Grade",
+        "Lymphoma, Mixed",
+        "Lymphoma, Mixed Cell, Diffuse",
+        "Lymphoma, Mixed Lymphocytic-Histiocytic",
+        "Lymphoma, Mixed Small and Large Cell, Diffuse",
+        "Lymphoma, Mixed-Cell",
+        "Lymphoma, Mixed-Cell, Diffuse",
+        "Lymphoma, Non-Hodgkin's",
+        "Lymphoma, Non-Hodgkin, Familial",
+        "Lymphoma, Non-Hodgkins",
+        "Lymphoma, Nonhodgkin's",
+        "Lymphoma, Nonhodgkins",
+        "Lymphoma, Pleomorphic",
+        "Lymphoma, Small Cleaved Cell, Diffuse",
+        "Lymphoma, Small Cleaved-Cell, Diffuse",
+        "Lymphoma, Small Non-Cleaved-Cell",
+        "Lymphoma, Small Noncleaved-Cell",
+        "Lymphoma, Small and Large Cleaved-Cell, Diffuse",
+        "Lymphoma, Undifferentiated",
+        "Lymphoma, Undifferentiated, Diffuse",
+        "Lymphosarcoma",
+        "Mixed Small and Large Cell Lymphoma, Diffuse",
+        "Mixed-Cell Lymphoma",
+        "Mixed-Cell Lymphoma, Diff ",
+        "Non-Hodgkin Lymphoma"
+    ],
+    "crossreferences": [
+        {
+            "abbreviation": "ICD",
+            "link": "http://apps.who.int/classifications/icd10/browse/2016/en#/C85"
+        },
+        {
+            "abbreviation": "MeSH",
+            "link": "https://meshb.nlm.nih.gov/record/ui?ui=D008228"
+        },
+        {
+            "abbreviation": "OMIM",
+            "link": "https://www.omim.org/entry/605027"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/1086712"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/9137796"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/15297973"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/12002783"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/14717777"
+        },
+        {
+            "abbreviation": "PubMed",
+            "link": "https://www.ncbi.nlm.nih.gov/pubmed/20403049"
+        }
+    ],
+    "mappings_amyloid": [
+        "http://83.212.109.111:8084/amyco/29",
+        "http://83.212.109.111:8084/amyco/8"
+    ],
+    "isa_name": ""
+}

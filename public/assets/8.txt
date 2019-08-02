@@ -1,0 +1,59 @@
+ID: 8
+
+Disease Name: Immunoglobulin Light-chain Amyloidosis
+
+Description: A nonproliferative disorder of the plasma cell characterized by excessive production and misfolding of immunoglobulin light chains that form insoluble amyloid fibrils (see amyloid deposits) in various tissues. Clinical features include liver failure; multiple myeloma; nephrotic syndrome; restrictive cardiomyopathy, and neuropathies.
+
+Disease Type: Amyloidosis
+
+ISA Name: AL Amyloidosis
+
+ICD-10 Classification: Amyloidosis
+
+Tissue: Kidney, Heart, Peripheral Nervous System (PNS), Autonomic Nervous System (ANS), Liver, Gastrointestinal Tract, Lung, Soft Tissues, Urinary Tract, Larynx
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/E85
+
+https://meshb.nlm.nih.gov/record/ui?ui=D000075363
+
+https://www.ncbi.nlm.nih.gov/pubmed/4102463
+
+https://www.ncbi.nlm.nih.gov/pubmed/22335280
+
+https://www.ncbi.nlm.nih.gov/pubmed/1565488
+
+https://www.ncbi.nlm.nih.gov/pubmed/5011672
+
+https://www.ncbi.nlm.nih.gov/pubmed/2813458
+
+https://www.ncbi.nlm.nih.gov/pubmed/24082415
+
+https://www.ncbi.nlm.nih.gov/pubmed/11126834
+
+Alternative Names:
+Amyloidosis, Immunoglobulin Light-chain
+Amyloidosis, Primary
+Primary Amyloidosis
+Primary Systemic Amyloidosis
+Light-chain amyloidosis
+Light Chain Associated Amyloidosis
+Immunoglobulin light chain (AL) amyloidosis
+Light chain (AL) amyloidosis
+
+Precursor Proteins:
+P0DOX7 | Immunoglobulin kappa light chain
+P0DOX8 | Immunoglobulin lambda-1 light chain
+
+
+Co-deposited Proteins:
+P02649 | Apolipoprotein E
+P02743 | Serum amyloid P-component
+P02751 | Fibronectin
+P25391 | Laminin subunit alpha-1
+P98160 | Basement membrane-specific heparan sulfate proteoglycan core protein
+
+
+Link to Amyloidosis: 
+	No information available
+//

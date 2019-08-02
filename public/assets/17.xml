@@ -1,0 +1,163 @@
+<?xml version='1.0'?>
+<disease>
+    <name>Apolipoprotein A-I associated Amyloidosis</name>
+    <descriptions></descriptions>
+    <type>Amyloidosis</type>
+    <association>Amyloidosis</association>
+    <tissue>Heart,  Liver,  Skin, Kidney, Intestine, Larynx, Uterus, Ovary Lymph Node, Pelvic Lymph Node</tissue>
+    <proteins>
+        <name>Apolipoprotein A-I</name>
+        <ac>P02647</ac>
+        <id>APOA1_HUMAN</id>
+        <seq>MKAAVLTLAVLFLTGSQARHFWQQDEPPQSPWDRVKDLATVYVDVLKDSGRDYVSQFEGSALGKQLNLKLLDNWDSVTSTFSKLREQLGPVTQEFWDNLEKETEGLRQEMSKDLEEVKAKVQPYLDDFQKKWQEEMELYRQKVEPLRAELQEGARQKLHELQEKLSPLGEEMRDRARAHVDALRTHLAPYSDELRQRLAARLEALKENGGARLAEYHAKATEHLSTLSEKAKPALEDLRQGLLPVLESFKVSFLSALEEYTKKLNTQ</seq>
+        <length>267</length>
+        <genename>APOA1</genename>
+        <type>Precursor Protein</type>
+    </proteins>
+    <proteins>
+        <name>Alpha-1-antitrypsin</name>
+        <id>A1AT_HUMAN</id>
+        <ac>P01009</ac>
+        <seq>MPSSVSWGILLLAGLCCLVPVSLAEDPQGDAAQKTDTSHHDQDHPTFNKITPNLAEFAFSLYRQLAHQSNSTNIFFSPVSIATAFAMLSLGTKADTHDEILEGLNFNLTEIPEAQIHEGFQELLRTLNQPDSQLQLTTGNGLFLSEGLKLVDKFLEDVKKLYHSEAFTVNFGDTEEAKKQINDYVEKGTQGKIVDLVKELDRDTVFALVNYIFFKGKWERPFEVKDTEEEDFHVDQVTTVKVPMMKRLGMFNIQHCKKLSSWVLLMKYLGNATAIFFLPDEGKLQHLENELTHDIITKFLENEDRRSASLHLPKLSITGTYDLKSVLGQLGITKVFSNGADLSGVTEEAPLKLSKAVHKAVLTIDEKGTEAAGAMFLEAIPMSIPPEVKFNKPFVFLMIEQNTKSPLFMGKVVNPTQK</seq>
+        <length>418</length>
+        <genename>SERPINA1</genename>
+        <type>Co-deposited Protein</type>
+        <association_source>28953655</association_source>
+    </proteins>
+    <proteins>
+        <name>Serum amyloid P-component</name>
+        <id>SAMP_HUMAN</id>
+        <ac>P02743</ac>
+        <seq>MNKPLLWISVLTSLLEAFAHTDLSGKVFVFPRESVTDHVNLITPLEKPLQNFTLCFRAYSDLSRAYSLFSYNTQGRDNELLVYKERVGEYSLYIGRHKVTSKVIEKFPAPVHICVSWESSSGIAEFWINGTPLVKKGLRQGYFVEAQPKIVLGQEQDSYGGKFDRSQSFVGEIGDLYMWDSVLPPENILSAYQGTPLPANILDWQALNYEIRGYVIIKPLVWV</seq>
+        <length>223</length>
+        <genename>APCS</genename>
+        <type>Co-deposited Protein</type>
+        <association_source>19324996</association_source>
+    </proteins>
+    <proteins>
+        <name>Transthyretin</name>
+        <id>TTHY_HUMAN</id>
+        <ac>P02766</ac>
+        <seq>MASHRLLLLCLAGLVFVSEAGPTGTGESKCPLMVKVLDAVRGSPAINVAVHVFRKAADDTWEPFASGKTSESGELHGLTTEEEFVEGIYKVEIDTKSYWKALGISPFHEHAEVVFTANDSGPRRYTIAALLSPYSYSTTAVVTNPKE</seq>
+        <length>147</length>
+        <genename>TTR</genename>
+        <type>Co-deposited Protein</type>
+        <association_source>10854214</association_source>
+    </proteins>
+    <proteins>
+        <name>Serum albumin</name>
+        <id>ALBU_HUMAN</id>
+        <ac>P02768</ac>
+        <seq>MKWVTFISLLFLFSSAYSRGVFRRDAHKSEVAHRFKDLGEENFKALVLIAFAQYLQQCPFEDHVKLVNEVTEFAKTCVADESAENCDKSLHTLFGDKLCTVATLRETYGEMADCCAKQEPERNECFLQHKDDNPNLPRLVRPEVDVMCTAFHDNEETFLKKYLYEIARRHPYFYAPELLFFAKRYKAAFTECCQAADKAACLLPKLDELRDEGKASSAKQRLKCASLQKFGERAFKAWAVARLSQRFPKAEFAEVSKLVTDLTKVHTECCHGDLLECADDRADLAKYICENQDSISSKLKECCEKPLLEKSHCIAEVENDEMPADLPSLAADFVESKDVCKNYAEAKDVFLGMFLYEYARRHPDYSVVLLLRLAKTYETTLEKCCAAADPHECYAKVFDEFKPLVEEPQNLIKQNCELFEQLGEYKFQNALLVRYTKKVPQVSTPTLVEVSRNLGKVGSKCCKHPEAKRMPCAEDYLSVVLNQLCVLHEKTPVSDRVTKCCTESLVNRRPCFSALEVDETYVPKEFNAETFTFHADICTLSEKERQIKKQTALVELVKHKPKATKEQLKAVMDDFAAFVEKCCKADDKETCFAEEGKKLVAASQAALGL</seq>
+        <length>609</length>
+        <genename>ALB</genename>
+        <type>Co-deposited Protein</type>
+        <association_source>28953655</association_source>
+    </proteins>
+    <proteins>
+        <name>Zinc-alpha-2-glycoprotein</name>
+        <id>ZA2G_HUMAN</id>
+        <ac>P25311</ac>
+        <seq>MVRMVPVLLSLLLLLGPAVPQENQDGRYSLTYIYTGLSKHVEDVPAFQALGSLNDLQFFRYNSKDRKSQPMGLWRQVEGMEDWKQDSQLQKAREDIFMETLKDIVEYYNDSNGSHVLQGRFGCEIENNRSSGAFWKYYYDGKDYIEFNKEIPAWVPFDPAAQITKQKWEAEPVYVQRAKAYLEEECPATLRKYLKYSKNILDRQDPPSVVVTSHQAPGEKKKLKCLAYDFYPGKIDVHWTRAGEVQEPELRGDVLHNGNGTYQSWVVVAVPPQDTAPYSCHVQHSSLAQPLVVPWEAS</seq>
+        <length>298</length>
+        <genename>AZGP1</genename>
+        <type>Co-deposited Protein</type>
+        <association_source>28953655</association_source>
+    </proteins>
+    <proteins>
+        <name>Actin, cytoplasmic 1</name>
+        <id>ACTB_HUMAN</id>
+        <ac>P60709</ac>
+        <seq>MDDDIAALVVDNGSGMCKAGFAGDDAPRAVFPSIVGRPRHQGVMVGMGQKDSYVGDEAQSKRGILTLKYPIEHGIVTNWDDMEKIWHHTFYNELRVAPEEHPVLLTEAPLNPKANREKMTQIMFETFNTPAMYVAIQAVLSLYASGRTTGIVMDSGDGVTHTVPIYEGYALPHAILRLDLAGRDLTDYLMKILTERGYSFTTTAEREIVRDIKEKLCYVALDFEQEMATAASSSSLEKSYELPDGQVITIGNERFRCPEALFQPSFLGMESCGIHETTFNSIMKCDVDIRKDLYANTVLSGGTTMYPGIADRMQKEITALAPSTMKIKIIAPPERKYSVWIGGSILASLSTFQQMWISKQEYDESGPSIVHRKCF</seq>
+        <length>375</length>
+        <genename>ACTB</genename>
+        <type>Co-deposited Protein</type>
+        <association_source>28953655</association_source>
+    </proteins>
+    <proteins>
+        <name>Elongation factor 1-alpha 1</name>
+        <id>EF1A1_HUMAN</id>
+        <ac>P68104</ac>
+        <seq>MGKEKTHINIVVIGHVDSGKSTTTGHLIYKCGGIDKRTIEKFEKEAAEMGKGSFKYAWVLDKLKAERERGITIDISLWKFETSKYYVTIIDAPGHRDFIKNMITGTSQADCAVLIVAAGVGEFEAGISKNGQTREHALLAYTLGVKQLIVGVNKMDSTEPPYSQKRYEEIVKEVSTYIKKIGYNPDTVAFVPISGWNGDNMLEPSANMPWFKGWKVTRKDGNASGTTLLEALDCILPPTRPTDKPLRLPLQDVYKIGGIGTVPVGRVETGVLKPGMVVTFAPVNVTTEVKSVEMHHEALSEALPGDNVGFNVKNVSVKDVRRGNVAGDSKNDPPMEAAGFTAQVIILNHPGQISAGYAPVLDCHTAHIACKFAELKEKIDRRSGKKLEDGPKFLKSGDAAIVDMVPGKPMCVESFSDYPPLGRFAVRDMRQTVAVGVIKAVDKKAAGAGKVTKSAQKAQKAK</seq>
+        <length>462</length>
+        <genename>EEF1A1</genename>
+        <type>Co-deposited Protein</type>
+        <association_source>28953655</association_source>
+    </proteins>
+    <proteins>
+        <name>Hemoglobin subunit beta</name>
+        <id>HBB_HUMAN</id>
+        <ac>P68871</ac>
+        <seq>MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPKVKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFGKEFTPPVQAAYQKVVAGVANALAHKYH</seq>
+        <length>147</length>
+        <genename>HBB</genename>
+        <type>Co-deposited Protein</type>
+        <association_source>28953655</association_source>
+    </proteins>
+    <proteins>
+        <name>Hemoglobin subunit alpha</name>
+        <id>HBA_HUMAN</id>
+        <ac>P69905</ac>
+        <seq>MVLSPADKTNVKAAWGKVGAHAGEYGAEALERMFLSFPTTKTYFPHFDLSHGSAQVKGHGKKVADALTNAVAHVDDMPNALSALSDLHAHKLRVDPVNFKLLSHCLLVTLAAHLPAEFTPAVHASLDKFLASVSTVLTSKYR</seq>
+        <length>142</length>
+        <genename>HBA1</genename>
+        <type>Co-deposited Protein</type>
+        <association_source>28953655</association_source>
+    </proteins>
+    <proteins>
+        <name>Dermcidin</name>
+        <id>DCD_HUMAN</id>
+        <ac>P81605</ac>
+        <seq>MRFMTLLFLTALAGALVCAYDPEAASAPGSGNPCHEASAAQKENAGEDPGLARQAPKPRKQRSSLLEKGLDGAKKAVGGLGKLGKDAVEDLESVGKGAVHDVKDVLDSVL</seq>
+        <length>110</length>
+        <genename>DCD</genename>
+        <type>Co-deposited Protein</type>
+        <association_source>28953655</association_source>
+    </proteins>
+    <proteins>
+        <name>Extracellular glycoprotein lacritin</name>
+        <id>LACRT_HUMAN</id>
+        <ac>Q9GZZ8</ac>
+        <seq>MKFTTLLFLAAVAGALVYAEDASSDSTGADPAQEAGTSKPNEEISGPAEPASPPETTTTAQETSAAAVQGTAKVTSSRQELNPLKSIVEKSILLTEQALAKAGKGMHGGVPGGKQFIENGSEFAQKLLKKFSLLKPWA</seq>
+        <length>138</length>
+        <genename>LACRT</genename>
+        <type>Co-deposited Protein</type>
+        <association_source>28953655</association_source>
+    </proteins>
+    <alternative_names>Apolipoprotein A-I amyloidosis</alternative_names>
+    <alternative_names>Familial amyloid nephropathy due to apolipoprotein A-I variant</alternative_names>
+    <alternative_names>Familial renal amyloidosis due to apolipoprotein A-I variant</alternative_names>
+    <alternative_names>Hereditary amyloid nephropathy due to apolipoprotein A-I variant</alternative_names>
+    <alternative_names>Hereditary renal amyloidosis due to apolipoprotein A-I variant</alternative_names>
+    <alternative_names>Amyloid Polyneuropathy, Iowa Type</alternative_names>
+    <alternative_names>Familial Amyloid Polyneuropathy, Type III</alternative_names>
+    <alternative_names>Type III Familial Amyloid Polyneuropathy</alternative_names>
+    <alternative_names>Iowa Type Amyloid Polyneuropathy</alternative_names>
+    <alternative_names>Non-neuropathic apolipoprotein A-I amyloidosis</alternative_names>
+    <alternative_names>Apolipoprotein AI-derived amyloidosis</alternative_names>
+    <alternative_names>Hereditary apoliporpotein AI-induced amyloidosis</alternative_names>
+    <alternative_names>Hereditary apoliporpotein AI-associated amyloidosis</alternative_names>
+    <alternative_names>Amyloidosis VIII</alternative_names>
+    <alternative_names>Ostertag Type Amyloidosis</alternative_names>
+    <alternative_names>German Type Amyloidosis</alternative_names>
+    <alternative_names>Amyloidosis, Familial renal</alternative_names>
+    <alternative_names>Amyloidosis, Familial visceral</alternative_names>
+    <alternative_names>Amyloidosis, Systemic Non-neuropathic</alternative_names>
+    <crossreferences>
+        <abbreviation>ICD</abbreviation>
+        <link>http://apps.who.int/classifications/icd10/browse/2016/en#/E85</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>OMIM</abbreviation>
+        <link>https://www.omim.org/entry/105200</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/3142462</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/11266606</link>
+    </crossreferences>
+    <isa_name>AApoAI Amyloidosis</isa_name>
+</disease>

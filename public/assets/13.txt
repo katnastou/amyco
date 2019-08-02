@@ -1,0 +1,56 @@
+ID: 13
+
+Disease Name: Down Syndrome
+
+Description: A chromosome disorder associated either with an extra chromosome 21 or an effective trisomy for chromosome 21. Clinical manifestations include hypotonia, short stature, brachycephaly, upslanting palpebral fissures, epicanthus, Brushfield spots on the iris, protruding tongue, small ears, short, broad hands, fifth finger clinodactyly, Simian crease, and moderate to severe intellectual disability. Cardiac and gastrointestinal malformations, a marked increase in the incidence of leukemia, and the early onset of Alzheimer disease are also associated with this condition. Pathologic features include the development of neurofibrillary tangles in neurons and the deposition of amyloid beta-protein, similar to the pathology of Alzheimer disease.
+
+Disease Type: Clinical conditions associated with amyloidosis
+
+ICD-10 Classification: Chromosomal Abnormalities
+
+Tissue: Central Nervous System (CNS)
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/Q90
+
+https://meshb.nlm.nih.gov/record/ui?ui=D004314
+
+https://www.omim.org/entry/190685
+
+https://www.ncbi.nlm.nih.gov/pubmed/2522541
+
+https://www.ncbi.nlm.nih.gov/pubmed/3159021
+
+https://www.ncbi.nlm.nih.gov/pubmed/11300721
+
+https://www.ncbi.nlm.nih.gov/pubmed/26362596
+
+Alternative Names:
+47,XX,+21
+47,XY,+21
+Down Syndrome, Partial Trisomy 21
+Down's Syndrome
+Mongolism
+Partial Trisomy 21 Down Syndrome
+Trisomy 21
+Trisomy 21, Meiotic Nondisjunction
+Trisomy 21, Mitotic Nondisjunction
+Trisomy G
+DS
+
+Precursor Proteins:
+P05067 | Amyloid-beta A4 protein
+
+
+Co-deposited Proteins:
+P01034 | Cystatin-C
+P02649 | Apolipoprotein E
+P02745 | Complement C1q subcomponent subunit A
+P02746 | Complement C1q subcomponent subunit B
+P02747 | Complement C1q subcomponent subunit C
+
+
+Link to Amyloidosis: 
+	http://83.212.109.111:8084/amyco/1
+
+//

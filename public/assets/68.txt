@@ -1,0 +1,56 @@
+ID: 68
+
+Disease Name: Mevalonate Kinase Deficiency
+
+Description: Autosomal recessive disorder caused by mutations in the mevalonate kinase gene. Because of the mutations cholesterol biosynthesis is disrupted and mevalonic acid accumulates. It is characterized by a range of symptoms, including dysmorphic facies, psychomotor retardation, cataract, hepatosplenomegaly, cerebellar ataxia, elevated immunoglobulin D, and recurrent febrile crises with fever; lymphadenopathy; arthralgia; edema; and rash.
+
+Disease Type: Clinical conditions associated with amyloidosis
+
+ICD-10 Classification: Other
+
+Tissue: Kidney, Spleen, Liver
+
+Cross References
+https://www.ncbi.nlm.nih.gov/pubmed/15457465
+
+https://www.ncbi.nlm.nih.gov/pubmed/19011501
+
+https://www.ncbi.nlm.nih.gov/pubmed/27213830
+
+https://www.ncbi.nlm.nih.gov/pubmed/8973873
+
+https://www.ncbi.nlm.nih.gov/pubmed/15536479
+
+https://meshb.nlm.nih.gov/record/ui?ui=D054078
+
+https://www.omim.org/entry/610377
+
+https://www.omim.org/entry/260920
+
+Alternative Names:
+Hyper IgD Syndrome
+Hyper-IgD Syndrome
+Hyperimmunoglobulinemia D
+Hyperimmunoglobulinemia D And Periodic Fever Syndrome
+Mevalonic Aciduria
+Mevalonicaciduria
+Periodic Fever, Dutch Type
+HIDS
+Hyperimmunoglobulinemia D syndrome
+Hyperimmunoglobinemia D with recurrent fever
+MEVA
+
+Precursor Proteins:
+P0DJI8 | Serum amyloid A-1 protein
+P0DJI9 | Serum amyloid A-2 protein
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	http://83.212.109.111:8084/amyco/29
+
+//

@@ -1,0 +1,68 @@
+<?xml version='1.0'?>
+<disease>
+    <name>Hereditary Cerebral Amyloid Angiopathy, Icelandic Type</name>
+    <descriptions>A familial disorder marked by amyloid deposits in the walls of small and medium sized blood vessels of cerebral cortex and meninges.</descriptions>
+    <type>Amyloidosis</type>
+    <association>Diseases of the Circulatory System</association>
+    <tissue>Central Nervous System (CNS), Skin,  Lymph Node,  Spleen,  Salivary Gland,  Seminal Vesicle</tissue>
+    <proteins>
+        <name>Cystatin-C</name>
+        <ac>P01034</ac>
+        <id>CYTC_HUMAN</id>
+        <seq>MAGPLRAPLLLLAILAVALAVSPAAGSSPGKPPRLVGGPMDASVEEEGVRRALDFAVGEYNKASNDMYHSRALQVVRARKQIVAGVNYFLDVELGRTTCTKTQPNLDNCPFHDQPHLKRKAFCSFQIYAVPWQGTMTLSKSTCQDA</seq>
+        <length>146</length>
+        <genename>CST3</genename>
+        <type>Precursor Protein</type>
+    </proteins>
+    <proteins>
+        <name>Serum amyloid P-component</name>
+        <id>SAMP_HUMAN</id>
+        <ac>P02743</ac>
+        <seq>MNKPLLWISVLTSLLEAFAHTDLSGKVFVFPRESVTDHVNLITPLEKPLQNFTLCFRAYSDLSRAYSLFSYNTQGRDNELLVYKERVGEYSLYIGRHKVTSKVIEKFPAPVHICVSWESSSGIAEFWINGTPLVKKGLRQGYFVEAQPKIVLGQEQDSYGGKFDRSQSFVGEIGDLYMWDSVLPPENILSAYQGTPLPANILDWQALNYEIRGYVIIKPLVWV</seq>
+        <length>223</length>
+        <genename>APCS</genename>
+        <type>Co-deposited Protein</type>
+        <association_source>2436360</association_source>
+    </proteins>
+    <alternative_names>Amyloidosis VI</alternative_names>
+    <alternative_names>Amyloidosis, Cerebroarterial, Icelandic Type</alternative_names>
+    <alternative_names>Autosomal Dominant Cerebrovascular Amyloidosis</alternative_names>
+    <alternative_names>Cerebral Amyloid Angiopathy, Cst3-Related</alternative_names>
+    <alternative_names>Cerebral Amyloid Angiopathy, Genetic</alternative_names>
+    <alternative_names>Cerebral Amyloid Angiopathy, Hereditary</alternative_names>
+    <alternative_names>Cerebral Hemorrhage, Hereditary, With Amyloidosis</alternative_names>
+    <alternative_names>Familial Cerebral Amyloid Angiopathy</alternative_names>
+    <alternative_names>HCHWA-I</alternative_names>
+    <alternative_names>Hereditary Cerebral Amyloid Angiopathy</alternative_names>
+    <alternative_names>Hereditary Cerebral Amyloid Angiopathy, Icelandic Type</alternative_names>
+    <alternative_names>Hereditary Cerebral Hemorrhage With Amyloidosis</alternative_names>
+    <alternative_names>Icelandic Type Amyloidosis</alternative_names>
+    <alternative_names>Icelandic Type Hereditary Cerebral Amyloid Angiopathy</alternative_names>
+    <alternative_names>HCCAA-I</alternative_names>
+    <alternative_names>Hereditary Cystatin C Amyloid Angiopathy</alternative_names>
+    <crossreferences>
+        <abbreviation>ICD</abbreviation>
+        <link>http://apps.who.int/classifications/icd10/browse/2016/en#/I68</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>MeSH</abbreviation>
+        <link>https://meshb.nlm.nih.gov/record/ui?ui=D028243</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>OMIM</abbreviation>
+        <link>https://www.omim.org/entry/105150</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/4655034</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/6886625</link>
+    </crossreferences>
+    <crossreferences>
+        <abbreviation>PubMed</abbreviation>
+        <link>https://www.ncbi.nlm.nih.gov/pubmed/10842708</link>
+    </crossreferences>
+    <isa_name>ACys Amyloidosis</isa_name>
+</disease>

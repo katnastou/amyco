@@ -1,0 +1,44 @@
+ID: 16
+
+Disease Name: Localized insulin-derived Amyloidosis
+
+Description: 
+
+Disease Type: Amyloidosis
+
+ISA Name: AIns Amyloidosis
+
+ICD-10 Classification: Amyloidosis
+
+Tissue: Insulin injection site
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/E85
+
+https://www.ncbi.nlm.nih.gov/pubmed/3286343
+
+https://www.ncbi.nlm.nih.gov/pubmed/6337294
+
+https://www.ncbi.nlm.nih.gov/pubmed/24462809
+
+Alternative Names:
+Injection-localized amyloidosis
+Localized A-Ins amyloidosis
+Ains-derived amyloidosis
+Insulin-derived amyloidosis
+LIDA
+
+Precursor Proteins:
+P01308 | Insulin
+
+
+Co-deposited Proteins:
+P02647 | Apolipoprotein A-I
+P02649 | Apolipoprotein E
+P02743 | Serum amyloid P-component
+P06727 | Apolipoprotein A-IV
+
+
+Link to Amyloidosis: 
+	No information available
+//

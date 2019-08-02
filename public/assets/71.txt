@@ -1,0 +1,41 @@
+ID: 71
+
+Disease Name: Limb-girdle muscular dystrophy, type 2B
+
+Description: An autosomal recessive form of limb-girde muscular dystrophy caused by mutations in the DYSF gene and characterized by onset between 15 and 25 years and slow progression, lack of upper limb involvement, increased variation in muscle fiber size, elevated serum creatine kinase, and rarely amyloid deposits in muscle fibers.
+
+Disease Type: Amyloidosis
+
+ICD-10 Classification: Diseases of the Nervous System
+
+Tissue: Skeletal Muscles
+
+Cross References
+https://www.ncbi.nlm.nih.gov/pubmed/18306167
+
+http://apps.who.int/classifications/icd10/browse/2016/en#/G71
+
+https://meshb.nlm.nih.gov/record/ui?ui=C535899
+
+https://www.omim.org/entry/253601
+
+Alternative Names:
+LGMD2B
+LGMD3
+Muscular Dystrophy, Limb-Girdle, Type 2B
+Muscular dystrophy, limb-girdle, type 3
+Limb-girdle muscular dystrophy due to dysferlin deficiency
+Autosomal recessive limb-girdle muscular dystrophy type 2B
+
+Precursor Proteins:
+O75923 | Dysferlin
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	No information available
+//

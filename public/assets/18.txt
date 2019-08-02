@@ -1,0 +1,82 @@
+ID: 18
+
+Disease Name: Meretoja Syndrome
+
+Description: 
+
+Disease Type: Amyloidosis
+
+ISA Name: AGel Amyloidosis
+
+ICD-10 Classification: Amyloidosis
+
+Tissue: Central Nervous System (CNS), Peripheral Nervous System (PNS), Eye, Skin, Smooth Muscles, Skeletal Muscles, Heart, Kidney
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/E85
+
+https://meshb.nlm.nih.gov/record/ui?ui=C537459
+
+https://www.omim.org/entry/105120
+
+https://www.ncbi.nlm.nih.gov/pubmed/2157434
+
+https://www.ncbi.nlm.nih.gov/pubmed/2153578
+
+https://www.ncbi.nlm.nih.gov/pubmed/1338910
+
+https://www.ncbi.nlm.nih.gov/pubmed/2175344
+
+https://www.ncbi.nlm.nih.gov/pubmed/4313418
+
+https://www.ncbi.nlm.nih.gov/pubmed/9547007
+
+Alternative Names:
+Amyloid cranial neuropathy with lattice corneal dystrophy
+Amyloidosis 5
+Amyloidosis V
+Amyloidosis due to mutant gelsolin
+Amyloidosis, Finnish Type
+Amyloidosis, Meretoja Type
+Cerebral Amyloid Angiopathy, Gsn-Related
+Corneal Dystrophy, Lattice Type II
+Familial Amyloid Polyneuropathy Type IV
+Familial Amyloidosis, Finnish Type
+Finnish type amyloidosis
+Gelsolin-Related Amyloidosis
+Kymenlaakso Syndrome
+Lattice Corneal Dystrophy Type II
+Lattice Corneal Dystrophy, Gelsolin Type
+Lattice Corneal Dystrophy, Type II
+Lattice corneal dystrophy associated with familial systemic amyloidosis
+Lattice dystrophy of the cornea with hereditary generalized amyloidosis
+Meretoja type amyloidosis
+Meretoja's syndrome
+Meretoja syndrome
+Gelsolin amyloidosis
+Hereditary amyloidosis, Finnish type
+Meretoja Type
+Meretoja's disease
+Hereditary Gelsolin Amyloidosis (HGA)
+Familial Amyloid Polyneuropathy, Type IV
+Familial Amyloid Neuropathy, Finnish Type
+Finnish Type Familial Amyloid Neuropathy
+Type IV Familial Amyloid Polyneuropathy
+
+Precursor Proteins:
+P06396 | Gelsolin
+
+
+Co-deposited Proteins:
+P01009 | Alpha-1-antitrypsin
+P01024 | Complement C3
+P01034 | Cystatin-C
+P02649 | Apolipoprotein E
+P02743 | Serum amyloid P-component
+P02748 | Complement component C9
+P62736 | Actin, aortic smooth muscle
+
+
+Link to Amyloidosis: 
+	No information available
+//

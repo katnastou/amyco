@@ -1,0 +1,42 @@
+ID: 50
+
+Disease Name: Chronic recurrent multifocal osteomyelitis
+
+Description: A type of osteomyelitis that occurs in children and is characterized by inflammation of the bones, especially with lesions at the metaphyses of the long bones; pain, and joint swelling. Patients may or may not present with fever. This disorder may occur alone or together with psoriasis or Inflammatory Bowel Disease; may also occur with Majeed Syndrome.
+
+Disease Type: Clinical conditions associated with amyloidosis
+
+ICD-10 Classification: Diseases of the Musculoskeletal System and Connective Tissue
+
+Tissue: Kidney, Liver
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/M86
+
+https://meshb.nlm.nih.gov/record/ui?ui=C535456
+
+https://www.omim.org/entry/259680
+
+https://www.ncbi.nlm.nih.gov/pubmed/2071276
+
+Alternative Names:
+CRMO
+Chronic multifocal osteomyelitis
+Multifocal osteomyelitis, chronic
+Osteomyelitis, Chronic Multifocal
+Chronic osteomyelitis
+
+Precursor Proteins:
+P0DJI8 | Serum amyloid A-1 protein
+P0DJI9 | Serum amyloid A-2 protein
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	http://83.212.109.111:8084/amyco/29
+
+//

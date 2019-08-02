@@ -1,0 +1,34 @@
+ID: 37
+
+Disease Name: Isolated Atrial Amyloidosis
+
+Description: 
+
+Disease Type: Amyloidosis
+
+ICD-10 Classification: Amyloidosis
+
+Tissue: Heart (Cardiac atria)
+
+Cross References
+http://apps.who.int/classifications/icd10/browse/2016/en#/E85
+
+https://www.ncbi.nlm.nih.gov/pubmed/2901160
+
+https://www.ncbi.nlm.nih.gov/pubmed/15677530
+
+Alternative Names:
+IAA
+
+Precursor Proteins:
+P01160 | Natriuretic peptides A
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	No information available
+//

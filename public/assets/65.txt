@@ -1,0 +1,51 @@
+ID: 65
+
+Disease Name: Periodic fever, familial, autosomal dominant
+
+Description: An inherited condition characterized by recurrent episodes of fever; onset is typically in early childhood. Fevers usually persist for about three weeks, though they can be longer or shorter, and may not occur again for several weeks or several years. Other symptoms may include abdominal pain; myalgia; arthralgia; skin rash and systemic inflammation; amyloidosis may also occur in some cases. There is often no trigger, but episodes are sometimes preceded by infections, injury, or stress. Germline mutations in the TNFRSFIA gene have been identified.
+
+Disease Type: Clinical conditions associated with amyloidosis
+
+ICD-10 Classification: Diseases of the Musculoskeletal System and Connective Tissue
+
+Tissue: Kidney
+
+Cross References
+https://www.ncbi.nlm.nih.gov/pubmed/23965844
+
+https://www.ncbi.nlm.nih.gov/pubmed/11239851
+
+https://www.ncbi.nlm.nih.gov/pubmed/11443543
+
+https://meshb.nlm.nih.gov/record/ui?ui=C536657
+
+https://www.omim.org/entry/142680
+
+Alternative Names:
+Autosomal Dominant Familial Periodic Fever
+Familial Hibernian fever
+Hibernian Familial Fever
+Hibernian fever, familial
+TNF Receptor-associated Periodic Syndrome
+Tumor necrosis factor receptor-associated periodic syndrome
+TRAPS
+TRAPS syndrome
+Tumor necrosis factor receptor 1 associated periodic syndrome
+TNF receptor 1-associated periodic syndrome
+FPF
+FHF
+
+Precursor Proteins:
+P0DJI8 | Serum amyloid A-1 protein
+P0DJI9 | Serum amyloid A-2 protein
+
+
+Co-deposited Proteins:
+No information available
+
+
+
+Link to Amyloidosis: 
+	http://83.212.109.111:8084/amyco/29
+
+//
